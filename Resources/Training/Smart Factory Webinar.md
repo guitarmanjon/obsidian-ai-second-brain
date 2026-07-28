@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes taken during a **Smart Factory webinar** attended on **22 September 2021** (presenters: Alex and Rikki), covering AMRC's **Factory+** — an open-access framework for smart factory / Industry 4.0 connectivity built on MQTT Sparkplug. Useful as a reference for IIoT architecture patterns, the Factory+ security model, and data-modelling approaches for connecting shop-floor devices to enterprise systems.
-
 - Webinar on AMRC's Factory+ framework, presented by Alex and Rikki, 22 September 2021.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Industry 3.0 problem**: the traditional PLC → HMI → SCADA → MES → ERP chain (devices side vs. applications side) lacks a common namespace or standard way to onboard manufacturing cells, making a "scalable, fully connected factory" hard to achieve.
 - **Factory+ prerequisites**: a **common namespace**, a **standard framework for onboarding manufacturing cells**, and a platform that is free (libre & gratis), agnostic, and lightweight — also comprehensive and scalable.
@@ -40,9 +34,6 @@ last updated: 2026-07-25T00:00:00
 - Endorsements quoted: Arlen Nipper (co-inventor of MQTT) — "I'm pretty blown away at the excellent work you and the team at Sheffield have done ...very impressive!"; Russell Waddell (Managing Director, MTConnect Institute) — "...there are not a lot of end-to-end digital architectures that are comprehensive, tested, and technically feasible for machine shops and discrete manufacturers... So I suggest you get familiar with AMRC's Factory+ framework even if you don't use any of it." (A slide screenshot with partner/customer logos — including Canary, Cirrus Link, Inductive Automation, HiveMQ, Intel, Opto 22, SignalFire, University of Sheffield, and Eclipse — was pasted here, not transcribed in detail.)
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [Johnathan Hottell IIoT Protocol Benchmarks (PDF)](https://cdn2.hubspot.net/hubfs/2335443/Johnathan-Hottell-IIoT-Protocol-Benchmarks.pdf) — source cited on the slide for the MQTT Sparkplug efficiency benchmark chart.
 - ...

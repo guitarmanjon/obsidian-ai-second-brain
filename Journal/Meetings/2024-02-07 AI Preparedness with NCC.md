@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jordan Wild]] (NCC - sender of email proposing the AI preparedness activity)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Email from [[Jordan Wild]] (NCC) proposing to convene a session on the AI preparedness activity, an expansion of the existing HPC/AI work.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Thanks given for initial engagement on the ask for support to the AI preparedness activity, an expansion of the HPC/AI activity already being supported.
 - Jordan to convene a session the following week to run through the ask in more detail, and to work up an outline framework to steer inputs from the centres, seeking views and buy-in.
@@ -32,15 +23,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded (session to work through details still to be held).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Jordan Wild]] - Convene a session to run through the AI preparedness ask in detail and work up the outline framework.
 - AMRC - Provide views/guidance on regional academic or industrial contacts to engage for readiness reports, and confirm interest in engaging external contacts on this work.

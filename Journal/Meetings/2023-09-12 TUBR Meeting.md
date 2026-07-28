@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Dash]], [[Mark]] + [[Andrew]]
-- [[Kev]] + [[Shirley]] in the room
+- [[Dash]], [[Mark Cody|Mark]] + [[Andrew]]
+- [[Kev]] + [[Shirley Harrison|Shirley]] in the room
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Q&A / discovery session with TUBR to understand their product's data and physics-based prediction capabilities, and their commercial model.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Sparse research data?
 - Physics based - knowledge of a process needed?
@@ -48,14 +39,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - ...

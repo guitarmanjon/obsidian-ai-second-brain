@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Russ]] (MTConnect)
+- [[Russ Segart|Russ]] (MTConnect)
 - [[JS]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Call with [[Russ]] at MTConnect to discuss adoption trends of the MTConnect standard in the US and UK and opportunities for AMRC engagement.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Research interest in the US around publishing real implementations of factory architecture for new IT systems - opportunity for AMRC to publish on how to implement IT for manufacturing.
 - University of Nottingham (seen at MTC) has published machining/manufacturing data analysis work in computer science journals.
@@ -34,14 +25,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Rab]]
 - [[Jon]]
 - [[Dattatraya Parle]] ("Datta") - NAMRC
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Discuss NAMRC's AI/ML strategy and capability-building plan, following [[Dattatraya Parle]]'s appointment as Tech Lead for AI/ML.
-
 - Review Datta's vision, plan and strategy for building NAMRC AI/ML capability.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Dattatraya Parle]] ("Datta") started as NAMRC's Tech Lead for AI/ML at the end of November. His strategy (shared 3rd March 2022) is built around four pillars:
   1. Infrastructure - establishing compute across local systems, HPC and cloud, with clarity on which infrastructure suits which project.
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

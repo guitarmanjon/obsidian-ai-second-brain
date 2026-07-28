@@ -7,10 +7,7 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Harry]] (organiser)
+- [[Harry Burroughes|Harry]] (organiser)
 - [[Alex]]
 - [[Narcisa]]
 - [[Chris Scraggs]]
@@ -19,15 +16,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Handover on the GCHQ cyber opportunity and wider cybersecurity capability, including recruitment and scoping of Industry 4.0 architectures.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Cyber funding secured through Catapult for a few years; seen as a big opportunity given it's a potential barrier to Industry 4.0. AMRC NW are building capability in this area.
 - Job ad and ATJ have gone out internally; one internal candidate so far. HR insist the internal candidate must be interviewed.
@@ -39,14 +30,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Internal candidate for the cyber role must be interviewed (HR requirement).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - AMRC team - (Scope out I4.0 architectures, vendors, sectors, cyber tools and common threats as outlined)

@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[James Lindsay]]
 - [[Chris Greaves]]
 - [[Joel Cookham]]
@@ -19,13 +16,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Planning discussion for AMRC's presence and exhibits at the MACH 2020 trade show.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - 10 x 15 m area allocated at MACH.
 - Electrification is the intended story/theme for this year.
@@ -40,15 +31,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Someone - (Prepare Statement of Work for Catapult "spare" funding - H5 dashboard)
 - [[James Lindsay]] - (Produce a mini plan for TMG involvement)

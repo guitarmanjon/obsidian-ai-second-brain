@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]], [[Malcolm Brown]], [[Justin Davies]] (Sandvik)
 - On the line: DePuy - [[Katerina Mouliadou]], [[Eymard Gorman]]; Sandvik - [[Jens Nannen]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Kick-off discussion between AMRC, Sandvik and DePuy Synthes to scope a case-study demonstrator using Sandvik's CoroPlus predictive maintenance system, and to agree how to fund/progress the collaboration.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Round table introductions:
 	- [[Katerina Mouliadou]] - J&J centre of excellence for manufacturing, manages work with research centres, project management.
@@ -53,15 +44,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - The demonstrator machine will be located at Sandvik's site near Stuttgart, not at AMRC, because [[Justin Davies]] wants DePuy to see the full solution rather than a partial install on AMRC's Hermle.
 - DePuy and Sandvik have no issue with AMRC attending the demonstrator - likely mid-Q1 next year.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[AG]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Self Review and Development Session (SRDS) with [[AG]].
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - We went for a walk as the session was a discussion rather than going through a form on a screen - this worked well.
 - AG pulling together ICP application for move to G9 role - as we have been discussing for a while now.
@@ -34,14 +25,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No expectation for AG to move to a less-hands-on, more public-facing style of the role - Senior TF role is for the individual to sculpt as they see fit.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[AG]] - (Prep something on the external funding / smart factory landscape to share with the Grants team)

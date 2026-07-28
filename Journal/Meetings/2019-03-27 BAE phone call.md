@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (AMRC)
 - [[Lee Parkinson]] (BAE)
 - [[Dave Dawson]] (BAE)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Phone call with BAE to discuss the Automated Grip Length Measurement opportunity and scope the content of a Statement of Work.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Austin has pushed the proposal forward: one project on Montronix (best solution), one project on probing (current tech solution) - probing is a possibility as machine capacity exists for additional probing.
 - Grobtech has installed Montronix; BAE will contact them to capture product data and hand it over to AMRC.
@@ -36,14 +27,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Agreed to split the work into 2 shorter projects: one on Montronix, one on probing.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Progress SoW scoping for the Montronix and probing projects, involving a consortium approach with [[Ben Morgan]]).

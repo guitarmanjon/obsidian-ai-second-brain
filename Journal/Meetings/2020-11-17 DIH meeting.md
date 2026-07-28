@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Tehseen]]
 - [[Megan S]]
 - [[Harry Fisher]]
@@ -21,13 +18,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A regular DIH (Digital Innovation Hub) / Smart Factory Innovation Hub (SFIH) catch-up covering project updates, centre lead highlights, and progress on use case identification.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 (Source text ran two columns together on the original page - an attendee/notes column and a separate actions column. Reconstructed below as best as can be confidently untangled.)
 
@@ -43,15 +34,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - (Owner not specified in source) - (Complete holiday / working pattern tracker)
 - (Owner not specified in source) - (PM support needed for SFIH work)

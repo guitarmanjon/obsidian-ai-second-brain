@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Chris Dungey]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - First meeting with [[Chris Dungey]], newly appointed National AI Champion for Advanced Manufacturing, to align on data-space/AI priorities.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Ahead of the meeting, prepared briefing points on [[Chris Dungey]]'s AI Champion mandate, the digital front door, and a data spaces angle (research assisted by Gemini), plus topics to raise such as skills for data and AI ([[Lindsay Lee]]), a data-first approach to AI, and human-centred AI work ([[Sharan]] at Cymru).
 - Overview of [[Chris Dungey]]'s role as AI Champion, tied to the Modern Industrial Strategy and Advanced Manufacturing Sector Plan, which drove the creation of sector champions.
@@ -36,16 +27,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - [[Chris Dungey]] to share the draft Phase 2 paper (UK AI for Manufacturing Strategy + implementation plan) once ready.
 - Agreed MACH speaking split: [[Chris Dungey]] to do a 10-minute intro on HVMC and the AI champion role, author to cover AI use cases across the network.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Send [[Chris Dungey]] details.
 - [[Jon Gyre]] - (Continue discussion with [[Chris Dungey]] on the data area of the Phase 2 strategy, including digital and data readiness)

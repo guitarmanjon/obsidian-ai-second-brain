@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Harry B]]
 - [[Rui Morreira]] - Boeing Europe
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Call with [[Rui Morreira]] from Boeing Europe to discuss IO-Link as a solution for digitising machine monitoring and to scope a possible joint trial at AMRC.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 Note: this page's text was heavily interleaved from a two-column layout (live notes vs. a cleaner "Summary" recap). The write-up below follows the Summary column, with extra detail pulled in from the raw notes column where the summary didn't cover it.
 
@@ -53,15 +44,9 @@ Note: this page's text was heavily interleaved from a two-column layout (live no
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Boeing and AMRC agreed in principle to trial a simplified IO-Link system, piggy-backing on an existing project (Full Monty ABG or OWA), preferring a Comtrol IO-Link master for its native OPC-UA capability.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Liaise with [[Harry B]] on scope for the IO-Link trial)
 - [[JS]] - (Cost the IO-Link trial)

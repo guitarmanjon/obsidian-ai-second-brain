@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Handwritten notes from Module 1 (Describe Cloud Concepts) of the Microsoft Azure Fundamentals AZ-900 Cert Prep course on LinkedIn Learning, dated 18 September 2023. Covers the foundational AZ-900 exam concepts: what cloud computing is, the shared responsibility model, cloud deployment models, the consumption-based pricing model, the benefits of cloud services (availability, scalability, reliability, security/governance, manageability), and the start of cloud service types (IaaS, PaaS, SaaS).
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **Lesson 1 - Describe Cloud Computing**
 - **Cloud computing** = multiple interconnected computers across a network, at a very basic level.
@@ -59,9 +53,6 @@ last updated: 2026-07-25T00:00:00
 - Notes trail off into a "Thought experiment - Analysing cloud types" exercise that is cut short at the end of this page range (content picks up in the next section of the notebook).
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[Microsoft Azure Fundamentals AZ-900 Cert Prep - Overview]]
 - [[Microsoft Azure Fundamentals AZ-900 - Module 2 - Azure Architecture and Services]]

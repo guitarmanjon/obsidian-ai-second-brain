@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - None recorded (personal planning note).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Plan a follow-up AI workshop with AMRC partners, reusing material and questions from the original May 2024 AI strategy workshop.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Things to reuse:
   - The "Planting a flag" exercise from the original AI strategy workshop - reuse the same prompt and questions with partners, get their input, and consider sharing some of the outputs from the internal workshop. Ultimately: what do partners want from AMRC?
@@ -31,14 +22,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

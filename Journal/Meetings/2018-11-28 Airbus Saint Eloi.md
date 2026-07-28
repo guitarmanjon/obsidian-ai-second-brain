@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[MF]], [[EO]], [[EM]], [[AB]], [[CS]] (briefly)
+- AMRC: [[JS]], [[Matt Farnsworth|MF]], [[Erdem Ozturk|EO]], [[EM]], [[AB]], [[CS]] (briefly)
 - Airbus Central (St Eloi): [[Emeric Noirot Nerin]] (tech development and maturity for hard metal cutting), [[Florian Versolato]] (online tool wear monitoring), [[Willy Cadet]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Full-day site visit/workshop with Airbus St Eloi covering cutting technology, process monitoring & control, and machining dynamics, aiming toward a draft project proposal for collaboration.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Note: this page's source text interleaved two columns (the day's agenda vs. JS's discussion notes) in the PDF extraction. Both have been reconstructed separately below with reasonable confidence.
 - **Agenda:**
@@ -47,7 +38,7 @@ tags:
 	- 13:04 Cutting tech session ([[EM]], [[AB]]): CAM assessment methodology; tooling parameter optimisation - "Let's find your sweet spot!" ([[Adam Brown]], 2018); automatic tool wear monitoring (13:56).
 	- 14:00-14:30 PM&C session ([[JS]]).
 	- 14:45 Cutting tech - spike data ([[EM]], [[AB]]).
-	- 14:55 Dynamics ([[EO]]): planning to use Sinumerik Edge for deploying simulation tools on the controller, integration. Could Edge be used for monitoring purposes? Can apps/trained networks be deployed to the Edge device?
+	- 14:55 Dynamics ([[Erdem Ozturk|EO]]): planning to use Sinumerik Edge for deploying simulation tools on the controller, integration. Could Edge be used for monitoring purposes? Can apps/trained networks be deployed to the Edge device?
 	- 16:00 PM&C - TCM ([[JS]]).
 	- 16:29 Open discussion / project proposal:
 		- Representative parts - Airbus have an idea of such a test part. [[AB]] - CoS (cost of sale?) for each platform important.
@@ -57,14 +48,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

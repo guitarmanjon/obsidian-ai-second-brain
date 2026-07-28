@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from the University of Sheffield TRAM (2023/24) development programme session **"Mentoring and Coaching"**, held 03/11/2023 and led by Dr Esther Allen (Researcher Development Manager). The session covers the differences between mentor, coach and manager roles, the concept of the "Manager as Coach," coaching questioning techniques, and two structured coaching models (GROW and OSCAR).
-
 - Useful as a reference for the skills, framing and structured questioning techniques behind coaching/mentoring conversations, and for the "manager as coach" management style.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Session objectives**: understand the roles of mentor, coach and manager; understand the purpose of coaching/mentoring in an organisational context and the role of the "Manager as Coach"; understand the skills, behaviours, attitudes, beliefs and values of an effective coach/mentor; understand contracting and the process to effectively coach or mentor.
 - **Role definitions explored**:
@@ -49,8 +43,5 @@ last updated: 2026-07-25T00:00:00
 5. [The Leader as Coach (HBR)](https://hbr.org/2019/11/the-leader-as-coach) — discusses how the role of a manager is changing into that of a manager as coach and how to adapt
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[TRAM - Managing Your Own CPD]]

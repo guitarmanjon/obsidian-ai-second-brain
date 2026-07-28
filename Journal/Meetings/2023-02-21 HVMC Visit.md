@@ -7,12 +7,9 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[AG]]
-- [[Zohaib]]
+- [[Zohaib Farhat|Zohaib]]
 - [[Rab]]
 - [[Farhat]]
 - [[Tehseen]] - HVMC
@@ -26,15 +23,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - HVMC/AMRC site visit to showcase real capabilities and growth areas across multiple groups (IMG, NW, DPG, TMG, CC, Castings, AMRC Cymru), and to explore how HVMC could support AMRC by "opening doors".
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Itinerary: 10:00 arrival at F2050 (IMG capabilities with Alex and Jon; NW capabilities with Zohaib); 11:00 meeting with AMRC CTO Ben Morgan; 12:00 lunch, head to DPG; 13:00 DPG capabilities and tour (David King); 13:30 TMG capabilities and tour (Pete Crawforth or delegate); 14:00 CC capabilities and tour (Matt Smith); 14:30 return to F2050 / visit to Castings (TBC); 14:45 Castings capabilities with Jack Naylor; 15:00 AMRC Cymru capabilities with Kevin Chan.
 - Purpose of the visit framed around real capabilities, growth areas, and support from HVMC to open doors - these capabilities need sharing internally.
@@ -46,14 +37,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - Follow up on "to look at later" items: Black Shark AI (MSFS link, 3D world rendering), Gartner hype curves, Horizon scanning, and Mike Hinton's "Customer Friend" white paper.

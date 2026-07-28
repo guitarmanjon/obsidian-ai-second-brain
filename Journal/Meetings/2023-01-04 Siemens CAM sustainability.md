@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
-- [[Adam B]]
+- [[Adam Brown|Adam B]]
 - [[Rob W]]
 - [[Rob Moody]] (Siemens DI Motion Control, responsible for Eco innovation and sustainability)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To explore a potential collaboration with Siemens on making CAM/machining processes more sustainable.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[RM]]'s cluster at Siemens is focused on developing technology for more sustainable motion control.
 - Four tech focus areas: design for sustainability, design for disassembly, sustainable business models, and sustainable portfolio (changing product offerings to capture new market opportunities).
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
-- Follow-on meeting arranged for 18th January for [[CT]] to present current work.
+- Follow-on meeting arranged for 18th January for [[Chris Taylor|CT]] to present current work.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[CT]] - Present current work at the follow-on meeting on 18th January.
+- [[Chris Taylor|CT]] - Present current work at the follow-on meeting on 18th January.

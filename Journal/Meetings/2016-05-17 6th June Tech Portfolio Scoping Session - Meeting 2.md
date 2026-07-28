@@ -7,27 +7,18 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[DF]]
-- [[DC]]
-- [[OO]]
+- [[Dave Curtis|DC]]
+- [[Omer Ozkirimli|OO]]
 - [[SA]]
-- [[CT]]
+- [[Chris Taylor|CT]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Follow-up planning meeting to prepare the synopsis and finalise the agenda structure for the 6th June Tech Portfolio scoping sessions.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Need to prepare a synopsis to send to partners before the session: expand on the title, key talking points for the project, aims of the session, and a brief on funding options.
 - Agenda for the 2-hour time-slots:
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

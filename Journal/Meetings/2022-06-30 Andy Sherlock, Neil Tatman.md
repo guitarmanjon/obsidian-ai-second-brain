@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Rab]]
 - [[Andy Sherlock]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Discuss the data science course/delivery at NMIS for workforce development.
-
 - Review the NMIS data skills for workforce development course and related data access/risk topics.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - DS course/delivery at NMIS: data skills for workforce development, worth 10 Masters credits, run over 10 weeks at 3 hours per week, aimed at those with a DS background.
 - Aims to upskill manufacturing engineers in DS basics with a roadmap for where to go next, and also to help data scientists better understand PLM, MES, etc.
@@ -39,14 +30,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

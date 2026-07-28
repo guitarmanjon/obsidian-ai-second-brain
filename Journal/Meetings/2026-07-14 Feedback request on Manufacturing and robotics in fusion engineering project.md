@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Amir]], [[Rob Skilton]] (UKAEA, robotics), [[Jon Stammers]], [[Sam Carter]] (PhD student)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Feedback session on [[Sam Carter]]'s literature review presentation on remote handling/teleoperation for robotics in fusion engineering, and discussion of next steps for collaboration with UKAEA.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Intros: [[Rob Skilton]] - UKAEA, Lead on Robotics for remote maintenance, particularly liaising with low-TRL research & universities, 14 years at UKAEA. [[Amir]] - plenty of experience in remote robotics. [[Sam Carter]] - 4th year PhD, casual worker role at the moment looking at robotics in advanced manufacturing for nuclear fusion.
 - Sam's lit review presentation: "Remote Handling - From Teleoperation to Shared Control". Video demo of teleoperation using a mobile phone motion sensor, developed by Sam himself - noticeable that he had to look at the phone a lot when pressing buttons, raising a question on haptic feedback of controllers.
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- UKAEA / [[Amir]] - Ask [[SHB]] about robotic manipulation using analytical and world models to train a system.
+- UKAEA / [[Amir]] - Ask [[Stephen Hallam-Bowles|SHB]] about robotic manipulation using analytical and world models to train a system.

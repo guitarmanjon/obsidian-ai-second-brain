@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Steve Ward]] - Emerson, pre-sales technical support and consultancy
 - [[Sam Kirby]] - Novotek
 - [[Seun]] (Seun Ojo)
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Introductory session with Emerson to understand the PACEdge platform and its potential fit for AMRC's edge connectivity work.
-
 - Emerson presenting an introduction to their PACEdge edge computing product line.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Steve Ward]] presented a PACEdge intro: capable of various edge architectures - gateway (collects and forwards data), computing (collects and analyses locally), and controller.
 - "Edge controller" combines logic control of a machine/process with edge apps for data analysis and collection.
@@ -42,14 +33,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

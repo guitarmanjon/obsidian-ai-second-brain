@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (AMRC)
 - [[Malcolm Brown]] (AMRC)
 - [[Szymon Baron]] (DePuy)
@@ -20,21 +17,15 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Open conversation with DePuy exploring adaptive machining, in-process monitoring, and tool wear/breakage, to identify where AMRC's process monitoring capabilities could add value.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 - Open conversation around adaptive machining.
-- [[Evans]] (EG): machine a part, CMM it, identify failures and update machining to correct - building an expert system to mimic what a person would do.
+- [[Evans Chikarakara|Evans]] (EG): machine a part, CMM it, identify failures and update machining to correct - building an expert system to mimic what a person would do.
 - In-process monitoring: opportunity noted for handling part loading errors (MSP's NC-PerfectPart is designed for this). Concern that in-process measurement is slow, though "doesn't have to be." Discussed whether in-process measurement could reduce CMM use - if a part is a long way out, scrap it rather than sending to CMM, though [[Paul Dwyer]] wasn't sure this is a goer as CMM is the final decision point.
 - [[Paul Dwyer]]: lots of in-cycle probing on some parts, triggered by tool change/new tool/sister tool; used for validating finish and triggering re-finish if needed. SPRINT considered too expensive for the components DePuy makes - not enough value.
-- Tool breakage/wear ([[Evans]]): tool wear causing out-of-tolerance parts; looking at installing technology to overcome this.
+- Tool breakage/wear ([[Evans Chikarakara|Evans]]): tool wear causing out-of-tolerance parts; looking at installing technology to overcome this.
 - [[Paul Dwyer]]: off-machine is better for getting tool profile (doesn't use CNC time); probing is better for capturing tool wear. UC Dublin work ([[Szymon Baron]]): instrumentation of pallets with embedded sensors, connected to MTConnect for positional data; force feedback used for tool wear monitoring; concerns over commercial use/IP; material hardness may affect how well the system works; Nordmann already running on machine for breakage detection, skipping to sister tool. UCD system can be embedded in tombstones etc.
 - Noted that DePuy's internal teams need to talk to each other more.
 - Summary of DePuy interest areas: tool chipping, sensorisation of fixturing, data analysis/machine learning of data already collected, tool balancing for freeform surface products.
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

@@ -7,33 +7,24 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Pete]]
-- [[Tony]]
+- [[Tony Fipps|Tony]]
 - [[Maryanne]]
 - [[Jon S]]
 - [[Chloe]]
-- [[Keith]] (new Technical Account Manager)
+- [[Keith Worden|Keith]] (new Technical Account Manager)
 - [[Margaret]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> A visit to MSP to discuss probing systems (NC-PerfectPart, SPRINT, NC-Checker), how AMRC can become more involved in MSP projects, and machine data collection.
 
 - ...
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 - Topics to discuss (from email thread): differences between probing systems, benefits of NC-PerfectPart, standard programming in CAM for standard features, how AMRC becomes involved in more projects (possibly via CAM integration), what AMRC needs to do to become fully NC-PerfectPart compatible (training, CAD/CAM, convincing operators to actually run NC-Checker); NC-PP and SPRINT; NC-PP through CAM/integration/auto-update of CAM; NC-Checker run time still a barrier to implementation at AMRC; machine data collection.
 - MSP now offering bespoke, almost turnkey solutions using the same products, integrating with CAD/CAM, post-processors, etc.
 - Rolls-Royce: support for Hermle probing has ended - question over whether RR have in-house skills to develop this further.
-- Probing at AMRC: I+ not ideal (3-axis, less accurate). Link to CWF - [[Tony]] to contact [[Rufino]] regarding what they want to do at CWF.
+- Probing at AMRC: I+ not ideal (3-axis, less accurate). Link to CWF - [[Tony Fipps|Tony]] to contact [[Rufino Bolado|Rufino]] regarding what they want to do at CWF.
 - Installation on VM or servers - to discuss with IT: how many people can access, same MAC address across all VMs, one VM per machine tool, all machines need networking. MSP say they can solve this - all machines can have NC-PP "installed" on VM, with the operator logging in to run NC-PP/Checker and all data saved on the VM.
 - Using probing through CAM requires training for engineers across various CAM packages.
 - MSP want to develop solutions per CAM vendor rather than bespoke projects/products.
@@ -52,14 +43,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Tony]] - (Contact [[Rufino]] regarding CWF plans for probing)
+- [[Tony Fipps|Tony]] - (Contact [[Rufino Bolado|Rufino]] regarding CWF plans for probing)

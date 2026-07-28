@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ash]]
 - [[Windo Hutabarat]]
 - [[Mike]]
@@ -17,13 +14,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Overview visit to Ash's research group to understand their research areas (digitisation, real-time simulation, multi-level optimisation) and hear from individual researchers on their projects.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **Ash overview**
 - Joint research centre role with Airbus and RAE.
@@ -53,14 +44,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

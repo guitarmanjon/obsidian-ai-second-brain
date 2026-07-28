@@ -7,15 +7,12 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Guy B]]
 - [[Kirsty McNeil]] (?)
 - [[Lawrence Brookes]] (Info School)
-- [[Harry]]
+- [[Harry Burroughes|Harry]]
 - [[James Law]]
-- [[LB]]
+- [[Lawrence Brookes|LB]]
 - [[José Miguel Rojo]]
 - [[SS]]
 - [[Iñaki Esnaola]]
@@ -25,15 +22,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Intro + overview from [[Guy B]] and [[Kirsty McNeil]] (?)
 - Pilots: [[Lawrence Brookes]] - Info School -> developing the RAI Toolkit
@@ -41,10 +32,10 @@ tags:
   - Note on diagram: technical vs soft systems views <- strengths and canvas gap analysis
   - Note on diagram: potential implementation of RAI, from the more technical and more socio-technical views
   - Note on diagram: possible pilot examples
-- [[Harry]] / [[James Law]]
+- [[Harry Burroughes|Harry]] / [[James Law]]
   - R-R Aletheia framework
   - Composite inspection
-  - [[LB]]
+  - [[Lawrence Brookes|LB]]
     - ALTI framework
     - Microsoft ethics framework
 - Breakout groups - Group 1
@@ -72,14 +63,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - ...

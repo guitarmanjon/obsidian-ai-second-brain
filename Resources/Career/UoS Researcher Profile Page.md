@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Draft/reference content (28 January 2025) for a University of Sheffield researcher profile page.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - Profile: MEng + PhD in Electronic Engineering (doctoral research: automated identification of urban/natural audio signals via a novel time-domain feature extraction method, plus ensemble neural network classifiers). At the AMRC since 2013, starting in the Machining Group's Process Monitoring and Control team; now Senior Theme Lead for Data, Connectivity and AI in IMG. Previously lectured at the AMRC Training Centre. Regular CMI attendee/contributor; organises/hosts IET Manufacturing Technical Network webinars.
 - Research interests: capturing/using data across connected manufacturing processes; how AI can improve day-to-day work; impacts of new technology introduction.
@@ -25,8 +19,5 @@ last updated: 2026-07-25T00:00:00
 - Memberships: Member of the IET; active member of the IET Manufacturing Technical Network executive committee.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[Bio]]

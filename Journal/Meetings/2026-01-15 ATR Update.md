@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]], [[GH]], [[AB]], [[Jack Rooke]], [[HB]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To align the group on what ATR currently covers, how it fits into the wider grant vision and AMRC work-area landscape, and to review a proposed ATR cell design with Mills CNC.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[GH]] asked what ATR covers today; [[AB]] described it as a **data-centric manufacturing environment** built on interoperability of equipment and software, automation (IMG cells, AGVs, robots, scanners, metrology), and "getting the data for TMG" to support better process planning.
 - [[Jack Rooke]] presented a simplified maturity model for the grant vision - a table running from Level 0 (Fully Manual) to Level 5 (Future Autonomy) across a Physical strand and a Digital strand, benchmarked against typical SME, advanced OEM, and grant TRL tiers - framed around the question of how to help manufacturers move to a higher maturity level. Grants are being targeted to fund this progression.
@@ -38,15 +29,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No firm decision recorded. Floated: targeting grants to advance the maturity-model vision; unifying AMRC's disparate databases under Data Centric Manufacturing; possible fellowship work for [[Lindsay Lee]] in this space.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - A PhD student - (Get involved in commissioning the cell)
 - IMG delegate - (Join ADG conversations around polymers; Jon Hall noted as contact - [[Jack Rooke]] has already spoken with him)

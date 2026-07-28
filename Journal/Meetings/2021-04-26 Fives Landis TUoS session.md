@@ -7,16 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Rob Ward]]
 - [[George Panoutsos]]
 - [[Bryn Jones]]
 - [[Windo Hutabarat]]
 - [[Visakan]]
-- [[Erdem]]
+- [[Erdem Ozturk|Erdem]]
 - [[Boyang Song]]
 - [[Derry Falkner]] - software dev lead
 - [[Mick Mathers]] - real-time software dev manager
@@ -25,15 +22,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Joint session between Fives Landis and TUoS to explore the Landis 6400 controller and identify real-time data opportunities.
-
 - Session to introduce Fives Landis' machine tools and controller technology to the TUoS/AMRC team, and scope opportunities for collaboration.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Introductions: [[Derry Falkner]] - software dev lead; [[Mark Stocker]] - CTO at Cranfield Precision (division of Landis); [[Mick Mathers]] - real-time software dev manager; [[Mike]] Skinner - desktop application dev.
 - Presentation from Fives on company history, machine tools, and finally the controller (6400).
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Derry Falkner]] - Support a visit/placement to work with Cranfield software devs to build insight into system capability.

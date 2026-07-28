@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- Not a meeting - these are notes made against a follow-up email. People involved: [[Thomas E McLeay]] (Tom), [[Elizabeth Cross]] (Lizzy), [[C Wick]] (Chandy Wickramarachchi), [[Mateo]].
+- Not a meeting - these are notes made against a follow-up email. People involved: [[Thomas E McLeay]] (Tom), [[Elizabeth Cross]] (Lizzy), [[C Wick]] (Chandy Wickramarachchi), [[Mateo Leco|Mateo]].
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Notes capturing (a) JS's own summary of Chandy's EngD tool-wear feature work and Mateo's PhD work on drilled-hole-depth prediction, and (b) an email from [[Thomas E McLeay]] to [[C Wick]] (cc [[Elizabeth Cross]]) documenting feature-selection discussion points from a prior meeting.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Note: this page's source text interleaved two columns (JS's own short notes vs. a pasted email) in the PDF extraction. It has been untangled below with reasonable confidence.
 - JS's notes on Chandy's EngD work:
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

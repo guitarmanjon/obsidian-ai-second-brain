@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC colleagues consulted for their interest in the technology: [[Adam Brown]], [[Pete Crawforth]], [[David King]], [[Lloyd Tinkler]], [[Adrian Hirst]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Capture AMRC colleagues' interest areas in Oxford's force-sensor technology ahead of potential collaboration.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Adam Brown]] — sensing close to the tool tip; real-time distortion tracking on a part in a floating fixture.
 - [[Pete Crawforth]] — embedding fibres in parts/fixtures rather than using a dedicated sensor; embedding in the tombstone/working area; productionising challenges (Kistler "won't get there"); integration with NI kit; share the paper with them; 20kHz sampling rate is standard for Kistler; embedding in a tool holder; temperature effects on output; embedding fibres in a flying component.
@@ -32,14 +23,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

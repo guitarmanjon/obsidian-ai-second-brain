@@ -8,15 +8,9 @@ last updated: 2020-10-14
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Archive of Jon's research notes and administrative guidance gathered while considering a UKRI Future Leaders Fellowship (FLF) / EPSRC Fellowship bid (2018-2020), centred on using NLP and machine learning to capture tacit/operator knowledge and build a data science capability for machining research. Includes the proposal concept itself plus reference copies of the FLF guidance, person specification, assessment criteria, and application component requirements (the guidance content appears twice in the source notebook, evidently copied for two separate drafting passes - consolidated here).
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **EPSRC New Investigator Award (2018)** - loosely around machine learning: ML analysis visualised for easy interpretation, with user feedback retraining the model; machine tool data; feed rate scheduling (deterministic vs stochastic); chatter control; precursor to cloud-based analytics (ref. Amido); pointed towards the later UKRI FLF idea of NLP for capturing tacit knowledge from experienced engineers. Also floated: machine tool data analytics/visualisation from H5 (what's the analysis goal, can AI/ML do the discovery, who's the audience, how are visualisations produced), expanding into shop-floor data sources (micro/meso/macro), and reviewing "big data" streams (ref. He and Wang 2018, statistical process monitoring).
 
@@ -45,8 +39,5 @@ last updated: 2020-10-14
 **Proactive manufacturing (2020)** - a broader framing encompassing predictive maintenance plus the product and its ecosystem; noted as a funding buzzword to watch.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[Future Project Ideas Backlog]] - the shorter-form idea backlog this fellowship concept grew out of.

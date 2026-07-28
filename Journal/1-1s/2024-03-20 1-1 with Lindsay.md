@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers|JS]]
 - [[Lindsay]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Regular 1:1 with [[Lindsay]].
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Regular 1:1 cadence sorted.
 - Team: [[Tim]] is the team - wants to be in the exceptional range of G7; should consider ICP, though [[Tim R|TR]] concerned about the finance side of it. A Junior Data Scientist (JDS) to join the team in the next few months.
@@ -34,14 +25,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Lindsay]] - (Review ICP info in early April and draft some bullets)

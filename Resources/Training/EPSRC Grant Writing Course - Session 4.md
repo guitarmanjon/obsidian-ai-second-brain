@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from Session 4 (13/09/2021) of the EPSRC-focused grant writing course for manufacturing researchers. Covers how to handle referee comments via PI responses (rebuttals) and how the EPSRC panel process works, then moves into New Investigator Award (NIA) eligibility, features, and the institutional statement (including how to evidence research independence).
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **PI Responses (rebuttals)**
 - **Responses matter, even if scores are low** - handled well, they usually work in your favour. You typically get 5 working days to respond to referee reports.
@@ -66,9 +60,6 @@ last updated: 2026-07-25T00:00:00
 - Build collaborations, e.g. trips within the UK to fellow researchers. Senior researchers often get requests for short visits - nothing is lost by asking, and it's in your interest to build relationships (but don't make cold/out-of-the-blue requests to people you don't know). Senior staff/groups are often willing to host, and it shows initiative to have arranged this.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - This is Session 4 of 5 in the EPSRC/manufacturing Grant Writing training course.
 - [[EPSRC Grant Writing Course - Session 3 - Case for Support - Why This Proposal]]

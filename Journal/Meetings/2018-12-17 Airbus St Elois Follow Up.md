@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[MF]], [[AB]], [[EO]]
-- Reviewing an email from: [[Emeric Noirot Nerin]] (Airbus), addressed to [[Erdem]], [[Colin]], [[Adam]], [[Jon]], [[Matthew]], [[Florian]], [[Willy]], [[Syl]], [[Vie]], [[Francis]], [[Virginie]], [[Laurent]], [[Vincent]]
+- AMRC: [[JS]], [[Matt Farnsworth|MF]], [[AB]], [[Erdem Ozturk|EO]]
+- Reviewing an email from: [[Emeric Noirot Nerin]] (Airbus), addressed to [[Erdem Ozturk|Erdem]], [[Colin]], [[Adam]], [[Jon]], [[Matthew]], [[Florian]], [[Willy Cadet|Willy]], [[Syl]], [[Vie]], [[Francis]], [[Virginie]], [[Laurent]], [[Vincent Desfontaine|Vincent]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Internal review of [[Emeric Noirot Nerin]]'s follow-up email after the Airbus St Eloi visit, to classify discussion topics by technical interest/maturity and shape a funding & collaboration proposal.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Note: this page's source text interleaved two columns (JS's own meeting notes vs. the pasted email from [[Emeric Noirot Nerin]]) in the PDF extraction. Both have been reconstructed separately below with reasonable confidence.
 - **JS's notes (14 Dec 2018, 14:52 - email from Emeric, 3 days ago):**
@@ -42,14 +33,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Provide [[Emeric Noirot Nerin]] with a funding scenario for a Directed project to optimise Airbus budget, and a funding scenario for Generic Projects with an annual committee agenda)

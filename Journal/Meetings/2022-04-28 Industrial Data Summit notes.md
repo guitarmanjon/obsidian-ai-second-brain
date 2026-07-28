@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (attending as delegate/speaker)
 - Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, Rolls-Royce), [[Jonathan Butters]] (Data Scientist, Rolls-Royce), [[Stephen O'Brien]] (Data Scientist, Rolls-Royce), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Personal notes from attending sessions at the Industrial Data Summit, plus a list of people worth following up with.
-
 - Capture key takeaways from summit sessions on advanced analytics, data-driven decisions, and AI/ML, and note people worth connecting with afterwards.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **Advanced and Predictive Analytics (round table with Rolls-Royce/Edwards Vacuum)**
 - Don't be afraid of failure; start small to demo a capability/value.
@@ -70,14 +61,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded (personal conference notes, not a decision-making meeting).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

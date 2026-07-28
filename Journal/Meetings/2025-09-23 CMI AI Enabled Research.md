@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Denis]]
-- [[James]]
+- [[James Marshall|James]]
 - [[Jon]]
 - [[Tom]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Catch-up on CMI's compute/tools work and the wider AI-enabled research ecosystem across the University.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Denis]] overview of what they have been doing:
   - Compute and tools focus.
@@ -50,7 +41,7 @@ tags:
   - [[Gavin Boyce]] interested.
   - Avoid starting from scratch in each project.
 - Existing internal tools + training:
-  - NotebookLM(?) - security? → [[James]] + [[Denis]] → AI Talk + [[Frolick]]? group → guidance.
+  - NotebookLM(?) - security? → [[James Marshall|James]] + [[Denis]] → AI Talk + [[Frolick]]? group → guidance.
 - Morgan Jones? Status: Lindsay?
 - What next?
   - Signposting colleagues to knowledge.
@@ -58,14 +49,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - ...

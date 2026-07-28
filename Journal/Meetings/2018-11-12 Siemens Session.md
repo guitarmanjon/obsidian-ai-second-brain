@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[JS]], [[Luke]]
 - Siemens: [[Charles Tivey]], [[Garry Mepham]], [[Gary]] (?)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Working session with Siemens covering NX/controller data integration options and adaptive feedrate control capabilities.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - In relation to [[Luke]]'s slides on NX integration, "Analyse MyPerformance" mentioned by the Siemens team. Looking on the Siemens website - Access MyData and Access MyMachine products referenced.
 - Data acquisition - [[Charles Tivey]] from Siemens:
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

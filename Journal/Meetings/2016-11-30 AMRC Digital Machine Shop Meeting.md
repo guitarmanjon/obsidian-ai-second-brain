@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (AMRC), [[TM]] (AMRC), [[Mino]] (DMG), [[Ralph Riedemann]] (DMG)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Meeting with DMG (machine tool manufacturer) on AMRC's digital machine shop / data strategy roadmap.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[TM]] presented an overview of AMRC's past work and future direction — moving to data collection from machine tools. IMG does plenty of work in this field, but AMRC/FoF research themes relate to machining and cutting metal specifically.
 - Data/connectivity architecture stack discussed level by level:
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No firm decisions recorded — primarily an exploratory technical discussion.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Mino]] - (Fill in more detail on Celos 2.0)

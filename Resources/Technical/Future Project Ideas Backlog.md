@@ -8,15 +8,9 @@ last updated: 2025-10-07
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Jon's long-running personal backlog of manufacturing research/project ideas (2017-2025), captured as brief concept notes and organised by the effort/timescale he estimated for each (sprint, 2-month, <6 month, 6-12 month, and larger-project work packages). A source of pitches for future funding calls, ADG/Catapult proposals, and internship/placement projects.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **Potential papers**
 - Data sources in a smart factory - summary paper reviewing data sources available in a smart factory, how they're accessible, how data can be analysed/presented, adopting a micro-/meso-/macro-level approach.
@@ -74,9 +68,6 @@ last updated: 2025-10-07
 - Catapult 2020 project ideas: Maintenance 4.0 (£45k, FoF maintenance system, tying into a wider machine/process monitoring dataset); Digital Factory of the Future (£60k desk-based study, extending "FoF - to infinity and beyond", connecting more machines, possible H5 dashboard, +£20k AR demonstrator link to IMG/Design); MaPMoS continued (£75k, possible IMG/ML research link); Full Monty dashboard (£60k, further development of existing Full Monty dashboards/extended datasets).
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[UKRI FLF and EPSRC Fellowship notes]] - the more developed research-fellowship proposal that grew out of several of these ideas (NLP/tacit knowledge capture, data science strategy).
 - [[2017-08-31 Machining group strategy session in KTC]] - EngD project ideas discussed at the same time as several of these entries.

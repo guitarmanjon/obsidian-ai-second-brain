@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (attendee)
 - [[Akeel Attar]] (speaker)
 - [[Richard Boyd]] (XpertRule demo)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Seminar on intelligent automation and AI, covering practical applications, anomaly detection approaches, and a live demo of the XpertRule Decision Factory tool.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Context/history: the "Winter of AI" (1984/5, Lisp and Lisp workstations) was caused by media hype. Advances in deep learning over the last decade are sometimes seen as superseding all prior AI development - this is a fallacy; the approaches complement each other.
 - Advice: don't start with algorithms and seek applications - think "Intelligent Automation" instead.
@@ -46,14 +37,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

@@ -7,29 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[TR]]
-- [[Dan S]]
-- [[Sarah K]]
-- [[Jamie]]
+- [[Dan Smith|Dan S]]
+- [[Sarah Kilner|Sarah K]]
+- [[Jamie McGourlay|Jamie]]
 - [[John Carroll]] (Architect for Shop Floor)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Review Siemens Insights Hub (SIH) plans for MISSY, including deployment targets and technical capability.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- Intros; [[JMc]] gave a recap overview of MISSY.
+- Intros; [[Jamie McGourlay|JMc]] gave a recap overview of MISSY.
 - [[John Carroll]] (JC):
   - Don't want to use Databricks as an enterprise platform - "hammer to crack a walnut".
   - Target to deploy SIH to 3 facilities this year, replacing as-is capability in PTC ThingWorx: TBF (Turbine and Blades Facility?), Bristol Lift Works (Defence, OS data into blue zone), and FSG Singapore (most complex use case).
@@ -42,15 +33,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Databricks will not be used as the enterprise platform for this; SIH is the preferred direction.
 - Target: deploy SIH to 3 facilities this year (TBF, Bristol Lift Works, FSG Singapore).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

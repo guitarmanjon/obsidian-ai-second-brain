@@ -7,36 +7,27 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Harry]]
-- [[James]]
+- [[Arutian Ehiasarian|Harry]]
+- [[James Bradley|James]]
 - [[JS]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Continued work on the EPSRC proposal with SHU/UoL, refining case for support, ethics, and data-sharing sections.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- [[Harry]] has reduced his costs so the proposal is now within budget.
+- [[Arutian Ehiasarian|Harry]] has reduced his costs so the proposal is now within budget.
 - R4RI - [[JS]] to update the section on leading others and wider contribution.
 - Case for support:
   - Challenges: finding and engineering data, data management, data strategy.
   - Novelty - review inclusion of the AMRC Data Cloud.
   - Contribution to knowledge - clarify what's new from the data/digital twin/ML side; look at feedback from the previous application.
-  - [[Harry]] has updated the case to focus on process efficiency.
-  - Check WP1 based on [[Harry]]'s updates.
+  - [[Arutian Ehiasarian|Harry]] has updated the case to focus on process efficiency.
+  - Check WP1 based on [[Arutian Ehiasarian|Harry]]'s updates.
   - WP4 - check the low-carbon opportunity is sufficiently covered.
   - Ensure sustainability language matches the call's specific wording (see call text: https://www.ukri.org/opportunity/research-to-drive-the-next-generation-of-manufacturing-technologies/).
-  - Potential for commercialisation - maybe send ideas to [[Harry]]; eventual software solution envisaged.
+  - Potential for commercialisation - maybe send ideas to [[Arutian Ehiasarian|Harry]]; eventual software solution envisaged.
 - JoR (Justification of Resources) might need updating.
 - Ethics:
   - Data sharing to cloud platforms - not making data public from factories.
@@ -48,18 +39,12 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
-- Case for support to focus on process efficiency, per [[Harry]]'s updates.
+- Case for support to focus on process efficiency, per [[Arutian Ehiasarian|Harry]]'s updates.
 - Data ethics approach agreed: no public factory data, use of ORDA for shareable experimental data, anonymisation of any shareable industrial data, and permission-seeking for reuse of secondary sources.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
 - [[JS]] - (Update R4RI section on leading others and wider contribution)
-- (Team) - (Check WP1 and WP4 low-carbon content against [[Harry]]'s updates)
+- (Team) - (Check WP1 and WP4 low-carbon content against [[Arutian Ehiasarian|Harry]]'s updates)
 - (Team) - (Review call text for required sustainability wording)
-- (Team) - (Send commercialisation ideas to [[Harry]])
+- (Team) - (Send commercialisation ideas to [[Arutian Ehiasarian|Harry]])

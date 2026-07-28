@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[GH]]
 - [[Yazan Khader]] (Predictech)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A call with Predictech founder [[Yazan Khader]] to discuss his predictive maintenance business and potential collaboration/experience opportunities.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Yazan Khader]]'s dissertation: "I4.0 and SMEs" - barriers to implementation of Industry 4.0 for local SMEs, comparing local and national SMEs in terms of barriers (expertise, resources, lack of understanding), informed by the Made Smarter review.
 - Developed an "engineering intervention" as a first step into I4.0 for SMEs, focused on predictive maintenance (PdM).
@@ -38,14 +29,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

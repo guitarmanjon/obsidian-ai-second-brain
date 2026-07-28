@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Siva]] - presented the AMRC North West slide deck on AI.
 - [[Narcisa]] - involved in the Electronics assembly project.
 - [[Nadeem]] - working on audio-based classification and explainable AI.
-- [[Mohsin]] - key to the InKA project.
+- [[Mohsin Farhat|Mohsin]] - key to the InKA project.
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - AMRC North West's session in the AI Mapping workshop series (see [[AI Mapping Workshop Template]]), mapping current AI-related projects, techniques, and future aspirations for the group.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **Barriers**: GPU servers across AMRC - where are these? Lack of a working demo. Insight needed into bringing tech to the shop floor. IT reportedly spending £1m next year on infrastructure/GPUs.
 - **Leyland trucks**: Leyland plan to embed people at NW to learn how to use the system, then take it back to Leyland. Application: quality inspection - checking correct assembly of engines (clips and clamps present). Challenges with frame rate/GPU performance were resolved by future work with CUDA. Uses computer vision. The underlying pipeline was developed by the NW team before Leyland funded the project.
@@ -36,7 +27,7 @@ tags:
 - **Electronics assembly**: quality control and traceability; pick-and-place driven by G-code; [[Narcisa]] involved.
 - **Composite weave**: removing manual inspection of carbon-fibre layers using machine vision; a camera follows the laying down of woven pieces to build a digital twin, with a 3D picture built from the vision outputs.
 - **Closed-loop process control**: uses vibration and microphone data; FFT of data and stability lobes; a pipeline for closed-loop control. Data acquisition based on cRIO, though NW built their own DAQ. Considered using Mudak(?) for registry access on the machine, but LinuxCNC gave a better option.
-- **InKA**: [[Mohsin]] is key to this; has now developed to allow GPT-style prompts; currently limited to ABG and ADG projects. Attribute-based access control is fairly new for InKA - not a new concept generally, but not widely implemented elsewhere; allows restriction of results based on role/attributes etc. Also involves knowledge graphs.
+- **InKA**: [[Mohsin Farhat|Mohsin]] is key to this; has now developed to allow GPT-style prompts; currently limited to ABG and ADG projects. Attribute-based access control is fairly new for InKA - not a new concept generally, but not widely implemented elsewhere; allows restriction of results based on role/attributes etc. Also involves knowledge graphs.
 - **Explainable AI**: papers have been published on this topic; [[Nadeem]] working on it; shows how neural networks focus on specific areas of the data.
 - **Non-conformance report (NCR) timeline**: BAE Hawk NCRs; AI-assisted error codes; finding the root cause of errors passed forward. BAE unwilling to share data unless desensitised, but happy to share via USB.
 - **BAE - as designed, as built, as maintained**: checks the aircraft throughout its life (MRO team); discrepancies are highlighted by a vision system.
@@ -46,14 +37,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

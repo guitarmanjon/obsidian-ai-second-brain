@@ -7,21 +7,12 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]], [[SH-B]]
 - [[Susan Oman]], [[Louise Dore]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> An introductory scoping conversation between AMRC and UoS Social Sciences (SSH) to explore research interests, past/future collaboration, and where the two capabilities could fit together.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Round-table introductions covering AMRC and UoS SSH departments, broad research interests, and motivations for the meeting; agenda ran through past/upcoming collaborations, how the two capabilities fit into each other's world, the funding landscape, specific opportunities, and next steps.
 - There's often a misunderstanding of SSH's role in bids - SSH is frequently pulled in last minute, largely because EPSRC has only recently started requiring it. Existing SSH collaborations include the Management School, Decision Science, and Supply Chain.
@@ -39,16 +30,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No formal decisions - this was primarily a scoping and relationship-building conversation.
 - Loose next-step commitment: put [[Lindsay Lee]] in touch with [[Susan Oman]] regarding skills.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[SH-B]] - (Put [[Lindsay Lee]] in touch with [[Susan Oman]] on skills)
 - [[JS]] - (Follow up on FLF recruitment, including Info School and Management School - possibly also loop in [[Louise Dore]])

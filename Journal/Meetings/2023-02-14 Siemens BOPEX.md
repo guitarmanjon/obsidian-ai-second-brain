@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Charles Tivey]] - Siemens Aero team
 - [[Jamie Smith]] - Tech Lead for modelling (Siemens)
 - [[Nicolai Riedl]] - Siemens Aerospace team, Germany
@@ -22,15 +19,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Introductory meeting between Siemens and Rolls-Royce (R-R) teams to explore Siemens' BOPEX product (Bill of Process Execution) and its potential links to AMRC work.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Charles had visited AMRC earlier and the chessbot stood out as an opportunity (linked to R3M).
 - BOPEX is a product for reconfigurable systems - Bill of Process Execution.
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

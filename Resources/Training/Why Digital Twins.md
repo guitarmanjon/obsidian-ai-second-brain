@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from a Hartree Centre training session titled "Why Digital Twins?" (28 January 2025, 13:33). Typed content is minimal — most pages consist of a single bullet point next to a pasted presentation slide screenshot, so the source is largely slide-driven rather than Jon's own written notes. It's a useful primer/reference on digital twin applications, technical building blocks, and two case studies.
-
 - Session covered an overview of digital twins, their applications, what goes into building one, and worked examples.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Most pages had no transcribable typed/handwritten text beyond a single bullet marker next to each pasted slide screenshot — the detail lives in the slide images, which are noted here by topic rather than transcribed in full.
 
 - **Started with an overview of what digital twins are** (typed note).
 - **"Applications"** (typed heading) — followed by slide screenshots covering digital twin use cases in Infrastructure, Healthcare, Product development, Manufacturing, and Supply chain.
@@ -25,8 +19,5 @@ last updated: 2026-07-25T00:00:00
 - No URLs or hyperlinks appeared in the typed text on these pages.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

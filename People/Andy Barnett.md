@@ -1,30 +1,22 @@
 ---
-aliases: []
-team:
+aliases:
+  - Andy B
+team: External (KTP)
 role:
 tags:
   - People
-last updated: 2026-07-25T00:00:00
+last updated: 2026-07-28T00:00:00
 ---
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
-- KTP (Knowledge Transfer Partnership) contact. See [[2023-02-13 Daily Notes]] and [[2024-02-19 Day To Do List]] (contacted re: extension). Note: "Andy B" also appears in [[2023-09-06 Boeing HTP LMC 0 Meeting]] in a Boeing context - deliberately NOT linked here since it may be a different person; left as a plain unresolved [[Andy B]] in that file.
+- KTP (Knowledge Transfer Partnership) contact, external to AMRC. Anything KTP-related referring to "Andy" is him. See [[2023-02-13 Daily Notes]] and [[2024-02-19 Day To Do List]] (contacted re: extension).
 
 ## Notes
-
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
 
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -62,8 +54,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

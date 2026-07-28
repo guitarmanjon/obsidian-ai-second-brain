@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[NH]]
 - [[AB]]
 - [[Charles Tivey]]
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Update discussion on the Siemens/Rolls-Royce MISSY project, covering data capture, chatter detection, and progress against Mini-MISSY timelines.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[NH]] to provide a large dump of software/licenses etc.
 - [[AB]] (cutting tech) to be involved in MISSY for data capture, supporting the Apps team with cutting trials.
@@ -47,15 +38,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Prep for the MISSY charter deferred to a future session.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[NH]] - (Provide large dump of software/licenses)
 - [[AB]] - (Get involved in MISSY data capture, supporting Apps team with cutting trials)

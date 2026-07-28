@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from a BridgeAI / BSI (British Standards Institution) training session, "AI Data Quality Governance for SMEs," delivered by Radouane Oudrhiri (07 November 2024). Covers the ISO/IEC 5259 series for data quality in analytics and machine learning, and is useful as a reference framework for governing data as a business asset in AI projects.
-
 - Session presented by Radouane Oudrhiri under the UKRI Innovate UK BridgeAI programme, in partnership with BSI.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Data are assets** and must be governed as such: they are increasingly easy to collect/digitize, are increasingly important for products and services, are hard to value/price, have a short half-life if not used/shared, present increasing security/privacy risk, and are a significant expense for most enterprises. Data assets are described as "the worst governed, least understood and (generally) the most poorly utilised key asset." (Slide: "7 laws of data asset management", adapted from Moody D., Walsh P. (1999), *Measuring The Value Of Information: An Asset Valuation Approach*, 7th European Conference on Information Systems (ECIS'99).)
 - The **ISO/IEC 5259 series** provides a concept framework for data quality (DQ) covering: DQ model, DQ measures, DQ assessment, DQ improvement, and DQ management — plus DQ reporting, DQ governance, and data provenance.
@@ -40,8 +34,5 @@ last updated: 2026-07-25T00:00:00
 - Several pages consisted mainly of pasted slide diagrams (e.g., the detailed "7 laws of data asset management" chart, the ISO/IEC 5259 concept framework table, the data life cycle framework diagram, the 5259-2 process/data model diagrams, the 5259-4 labelling process diagram, and the 5259-5 governance framework diagram) — these are noted here as screenshots rather than transcribed in full visual detail; the surrounding typed notes above capture the substantive points.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

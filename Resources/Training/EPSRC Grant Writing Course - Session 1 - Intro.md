@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from **Session 1 (Intro)**, dated **06/09/2021**, of a University of Sheffield EPSRC-focused grant writing course for manufacturing. Covers Prof. John Clarke's (Comp Sci) overview of EPSRC's remit, TRL focus, state aid, sectors/themes, and grant types, plus Claire Hinchcliffe's (former EPSRC portfolio manager, now Royal Society faculty lead for engineering) walkthrough of the EPSRC application/decision process, peer review principles, and panel mechanics.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Speakers**: Prof. John Clarke (Comp Sci) covered EPSRC's remit/landscape and grant types; Claire Hinchcliffe (ex-EPSRC portfolio manager, now Royal Society faculty lead for engineering) covered the application/decision process.
 - **EPSRC's place in the funding landscape**
@@ -69,9 +63,6 @@ last updated: 2026-07-25T00:00:00
 - **Useful tool**: "Grants on the Web" is worth checking for previously funded work — includes panel information and ranked lists of applications (only funded ones show detailed info/titles; others show only an application number).
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - This is **Session 1 of 5** in the EPSRC Grant Writing course — next: [[EPSRC Grant Writing Course - Session 2 - Case for Support]]
 - ...

@@ -8,16 +8,10 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> In 2-3 sentences, explain what this resource covers and why it's useful. Focus on the value it provides to your work, not just what it is, but why you saved it.
-
 - Notes dated 24/05/2023 on the Gartner **Use Case Prism** framework, captured from a Gartner document (around half-way down the page): https://www.gartner.com/document/4382599
 - The framework provides a visual way to categorize use cases by plotting them on a "prism" (triangle split into four diamonds) against two axes: **Business Value** and **Feasibility**.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - The **Use-Case Prism Categories** diagram plots use cases on a triangular prism with two axes running from the base up to the apex: **Business Value** (left side, Low → Medium → High) and **Feasibility** (right side, Low → Medium → High). The prism is divided into four diamond-shaped categories:
   - **Likely Wins** (top of the prism): use cases combining **high feasibility and high business value**, making them wins in most circumstances.
@@ -28,8 +22,5 @@ last updated: 2026-07-25T00:00:00
 - Source of the diagram: Gartner, ref. 775170_C.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ondrej Polak]] (BAIUK)
 - [[Sandra Tomes]] (BAIUK, new Financial Controller)
 - [[Mark Capell]] (BAIUK, new General Manager)
@@ -18,13 +15,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A quick call to discuss the impact of COVID-19 on BAIUK's capex budget and how it affects the LISI project scope.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - BAIUK has been affected by COVID-19: their capex budget has been reduced by parent company LISI from an expected £1.6m for the next year down to around £0.5m.
 - As a result, BAIUK will be unable to fund all the machine tools stated in the grant application.
@@ -37,15 +28,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - [[Ondrej Polak|Ondrej]] will look into both the de-scope and additional-funding options, review the impact on BAIUK and the UK supply chain, and prepare a summary of each for presentation to the MO.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Ondrej Polak]] - (Review both options — de-scope vs. additional funding — and prepare a summary of each)
 - [[JS]] - (Present the summarised options to the MO next week to get advice on how to proceed)

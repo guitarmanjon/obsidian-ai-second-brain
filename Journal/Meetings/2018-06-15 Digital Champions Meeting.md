@@ -7,14 +7,11 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Rab Scott]]
 - [[John Yates]]
 - [[Dave King]]
 - [[JS]]
-- [[Matt]] (Castings)
+- [[Matt Cawood|Matt]] (Castings)
 - [[TM]]
 - [[Kev Kerrigan]]
 - [[Pascal Gadoury]]
@@ -25,22 +22,16 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A recurring Digital Champions meeting to share updates across different areas on digital/data initiatives, informatics, and AI activity.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Dave King]]:
 	- Birth simulator project with Limbs and Things - printed electronics onto flexible materials, force sensors, working with PEL, app based around QT.
 	- World's largest sintering machine.
 - MakeTime.io mentioned.
 - Cyber security - GCHQ interested in OT security work with AMRC; University of Sheffield setting up a Centre of Excellence on Cyber Security.
-- [[Matt]] (Castings):
+- [[Matt Cawood|Matt]] (Castings):
 	- Lots of data collected on every process, but manually interrogated - equipment not connected.
 	- Some processes cannot be monitored due to harsh environments.
 	- Paperwork used to track parts as part ID stamps can't always be seen.
@@ -62,14 +53,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Next Digital Champions meeting theme to be AI and Informatics.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

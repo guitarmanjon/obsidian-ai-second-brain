@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Adam Hammond]] (IBM, speaker)
 - [[Gabriele Compostella]] (IBM Quantum, speaker)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Workshop introducing quantum computing concepts, hardware, and use cases relevant to manufacturing, presented by IBM.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - "What is Quantum / Why Quantum?" - [[Adam Hammond]], IBM:
   - Some computing problems cannot currently be solved by classical computing, and won't be solvable by quantum either.
@@ -45,14 +36,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

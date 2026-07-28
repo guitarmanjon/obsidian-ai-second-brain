@@ -7,31 +7,22 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Shivani Gupta]] - hosted and led the roundtable.
 - [[JS]] (referred to as "Me" in notes)
 - [[Daniel]]
 - [[Konrad]]
 - [[Claire]] - logistics company representative.
 - [[Becca]]
-- [[Jonathan]]
+- Jonathan
 - [[Richard]]
 - [[Francisco]]
 - [[Naomi]] (CBI)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - A CBI-hosted "AI Skills Task & Finish" roundtable to share learnings and discuss AI skills, adoption, and policy across organisations.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - 14:05 - Introductions; [[Shivani Gupta]] hosting and leading.
 - 14:11 - [[Shivani Gupta]] gave an overview of learnings to date.
@@ -46,29 +37,23 @@ tags:
   - [[JS]]: raised change management - getting people on board, generational challenges, and the value of social sciences input; strong support from other attendees for this.
   - [[Becca]]: internal summer schools used to bring people along on the AI journey.
 - 14:59 - Specific areas of discussion - skills development in organisations:
-  - [[Jonathan]]: taking a roles-based approach to where AI can have impact and the skills individuals need.
+  - Jonathan: taking a roles-based approach to where AI can have impact and the skills individuals need.
   - [[Becca]]: focus on data and AI literacy; Copilot being widely adopted and experimented with.
   - [[Claire]]: Copilot is used exclusively; staff given training and freedom to choose how to use AI.
   - [[Richard]]: staff-focused training across many digital tools.
   - [[Francisco]]: training includes the sustainability aspect of AI.
   - [[Daniel]]: conscious use of AI, particularly around environmental impact; credentials people post on LinkedIn can be meaningless - questioned how deep understanding really goes; people should also be critical of each other's AI use and prompting.
-  - [[Jonathan]]: raised a question around AI governance frameworks.
+  - Jonathan: raised a question around AI governance frameworks.
 - 15:15 - Specific examples: [[Daniel]] described an Amazon app development case rewriting business instructions for neurodivergent employees - input was the existing doc, output was a more accessible set of instructions.
 - 15:21 - Policy landscape:
-  - [[Jonathan]]: secondary education needs updating - it currently teaches the skills that are most "AI-able."
+  - Jonathan: secondary education needs updating - it currently teaches the skills that are most "AI-able."
   - [[Daniel]]: the proposal for 7.5 million skilled people is laudable, but questioned whether it's just a credential and what it actually means.
   - [[Naomi]] (CBI): raised how people want to access learning - online, bitesize, cohort-based, etc. Noted people want multimodal learning, hands-on demos, attention-grabbing elements (champions, social elements), and sandbox environments as a safe space to experiment.
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded (discussion/roundtable format; no formal decisions taken).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

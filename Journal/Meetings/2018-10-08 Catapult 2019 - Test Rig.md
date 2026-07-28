@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[JS]], [[SO]], [[EO]]
+- [[JS]], [[SO]], [[Erdem Ozturk|EO]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> To discuss the open architecture control system approach for a test rig planned as part of Catapult 2019.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Focus is an open architecture control system.
 - Dspace control (research) software?
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Contact NI regarding cRIO as a possible controller)

@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]], [[Tom H]], [[Harry B]]
-- [[Jamie McGourlay]], [[Stephen Carter]] (at F2050)
+- [[Jamie McGourlay]], [[Steve Carter|Stephen Carter]] (at F2050)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - To review the Rolls-Royce MISSY project (SAMULET 4) and understand its structure, funding, and partners.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Project is SAMULET 4.
 - Funded via ATI: direct to AMRC from ATI, plus sub-contract from Rolls-Royce.
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

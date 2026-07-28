@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]] (attendee). Speakers noted below.
 - Note: transcribed from handwritten notes taken on the day (10-page notebook). A few speaker/company names were hard to read with full confidence and are flagged inline.
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Jon attended the RAAIS AI conference (12 June 2026) - a series of talks and firesides on frontier AI, world models, robotics, and applications of AI in science, medicine, and defence.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **[[Raia Hadsell]] - Google DeepMind, VP of Research - "Frontiers of Intelligence"**
 - Gemma 4 - 10-20B, Claude-scale. Gemma Diffusion - diffusion with text "noise", a 26B model. Text Diffusion enables bidirectional reasoning + self-correction.
@@ -88,14 +79,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded - conference notes.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

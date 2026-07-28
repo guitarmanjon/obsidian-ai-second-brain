@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Rab Scott]]
 - [[Frank Ashton]] - Head of Strategy and Partnerships, parent company Pressure Technologies, ex-Cummins
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Discussion with Chesterfield Special Cylinders about an InnovateUK bid for hydrogen storage and distribution supply chain R&D.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Bid in progress, deadline 26th April.
   - James Harris from Element2 suggested AMRC storage to 700-1000 bar.
@@ -47,15 +38,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Bid to proceed for the InnovateUK hydrogen storage and distribution competition, deadline 26th April 2023.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Ian Williamson]] and [[Frank Ashton]] - Start writing the bid in the coming days (define work packages, work split, and funding sources).
 - [[Rab Scott]] - Provide information on data flows, data science, and data engineering to help Frank understand AMRC's contribution.

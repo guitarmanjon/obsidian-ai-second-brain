@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Steve Marr]]
 - [[Tim Rooker]]
@@ -20,15 +17,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To explore a potential DigiLab/uncertainty-quantification collaboration for the R-R SMR programme's Module 1.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - DigiLab has been brought on to do work with Module 1, with a demo shown in Meeting 1.
 - Product design is a focus area for this team, spanning both tech and simulation.
@@ -48,14 +39,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None formally recorded — this was an exploratory/scoping discussion around DigiLab and Module 1.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Identify any AI use cases from AMRC that would be relevant/useful to explore with SMR)

@@ -7,27 +7,18 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[SO]]
-- [[Rufino]]
+- [[Rufino Bolado|Rufino]]
 - [[Katie]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Regular KTP catch-up covering LMC1 preparation and review of the work plan.
 
 - Check progress on LMC1 preparation and the CWF work plan.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- LMC1 prep underway - [[RB]] sharing his notes from LMCs during his own KTP.
+- LMC1 prep underway - [[Rufino Bolado|RB]] sharing his notes from LMCs during his own KTP.
 - [[KL]] has spoken to internal contacts at CWF to work out which data is relevant to look at now:
   - Shallow analysis of multiple data sets (finance, quality, etc.).
   - Increased relevance to company operations/alignment.
@@ -37,14 +28,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Katie]] - Continue updating the work plan following internal CWF discussions, and clarify the D9 comparison exercise.

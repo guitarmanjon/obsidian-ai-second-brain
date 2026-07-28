@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - ...
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Review status of the NextGen course/programme and follow up with participating and prospective companies
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Course (name transcribed as "Eyup" - unclear): let companies know the gist of the course; no need for A-level maths; do we have phone numbers?
 - What is outstanding?
@@ -40,15 +31,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
 - [[JS]] - (Contact companies: drop the "Eyup" course, offer the [unclear - possibly "sizing" or a course/tour date], discuss involvement in hackathon)
-- [[JS]] - (Contact [[Bruce]]/[[Grace]] re: 20th Feb start date)
+- [[JS]] - (Contact [[Bruce Jackson|Bruce]]/[[Grace]] re: 20th Feb start date)

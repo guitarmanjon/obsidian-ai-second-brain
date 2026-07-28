@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Harry Burroughes]]
-- [[Matt Thomas]] (Timet)
+- [[Matthew Thomas|Matt Thomas]] (Timet)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> A site visit to Timet to identify potential collaboration and technology opportunities across their melting, forging, and machining processes.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 *(Note: the top of this page interleaves two columns - a main "Opportunities" list and a side "Collaboration opportunities" list. Reconstructed below on a best-effort basis.)*
 
@@ -49,14 +40,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

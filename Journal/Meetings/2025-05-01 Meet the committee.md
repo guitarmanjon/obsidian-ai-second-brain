@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - None recorded (personal interview/bio piece for the IET TN "Meet the Committee" feature).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Draft answers for the IET TN's "Meet the Committee" interview-style feature, covering Jon's route into manufacturing and experience on the TN.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - What brought him to manufacturing: a "happy accident" - was teaching Physics at a local secondary school and reconsidering his future in teaching when the AMRC's Mantra truck (an articulated lorry with manufacturing tech aimed at inspiring students) visited; it got him hooked, and he applied for and got a role at the AMRC shortly after - 12 years on, no regrets.
 - What inspired him to join the TN: a colleague mentioned the TN was looking for members; seen as a chance to do more with the IET beyond membership/CPD, give something back, steer events, host sessions, and get to know a strong set of volunteers and IET staff.
@@ -32,14 +23,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

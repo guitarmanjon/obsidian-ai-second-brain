@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Narcisa]]
 - [[JH]]
 - [[HB]]
@@ -20,15 +17,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Regular C&AI seniors round-up of incoming work and project status across the team.
-
 - Review status and coordination needs across R-R MUSIC, SMR, Filmcool, NCSC/GCHQ, Spirit, Boeing, Peak Indicators, AMIDO, Long Ops, Delta, and Factory+.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **R-R MUSIC**: [[Narcisa]] noted Jamie and James at R-R are not talking; ~£800k mentioned to Narcisa. MISSY valued at £400k. Needs coordinating centrally at IMG.
 - **SMR**: [[JH]] already involved. Lots of small projects around £50k each, but needs oversight for bigger work packages. [[HB]] should have talked to NAMRC about this recently. Another small project with [[Tom Robinson]] is on its way.
@@ -51,15 +42,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded explicitly, but ownership/next steps assigned per project as listed above.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[HB]] - (Follow up with NAMRC on SMR oversight).
 - [[AG]] - (Reach out to [[Gary Hilton]] at Boeing regarding MES/DES connectivity).

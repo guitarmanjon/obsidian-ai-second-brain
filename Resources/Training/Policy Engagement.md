@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Handwritten notes from a Policy Engagement training session dated 25/03/2025 (Tuesday 25 March 2025, 09:55). Covers how academic research can feed into UK Parliament and Government — legislation, select committee scrutiny, MP support, consultations, and routes for academic engagement with civil servants and the Chief Scientific Advisor.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Session intro / framing**
   - Speaker referenced: Huw Edwards
@@ -95,8 +89,5 @@ last updated: 2026-07-25T00:00:00
   - Referenced site: ari.org.uk
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

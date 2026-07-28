@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from **Session 2 - "Case for Support"** (07/09/2021, led by John Clark) of the University of Sheffield EPSRC/manufacturing grant writing course. Covers how to write the **Track Record** section (why you and your team are the right fit) and **Letters of Support / Project Partners**, including EPSRC guidance, worked example phrasing, and homework.
-
 - Slides are University of Sheffield "EPSRC Advice" decks plus live workshop discussion/exercise notes; screenshots of slides are noted rather than transcribed where they carried little extra text.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **Track Record - what it's for**
 - A **CV is not the same as a Track Record** for a proposal. The goal is to convince the reviewer/panellist that you (your team) are **ideal for the specific proposed project** - not a general statement of eminence.
@@ -74,9 +68,6 @@ last updated: 2026-07-25T00:00:00
 - Reference link: https://sites.google.com/sheffield.ac.uk/eng-res-support/main-menu/pre-award-support/pre-award-tool-kit/project-partner-letters-of-support
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - This is Session 2 of 5 in the EPSRC/manufacturing grant writing course.
 - [[EPSRC Grant Writing Course - Session 1 - Intro]]

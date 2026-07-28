@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Sandy]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To discuss [[Sandy]] (PTC)'s invitation for Rab/JS to speak at a PTC executive event on speed of innovation.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Forwarded email from [[Sandy]] to Rab: PTC is organising an executive event at the Concorde Museum, Bristol, on the 9th/10th of July, themed around speed of innovation & evolving with time; invited AMRC as a speaker.
 - Prior event precedent: Dave King at Triumph presented Meditel.
@@ -37,14 +28,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

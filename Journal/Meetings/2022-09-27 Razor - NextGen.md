@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Tom Helliwell]]
 - [[Hannah Wilkinson]]
 - [[James Croft]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Discuss how Razor could contribute to the NextGen project and what budget/scope is available.
-
 - Scope out Razor's potential role and available budget for NextGen.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - £50k available at Razor - equivalent to roughly 3-4 weeks of dev time; needs checking whether this can be extended.
 - Potential opportunities for Razor:
@@ -38,14 +29,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Check in with [[Ryan]] on what he can do and his availability.)

@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]], [[Alex G]], [[Bikram B]]
 - IBM: [[Alex Goodson]], [[Ian Gardner]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To review the IBM Edge storage kit loaned to AMRC and discuss how to exploit its capability.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Alex Goodson]] is CTO for Storage, UK and Ireland; [[Ian Gardner]] is the AMRC key contact.
 - Objective: IBM have loaned high-capacity flash storage kit to AMRC.
@@ -36,14 +27,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Discuss the IBM Edge storage capability with other members of TMG to work out how to exploit it.)

@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Observations (3 January 2018) from previous TMG Internal Conferences, on giving a good presentation.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - Use the latest Windchill slide template; be cautious with laser pointers (exaggerates nervous shaking; invisible on multi-screen/web setups — PowerPoint's built-in pointer/cursor is visible to all).
 - Reference all sources; make images/graphs as large as possible (one slide per graph if clearer); talk to the audience, not the screen.
@@ -29,8 +23,5 @@ last updated: 2026-07-25T00:00:00
 - Slide control: arrow keys (forward/back) and mouse wheel work, not just clicking.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

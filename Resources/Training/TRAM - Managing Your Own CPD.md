@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from the TRAM (2023/24 cohort) session "Managing your own CPD", held 16/10/2023 and led by Eunice Lawton. Covers the structure and marking criteria for the ILM reflective CPD assignment, the Gibbs Reflective Cycle, and a group discussion on leadership qualities and what managers actually do day-to-day.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - Session led by **Eunice Lawton**, part of the ILM award — need to complete **6 sessions** to get the award (including this one).
 - Group discussion: leadership qualities looked for in a manager — Jon's own answer: **Accessible, Open, Honest, Supportive**. Group additions: good listener, empathy, allows freedom (not micro-managing), recognises strengths/weaknesses in others/team, not overwhelming subordinates with unnecessary information.
@@ -32,8 +26,5 @@ last updated: 2026-07-25T00:00:00
 - Source included a screenshot of a **Development plan** table template (columns: what you want/need to learn and why, what you'll do to achieve it, resources/support needed, success criteria, target dates) with example rows on communication skills.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[TRAM - Mentoring and Coaching]]

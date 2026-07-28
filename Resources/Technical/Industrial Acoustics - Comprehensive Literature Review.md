@@ -8,15 +8,9 @@ last updated: 2026-07-01
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> A comprehensive, citation-backed literature review on industrial acoustics - covering machine condition monitoring via airborne audio, unsupervised anomalous sound detection, and shop-floor tacit knowledge capture via speech recognition. The backing research document for [[Industrial Acoustics Notebook - Strategic Pivot Plan]].
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **Foundations** - contrasts contact-based vibration/Acoustic Emission (AE) sensing (intrusive, costly to scale, requires physical bonding to the machine) against airborne audible acoustic monitoring (non-intrusive, wide-area, but real-world noise and operational-shift misclassification are the core challenges). AE (high-frequency elastic stress waves, PZT ceramic sensors, extremely localised) is technically distinct from airborne audible acoustics (much wider spatial coverage, captures both machine sound and human speech).
 
@@ -31,8 +25,5 @@ last updated: 2026-07-01
 **Strategic recommendations synthesised at the end of the review**: deploy fixed, wide-angle MEMS microphone arrays near critical rotating equipment; use Tiny-AST-class edge hardware for on-machine anomaly detection; layer Grad-CAM/SHAP explainability into operator-facing alerts; use joint speech-enhancement/ASR pipelines with wearable microphones and voice-activity-triggered recording for speech capture; integrate conversational LLMs with connected-worker platforms (e.g. Augmentir's "Augie") to turn verbal troubleshooting explanations into structured SOPs.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[Industrial Acoustics Notebook - Strategic Pivot Plan]] - the strategic pitch this literature review supports.

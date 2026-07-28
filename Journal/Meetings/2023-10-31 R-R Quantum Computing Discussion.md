@@ -7,27 +7,18 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[HB]]
 - [[Ben M]]
 - [[JS]]
-- [[JMc]] - R-R
+- [[Jamie McGourlay|JMc]] - R-R
 - [[Tony Fipps]] - R-R, Future Methods Team
 - [[Jarett]] - R-R, Future Methods Team
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Discussion with Rolls-Royce (R-R) on quantum computing (QC) readiness, exploring R-R's interest and how AMRC could support.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[HB]] set the scene: interest from Boeing, how to get ready for QC when it arrives, and links to COMPASS. What's the interest from R-R, and how can AMRC support?
 - R-R are doing prep work for the arrival of QC but will not be investing in hardware yet.
@@ -54,14 +45,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Agreed approach: don't invest in Quantum hardware yet; focus on horizon scanning, risk mitigation, and identifying use cases in the meantime.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Learn more about qubits)

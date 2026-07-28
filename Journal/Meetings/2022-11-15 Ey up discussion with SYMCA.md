@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Joseph Quinn]]
 - [[Khalil Kirkwood]]
 - [[Simon Collingwood]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Discuss potential collaboration and funding opportunities between SYMCA and the Ey Up bootcamp/NextGen programme.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Simon Collingwood]] gave an overview of NextGen.
 - Email questions from [[Khalil Kirkwood]] covered: data/research supporting demand for the funded skills required; course title(s); and an idea of employers willing to engage with bootcamp design, including offering guaranteed interviews to learners at the end.
@@ -42,15 +33,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - [[Simon Collingwood]] agreed AMRC will put in a submission for the SYMCA bootcamp funding process.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Simon Collingwood]] - (Prepare submission demonstrating demand for bootcamps, by end-of-week deadline set by [[Khalil Kirkwood]])
 - [[Jon Stammers]] - (Help provide evidence of need for digital/advanced manufacturing training)

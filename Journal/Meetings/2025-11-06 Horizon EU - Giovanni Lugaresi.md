@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Giovanni Lugaresi]]
 - [[JS]]
 - [[Sophie Tomlinson]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Horizon EU exploratory call with [[Giovanni Lugaresi]] to discuss potential collaboration, focused on the Digital 51 call.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Digital 51 is the focus call.
 - [[Giovanni Lugaresi]]: Assistant professor at KU Leuven, Belgium, for 2.5 years, mechanical engineering within industrial management and logistics. Works on digital twins for smart manufacturing, production planning and control applications, and circular economy (automated disassembly, electronics focus to retrieve rare-earth metals).
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] / [[Giovanni Lugaresi]] / [[Sophie Tomlinson]] - Exchange ideas over email and reconvene in 2-3 weeks.

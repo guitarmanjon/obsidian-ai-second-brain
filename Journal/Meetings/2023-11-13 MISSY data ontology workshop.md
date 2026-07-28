@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[JS]], [[TR]], [[LL]], [[JE]], [[RS]]
 - R-R (Rolls-Royce): [[Jonathan Butters]], [[Neil Tatman]] (left at 14:30)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Workshop with Rolls-Royce to progress the MISSY project's data ontology, building on the existing data dictionary.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Data Dictionary recap: Excel-based so it's accessible to more of the team; uses Bronze-Silver-Gold levels, consistent with Databricks conventions.
 - [[Jonathan Butters]] (JB) commented on graph databases and triple-stores: probably don't need a graph DB; the data dictionary itself is essential; other views are needed too, e.g. material data.
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Agreed (per [[Jonathan Butters]]) to proceed with translating the Excel data dictionary contents into a conceptual map, even without a firm answer yet to NT's question on DoE schemas.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

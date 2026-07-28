@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Jonathan Eyre]]
 - [[Rab Scott]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Follow-up on the AMRC AI strategy work started at the May 2024 workshop: review progress, revisit the AI vision statement, and plan next steps (project repository, CMI links, Data and AI Showcase, AMRC AI survey).
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Alignment to the government's AI Opportunities Action Plan flagged by [[Jonathan Eyre]] as now needed, since that's where funding will be focused ([[Rab Scott]] agreed); [[Rab Scott]] queried whether a 5-year horizon is realistic.
 - [[Jonathan Eyre]]: what matters is understanding how to deploy - working with vendors to get real benefits in industry - not necessarily doing the deployment itself, otherwise questioned what the impact/point of looking at AI as a Catapult would even be.
@@ -48,15 +39,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - These AI strategy meetings should happen on a regular, recurring basis.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Get a session in to discuss what tools could be used and what project info to capture; if nothing lands within 4-6 weeks, default to a Google Form)
 - [[JS]] - (Review and consider rewording the AI vision statement - all input welcome)

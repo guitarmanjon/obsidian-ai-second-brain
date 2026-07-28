@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[TM]]
 - [[JS]]
 - [[Chris Hodgson]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To review IT tender submissions and judging notes in order to select a preferred supplier.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Preferred suppliers narrowed to either ATS or Argenta.
 - ATS spec'd a system over budget (~£136k) that doesn't include the cRIO element - based on what was written in the tender, they could rightly be rejected on this basis. However there's a political sensitivity: ATS were rejected on a previous tender and there's been close collaboration with them in writing this one. [[TM]] to discuss with ST and BM on how to handle this.
@@ -39,17 +30,11 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Assystem rejected due to poor case study detail.
 - Minchin and Dowsing rejected - no case study given.
 - E3/Seiki Systems bid rejected - doesn't fulfil requirements and planning not detailed.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[TM]] - (Discuss ATS budget/political issue with ST and BM)
 - [[JS]] - (Review and score all tenders properly)

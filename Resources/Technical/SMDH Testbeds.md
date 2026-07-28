@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Description (9 August 2022) of the AMRC's Connected Factory, Legacy Systems, and Cyber Security testbed capabilities offered under the SMDH programme.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Connected Factory:** AMRC's Factory+ framework spans CNC tools, sensors, robot cells, smart tools, casting/additive/composite processes. Testbed lets tech companies connect products to the data capture framework (subject to data sanitising) or test hardware for capturing/delivering data to Factory+.
 - **Legacy Systems:** covers modern-but-discontinued CNC platforms through to 50-60 year old lathes/mills, including one legacy platform retrofitted with a modern control system and sensors. Opportunities: connect to existing sensing for usage/health data, implement new sensing on legacy platforms, feasibility studies for closed-loop/human-in-the-loop control retrofits.
@@ -25,8 +19,5 @@ last updated: 2026-07-25T00:00:00
 - Aim: define a standard cyber-risk-assessment approach across HVMC Digital Innovation Hubs and identify common problem areas.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

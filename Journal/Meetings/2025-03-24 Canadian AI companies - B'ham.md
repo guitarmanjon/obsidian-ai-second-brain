@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (attending a series of one-to-one meetings/networking at a Birmingham event)
 - MayaHTT - [[Marc Lafontaine]]
 - AutoAlign AI - [[Dan Adamson]], [[Mike Knobben]]
@@ -19,15 +16,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A series of meetings/conversations with Canadian AI companies at a Birmingham event, to explore commonalities, challenges, and potential R&D collaboration opportunities.
-
 - Series of one-to-one style meetings with visiting Canadian AI companies to scope out collaboration potential.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **MayaHTT ([[Marc Lafontaine]])**: Very experienced company, 150+ projects in IIoT/AI space. Siemens Insights Hub plug-in/app; Smart Machine Assistant is an ML-based system relying on Siemens hardware for data capture from machine tools, providing optimised parameters for operators (advisory only, doesn't control). UK presence for ~6 years via long relationship with Rolls-Royce; Marc personally involved with several R-R business areas. Doing physics-based AI work. Potentially useful for the Composites team - Maya have done fibre orientation work. Open to R&D collaborations and could be a good outlet/integrator for AMRC R&D that needs a next step.
 - **AutoAlign AI ([[Dan Adamson]], [[Mike Knobben]])**: AI supervisor that interacts with LLMs for safe, secure, reliable, and compliant dynamic interaction with LLMs. Emphasis on "AI Augmented workforce" rather than replacement of people with AI. Context-aware AI examples in wearables that understand a worker's current task context. Multimodal data angle - potential link-up with Hai Ping and UKOMAIN. Very open to R&D collaborations and signposting opportunities.
@@ -38,15 +29,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded - these were exploratory/networking conversations rather than formal decision-making meetings.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - Follow up on common ground across companies re: challenges faced, data availability, target manufacturing sectors, existing UK presence, and R&D collaboration appetite.
 - [[JS]] - Consider potential link between MayaHTT ([[Marc Lafontaine]]) and the Composites team on fibre orientation work.

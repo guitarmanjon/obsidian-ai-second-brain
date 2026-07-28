@@ -7,29 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[JS]], [[Grace]], [[Hoong Hui Leong]], [[Jack Raspin]]
-- GCHQ: [[Roger B]], [[Haran]], [[Neil]], [[Richard L]], [[Ben]] (?), [[Partrick]]
+- GCHQ: [[Roger Badge|Roger B]], [[Haran]], Neil, [[Richard L]], [[Ben Morrow|Ben]] (?), [[Partrick]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Wrap-up meeting to review the GCHQ Cyber project, discuss the feasibility of a company workshop, and work through information security safeguards for any data gathered.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 - Acknowledged that a workshop would be a good idea but it is difficult to get all companies in the same room; GCHQ have done this before with a few companies in the room, including competitors of each other.
-- [[Roger B]] raised a potential issue: the university's reputation for info security is not great, and being part of the university could work against AMRC here. GCHQ could potentially guide this.
+- [[Roger Badge|Roger B]] raised a potential issue: the university's reputation for info security is not great, and being part of the university could work against AMRC here. GCHQ could potentially guide this.
 - Data storage for anything gathered would need to be more secure and segregated. Any submission should be completely sanitised before being saved/stored to a shared space - but need to ensure the ability to revoke.
-- "Honest Broker" concept: AMRC would be the only party that can reverse the sanitisation. Open question of how to do this and whether GCHQ can assist - NCSC are the likely people to help, [[Roger B]] to investigate.
-- If only a few companies are involved, could a tech solution work instead, with a Security Officer acting as the Honest Broker? ([[Ben]] suggested this.)
+- "Honest Broker" concept: AMRC would be the only party that can reverse the sanitisation. Open question of how to do this and whether GCHQ can assist - NCSC are the likely people to help, [[Roger Badge|Roger B]] to investigate.
+- If only a few companies are involved, could a tech solution work instead, with a Security Officer acting as the Honest Broker? ([[Ben Morrow|Ben]] suggested this.)
 - Document Management Systems discussed: Windchill (apparently has good security accreditation); SharePoint + Exostar, similar to the Rolls-Royce approach, as another option.
 - Need to identify the boundaries of the workshop and what companies are prepared to divulge.
 - Three levels companies can divulge at: open to all, AMRC-only, will not share.
@@ -40,14 +31,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded - the Honest Broker/security model remains an open question pending further investigation.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Roger B]] - (Investigate whether NCSC can assist with the Honest Broker sanitisation-reversal process.)
+- [[Roger Badge|Roger B]] - (Investigate whether NCSC can assist with the Honest Broker sanitisation-reversal process.)

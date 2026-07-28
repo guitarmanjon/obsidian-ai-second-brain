@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Steve Carter]] - RR Cyber Physical Systems
 - [[Arthur Smith]] - RR Broaching
 - [[Donka N]] - RR Associate Fellow for Machining
@@ -20,13 +17,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Discussion between AMRC and Rolls-Royce on the Full Monty project, exploring sensor/KPV correlation to part quality, AI opportunities in machining, and Edge connectivity options.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Donka N]] (DN): RR heavily interested in Full Monty, looking at connected systems generally - interested in what data is captured, how, where stored, etc.
 - [[Arthur Smith]] (AS): RR have a component previously used for testing Hermles that covers many operation types - will check if it can be used by AMRC (programming and CMM work already done).
@@ -45,15 +36,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Arthur Smith]] - (Check if RR's Hermle test component can be used by AMRC)
 - [[JS]] - (Follow up with [[Chris Taylor]] / [[Dave Curtis]] on RR's list of KPVs)

@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Rob Poyner]]
-- [[Nat Hudson]]
+- [[Nathaniel Hudson|Nat Hudson]]
 - [[Daniel Smalley]] (Dan)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Deep-dive with Siemens on the Industrial Edge product, its architecture and openness, and potential AMRC use cases for technical evaluation.
-
 - Understand Industrial Edge's capability and roadmap, and scope a case study for AMRC to take part in the technical release.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Daniel Smalley]] (Dan) - factory automation lead, UK specialist for Industrial Edge.
 - Industrial Edge is in a limited sales release phase - production-ready product on the market, but sales are limited to allow technical evaluation.
@@ -53,14 +44,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

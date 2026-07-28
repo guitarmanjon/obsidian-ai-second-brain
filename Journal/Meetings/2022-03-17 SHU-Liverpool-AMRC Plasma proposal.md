@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[James Bradley]]
-- [[Harry Ehiasarian]]
+- [[Arutian Ehiasarian|Harry Ehiasarian]]
 - [[Jon Eyre]]
 - [[Jon S]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To work through the Plasma proposal's Work Package 4 (Physics and ML models) content and responsibilities.
-
 - Clarify AMRC's role as WP4 lead and flesh out the physics/ML modelling approach and deliverables.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Who is Principal Investigator from AMRC needs to be identified.
 - WP4 - Physics and ML models, led by AMRC.
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Write up D4.2, deployed ML models section).

@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]] (attendee). Hosted by [[Josh D'Addario]]. Panellists: [[Dave Simpson]] (DNV), [[Rachel Hassall]] (DNV), [[Michael Glass]] (SSEN Distribution), [[Jon Thompson]] (Yottar), [[Yiu-Shing Pang]] (UK Power Networks), [[Abbas Mahmood]] (Energy Networks Association).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Jon attended a talk/panel event on next-generation data sharing in the energy sector.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Hosted by [[Josh D'Addario]]. [[Dave Simpson]] from DNV - DNV help companies in the energy sector make the most of their data. Example of a good public energy sector dataset - the London Register of Subsurface CO2 Storage. ISO 25012 quoted - "data quality characteristics will be of varying importance and priority to different stakeholders."
 - Panel: [[Rachel Hassall]] (DNV, Data Science and AI lead), [[Michael Glass]] (Data Governance and Information Manager, SSEN Distribution), [[Jon Thompson]] (Chief Product Officer, Yottar), [[Yiu-Shing Pang]] (Data sharing manager, UK Power Networks), [[Abbas Mahmood]] (Head of Data and Digitalisation, Energy Networks Association).
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Reach out to the ODI re: data sharing in manufacturing.

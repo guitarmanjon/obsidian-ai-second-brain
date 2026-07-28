@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Tom McLeay]]
 - [[Simon Hogg]]
 - [[Martin Vernon]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Gate review of ADG140 (machine inspection) and ADG148, both MBD (Messier Bugatti Dowty) projects running simultaneously as they are closely related.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Definition of a "gate review": statement of work and schedule scrutinised by a senior PM to ensure overrun, over-allocation of resources, and over-spend risks have been considered.
 - The two projects (ADG140 and ADG148) run simultaneously as they are both with MBD and closely related.
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Statements of Work will be finalised by Simon and sent to MBD for their final decision on how/if the work will proceed (expected to go ahead, as Tom has already had informal confirmation).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Simon Hogg]] - (Finalise the Statements of Work and send to MBD for their decision)

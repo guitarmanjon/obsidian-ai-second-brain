@@ -7,27 +7,18 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Aiden Lockwood]]
 - [[PK]]
-- [[HL]]
+- [[Hatim Laalej|HL]]
 - [[PW]]
 - [[SM]]
 - [[JS]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Session to review preliminary automation project areas identified for Boeing Sheffield, following a workshop between Boeing Sheffield IT and IMG, and to discuss scope and budget.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Aiden Lockwood]]: short projects with Boeing Sheffield (BS) around automation as preliminary work; has fed into BS on IT infrastructure requirements (five 9s availability).
 - 3 areas of interest identified from a BS IT / IMG workshop:
@@ -40,14 +31,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

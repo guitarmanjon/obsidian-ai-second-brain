@@ -1,31 +1,23 @@
 ---
 aliases:
-  []
+  - DC
 team: AMRC
 role: 
 tags:
   - People
-last updated: 2026-07-27T00:00:00
+last updated: 2026-07-28T00:00:00
 ---
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
 - Working on tool grinding capability and power-skiving tooling manufacture exploration, alongside Ben Cook, Dan Smith and Adam Brown.
+- Involved in machine-inspection capability work for grinding (cylindricity, surface profile) and gears (form), plus coolant-quality sensor questions.
 
 ## Notes
-
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
 
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -63,8 +55,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

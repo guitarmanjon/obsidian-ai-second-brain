@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]] (attendee). Speakers/panellists: [[Jason Hayes]] (Sheffield University), [[Fiona Fletcher]] (Rotherham Metropolitan Borough Council), [[Ash Hibbard]] (Marvel Training), [[Charlie Bartle]] (Zygenz), [[Andy Haldane]] (Chancellor, University of Sheffield; Chair, AMRC Board), [[Sarah Tulip]] (And Then Consulting, panel chair), [[Rob Hamilton]] (North East Combined Authority), [[Crispin Reed]] (The Coders Guild), [[Mel Kanarek]] (Sheffield Digital), [[Victoria Tomlinson]] (Next-Up).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Jon attended "People, Technology and Productivity in Yorkshire, the Humber and North East Region" (Millennium Gallery, Sheffield, 29 April 2026, 9:30am-2:30pm).
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **Introduction and report summary**: [[Jason Hayes]] introduced and summarised the report "Training Practices and Skills Needs in Yorkshire, the Humber and the North East" - the current landscape of professional development and skill requirements across these regions.
 - **Pathways to Work**: [[Fiona Fletcher]] and [[Ash Hibbard]] discussed innovative pathways to employment and a collaborative approach to reintegrating individuals into the workforce.
@@ -33,15 +24,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Charlie Bartle]] (Zygenz) - reach out via charlie@zygenz.com regarding AI Lab collaborations.
 - [[Vanessa]] - follow up regarding her work on AI integration in software and manufacturing.

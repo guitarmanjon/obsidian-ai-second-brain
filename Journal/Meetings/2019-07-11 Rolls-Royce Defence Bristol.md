@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (AMRC)
 - [[TMcC]] (AMRC)
 - [[PK]] (AMRC)
@@ -24,13 +21,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Meeting with Rolls-Royce Defence Bristol to present AMRC capability and discuss potential collaboration on rotor 2 blade cycle times, VIGV/rotor 1 panel machining, and repair technology.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Agenda: improving rotor 2 blade cycle times; machining VIGV and rotor 1 panels; VIGV machining; repair tech; AOB.
 - AMRC presentation:
@@ -49,14 +40,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - RR team - (Regroup internally and consider how to work with AMRC on panel machining)

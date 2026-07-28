@@ -8,16 +8,10 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from the IET "Demystifying AI" event, 26 January 2023, given by two named speakers — Rachel Craddock (Thales) and Kirsten McCormick (General Dynamics Mission Systems UK). The session moves through AI/ML/Data Science/Deep Learning distinctions, how ML actually learns, where AI systems can go wrong, a set of "AI Consideration Topics" (Trust, Robustness, Governance, Interpretability, Diversity, Safety & Security, Ethics/Data/Bias), and closes with a myth-busting segment. Useful as a plain-language primer for explaining AI/ML basics and responsible-AI risk areas to non-specialists.
-
 - The source pages include several pasted presentation slide screenshots (Venn diagrams, an AI-agent architecture diagram, neural-network decision-boundary illustrations, a bias-taxonomy graphic). These are noted below but not transcribed in detail — only the typed notes, headings and captured text are transcribed, per source.
 - Sub-sections in the original notes are marked "KM", "RC" and "Myth busters" — kept here as short-form labels since the notes don't explicitly state which initials map to which named speaker (identity resolution left for later).
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distilled points below, grouped under the same "KM" / "RC" / "Myth busters" markers used in the source notes, plus an unmarked intro section that precedes the first "KM" label.
 
 - **Intro — AI vs Machine Learning vs Data Science vs Deep Learning** (no speaker marker in source)
   - [Screenshot: Venn diagram "Artificial Intelligence, Machine Learning or Data Science?", credited "Dstl AI Biscuit Book"] ML = algorithms that help machines improve through supervised, unsupervised and reinforcement learning; a subset of AI and Data Science. AI = technology for machines to understand/interpret/learn and make "intelligent" decisions; includes ML among many other fields. Data Science = collection, preparation and analysis of data, leveraging AI/ML, research, industry expertise and statistics to make business decisions.
@@ -50,8 +44,5 @@ last updated: 2026-07-25T00:00:00
   - *"AI is pervasive in our society today"* — **Correct**. Examples given: Personal security — image recognition for face unlock in mobiles; Marketing — marketing chat bots; Transport — Google Maps routing; Transport — automated systems in vehicles, e.g. ABS; Cyber security — spam detection; Medical — cancer detection in mammogram images; Finance — fraud detection; Social media — recommendation engines; Shopping — recommendation engines.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

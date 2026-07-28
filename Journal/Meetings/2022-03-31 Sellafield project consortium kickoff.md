@@ -7,10 +7,7 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- NAMRC: [[Evan]], [[Dimitrios]], [[Dattatraya]], [[Sarah Shaw]]
+- NAMRC: [[Evan]], [[Dimitrios Anagnostakis|Dimitrios]], [[Dattatraya Parle|Dattatraya]], [[Sarah Shaw]]
 - AMRC: [[JS]]
 - Ada Mode: [[Dan Everitt]] (co-founder, engaged with Sellafield on AI strategy, bringing AI and advanced data analytics to industry, with plenty of background with Sellafield/nuclear industry)
 - Sellafield: [[Melissa Wills]] (Robotics and AI)
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> First potential consortium meeting for the Sellafield project.
-
 - Bring together the prospective consortium partners and walk through the task structure.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Introductions all round.
 - NAMRC's focus is on legacy systems.
@@ -38,14 +29,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Ada Mode to take on Task 4 (Analytics/ML); Pixelmill likely to take on Task 3.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

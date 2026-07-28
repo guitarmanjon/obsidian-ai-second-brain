@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from **Session 5 (the final session)** of the EPSRC/manufacturing grant writing course, dated **15/09/2021**. This session moved from lecture-style content to guided exercises: critically reviewing the Track Record sections of example proposals, and appraising submitted National Importance (NI) statements. Useful as a checklist of questions to interrogate when reviewing or drafting these two proposal sections.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Track record statements** — reviewing example proposals:
   - Look at the Track Record sections of the proposals in the Example Proposals Folder.
@@ -39,9 +33,6 @@ last updated: 2026-07-25T00:00:00
   - Can you use anything yourself from what you have read?
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - This is **Session 5 of 5** — the final session of the EPSRC Grant Writing course.
 - [[EPSRC Grant Writing Course - Session 4]]

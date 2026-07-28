@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Javier]]
 - [[Sabino]]
 - [[Narcisa]]
@@ -18,28 +15,22 @@ tags:
 - [[Sam Hyde]]
 - [[Oli Hayes]]
 - [[Kev Kerrigan]]
-- [[Pritesh]]
+- [[Pritesh Patel|Pritesh]]
 - [[Vandana]]
 - [[Siva]]
-- [[Zohaib]]
+- [[Zohaib Farhat|Zohaib]]
 - [[Shuwen Wen]]
 - [[Rab]]
 - [[Jon E]]
-- [[Dave C]]
+- [[Dave Curtis|Dave C]]
 - Grants team (name uncertain)
 - [[Jon S]] - facilitating
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - xAMRC AI Strategy Workshop, bringing together AI-related activity leads from across the AMRC to share what each group is doing and start shaping a collective AI identity/vision.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Planned activities for the workshop:
   - Activity 1 - sharing of each group's projects and capabilities (25-30 mins), potentially "speed-dating" style: one person per group stays put while others rotate round for 3 minutes each, followed by 5 minutes of reflection. Overview slides to be printed to avoid relying on screens.
@@ -55,14 +46,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded - this was workshop planning/facilitation prep rather than a decision-making session in itself.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Jon S]] - (Facilitate the workshop and finalise activity format/timing)

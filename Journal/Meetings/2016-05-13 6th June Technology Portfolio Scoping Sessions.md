@@ -7,13 +7,10 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Tom McLeay]] (email sender)
 - [[Sam Turner]]
-- [[James]]
-- [[Matt]]
+- [[James Moore|James]]
+- [[Matt Farnsworth|Matt]]
 - [[Dennis Fretwell]]
 - [[Dave Curtis]]
 - [[Jon Stammers]]
@@ -24,15 +21,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To assign owners and scope out Technology Portfolio project themes/sessions for the afternoon of 6th June, ahead of the InnovateUK funding call deadline (£15m available, full application due 13th July).
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - (Source text garbled - a table of scoping sessions was interleaved column-by-column with running commentary in the original export; the reconstruction below is best-effort.)
 - Funding call background: InnovateUK - £15m available, full application due 13th July. Agenda for the afternoon of 6th June: robotic machining led by IMG, machining group leads I4.0 machine shop. ADG and ATI are other possible funding routes (e.g. an InnovateUK project led by MBD with IBM/PTC involved). Time is very tight for getting an application together.
@@ -54,15 +45,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Sam Turner]] - (Advise on lead partner for the I4.0 project)
 - [[Tom McLeay]] - (Provide agenda leadership for I4.0 session)

@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[PC]] - gave the IDC overview.
 - Machining group / PM&C and Aerofoils teams.
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - First of what was intended to become a regular (roughly bi-monthly, half-day) Machining group strategy session, reviewing funding milestones and brainstorming EngD project ideas.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - These sessions were intended to become regular, every ~2 months, half a day.
 - IDC funding finishes after 2018 (last intake) - board funding for IDC students.
@@ -37,14 +28,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - These strategy sessions to become a regular, roughly bi-monthly, half-day fixture.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - (Team) - (Prepare ABG SoWs for the November 2017 funding round, within 2 weeks)

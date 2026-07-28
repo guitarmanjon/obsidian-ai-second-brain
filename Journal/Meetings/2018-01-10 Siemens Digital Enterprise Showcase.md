@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ross Caddens]] - Strategic Programmes, Catapults (Presenter)
 - [[Dave McDermand]] - Head of UK PreSales, Siemens (Presenter)
 - [[Chris Abbott]] - NX Consultant (Presenter)
@@ -30,15 +27,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A Siemens Digital Enterprise showcase for AMRC/AFRC to review Siemens' digital manufacturing product portfolio and identify potential applications for the Factory of the Future work.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - (Source text garbled — the original export interleaved two columns: an agenda of topics/presenters and a full attendee list with job titles. Reconstructed best-effort below.)
 - Overview - [[Dave McDermand]]; NX12 - [[Chris Abbott]]; Factory layout and optimisation - [[Ian Walls]]
@@ -54,14 +45,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

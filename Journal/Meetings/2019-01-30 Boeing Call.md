@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ben Morgan]]
 - [[Ryan Diver]]
 - [[Rui]] - apps engineer in Munich, standardisation
@@ -24,15 +21,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A call between AMRC, Siemens and Boeing to discuss enterprise automation standardisation, I4.0/ISA-95 architecture, and how AMRC's work (including paperless shop floor and sensor data) fits into Boeing's enterprise architecture plans.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Rui]] presentation on Enterprise Automation Standardisation - focus on ISA-95 levels 1 to 2. (Several bullet points on this page were image/diagram content that did not survive text extraction.)
 - Network architecture is dependent on the controller vendor; an example of a current setup was shown (diagram not captured in text extraction).
@@ -51,14 +42,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - A follow-up visit in March was agreed, to focus on understanding I4.0 architectures and ISA-95 levels 1 and 2 in more depth.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

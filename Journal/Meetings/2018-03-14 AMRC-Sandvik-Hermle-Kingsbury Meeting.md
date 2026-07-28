@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Justin Davies]]
 - [[Cliff Barber]] (Kingsbury)
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Meeting between AMRC, Sandvik, Hermle and Kingsbury to scope a PLC monitoring system (Prometec) for machine tools, covering technical requirements, cost, and delivery timeline.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Justin Davies]] gave an overview of the system: main requirement is to monitor the PLC, feedback if a collision is detected, and potentially control feedrates. Prometec have an automotive background and want to break into aerospace via Sandvik. A UK-based engineer can facilitate fitting the unit, with overview support from Hermle/Kingsbury during install.
 - [[Martin Wener]] requested Prometec contact Hermle directly with PLC requirements.
@@ -37,15 +28,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Prometec to contact Hermle directly regarding PLC requirements, per [[Martin Wener]]'s request.
 - Initial work assigned to Hermle to scope requirements, with possible delegation to Kingsbury thereafter; RR-related work to route through [[Martin Wener]].
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Justin Davies]] - (Have Prometec contact Hermle directly with PLC requirements)

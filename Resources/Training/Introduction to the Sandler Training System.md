@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> In 2-3 sentences, explain what this resource covers and why it's useful. Focus on the value it provides to your work, not just what it is, but why you saved it.
-
 - Handwritten notes (with several pasted presentation-slide photos) from a Sandler sales training course, led by trainer Roy Johnson, spanning at least three sessions (9 Jan 2024, 23 Jan 2023 [sic, as dated in the notes], and 30 Jan 2024). Covers the core Sandler Selling System: the sales "funnel"/pipeline stages (Bonding & Rapport, Up-front Contract, Pain, Budget, Decision, Fulfilment, Post-Sell), the Success Triangle (Attitude/Behaviour/Technique), why buyers and sellers fall into a dysfunctional "dance," how to build rapport and uncover genuine pain, and how to run up-front contracts, questioning strategies, and prospecting behaviours.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Purpose of the training:** get everyone "on the same page" with **consistent terminology across the business** — what am I "selling," how to have those conversations, when to let a deal lapse, how to pitch effectively, and how to pinpoint what the customer actually wants. Sales people are framed as **"Agents of change."**
 - **Pipeline / funnel definitions** (people define these differently, so align on one model): a funnel narrowing from **Suspects** through the stages **Bonding & Rapport → Up-front Contract → Pain → Budget → Decision**, with prospects becoming progressively **"Cold" → "Warm" → "Hot"** as they move down, and crossing a **"Qualified"** line near the bottom. Below that: **Customer** = someone who has actually given you money; **Prospect** = someone who *could* become a customer.
@@ -44,8 +38,5 @@ last updated: 2026-07-25T00:00:00
 - **Prospecting behaviours to get involved with:** proactively researching what other groups/teams are doing; asking existing/approaching customers what else they need and why they chose that project; networking events; "laying the seeds of doubt" by referring to international standards; group discussion, referrals, networking, and asking "what bad things will happen [if they don't act]?"; case studies; LinkedIn; "chase the money" / "stand in the flow of money" (funding bodies); and aim for **3-wide, 3-deep** relationships — more than one point of contact per account.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

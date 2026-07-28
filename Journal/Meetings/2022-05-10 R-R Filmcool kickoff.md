@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jamie McGourlay]]
 - [[Alex Lee]] (placement)
 - [[Richard Douglas]] - Technical Project Manager, leading data science projects, background in engine health monitoring and enterprise analytics
@@ -19,15 +16,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To scope the Thingworx-based productionisation of the Filmcool EDM trend-detection tool for Rolls-Royce.
-
 - Discuss the Thingworx capability piece of work and confirm data formats/next steps for productionising the filmcool tool.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Thingworx capability piece of work under discussion.
 - Quote from [[Jon Hall]]: talking with Roy about upgrading the Thingworx deployment to 9.3, need to confirm with R-R what format data will come in and how to get it into the Thingworx database.
@@ -44,15 +35,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Data will be supplied to AMRC in JSON format, already converted by R-R.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Richard Douglas]] - (Provide sample JSON data to guide Thingworx development).
 - AMRC - (Respond to R-R's SoR with a Statement of Work).

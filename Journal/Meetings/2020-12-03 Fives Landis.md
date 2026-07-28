@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Derry Falkner]]
 - [[Mark Stocker]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A technical discussion with Fives Landis about their in-house CNC control system (OpenCNC), exploring the potential for open-sourcing/collaboration and a possible AMRC/university consortium project.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later. (Dense technical dump - presented as a bulleted list rather than forced narrative.)
 
 - Fives make their own control system, giving them the flexibility to do what they need to.
 - Can see the benefit of the control system to a wider audience:
@@ -68,14 +59,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

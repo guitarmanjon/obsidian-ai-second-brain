@@ -1,31 +1,27 @@
 ---
 aliases:
   - JMc
+  - Jamie M
+  - Jamie
 team: Rolls-Royce
 role:
 tags:
   - People
-last updated: 2026-07-23T00:00:00
+last updated: 2026-07-28T00:00:00
 ---
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
 - Rolls-Royce contact re: MISSY ([[2026-01-08 AMRC x COM]]). Also connected to [[Heiko]] at CHESCO ([[2026-03-04 CHESCO Day 1]]).
+- Wants seamless IMG/TMG engagement so AMRC can be referred to as a whole rather than dealing with each group separately.
+- Also works with Jon on Rolls-Royce ADG projects.
+- Raised total-cost-of-ownership-for-data questions at Rolls-Royce; looking into why the Artis system isn't back on the table for R-R.
 
 ## Notes
-
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
 
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -63,8 +59,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

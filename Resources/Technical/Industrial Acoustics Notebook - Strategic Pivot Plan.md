@@ -8,15 +8,9 @@ last updated: 2026-07-01
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Jon's living research notebook (July 2026) documenting a strategic pivot toward integrating urban soundscape / machine-listening research into manufacturing contexts - using low-cost, human-audible acoustic monitoring plus modern deep learning to unlock insight into safety, machine health, and tacit knowledge on the shop floor. Sets out a whitepaper case ("Hearing the Factory Floor"), a three-pillar framework, relevant University of Sheffield/AMRC academic links, and a proposed roadmap back into acoustics research.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **The disruptive hook** - modern manufacturing is "acoustically dark": vibration/temperature/PLC data is captured extensively, but the rich airborne acoustic environment is routinely ignored, historically due to background noise and specialised sensor cost. Breakthroughs in Audio Spectrogram Transformers, self-supervised learning, and robust speech-in-noise processing now make it viable to extract deep operational insight using cheap, off-the-shelf microphones (human-audible spectrum, 20 Hz-20 kHz, under £100 per node) rather than expensive contact-based Acoustic Emission probes - treating the whole workshop as an "Industrial Auditory Scene" to untangle overlapping sounds into discrete, classifiable events.
 
@@ -33,8 +27,5 @@ last updated: 2026-07-01
 - Phase 3 (months 6+): joint academic/industrial grant bids (Innovate UK, EPSRC) with MACE and Computer Science, using the Factory 2050 pilot data to scale to high-value industrial environments.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - [[Industrial Acoustics - Comprehensive Literature Review]] - the deeper literature review underpinning this pivot plan.

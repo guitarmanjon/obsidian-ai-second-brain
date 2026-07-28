@@ -9,22 +9,13 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
 - Research Growth Manager for Social Sciences at UoS. Also connected to skills for data and AI, and to AMRC-side fellowship work. See [[2025-10-08 CMI Town Hall]], [[2026-01-06 FLF Internal Interview for LL]], [[2026-01-15 ATR Update]], [[2026-02-09 Chris Dungey]], [[2026-03-10 COM x AMRC]], [[2026-01-21 AMRC x Social Sciences]].
 
 ## Notes
 
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
-
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -62,8 +53,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

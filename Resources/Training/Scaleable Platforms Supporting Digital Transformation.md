@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Session by Drew Silcock (STFC Hartree Centre), 04 February 2025, walking through why scalable platforms matter for digital transformation. Uses a worked "waste management company" example to show a platform maturity progression (paper → spreadsheets → on-premise app → managed cloud services), a real-world scalability failure (NHS Test & Trace), and a tour of cloud service categories (infrastructure, database/storage, AI/ML, IoT, streaming, HPC) that underpin modern scalable platforms.
-
 - Useful as a reference for explaining *why* cloud/managed platforms matter to non-technical stakeholders, using the pets vs. cattle and Test & Trace analogies.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Platform maturity progression (worked example: waste management company)**:
   - **Step 0 – current "platforms"**: multiple non-standardised, inefficient paper documents; data not integrated/unified; no capability for analysis/insight; not AI-ready; data loss very likely; **not scalable**.
@@ -39,8 +33,5 @@ last updated: 2026-07-25T00:00:00
 - Several pages included slide screenshots (platform-maturity diagrams for Steps 0–3, cloud vendor/service logo grids, the DT definition graphic, and the Barone San. fleet-monitoring diagram) with little additional typed commentary beyond what's captured above.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

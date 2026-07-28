@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers|JS]] (solo reflection/prep)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Personal prep notes ahead of JS's own 2024 SRDS (Staff Review and Development Scheme) review.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Questions: existential crisis - what am I? What is my role? Am I doing what a STL should be doing? Feels like most time is spent managing people and dealing with emails - is this right? How do I find time for developing myself and getting technical leadership under my belt?
 - Things I'd like to do: develop strategically; pull together a bigger bid; do more in AI, leading AMRC strategically - how do I become a leader in this space, given time is short; get CEng done; ACP; KTP leadership across AMRC - volunteer for a townhall?; winning work - still don't feel particularly good at this.
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

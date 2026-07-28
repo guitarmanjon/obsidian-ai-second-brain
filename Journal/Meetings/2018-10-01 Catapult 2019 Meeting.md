@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[MF]], [[Nikos]], [[Sabino]], [[JS]], [[KH]], [[TMc]], [[BC]], [[Simon]] (Rotatives), [[PK]], [[AB]], [[EO]], [[TMcC]], [[DS]]
+- [[Matt Farnsworth|MF]], [[Nikolaos Dervilis|Nikos]], [[Sabino]], [[JS]], [[Kevan Holloway|KH]], [[TMc]], [[BC]], [[Simon]] (Rotatives), [[PK]], [[AB]], [[Erdem Ozturk|EO]], [[TMcC]], [[Dan Smith|DS]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> To facilitate discussion around collaborative Catapult projects planned for the 2019 funding year.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[TMc]]: Facilitate discussion around collaborative projects for next year. Aim is for collaborative projects, some outlier projects maybe. Funding confirmed early next year to allow work to start in April 2019. Similar sized project/budget to next year.
 - [[AB]]: Overview of this year's Catapult. NX9 radial depth not consistent. Automated tool wear capture system is up and running - can it draw off the PM&C system to capture current programme, radial depth, etc.? Halcon camera system for TCM as part of MP2.3?
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Funding confirmed to be available early next year, allowing project work to start in April 2019, at a similar budget/size to this year.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[AB]] - (Develop a best practice guide with the Structures team, at Applications level, for next year)

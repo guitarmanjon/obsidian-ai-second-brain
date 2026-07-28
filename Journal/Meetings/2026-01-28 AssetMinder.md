@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Nick Leeder]]
 - [[Phil]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To scope a potential partnership/demo opportunity with AssetMinder, now owned by ITI, including a possible demo in F2050.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **Asset Minder**
 - Now owned by ITI, based in Edinburgh.
@@ -34,11 +25,11 @@ tags:
 **JS overview of AMRC updates**
 - [[JS]] gave an overview covering the CEO, HVMC, etc.
 - New AMRC partnership model discussed.
-  - **AM - do we need to visit? [[Julia]]**
+  - **AM - do we need to visit? [[Julia Yeardley|Julia]]**
   - Plus ITI info needed for the new model.
 
 **Robots**
-- Potentially of interest, mentioned because of [[James]]'s PLM work on the Kuka.
+- Potentially of interest, mentioned because of [[James Moore|James]]'s PLM work on the Kuka.
 - **COMPASS robots?**
 - BVAA - IoT: Hy SaaS. AM have ATGx kit with bluetooth auto connect.
 
@@ -51,16 +42,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
-- No formal decisions were made. Several open questions were raised instead: whether AM needs a visit (**AM - do we need to visit? [[Julia]]**), whether COMPASS robots are relevant (**COMPASS robots?**), and whether [[Phil]] should be linked with [[Julia]].
+- No formal decisions were made. Several open questions were raised instead: whether AM needs a visit (**AM - do we need to visit? [[Julia Yeardley|Julia]]**), whether COMPASS robots are relevant (**COMPASS robots?**), and whether [[Phil]] should be linked with [[Julia Yeardley|Julia]].
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Julia]] - (Confirm whether a visit to AM is needed)
-- [[James]] - (Follow up on whether COMPASS robots are relevant, given his PLM work on the Kuka)
-- [[Phil]] - (Connect with [[Julia]] on AM/COMPASS follow-up)
+- [[Julia Yeardley|Julia]] - (Confirm whether a visit to AM is needed)
+- [[James Moore|James]] - (Follow up on whether COMPASS robots are relevant, given his PLM work on the Kuka)
+- [[Phil]] - (Connect with [[Julia Yeardley|Julia]] on AM/COMPASS follow-up)

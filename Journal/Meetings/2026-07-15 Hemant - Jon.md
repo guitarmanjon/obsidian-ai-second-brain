@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]], [[Hemant Mulay]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Introductory call with [[Hemant Mulay]], an Industrial Engineer with 19 years' experience who reached out via the AMRC website interested in collaborative research on AI/data-driven methods in industrial/production environments.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Previously met at the PTC Innovation event in Bristol, where JS presented on AI in Manufacturing.
 - [[Hemant Mulay]] is looking for guidance on how to enable more research within his job. Has implemented a digital twin at his organisation (Carbolite). Was previously a design engineer at Tata in India.
@@ -36,14 +27,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Hemant Mulay]] - arrange for him to visit on 27th July at 14:00.

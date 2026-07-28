@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[RH]]
 - [[JS]]
 - [[AL]]
-- [[SF]]
+- [[Sam Fifield|SF]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Catch-up meeting on the Servitisation project, covering FMEA work and costing of a monitoring kit.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - FMEA received from [[Steve McVey]].
 - MMPS will deal with the geometry of the machine.
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[RH]] - (Combine existing FMEAs into a single document and review with UoH and MTT)

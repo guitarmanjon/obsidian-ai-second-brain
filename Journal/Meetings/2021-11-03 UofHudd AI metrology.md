@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Andrew Longstaff]]
 - [[Simon Fletcher]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Discussion with University of Huddersfield on AI/metrology, AMPI, and the Future Metrology Hub.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - AMPI is a big piece of work for UoH - UKRI-funded and funded under AMPI Strength in Places, with Rochdale funding for the building.
 - Forward plan: machine builders develop new machines with AMPI, which then land at Catapult centres for exposure and testing.
@@ -38,14 +29,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

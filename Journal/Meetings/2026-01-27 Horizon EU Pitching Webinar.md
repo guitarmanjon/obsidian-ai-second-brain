@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 Speakers:
 
 - [[Rebecca McClarty]]
@@ -28,15 +25,9 @@ Speakers:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To scope potential consortium partners for a Horizon EU call (HORIZON-CL4-2026-02-DIGITALEMERGING-51) by hearing short pitches from prospective partners.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - A few events were mentioned during the intro — **Grants team for info on these?**
 - Topic being pitched: **HORIZON-CL4-2026-01-DIGITAL-EMERGING-51: AI improved advanced manufacturing and production processes in factories** (6 minutes each pitch).
@@ -73,16 +64,10 @@ Speakers:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No formal decisions were made — this was a pitching/scoping webinar, not a decision-making meeting.
 - Open follow-ups noted rather than resolved: **Grants team for info on these?** (the events mentioned in the intro), and the **LIRIS contribution** to the adaptive AI-driven prescriptive system referenced on the topic slide.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Note author - (Ask the Grants team for info on the events mentioned during the intro)
 - Note author - (Follow up with [[Armand Baboli]] at armand.baboli@insa-lyon.fr regarding coordinating/joining the consortium)

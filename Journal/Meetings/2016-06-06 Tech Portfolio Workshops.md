@@ -7,35 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[DC]]
+- [[Dave Curtis|DC]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> A Tech Portfolio workshop session covering grinding and gear inspection capability.
 
 - ...
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- Grinding: [[DC]] hoping to grow machine inspection capability for both grinding (cylindricity, surface profile) and gears (form).
+- Grinding: [[Dave Curtis|DC]] hoping to grow machine inspection capability for both grinding (cylindricity, surface profile) and gears (form).
 
 ## Decisions
-
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
 
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

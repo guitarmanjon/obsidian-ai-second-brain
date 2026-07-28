@@ -7,29 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Tom McC]]
+- [[Tom McCready|Tom McC]]
 - [[Amy H]]
 - [[Sabino]]
 - [[Adam]]
-- [[Ben]]
+- [[Ben Morrow|Ben]]
 - [[JS]]
-- [[Nikos]]
-- [[Omer]]
+- [[Nikolaos Dervilis|Nikos]]
+- [[Omer Ozkirimli|Omer]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> To scope an "apps carrier" project under Catapult 2020 funding, covering candidate demonstrators and data/analytics requirements.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Considered an aero engine demonstrator - 3D print or buy a non-working second-hand engine (~£5k for a Pegasus).
 - Requirements for candidate technologies:
@@ -53,14 +44,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

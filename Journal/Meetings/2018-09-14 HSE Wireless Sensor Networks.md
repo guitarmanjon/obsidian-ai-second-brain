@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - HSE: [[JP Gorce]], [[Ed Sanderson]]
-- AMRC: [[JS]], [[HL]], [[RH]]
+- AMRC: [[JS]], [[Hatim Laalej|HL]], [[RH]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Potential project discussion with HSE about wireless sensor networks for health & safety monitoring (temperature, noise, gases, foreign objects, particulates, etc.) on the shop floor.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Note: the source page had a sidebar "Roadmap" box whose text was interleaved with the main notes in the PDF extraction; it has been separated out below as best as could be reconstructed.
 - Roadmap sidebar note: Shop floor environment monitoring; combine with machine tool data and process outcomes for a complete picture; Time Agnostic (not real time) vs Time Resolved (real-time).
@@ -56,14 +47,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

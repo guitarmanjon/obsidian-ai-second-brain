@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[JS]], [[Arnaud]]
+- [[JS]], [[Arnaud Lagarde|Arnaud]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Follow-up catch-up with Octaipipe (Arnaud) to review progress since the last meeting and discuss a potential introduction into MISSY.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Pre-meeting notes: little progress since last meeting - tried contacting a couple of AMRC companies without response, possibly due to holiday season. Internal projects coming up (e.g. looking at hybrid cloud-on-prem data stores) would lay a good foundation for FL.
 - Potential to make an introduction into MISSY - Octaipipe willing to come in and discuss what could be done.
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

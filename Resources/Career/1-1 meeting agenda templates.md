@@ -8,14 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Saved 1:1 meeting agenda templates (from small-improvements.com) covering regular check-ins, first 1:1s with a new team member, skip-level meetings, goal-setting, growth conversations, performance review debriefs, and performance improvement meetings. Used as a prompt bank for JS's own line management 1:1s.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
 
 - **Regular check-in:** how are you doing / how did the past week or month go? What would you like to talk about today? What are you proud of? Anything blocking you? Do you need support?
 - **First 1:1 with a new team member:** what attracted you to this role? What are your aspirations, professionally and personally? What gives you energy, and what drains it? What's your role, and what do you expect from me? How and why will we do 1:1s?
@@ -26,8 +21,5 @@ last updated: 2026-07-25T00:00:00
 - **Performance improvement meeting:** are you clear on what's expected, and is it realistic? Do you understand how your role fits the bigger picture? Do you get enough feedback - if not, why, and how could that improve? Do you feel comfortable asking for support? What got in the way of more impact? What actions/objectives can we agree on?
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

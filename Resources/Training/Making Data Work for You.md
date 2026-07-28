@@ -8,16 +8,10 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from a Hartree Centre training session, "Making Data Work for You," delivered by Louise Butcher (Principal Data Scientist @ STFC/Hartree Centre) on 07 January 2025. It covers why (good) data matters to a business, the type of questions data science can answer, what makes data "good," a UK GDPR primer, the data management/curation lifecycle, and several Hartree Centre case studies showing applied data science and ML across different sectors.
-
 - Session: "Making Data Work for You", presented by Louise Butcher, Principal Data Scientist at Hartree Centre / STFC.
 - Date: 07 January 2025, 13:32.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Why is data important?** It can **add value & improve efficiency**, drive **better decisions**, help **understand risks**, allow **more effective control** of products, and supports **regulation/reputation** needs (e.g. GDPR).
 - **What can data science do for a business?** Three kinds of questions:
@@ -36,8 +30,5 @@ last updated: 2026-07-25T00:00:00
   - **Predicting care pathways** — NHS Liverpool Central Commissioning Group: ML model predicting which post-hospital interventions (community, social, mental health) a patient would need after discharge.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - *(No related vault notes identified yet — link other sections from this training notebook here once converted.)*

@@ -1,0 +1,59 @@
+---
+aliases:
+  []
+team:
+role:
+tags:
+  - People
+last updated: 2026-07-28T00:00:00
+---
+
+## Overview
+
+- Potential supervisors considered: [[Kathy]] ([[NP]]'s current supervisor, or colleagues of hers); [[Dongwhan Shin]] (autonomous vehicles - [[NP]] already has contact and will follow up); [[Matt Ellis]] and [[Luca Manneschi]] (suggested by [[Tom Hayward]]); [[Mengdie Zhuang]] (suggested by [[Kathy]]).
+- [[JS]] - If [[Dongwhan Shin]] is not interested, contact [[Luca Manneschi]] and [[Matt Ellis]].
+
+## Notes
+
+- ...
+
+## Interactions
+
+```base
+filters:
+  and:
+    - file.inFolder("Journal")
+properties:
+  file.name:
+    displayName: Title
+  note.date:
+    displayName: Date
+  note.date_from:
+    displayName: Date From
+  note.date_to:
+    displayName: Date To
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Journals
+    filters:
+      and:
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - date
+      - tags
+    sort:
+      - property: date
+        direction: DESC
+      - property: date_from
+        direction: DESC
+    columnSize:
+      file.name: 420
+
+```
+
+## See Also
+
+- ...

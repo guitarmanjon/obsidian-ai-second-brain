@@ -7,28 +7,19 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Chris Dungey]] (AFRC)
-- [[Dan Vera]] (WMG)
+- [[Daniel Vera|Dan Vera]] (WMG)
 - [[Alex Smith]] (CPI)
-- [[Dimitrios]] (NAMRC)
-- [[Lakshmi]] (MTC)
+- [[Dimitrios Anagnostakis|Dimitrios]] (NAMRC)
+- [[Lakshmi Akurati|Lakshmi]] (MTC)
 - [[Himanshu]] (AFRC)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Digital Technology Theme (TT) session covering KEI assessments and roadmapping.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - KEI assessments:
   - A 1-3 grading was OK, but adding levels 4 and 5 gave insight into national-leading / international-leading work.
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Richard White]] - (Continue roadmapping work and map Digital Tech against each swim lane, including the upcoming Food and Drink roadmap.)

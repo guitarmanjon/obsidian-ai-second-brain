@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[JS]], [[TR]], [[LL]], [[Vandana]], [[Luke Rutter]]
 - SamsonVT / Partful: [[Jim Harris]] (ex-Siemens Sales Director, independent sales advisor to Samson VT), [[Moray Kidd]] (Senior Lecturer at Manchester, supporting Samson VT), [[George Greenhalgh]] (Samson VT), [[John Ward]] (Samson VT CTO, joined online)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Introductory meeting with SamsonVT (rebranding as Partful) to learn about their immersive 3D BOM/MRO platform and their condition-monitoring product Teros, and to explore possible collaboration.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Intros; confirmed SamsonVT is rebranding as Partful (https://partful.io/).
 - [[Jim Harris]] gave an overview of the Samson background: driven by Sam Burgess (CEO?), ex-military, who saw the opportunity while out in the field for better spare-part identification during MRO activities - PDFs are always out of date, so up-to-date, connected immersive BOMs are an opportunity.
@@ -39,15 +30,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Get a working demo of Partful/Teros set up (owner not specified).
 - [[Moray Kidd]] - (Possibly lead an Innovate resubmission involving Teros - to be confirmed)

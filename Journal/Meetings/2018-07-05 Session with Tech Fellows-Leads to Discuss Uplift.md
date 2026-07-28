@@ -7,26 +7,17 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[AB]]
 - [[JS]]
-- [[Chris T]]
-- [[Omer O]]
+- [[Chris Taylor|Chris T]]
+- [[Omer Ozkirimli|Omer O]]
 - [[Dave Curtis]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A follow-up session with technical fellows/leads to discuss the Catapult uplift funding proposals in more detail, project by project.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Project 1.1: CAM integration, additional features (e.g. helix angle); not planning to add additional processes.
 - Project 1.2: machine kinematics, embedding control architecture based on kinematics; £30k to support the project, machine time, and engineer support.
@@ -41,15 +32,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Project 1.1 will not add additional processes, only additional CAM integration features.
 - Project 3 (Aerofoils) funding confirmed at £40k, with £50k as a stretch/nice-to-have.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

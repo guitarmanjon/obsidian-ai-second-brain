@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Andy Sherlock]] - Director of Data-Driven Manufacturing, NMIS
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Mutual overview meeting between AMRC and NMIS to share data platforms and tooling.
-
 - JS gave an overview of the AMRC Data Cloud; Andy gave an overview of NMIS tools.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[JS]] gave an overview of the AMRC Data Cloud.
 - [[Andy Sherlock]] discussed getting NMIS data scientists into local companies for consultancy, working with in-house data types.
@@ -35,14 +26,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

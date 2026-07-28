@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Richard James]] (AMRC Metrology)
 - [[James Boyman]] (Area Sales Manager, Hexagon Metrology)
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> An introductory/relationship meeting with Hexagon Metrology representatives, to showcase AMRC's PM&C work and explore how PC-DMIS might address metrology challenges seen on the MBD projects.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Richard James]] gave an overview of what AMRC is about (mostly for Mick and Mike's benefit) and discussed how metrology fits in.
 - Shop floor tour to show some of the work AMRC does.
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Mike Wilson]] - (Ensure [[Dave Jeffers]] visits AMRC to discuss the technical aspects of PC-DMIS)

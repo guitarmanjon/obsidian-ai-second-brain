@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[James Fortune]]
 - [[Narcisa]]
 - [[Jon S]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To review AV&R blade scanning cycle times and error rates against people-based inspection.
-
 - Assess progress on AV&R automated blade scanning against cycle-time and error-rate success criteria.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Cycle time expected to be 6 minutes; [[NP]] has measured it at 10+ minutes. Question raised whether folder creation is causing the delay.
 - MCRL 5 trials had around 5 minutes 30 seconds per blade.
@@ -41,15 +32,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Target error rate for AV&R set at 1-2%, to beat the human baseline of ~4%.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[NP]] - (Speak to AV&R to work out why cycle time has increased above the 6-minute target).
 - [[James Fortune]] - (Contact AV&R to find out why "transferring" adds extra time).

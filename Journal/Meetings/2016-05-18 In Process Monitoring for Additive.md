@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[James Hughes]]
 - [[Craig Roberts]]
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Planning meeting to scope the "In Process Monitoring for Additive" project ahead of the 6th June Innovate UK session, and to gather partner/contact ideas for metal additive process monitoring.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - (Source text was two interleaved columns - a meeting agenda/notes column and a pasted email from Abdul to James; disentangled below.)
 - Agenda: overview of the Innovate UK call (connected digital additive manufacturing); ideas for industrial lead partners to invite; who will contact these partners. 6th June agenda: intro to InnoUK call; what we're doing at the moment (NAMTEC, Design, FoF); each partner to present 5 mins on what they're up to; discussion of what the project could be.
@@ -47,15 +38,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[James Hughes]] - ([[Kristina]] to stand in as James is unavailable that week)
 - [[TM]] - (Already contacted Renishaw's [[Mat Favell]])

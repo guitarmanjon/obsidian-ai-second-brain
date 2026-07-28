@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Handwritten prep notes (26 February 2024) working through assessment criteria for an internal career/promotion pathway ("ICP"), covering Impact, Citizenship, High Quality Management, Change + Enhancement, and Professional Standing.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **Impact:** impact against external criteria — the same example can be used against different criteria categories with a different impact angle each time.
 - **General guidance (self-notes):** use keywords from the guidance docs to reinforce the message; not all criteria are equally weighted; show positive engagement with each criterion; use measurable evidence where possible; brief context matters.
@@ -27,8 +21,5 @@ last updated: 2026-07-25T00:00:00
 - Handwriting was difficult to read in places — uncertain words marked with "(?)".
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

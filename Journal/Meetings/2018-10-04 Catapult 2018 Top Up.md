@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[JS]], [[AB]], [[MB]], [[JK]], [[SM]], [[CT]], [[OO]], [[IC]]
+- [[JS]], [[AB]], [[MB]], [[JK]], [[SM]], [[Chris Taylor|CT]], [[Omer Ozkirimli|OO]], [[IC]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> To review project outlines for the 2018 Catapult "top up" funding across several work streams.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Project outlines:
 	- PM&C - high speed data capture from eVo machine tool - should be able to target 333 Hz based on conversation with [[Rob Ward]].
@@ -33,14 +24,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

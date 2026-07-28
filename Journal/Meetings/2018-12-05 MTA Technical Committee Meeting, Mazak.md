@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (attendee/note-taker)
 - Presenters: [[Sam Turner]] (HVMC), [[Alexander Broos]] (VDW), [[Dritan Kaleshi]] (Digital Catapult)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> MTA technical committee meeting at Mazak covering HVMC's technology strategy, the Umati machine-tool connectivity standard, and 5G for manufacturing.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Sam Turner]] (HVMC) - Technology Strategy for HVMC:
 	- Strategic objectives & strategy teams: "Increase the uptake of digital and automation technologies to increase UK productivity and global competitiveness."
@@ -50,14 +41,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

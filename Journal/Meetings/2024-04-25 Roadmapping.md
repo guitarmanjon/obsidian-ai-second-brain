@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers|JS]]
 - [[Narcisa]]
 - [[Lindsay]]
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Team roadmapping session - to share roadmaps across the team, build a vision for where the team wants to be in 5 years, and identify tech areas, skills gaps, and key partners.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Outcomes for the session: shared roadmaps across the team so everyone is aware of the direction of the research; a 5-year vision; identify tech areas to do more/less of; identify skills gaps; identify key partners.
 - Resources: roadmaps brought by each team member; a "one slider" showing current team capabilities, to check it's still accurate.
@@ -39,14 +30,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

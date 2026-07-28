@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ben Morgan]] - Head of F2050
 - [[Tom Hodgson]] - Head of Metrology F2050
 - [[Jon Stammers]] - Tech Fellow, Process Monitoring & Control
@@ -20,20 +17,14 @@ tags:
 - [[Mark Summers]] - Head of Advanced Manufacturing, NPL (joined 2 weeks ago, formerly ATI)
 - [[Gareth Edwards]] - Digital Manufacturing Strategy Lead, NPL
 - [[Paul Duncan]] - Data Scientist (Data Uncertainty), measurement uncertainty, NPL Scotland
-- [[Andy Silcox]] - Research Director, AMRC Cymru
+- [[Andrew Silcox|Andy Silcox]] - Research Director, AMRC Cymru
 - [[Rab Scott]] - Head of Digital, AMRC
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A joint AMRC/NPL meeting to explore digital manufacturing, trust/fidelity of data, and metrology needs, and to identify opportunities for collaboration (including joint bids).
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 *(Note: the introductions section of the source text had two columns - an "Introductions" notes column and an "Attendees" list column - interleaved. Reconstructed below on a best-effort basis.)*
 
@@ -64,14 +55,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

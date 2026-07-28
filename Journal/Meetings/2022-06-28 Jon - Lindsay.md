@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon]] (JS)
 - [[Lindsay]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> 1:1 discussion with [[Lindsay]] about what she wants from the role and priorities for AMRC data science.
-
 - Discuss what [[Lindsay]] wants from the role and what her first jobs should be.
 - Discuss the wider direction for AMRC data science.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Ambition for AMRC to be known for data science across HVMC - knowing what to do with data end to end.
 - Demonstrators discussed as a goal, though unsure exactly how to go about them; needs coordination with Tim and RSE.
@@ -40,14 +31,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

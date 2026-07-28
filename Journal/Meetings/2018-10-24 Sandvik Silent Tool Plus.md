@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Dan Ostling]] (Machining Dynamics Expert)
 - [[Jorgen Hagglund]] (Application Specialist)
 - [[Justin Davies]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To explore potential areas of collaboration between AMRC and Sandvik around Silent Tools+ instrumented boring bar technology.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - 2 streams of work possible - apps-based and research-based. Discussion around potential areas of collaboration on Silent Tools Plus.
 - [[Dan Ostling]]'s presentation:
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Justin Davies]] - (Arrange further work via SoR, etc.)

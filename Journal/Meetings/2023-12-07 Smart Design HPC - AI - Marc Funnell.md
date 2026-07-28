@@ -7,28 +7,19 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - NCC: [[Marc Funnell]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To agree the process and funding for AMRC/NCC collaboration on Smart Design HPC/AI, ahead of an event on 30th January.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 - Process for HPC/AI: event planned for 30th Jan.
   - Before then: develop use cases and propositions for smart design holistically, then subset those suitable for HPC/AI.
   - Between AMRC and NCC: cover aerospace; letters of support; use cases; create challenge statements; launch an Innovate UK seed event in April 2024.
-  - [[Amit]] leading work programme development, with weekly meet-ups to review progress.
+  - [[Amit Visrolia|Amit]] leading work programme development, with weekly meet-ups to review progress.
 - £35k for AMRC:
   - Question of whether resources can be released now.
   - £10-15k for engagements and project set-up.
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Agreed to email [[Marc Funnell]] confirming that the £35k is OK for what AMRC is doing and requires, and that AMRC can resource it.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - Email [[Marc Funnell]] confirming the £35k budget and AMRC's ability to resource the work.

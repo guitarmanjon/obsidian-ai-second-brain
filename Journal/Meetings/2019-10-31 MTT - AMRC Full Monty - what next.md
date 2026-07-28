@@ -7,26 +7,17 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[James]], [[Gualberto]], [[Katia]]
-- UoH: [[Simon]], [[Andrew]]
+- AMRC: [[JS]], [[James Moore|James]], [[Gualberto]], [[Katia]]
+- UoH: [[Simon Fletcher|Simon]], [[Andrew]]
 - MTT: [[Johnny]], [[Peter Drever]], [[Pete Willoughby]] (phone)
 - HVMC: [[Sam Turner]] (phone)
 - RR interest noted (no individual named)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Cross-organisation meeting (AMRC, MTT, UoH, HVMC) to align on the origins, current status, and "what next" for the Full Monty project — technology, marketing, and funding — ahead of Mach 2020.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 The attendee block and an agenda-topic list were interleaved in the source (source text garbled — column order unclear in the original export); the agenda fragments noted alongside attendees were: PM&C, Non-geometric validation, Splunk, ABG project, Amido. The rest of the page reads cleanly.
 
@@ -50,18 +41,12 @@ The attendee block and an agenda-topic list were interleaved in the source (sour
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Group agreed not to focus on the technology itself in this session, prioritising engagement and marketing questions instead.
 - Follow-up meeting agreed for week commencing 25 November (26th AM) to cover the marketing plan and next steps on the tech side.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
 - [[JS]] - (Talk to IMG about how quickly an AR/VR model could be put together, possibly for a Mach 2020 demo)
 - [[JS]] - (Speak to [[Mike Lewis]] about Maintenance 4.0 crossover with machine tools)
 - [[Katia]] - (Build a marketing story/timeline of releases leading up to Mach 2020)
-- [[ST]] - (Target Made Smarter bid in April; start building a consortium)
+- [[Sam Turner|ST]] - (Target Made Smarter bid in April; start building a consortium)

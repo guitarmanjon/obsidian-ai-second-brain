@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Simon M-P]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Arranged to get advice from [[Simon M-P]] on where AMRC stands legally on data ownership in AMRC projects.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Legally there are two types of data: personal data (name, address, medical history etc.) and IP Rights.
 - The standard AMRC T&Cs (section 8) include provision for IPR - for commercial work, AMRC does not own the foreground IP; it's owned by the customer.
@@ -38,14 +29,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded (advisory call; no formal decision reached, though a licensing approach was flagged as generally lower risk).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Try to arrange a follow-up conversation with [[Matt F]], [[Angus]], and [[Tom Brayford]] on data ownership)

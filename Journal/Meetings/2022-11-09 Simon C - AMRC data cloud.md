@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Simon C]]
+- [[Simon Collingwood|Simon C]]
 - [[JS]] (inferred, notetaker)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Check the messaging is correct ahead of the AMRC Data Cloud launch event and discuss panel input.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- [[Simon C]] wants to check the launch event messaging is correct.
+- [[Simon Collingwood|Simon C]] wants to check the launch event messaging is correct.
 - WANDisco are producing a video for the launch.
 - Panel confirmed: Tracey (Barnsley Dig), Ryan, Lottie (WANDisco), Mandy Ridyard (Produmax), Charles Turner (Durham Duplex), Balla Amasavaraini (Databricks).
 - Charles Turner's input:
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Simon C]] - (Confirm launch event messaging is correct)
+- [[Simon Collingwood|Simon C]] - (Confirm launch event messaging is correct)

@@ -11,22 +11,13 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
 - University of Sheffield. Referenced re: value of AI across UoS (Halifax connection) and co-prepared a CMI slide for a presentation - see [[2024-01-25 Presentation Prep]]. Also intro'd the Responsible AI Workshop alongside Kirsty McNeil - see [[2023-12-04 Responsible AI Workshop]] (that occurrence used "Guy B" - same inference, not separately confirmed, flag if wrong).
 
 ## Notes
 
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
-
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -64,8 +55,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

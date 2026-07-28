@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Handwritten notes from an AI best practices presentation/conference attended on 11/11/2025 (Tuesday, 11 November 2025). Covers a series of speaker sessions and lightning talks spanning High Value Manufacturing (HVM) context, AI coding assistants, robotics, LangChain agents, responsible/generative AI use, NVIDIA GenAI tooling, and explainable AI visualization.
-
 - ...
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 - **HVM (High Value Manufacturing) context:**
 	- Defined as leading edge knowledge, expertise + technology
@@ -81,8 +75,5 @@ last updated: 2026-07-25T00:00:00
 	- tinyurl.com/4487yxsc → today's materials
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - ...

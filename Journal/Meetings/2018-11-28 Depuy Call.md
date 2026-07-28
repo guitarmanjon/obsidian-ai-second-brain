@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[JM]], [[RH]]
-- AMRC at DePuy: [[Malcolm Brown]], [[KH]], [[Stephen Bowles]], [[Nikos]]
+- AMRC: [[JS]], [[James Moore|JM]], [[RH]]
+- AMRC at DePuy: [[Malcolm Brown]], [[Kevan Holloway|KH]], [[Stephen Bowles]], [[Nikolaos Dervilis|Nikos]]
 - DePuy: [[Eymard Gorman]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Call to discuss predictive maintenance / condition monitoring options for DePuy's machine tools, building on their existing SCHAD automation system.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - SCHAD automation system already in place - used for knowledge management (videos, manuals, etc.) though not much used at present. Opening and closing jobs on the shop floor is the main current function.
 - Predictive maintenance: predicting is fine but they want to know why errors are occurring. Spindle life is an issue.
@@ -37,14 +28,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

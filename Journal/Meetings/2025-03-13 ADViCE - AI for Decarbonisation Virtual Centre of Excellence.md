@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]] (attendee, asked a Q&A question)
 - [[Jessica Rushworth]] - Chief Partnerships Officer, Digital Catapult (opening words)
 - [[Paul Monks]] - Chief Scientific Advisor, DESNZ (keynote; JS also spoke with him during arrival coffee re: NAMRC, SMR)
@@ -23,13 +20,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Attendance at the ADViCE (AI for Decarbonisation Virtual Centre of Excellence) launch/event, a Digital Catapult programme funded by DESNZ in partnership with the Alan Turing Institute and Energy Systems Catapult, to learn about the programme's outputs and hear panel discussion on AI's role in decarbonisation.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - ADViCE described as a strong partnership example (Alan Turing Institute + Energy Systems Catapult), funded through DESNZ.
 - Keynote from [[Paul Monks]]: ongoing challenge of identifying how AI can maximise decarbonisation; AI driving clean energy growth.
@@ -47,14 +38,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded - this was an informational/panel event rather than a decision-making meeting.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - Capture and develop the energy forecasting/decarbonisation project idea in the project ideas notebook.

@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
-- [[Harry]]
-- [[James]]
+- [[Arutian Ehiasarian|Harry]]
+- [[James Bradley|James]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Continue refining the EPSRC proposal with SHU and University of Liverpool (UoL), including cost adjustments and work package changes.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Pre-meeting cost adjustments:
   - [[JS]] and [[JE]] at 10% for 36 months.
@@ -39,16 +30,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Total project cost fixed at £486,612 based on adjusted staffing/travel/consumables.
 - WP4 and WP5 timelines shifted forward by 2 quarters.
 - Project title agreed as "AI-based Digital Twin Enabled Sustainable and Responsive Plasma Surface Manufacturing".
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

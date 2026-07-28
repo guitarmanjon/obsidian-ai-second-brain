@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
-- [[RD]]
+- [[Ryan Diver|RD]]
 - [[RS]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To define and scope the Testbed project, which [[JS]] will be leading, and clarify terminology and budget.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Overall: [[JS]] will be leading this project with a few different engineers working on it, including PM&C.
 - Definitions (also available in the Innovation Hub doc from [[Rab]]):
@@ -45,15 +36,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - [[JS]] confirmed as project lead for the Testbed work.
 - Staff time budget re-scoped to [[JS]] plus 2 others over 5 months (revised down from the original plan of 3 G6s over 1 year).
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

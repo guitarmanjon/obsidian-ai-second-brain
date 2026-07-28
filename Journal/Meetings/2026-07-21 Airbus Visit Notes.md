@@ -7,29 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[GL]], [[SM]], [[Emlo]] (?), [[Zohaib]], [[Richard J]], [[Pritesh]] (?)
-- Airbus: [[Paul Blatch]] (?), [[Amar Liaqat]], [[Mark]] (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
+- AMRC: [[JS]], [[Grace Lim|GL]], [[Stephen Marr|SM]], [[Emilio Lomelin|Emlo]], [[Zohaib Farhat|Zohaib]], [[Richard James|Richard J]], [[Pritesh Patel|Pritesh]]
+- Airbus: [[Paul Blatch]] (?), [[Amar Liaqat]], Mark (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
 
 Note: some proper nouns and acronyms in the original handwritten source were hard to read - these are marked (?) throughout, with best-guess transcriptions kept as written.
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - AMRC site visit to Airbus, covering their digital/PLM systems and connected-assets work across A350 and single-aisle production.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 **A350 North - Redesign / Mod Process**
 - A350 under constant redesign, e.g. UKR (?).
-- [[Mark]] gave an overview of the process: **ACP** (everything goes into this system - tied system, costs etc.) → **ACC** (MP - Mod Proposal) → **CR** - Change Request (ACC - Aircraft Central Config) → APS drives change into **Delmia** (?). Goes through various other systems to drive manufacturing change, including **SAP**.
+- Mark gave an overview of the process: **ACP** (everything goes into this system - tied system, costs etc.) → **ACC** (MP - Mod Proposal) → **CR** - Change Request (ACC - Aircraft Central Config) → APS drives change into **Delmia** (?). Goes through various other systems to drive manufacturing change, including **SAP**.
 - **Skywise** (?) used for referencing - many systems driven by the dataset; systems on top allow data to be made for each aircraft produced → traceability → EASA audits. Data lake solution: **Palantir**.
 - Design changes happen all the time - some result in In-Service Bulletins requiring aircraft servicing to implement. (Noted in the moment: "why are we seeing this??")
 - Some changes done at Broughton, some done in Bremen, Toulouse etc.
@@ -47,7 +38,7 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 - All these systems exist because of ongoing development, but nothing is properly matured/embedded (?).
 - SAP as a single system would lose a lot of challenges/functionality (?) - currently there are many independent systems, allowing room for collaboration.
 
-**Operator's Viewpoint - [[Nick]] (?)**
+**Operator's Viewpoint - Nick (?)**
 - ACP is the primary tool + SAP.
 - ACP etc. also link into "third parties" - i.e. Supply Chain, Sprint, GKN.
 - Some parts are outsourced, e.g. standard brackets. Critical "Class 1" parts are fully traced.
@@ -60,14 +51,14 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 - A wing will start with ~1000s (?) of "to-do" items that get ticked off as it progresses. MES on shop floor checks items; low operator interaction with MES.
 - Side note: critical knowledge capture occurs when people retire who have critical experience.
 
-**ARP - [[Rob]] + [[Owens]]/[[Nick]]**
-- [[Nick]] - 40 years at Airbus.
+**ARP - Rob + [[Owens]]/Nick**
+- Nick - 40 years at Airbus.
 - Airbus Resource Planning - **ARP**. Single aisle focus.
 - Re-"tooling" - the digital backbone for single aisle production. Started in 2018. First metal to be cut with the new system this year (or next year?).
 - A lot of new products, incl. pylons (?), hubs, undercarriages (?) etc.
 - People are key to the toolkit.
 - Transition has included dual PLM while the new system is spun up and the old is decommissioned.
-- [[Rob]] gave an overview of benefits & constraints: product, process, design, industrial agreements etc. will not change - just get a more robust and modern digital system.
+- Rob gave an overview of benefits & constraints: product, process, design, industrial agreements etc. will not change - just get a more robust and modern digital system.
 - UK is playing catch-up to European colleagues.
 - 2027 will be about change - training, onboarding.
 - Single aisle is very paper-based, driven by 2D design (vs. A350, which is 3D & digital).
@@ -93,14 +84,8 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

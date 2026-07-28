@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Ehae]]
 - [[Tom H]]
 - [[Andy Bell]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To gather input for the Sustainability Catapult on net zero manufacturing challenges and monitoring approaches.
-
 - Discuss current and future net-zero challenges for parts/processes, and explore a "black box" energy-analytics concept.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Current parts and/or processes need to be made net zero.
 - Future product/process design needs to be able to predict carbon impact at the design stage - a significant challenge given limited prior data and human-factor variability (e.g. how a product is used).
@@ -43,14 +34,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

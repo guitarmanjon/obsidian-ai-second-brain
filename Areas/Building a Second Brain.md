@@ -8,15 +8,9 @@ last updated: 2026-04-01T09:54:00
 
 ## Overview
 
-> [!info] What is this area and why does it matter?
-> Describe this knowledge domain, technology, or responsibility in 2-3 sentences. Focus on what it is, why it's relevant to your work, and what value it provides. Link to related Areas with `[[Area Name]]`.
-
 - Building a Second Brain is a personal knowledge management methodology created by Tiago Forte. It combines the **CODE** workflow (Capture → Organize → Distill → Express) with the **PARA** organizational structure (Projects, Areas, Resources, Archive) to create a trusted system for externalizing knowledge. The goal is to reduce cognitive overload by building a reliable external system that captures, organizes, and surfaces the right information at the right time, freeing your mind for creative and analytical work rather than storage and recall.
 
 ## Key Concepts
-
-> [!tip] What are the essential things to know?
-> Bullet the core ideas, principles, or components someone needs to understand about this area. Think of this as your personal cheat sheet.
 
 ### CODE - The Workflow
 
@@ -40,9 +34,6 @@ last updated: 2026-04-01T09:54:00
 - **Small, composable notes over monolithic documents** - individual ideas that can be recombined are more versatile than long, single-purpose documents
 
 ## Techniques
-
-> [!note] Distilled knowledge that applies to this area
-> This table auto-populates with any Technique that links back to this Area.
 
 ```base
 filters:
@@ -75,9 +66,6 @@ views:
 
 ## Resources
 
-> [!note] Reference material that supports this area
-> This table auto-populates with any Resource that links back to this Area.
-
 ```base
 filters:
   and:
@@ -108,9 +96,6 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas, external docs, or useful URLs that provide additional context.
 
 - [[Progressive Summarization]]
 - [Building a Second Brain — Tiago Forte](https://www.buildingasecondbrain.com/)

@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]], [[Rab Scott]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Catch-up/notes from a conversation with [[Rab Scott]] (HVMC).
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **R-R ADAPT**: reference architecture work from a few years ago is getting traction on the back of the AI adoption plan. [[Chris Nex]], [[Neil Tatman]], [[Andy Yorke]] from R-R are up for it - Neil wants either AMRC or Omnifactory (Nottingham) to lead. Too big for one centre to do, but one centre needs to own it.
 - **Robotics Adoption hub bids**: not much at mid-to-high TRL went in. South Yorkshire consortium bid has got through to assessment.
@@ -34,14 +25,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - n/a - documents an email exchange with [[Louise Sharpe]], prompted by a question from [[Denzil]] in LMC 4.
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Clarify what the "Additional Associate Support" line item (~£190k) in the Boeing KTP finance statement covers, and whether it can fund access to University of Sheffield equipment/facilities.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - In LMC 4 (5 June 2025), [[Denzil]] asked what the ~£190k "Additional Associate Support" line covers, and whether it means access to UoS equipment paid for out of this budget.
 - JS emailed [[Louise Sharpe]] on 16 June 2025: Boeing had raised this in the LMC and separately - the KTP candidate Boeing are most interested in (background in materials testing) knows the labs at the main university where this testing could be done, and Boeing want to know if this line item covers access to such facilities.
@@ -31,14 +22,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - To access equipment, the correct route would have been to request funds under "Associate Estates costs" at the application stage (max £10,000 extra per project). "Additional Associate Support" itself is the UoS overhead that supports the KTP, not a facilities-access budget.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

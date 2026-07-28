@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Kumar Jon]]
 - [[Jon Key]]
 - [[JS]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To discuss the Aurora AI Innovate UK proposal and how AMRC could fit into the consortium.
-
 - Explore Aurora's condition-monitoring/AI offering and AMRC's potential role in the Smart Grant bid.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Innovate UK proposal is the discussion point.
 - Consortium currently includes Aurora, HGL Dynamics (hi-fi kit, possibly for defense), Steamdesk (web front end), and University of Nottingham (Digital team for AI/analytics).
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

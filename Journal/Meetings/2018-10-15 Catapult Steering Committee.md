@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - ...
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A Catapult steering committee meeting to work through requirements for part measurement, reporting functionality, and live vs simulated data.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Measurement of part:
 	- Need to capture pre-finish size for analysis of tool deflection error and machine error.
@@ -47,15 +38,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Fault detection will be left out of the reporting tool for now, with focus on presenting and aligning data first.
 - Initial reporting scope limited to one program/one tool with data alignment and plotting of force, vibration, positional, torque, feedrate, and speed data.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

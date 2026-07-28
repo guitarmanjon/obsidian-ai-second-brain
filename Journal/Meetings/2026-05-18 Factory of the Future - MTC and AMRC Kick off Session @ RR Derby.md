@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[Jon Stammers]], [[Tom Robinson]]
 - MTC: [[Steve Cartwright]], [[Agata Suwala]], [[Tom Reynolds]], [[Ajdin Foric]], [[Nikita Pietrow]], [[Liam]] (?)
 - R-R: [[Alison Gamble]], [[Matt Chamberlain]], [[Geraint Prisk]], [[Jamie McGourlay]], [[Harry Burroughes]] (left at 10:00)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Kick-off session between MTC and AMRC for the R-R Factory of the Future (FoF) project, under the ADAPT programme.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Matt Chamberlain]] and [[Alison Gamble]] gave an overview of what they were hoping to achieve with this project. Comes under the ADAPT programme - "Advanced Disassembly, Assembly & Performance Testing". Timeline for the new facility for Entry into Service (EIS) is 2035. Target is 32 engines per week, but 10 years out there will be MRO operations on top of this (3x, 4x the production volumes) - AG: focus on assembly for this project. So far nothing has been designed and nothing sold in terms of a new engine, but moving from a 22hr (current) to 4.5hr takt time is key. The 10 technology areas shared in the SoR have been further broken down into 2-3 sub-topics, shown in the slide pack.
 - **Design**: opportunity to feed into engine design to facilitate assembly - design for automation, design for assembly - could include artefacts on the products that facilitate automation (e.g. grasping points for a robot handler). Changes to legislation in the coming 5-10 years may affect design philosophy - e.g. Airbus removed the requirement for people to go inside fuel storage in wings during assembly.
@@ -63,16 +54,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Won't split the 10 tech areas between AMRC/MTC - both centres will contribute to all of them.
 - Key deliverable agreed as a navigable Excel workbook covering the 10 tech areas against the 11 SoR criteria.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Talk to Theme Leads, outlining resource requirements - this isn't one person, it's a collective of experts.
 - Plan for a workshop at the MTC on Wednesday June 4th.

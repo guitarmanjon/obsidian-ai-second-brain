@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Nico]] (Turing)
 - [[Rab]]
 - [[Tim Dodwell]]
@@ -19,15 +16,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Visit to the Alan Turing Institute to explore potential collaboration in data-centric engineering (DCE) for manufacturing.
-
 - Set the scene on Turing's Data-Centric Engineering vision and explore synergies for future collaboration with AMRC.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **Setting the Scene**
 - [[Nico]] presented Turing's vision for LRF funding for DCE in Turing 2.0, and the Turing Research and Innovation Cluster in Digital Twins.
@@ -51,14 +42,8 @@ Note: the source captured only the agenda for this visit; the remaining pages (1
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

@@ -12,23 +12,14 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-> [!info] Who is this person and how do you work with them?
-> Capture context that helps you be a better person for them: where they're from, what they're working on, communication preferences, time zone, interests. Include anything you'd want to remember before a 1:1 or collaboration.
-
 - Fellow Theme Lead (see [[2026-01-26 Theme Lead Afternoon]]). Works on SSH/Social Sciences collaboration - gave an overview of SSH-related AMRC work including Cymru (human robotics) in [[2026-01-21 AMRC x Social Sciences]]. Also attended the [[2026-03-04 CHESCO Day 1]] visit.
 - May appear in notes from before 2026 as "SB" or "Stephen Bowles". Note: "Steve" on its own is NOT used as an alias here since it's too ambiguous with Steve Marr and Steve Bear elsewhere in the vault.
 
 ## Notes
 
-> [!tip] Ongoing observations and context
-> Things you've learned about them over time, their priorities, working style, areas of expertise, or personal interests. This builds a richer picture for stronger relationships.
-
 - ...
 
 ## Interactions
-
-> [!note] Journal entries involving this person
-> This table auto-populates with any Journal entry that mentions this person via `[[Name]]`.
 
 ```base
 filters:
@@ -66,8 +57,5 @@ views:
 ```
 
 ## See Also
-
-> [!tip] Related links
-> Link to their team, shared projects, or relevant Areas.
 
 - ...

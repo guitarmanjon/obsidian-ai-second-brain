@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - Not explicitly recorded as a list — trainer was [[Lauren Grey]] (First Create Media).
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - KOL (Key Opinion Leader) Advocacy Training session run by [[Lauren Grey]] on personal-brand social media posting, as part of First Create Media's work with the M+C team on AMRC's social media strategy.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **First Create Media** are working with the M+C team on AMRC's social media strategy, with a focus on Key Opinion Leaders (KOLs).
 - **Personal profile guidance**: think about how to reference AMRC & CMI as employers, and avoid putting job title(s) in the headline.
@@ -40,15 +31,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No formal decisions — this was a training session, not a decision-making meeting.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - (Author) - (Apply the AMRC 4-pillar content strategy when planning posts)
 - (Author) - (Avoid external links in post bodies; move links to a comment instead)

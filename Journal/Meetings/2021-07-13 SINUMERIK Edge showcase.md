@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[EO]], [[SA]], [[Chao Sun]], [[JM]], [[Daniela Sawyer]]
-- Siemens: [[RP]], [[NH]], [[Mark Coombes]] (machine tools business manager), [[Charles Tivey]] (manufacturing expert for aerospace, UK)
+- AMRC: [[JS]], [[Erdem Ozturk|EO]], [[SA]], [[Chao Sun]], [[James Moore|JM]], [[Daniela Sawyer]]
+- Siemens: [[RP]], [[NH]], [[Mark Coombs|Mark Coombes]] (machine tools business manager), [[Charles Tivey]] (manufacturing expert for aerospace, UK)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
 
 - Siemens walked AMRC through their SINUMERIK Edge / Industrial Edge development work in the Aero Validation Centre, to compare against AMRC's own Edge specifications and share learnings (originally proposed by [[Rob Poyner]] via email).
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[RP]] introduced the Lean Digital Validation Lab for Industry 4.0 ([[Charles Tivey]] is lead) - Edge compute and SINUMERIK Edge has been the starting point; based in Germany, with a branch in CCAM.
 - [[Charles Tivey]]:
@@ -46,15 +37,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Trial of Omative to proceed once Industrial Edge is installed, conditional on finding funding for dedicated work with Siemens kit.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Find funds to support dedicated Omative trial work with Siemens kit)
 - [[JS]] - (Investigate potential Industrial Edge link to cRIO in H5)

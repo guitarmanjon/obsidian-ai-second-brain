@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[PK]] (AMRC)
 - [[JS]] (AMRC)
 - [[DP]] (AMRC)
@@ -19,13 +16,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Follow-up visit to BAE Warton to discuss [[PK]]'s draft Statement of Work for the A4D/Tempest work and to clarify what data/process monitoring BAE want, following [[PK]]'s earlier visit.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 (Note: the source text has some image caption fragments - e.g. "BAE" / "Warton Vi..." - interleaved with the notes; these appear to be labels for embedded photos rather than a genuine second text column, and have been omitted below as noise.)
 
@@ -51,15 +42,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Use "A4D" instead of "Tempest" in the Statement of Work.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[PK]] - (Confirm NDA cover arrangements are complete)
 - [[PK]] / BAE - (Determine what data can be captured and passed to BAE from target machines - Ecospeed, NMV8000, Hermle C52)

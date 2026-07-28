@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Ben Atha]]
 - [[Neil Bizzell]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Pick up the conversation on developing micro-credential short courses (1 day) targeted at engineering and manufacturing, distinct from Dev Academy's existing generic offerings.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Simon Collingwood]] was supportive of the idea - could share contact details.
 - [[Shirley Harrison]] has a hit list of companies - need to establish what she already knows about what SMEs want.
@@ -37,15 +28,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - Talk to [[Shirley Harrison]] on what she knows already.
 - [[JS]] - Set up a call with some friendly companies on the training they would like.

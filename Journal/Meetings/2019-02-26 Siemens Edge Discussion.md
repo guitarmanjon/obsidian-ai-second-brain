@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[OO]], [[SO]], [[LB]]
-- Siemens: [[David Cant]], [[Tilman Resch]], [[Mark]] (Coombs?)
+- AMRC: [[JS]], [[Omer Ozkirimli|OO]], [[SO]], [[LB]]
+- Siemens: [[David Cant]], [[Tilman Resch]], [[Mark Coombs|Mark]] (Coombs?)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> A discussion with Siemens about their Edge device, its data capture capabilities, MindSphere onboarding, and available apps for machining process quality, machine health, and process efficiency.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Apps deployable to the Edge device:
 	- MindSphere is currently required for onboarding apps to Edge devices; may be possible within the next 12 months to deploy from an on-site device connected to MindSphere. Connection to MindSphere is only needed for app deployment - MS can be disconnected afterwards.
@@ -36,14 +27,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

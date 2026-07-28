@@ -7,32 +7,23 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
 - [[Adam]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A catch-up with Adam covering Catapult project status - diamond case study, Erdem's SoW, top-up funding items, and Dynamics work.
-
 - ...
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
 - [[TMc]] - diamond case study is the first bit of development for the DMG Evo 40.
-- [[TMc]] - [[AB]] to chase [[Erdem]] to confirm his work fits in.
-- [[Erdem]] - SoW not yet signed off; question over whether he is doing what's needed for the project.
+- [[TMc]] - [[AB]] to chase [[Erdem Ozturk|Erdem]] to confirm his work fits in.
+- [[Erdem Ozturk|Erdem]] - SoW not yet signed off; question over whether he is doing what's needed for the project.
 - Catapult:
 	- [[Rich]] to tech-lead current and top-up work, plus Sandvik Darwin.
 	- [[Hue]], [[Emily]] and [[Lex]] are PEs on Catapult work.
 	- Spike integration - need a PC running an instance of the software, streaming live data to the network.
-	- Diamond case study - questions on when PM&C want to be on machine, what data is needed, and sample rate; to clarify with [[Erdem]] / Dynamics / [[Tom]] / [[Adam]] (need a list of data streams with sample rates). Aiming for October/November.
+	- Diamond case study - questions on when PM&C want to be on machine, what data is needed, and sample rate; to clarify with [[Erdem Ozturk|Erdem]] / Dynamics / [[Tom]] / [[Adam]] (need a list of data streams with sample rates). Aiming for October/November.
 	- H5 in January - need to know what data acquisition and sensors will look like, and how to connect and retrieve data.
 	- Sinucom NC - power, position, and anything else available on the NC.
 - Top-up funding items:
@@ -42,15 +33,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[AB]] - (Chase [[Erdem]] to confirm his work fits into the diamond case study)
-- [[JS]] - (Clarify diamond case study on-machine timing, data needs, and sample rate with [[Erdem]] / Dynamics / [[Tom]] / [[Adam]])
+- [[AB]] - (Chase [[Erdem Ozturk|Erdem]] to confirm his work fits into the diamond case study)
+- [[JS]] - (Clarify diamond case study on-machine timing, data needs, and sample rate with [[Erdem Ozturk|Erdem]] / Dynamics / [[Tom]] / [[Adam]])

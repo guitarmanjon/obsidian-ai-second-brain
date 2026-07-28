@@ -7,30 +7,21 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[JS]]
-- [[AN]] (Alan)
+- [[Alan Norbury|AN]] (Alan)
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Regular Siemens catch-up covering the NB251/Hermle option, Edge developments, and prep for Tuesday's meeting on Daniela's project proposals.
 
 - Align on machine platform options and prepare talking points for an upcoming Tuesday meeting.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- Questions going in: NB251 leaving - can AMRC move to Hermle? R-R interest; what does [[AN]] want covered on Tuesday regarding Edge; [[AN]] covering Daniela's project proposals on Tuesday - anything specific to mention?
+- Questions going in: NB251 leaving - can AMRC move to Hermle? R-R interest; what does [[Alan Norbury|AN]] want covered on Tuesday regarding Edge; [[Alan Norbury|AN]] covering Daniela's project proposals on Tuesday - anything specific to mention?
 - [[JS]] covered the NB251/Hermle C52 option.
 - Brownfield Connector can do some high-frequency data using its trace function, packaged as MQTT, though limited in memory size; can connect to a number of different platforms/protocols; high-freq only works for Siemens controllers (going back to Win95-based systems); Linux-based, Debian 10; free for 180 days.
-- [[AN]]: RTOS "nightmare"; Tender - Ubisense was awarded, [[AN]] raised concerns with Chris Greaves/Andy Silcox, and it's going back to the start.
+- [[Alan Norbury|AN]]: RTOS "nightmare"; Tender - Ubisense was awarded, [[Alan Norbury|AN]] raised concerns with Chris Greaves/Andy Silcox, and it's going back to the start.
 - Omative - need to know more about this product and its capability; might be relevant for the full MISSY programme.
-- [[AN]] re: Tuesday - Daniela projects:
+- [[Alan Norbury|AN]] re: Tuesday - Daniela projects:
   - Excel spreadsheet demo of the process gone through.
   - HQ funding of MC projects at AMRC is significant; Imran informed Alan, Alan got in touch; Daniela pulled the team together to get projects moving.
   - Projects reviewed for relevance to MC (RAG rating), then refined/combined as necessary and presented to HQ for MC - awaiting feedback.
@@ -45,14 +36,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[AN]] - Represent the NB251/Hermle C52 option and Edge topics at Tuesday's meeting, covering Daniela's project proposals.
+- [[Alan Norbury|AN]] - Represent the NB251/Hermle C52 option and Edge topics at Tuesday's meeting, covering Daniela's project proposals.

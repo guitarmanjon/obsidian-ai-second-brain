@@ -7,24 +7,15 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- AMRC: [[JS]], [[Adam B]], [[Jodie G]], [[Faris Nafiah]]
-- R-R: [[Jamie McGourlay]], [[Steven Carter]], [[Steven Halliday]], [[Donka Novovic]], [[Megan Creswick]]
+- AMRC: [[JS]], [[Adam Brown|Adam B]], [[Jodie G]], [[Faris Nafiah]]
+- R-R: [[Jamie McGourlay]], [[Steve Carter|Steven Carter]], [[Steven Halliday]], [[Donka Novovic]], [[Megan Creswick]]
 - AFRC: [[May Hicks]], [[Andy Hamilton]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Mini MISSY project workshop covering feedback on prior working practices, data usage/security, and technical review of chatter-related findings.
-
 - Review actions from the last meeting, discuss data usage/security for the Turing DSG, and dig into root cause analysis findings from the MISSY project.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Actions/feedback from last meeting:
   - [[Jodie G]] fed back that R-R could have held many discussions internally before involving AMRC, rather than using AMRC meetings to gather R-R's own internal requirements - this fell outside budget scope and was non-value-added for AMRC.
@@ -34,7 +25,7 @@ tags:
 - [[Jamie McGourlay]] gave a project update: MUSIC to reach final definition in the next couple of months, start date around October 2022. Benefits case still needs definition - tricky for this project. R-R has an internal deadline of 24th March to convince manufacturing leads the work should proceed. Assembly and Test group's balancing processes might benefit from MISSY work/output.
 - Root cause analysis - 3 parts exhibited chatter:
   - [[Jamie McGourlay]] questioned whether the data has been explored enough to find indicators of what was happening on those parts.
-  - [[Adam B]]: controller data is too low frequency to pick up chatter, which shows up at a few kHz; also questioned whether it was chatter at all, versus force vibration etc.
+  - [[Adam Brown|Adam B]]: controller data is too low frequency to pick up chatter, which shows up at a few kHz; also questioned whether it was chatter at all, versus force vibration etc.
   - BoB vs. WoW (best of best vs. worst of worst) comparison discussed.
   - [[Megan Creswick]] raised concern that none of the data picked up the machining defects, which undermines the point of the work.
   - [[Andy Hamilton]] asked whether R-R have data analysis methods/tools they could share to give better guidance in future - depends heavily on the challenge.
@@ -50,15 +41,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Data usage for the Turing DSG is basically approved, subject to caveats: no mention of R-R in the challenge, and the link between R-R and the dataset must be removed.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - AMRC team - (Ensure no mention of [[R-R]] appears anywhere in the Turing DSG challenge materials).
 - AMRC team - (Remove the link between [[R-R]] and the dataset before it's used in the DSG).

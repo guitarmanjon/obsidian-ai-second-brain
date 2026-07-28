@@ -7,26 +7,17 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[RP]]
 - [[David Moldenhauer]]
 - [[Rob Van t'Hof]]
 - [[JS]]
 - [[Charles Tivey]]
 - [[Pete C]]
-- [[Adam B]]
+- [[Adam Brown|Adam B]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A workshop to explore Siemens Edge computing technology and discuss potential automation and analytics use cases for AMRC.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[RP]] gave an overview of progress to date and workshop objectives.
 - [[David Moldenhauer]] covered automation use cases and requirements.
@@ -39,7 +30,7 @@ tags:
   - Using high frequency data to understand forge conditions, aiming to predict potential future failures.
   - Force feedback work showing crystallographic structure.
   - Calibration of torque against an outside standard.
-- [[Adam B]]:
+- [[Adam Brown|Adam B]]:
   - Sustainability aspect - using less energy, seeing how programme improvements cut down on energy use.
   - Question of what has the greatest influence on energy consumption - tool coating, MWF choice, etc.
   - [[Charles Tivey]] raised PAC sensors.
@@ -52,14 +43,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

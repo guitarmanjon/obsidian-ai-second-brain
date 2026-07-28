@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Karim Sorefan]] - KE officer for Faculty of Science
 - [[Stuart Fraser]] - Impact officer for Faculty of Science
 - [[Steve B]]
@@ -17,15 +14,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To explore how AMRC could do more knowledge exchange (KE) with the Physics department.
-
 - Identify overlaps between Physics department research capability and AMRC industry challenges, and understand available KE funding routes.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Trying to work out how to do more KE with the Physics department.
 - [[Karim Sorefan]] outlined relevant research:
@@ -40,14 +31,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[JS]] - (Approach [[Karim Sorefan]] when a suitable project arises to explore available KE funding).

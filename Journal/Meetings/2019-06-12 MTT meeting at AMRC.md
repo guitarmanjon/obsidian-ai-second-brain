@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Pete Willoughby]] (MTT)
 - [[JS]] (AMRC)
 - [[RH]] (AMRC)
-- [[Chris I]] (AMRC)
+- [[Chris Iveson|Chris I]] (AMRC)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Discuss Robin's software (H5 / Full Monty) with MTT and what MTT intend to do with it, in the context of MTT's need to deliver "Industry 4.0 ready" sensored machines.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 **Software**
 - [[RH]] gave an overview of the purpose of the software.
@@ -40,14 +31,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

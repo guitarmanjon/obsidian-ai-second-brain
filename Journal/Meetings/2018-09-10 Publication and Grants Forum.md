@@ -7,31 +7,22 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[TMc]]
-- [[CT]]
+- [[Chris Taylor|CT]]
 - [[JS]]
-- [[EO]]
+- [[Erdem Ozturk|EO]]
 - [[SA]]
-- [[Shaun]]
+- [[Shaun Donnelly|Shaun]]
 - [[Chao Sun]]
 - [[LB]]
 - [[NT]]
-- [[OO]]
+- [[Omer Ozkirimli|OO]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> A forum to discuss developing publication and grant-funding capability within the machining group, to diversify funding routes beyond Catapult/Board funding.
 
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Aim is to develop capability in the machining group to increase lower-TRL funding routes (e.g. EPSRC).
 - Push for more collaborations with academia, including international collaborations.
@@ -53,15 +44,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - All public dissemination of information must be reviewed by the Head of Research ([[TMc]]) then the Research Director ([[Keith Ridgway]]) before release.
 - A short list of AMRC-targeted journals will be agreed, and any planned publication must be entered on the publication register.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

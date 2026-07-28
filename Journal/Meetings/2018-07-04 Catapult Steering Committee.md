@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Emily Medley]]
 - [[Hue]]
 - [[Seun Ojo]]
@@ -19,15 +16,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A Catapult Steering Committee meeting to review progress on strategy trials, virtual machining vs measured cutting forces, and data streams/capture for VM validation.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Emily Medley]]:
 	- Overview of strategy trials; development of SOPs for tooling and strategy trials, with handover to technicians/KTC for future testing.
@@ -39,7 +30,7 @@ tags:
 	- Specific challenge features: free-standing thin walls (3mm), deep pockets with thin walls, tight corners, slot roughing.
 	- Trials starting 16 July in preparation for proper tests in September; prep for actual machine trials in August/September.
 	- Synchronisation of data across Spike, Kistler, vibration, MTConnect; NI libraries for Visual Studio; want to avoid using multiple laptops as sync is tricky.
-	- Vibration data capture - [[Hatim]] to facilitate.
+	- Vibration data capture - [[Hatim Laalej|Hatim]] to facilitate.
 - [[Hue]]:
 	- VM vs measured cutting forces; review of ABG080.
 	- Question: can the AMRC VM solution predict tool deflection and the resulting large steps left in heavy roughing (direct slotting from ABG080)?
@@ -50,14 +41,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Hatim]] - (Facilitate vibration data capture)
+- [[Hatim Laalej|Hatim]] - (Facilitate vibration data capture)

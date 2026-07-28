@@ -7,29 +7,20 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[PK]] (leading)
 - [[Ash G]]
-- [[Adam B]]
+- [[Adam Brown|Adam B]]
 - [[Sabino A]]
 - [[JS]]
-- [[Dan S]]
+- [[Dan Smith|Dan S]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To discuss an enquiry from BAE Systems' Team Tempest (A4D project) for AMRC to help fulfil part manufacture, given BAE's capacity constraints, and to scope AMRC's potential PM&C/data capture involvement.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[PK]] attended a prior meeting at BAE Warton (notes attached/referenced separately).
 - Team Tempest at BAE is under pressure to make parts and has no spare capacity - asking whether AMRC can fulfil this. "A4D" is BAE's internal project name.
-- [[Dan S]] has had previous engagement with BAE on this and had already quoted (referenced an "I3" project).
+- [[Dan Smith|Dan S]] has had previous engagement with BAE on this and had already quoted (referenced an "I3" project).
 - Three assemblies of module 1 required - first test vehicle by October, with follow-up parts after that for 2nd and 3rd test vehicles.
 - Models are dimensioned/constrained (built in NX) rather than 2D drawings - could be a problem for the Metrology team, who work from drawings.
 - Deadline for parts from AMRC is 30th September, with assembly in October.
@@ -41,14 +32,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers|JS]] (solo reflection, using Gemini as an AI career coach)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Self-directed career development reflection session, using Gemini in a "professional career coach" role to work through where JS is now and where he wants to go next.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Coaching framework proposed: a "You" Audit (strengths, growth areas, energy/enjoyment, core values), a "Horizon" Scan (short-term 1-2yr and long-term 5yr+ vision), and a "Landscape" Analysis (company and industry context).
 - JS's landscape: mid-level manager in a large research organisation (part of a university), managing a team of 15 engineers working in data science, smart factories and AI, focused on manufacturing research. Enjoys the people-management side and learning new technology. Finds it hard to get time to dive into technology and future strategy - difficult environment to enact change given the size of the organisation and being part of a university.
@@ -36,15 +27,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Identified data sonification/acoustic monitoring in manufacturing as JS's candidate "unique angle" for a future strategic research programme, worth exploring further.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Jon Stammers|JS]] - (Brainstorm 10+ specific applications of sound/acoustics in a smart factory)
 - [[Jon Stammers|JS]] - (Do a short scoping study on existing academic/industry work in acoustic predictive maintenance)

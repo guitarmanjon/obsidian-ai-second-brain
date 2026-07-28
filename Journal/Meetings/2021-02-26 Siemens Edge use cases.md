@@ -7,23 +7,14 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- Siemens: [[Gerd Heinrich]], [[Nat Hudson]], [[Rob Poyner]]
+- Siemens: [[Gerd Heinrich]], [[Nathaniel Hudson|Nat Hudson]], [[Rob Poyner]]
 - AMRC: [[Jon S]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - To make contact with Siemens for support on Edge use cases, review progress since earlier workshops, and agree next steps.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Gerd Heinrich]] (GH) - Aerospace Lead Consultant, part of Digital Industry area; works on digital enterprise/end-to-end solutions realising IIoT use cases (MES, shop floor, etc.).
 - [[Jon S]] gave an overview; [[Rob Poyner]] (RP) had sent use cases to GH ahead of the call.
@@ -38,16 +29,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - [[Gerd Heinrich]] to be the AMRC's support contact within Siemens going forward.
 - [[Gerd Heinrich]] to organise a specific follow-up call on machine tool fingerprinting, bringing in Siemens' Edge and machine-learning experts.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Gerd Heinrich]] - (Organise a call with Siemens Edge and ML experts to discuss machine tool fingerprinting.)
 - [[Gerd Heinrich]] / [[Oli Hayes]] - (Arrange a session to discuss composite quality evaluation, referencing Siemens' prior work with Airbourne in the Netherlands.)

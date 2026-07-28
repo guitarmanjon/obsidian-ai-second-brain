@@ -8,15 +8,9 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-> [!info] Why is this resource worth keeping?
-> Notes from Session 3 (09/09/2021) of the EPSRC/manufacturing-focused grant writing course, covering the Case for Support — specifically "Why this proposal?" (Background, Contribution to Knowledge, National Importance, Research Hypothesis & Objectives, Programme & Methodology), plus opinion/advice on why proposal writing is hard and how reviewers assess applications. The second half is a dedicated talk, "Demonstrating support for Impact in your Research Proposal," given by Tijana Close and Sam Garwood (University Impact Officers, Research Services).
-
 - Useful as a structural checklist for each CfS section, a source of official EPSRC links, and a worked walkthrough for planning the Impact content of a proposal.
 
 ## Key Takeaways
-
-> [!tip] The essential insights from this resource
-> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
 
 **Letters of Support (LoS) — "hot off the press" update (31 Aug 2021)**
 - Project partners cannot normally receive funding directly from the grant. Two exceptions: (1) a partner providing services/equipment via a formal procurement process audited by the host research organisation; (2) small amounts for travel/subsistence to attend project meetings, requested by the PI and fully justified.
@@ -141,9 +135,6 @@ Five components: Background; Research hypothesis and objectives; Contribution to
 - **Homework**: start working on the Case for Support.
 
 ## See Also
-
-> [!tip] Related links
-> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
 
 - This is **Session 3 of 5** in the EPSRC/manufacturing grant writing course.
 - [[EPSRC Grant Writing Course - Session 2 - Case for Support]]

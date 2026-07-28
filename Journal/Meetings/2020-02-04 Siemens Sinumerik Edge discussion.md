@@ -7,33 +7,24 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[SO]] (AMRC)
 - [[JS]] (AMRC)
-- [[EO]] (AMRC)
+- [[Erdem Ozturk|EO]] (AMRC)
 - [[Ryan D]] (AMRC)
 - [[Ben M]] (AMRC)
 - [[Alex G]] (AMRC)
 - [[Alan Norbury]] (Siemens)
 - [[Nathaniel Hudson]] (Siemens)
-- [[Dave Cant]] (no longer Siemens?)
+- [[David Cant|Dave Cant]] (no longer Siemens?)
 - [[Rob Poyner]] (Siemens)
 - [[Andy Hodgson]] (Siemens)
 - [[Steve Carter]] (RR)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> To discuss Rolls-Royce's requirements and Siemens' Sinumerik Edge technology for machine connectivity and data capture at AMRC.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[Alan Norbury]] opened with why the group was meeting, and what RR's requirements are; also raised what machine opportunities exist at AMRC given busy machines.
 - [[Steve Carter]] (RR):
@@ -46,11 +37,11 @@ tags:
   - Comparison of Hermle vs. H5.
 - MTConnect / UMATI discussed - MTConnect was not a popular choice in the room.
 - [[Steve Carter]]: recommended a Systems Engineering approach - identify the actors and what they need, which should define the data captured.
-- [[EO]] gave an overview of offline/online solutions.
+- [[Erdem Ozturk|EO]] gave an overview of offline/online solutions.
 - RR's "Digital Enterprise" initiative referenced.
 - Edge software officially released in October.
 - Discussion of a Brownfield production line solution - Digibox.
-- [[Dave Cant]] gave an overview of current apps:
+- [[David Cant|Dave Cant]] gave an overview of current apps:
   - 100 variables at 1kHz using Edge on the Solution line.
   - Optimize MyMachining / Adaptive Control uses accelerometers on the machine, based on technology acquired from Omitive(?).
 - Mendix mentioned as used by RR in Singapore for an IoT demo.
@@ -62,14 +53,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - ...
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

@@ -7,28 +7,19 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Adam B]]
+- [[Adam Brown|Adam B]]
 - [[Richard B]]
-- [[Phil K]]
+- [[Phil Kirkland|Phil K]]
 - [[Jon S]]
-- [[Erdem O]]
+- [[Erdem Ozturk|Erdem O]]
 - [[Thawid]]
 - [[Ian C]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> A Catapult steering meeting covering documentation standards, an internal conference, working-to-standards questions, and coolant-related work.
-
 - ...
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Discussion of user manual vs. report as a documentation format.
 - Internal conference:
@@ -44,14 +35,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Internal conference to ideally be held 15th April, mandatory for tech fellows and tech leads.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - Person - (Action)

@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
-- [[Phil]]
+- [[Phil Yates|Phil]]
 - [[JS]]
 
 ## Purpose
-
-> [!info] Why did this meeting happen?
-> Discuss potential Airbus project ideas around dynamic robotics and cyber security gamification.
 
 - Explore project concepts and unspent budget for Airbus-related work.
 
 ## Key Discussion Points
 
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
-
-- Dynamic robotics ([[Phil]]):
+- Dynamic robotics ([[Phil Yates|Phil]]):
   - Digital twins concept.
   - Camera system linked to a robot to determine position and the object to pick up.
   - Risk of "man in the middle" attack.
@@ -39,14 +30,8 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - None recorded.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - None recorded.

@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Jon Stammers]] - AMRC, Machining Group
 - [[Omer Ozkirimli]] (OO) - AMRC, Machining Group
 - [[Charlotte Hartley-Smith]] - AMRC, Bids team
@@ -21,13 +18,7 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> Cross-centre AMRC discussion to decide how to collectively approach an open 5G funding call - who leads, main bid themes and ownership, and potential partners.
-
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later. The page contains both raw live notes and a cleaner "Summary for email" recap of the same meeting; the recap is used below as the primary account, with anything uniquely captured in the raw notes added afterward.
 
 **Summary (from the "Summary for email" recap)**
 - BAE expressed interest in leading a bid with AMRC, and Siva had confirmation that they will lead. However, BAE want AMRC to do the legwork, and don't want to host any hardware (happy for it to be hosted at AMRC NW).
@@ -50,17 +41,11 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - BAE will lead the 5G bid, with AMRC doing the legwork; hardware to be hosted at AMRC NW rather than at BAE.
 - AMRC should focus its 5G proposal on application areas where it already has expertise (machining, digital manufacturing) rather than developing new expertise.
 - Siemens to be involved in a supporting capacity only, not leading.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Aparajithan Sivanathan]] - (Find out what BAE want from being involved in a 5G project)
 - [[Aparajithan Sivanathan]] - (Find out what BAE's previous involvement in 5G was)

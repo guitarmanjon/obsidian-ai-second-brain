@@ -7,28 +7,19 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Kadir]] (AFRC)
 - [[Megan]]
 - [[Donka]]
 - [[Andy Bell]]
-- [[Adam B]] (referenced)
+- [[Adam Brown|Adam B]] (referenced)
 - [[Emily Pickford]] (referenced)
 - [[JS]]
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Mini-MISSY catch up covering AFRC forging issues/delays, additional funding options, and a sustainability data follow-on discussion with [[Andy Bell]].
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - AFRC update from [[Kadir]]:
   - Problems with the radial forge robot.
@@ -44,7 +35,7 @@ tags:
   - Funding is across the whole team - R-R, AFRC, AMRC.
 - From [[Donka]]: proposed moving the meeting to 11:30-12:30 so she can attend - no problem from JS's perspective.
 - Follow-on call with [[Andy Bell]]:
-  - Following discussion with [[Adam B]] - can machine tool data output be used to inform sustainability/energy usage?
+  - Following discussion with [[Adam Brown|Adam B]] - can machine tool data output be used to inform sustainability/energy usage?
   - Smart meter-type data analytics - [[Emily Pickford]] working on something for machine tools using just power data.
   - Use of super computers - energy usage on these can negate the benefit of big data analysis.
   - [[Andy Bell]] has specialism in measuring the unmeasurable - proxy measurements based on other sensor data, e.g. using power monitoring to predict temperature in the machine, with Ansys and MATLAB models.
@@ -53,15 +44,9 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Meeting time moved to 11:30-12:30 so [[Donka]] can attend.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[Kadir]] - (Discuss revised forging proposal with TMG to assess machining impact)
 - [[JS]] - (Review sustainability data mapping with [[Andy Bell]] once machine data is available)

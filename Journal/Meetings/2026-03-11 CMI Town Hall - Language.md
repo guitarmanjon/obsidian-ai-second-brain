@@ -7,22 +7,13 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - Not explicitly recorded — see speakers named in Key Discussion Points.
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - CMI (Centre for Machine Intelligence) town hall covering Gen AI governance, grants, agentic systems, responsible AI, and education.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - **JM update**
   - UoS Player.
@@ -34,7 +25,7 @@ tags:
   - University pages on Gen AI guidance being launched next month.
     - → **Share this in AMRC.**
 
-- **[[Hari]], RPI - NVIDIA Academic Grant Programme**
+- **[[Hari Sood|Hari]], RPI - NVIDIA Academic Grant Programme**
   - Manufacturing is a key interest.
   - **Closing dates 30 June, 30 Sept, 31 Dec.**
 
@@ -52,7 +43,7 @@ tags:
 
 - **[[Edwin Brown]] + [[Shaun Donnelly]] - Intro to Agentic Systems**
   - **[[Edwin Brown|Edwin]]**: Agents try to overcome LLM limits - restrictive/single-step behaviour, context limitation, lack of interaction with the outside world (addressed via tool use). Anatomy of an agent: LLM as the brain, tools as the hands, and a nervous system that orchestrates. Example given using Claude for a complex calculation from language prompts.
-  - **[[Shaun]]**: Context management - an agent has a token budget (context window) covering prompt, reasoning, tool calls, response, etc. "Context rot" - full windows lead to lower quality context returns; managed via summarisation, truncation, or sub-agents. Sub-agents are non-permanent, usually predefined, and used by an orchestrator for parts of a large task. Multi-agent setups use an orchestrator plus teams of agents for specific elements of a task.
+  - **[[Shaun Donnelly|Shaun]]**: Context management - an agent has a token budget (context window) covering prompt, reasoning, tool calls, response, etc. "Context rot" - full windows lead to lower quality context returns; managed via summarisation, truncation, or sub-agents. Sub-agents are non-permanent, usually predefined, and used by an orchestrator for parts of a large task. Multi-agent setups use an orchestrator plus teams of agents for specific elements of a task.
 
 - **[[Christos Christodoulopoulos]] - The Language of Responsible AI**
   - Principal Tech Advisor, ICO (Information Commissioner's Office), Edinburgh.
@@ -70,16 +61,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - No formal decisions — this was a series of talks/presentations, not a decision-making session. Follow-up noted: **Share this in AMRC** (Gen AI guidance pages).
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
 - [[Tom Griffiths]] - (Share the University's Gen AI guidance pages in AMRC once launched next month.)
-- [[Hari]] - (Note NVIDIA Academic Grant Programme **closing dates 30 June, 30 Sept, 31 Dec** for manufacturing-relevant applications.)
+- [[Hari Sood|Hari]] - (Note NVIDIA Academic Grant Programme **closing dates 30 June, 30 Sept, 31 Dec** for manufacturing-relevant applications.)
 - [[Skye Zhao]] - (Consider what can be learned from Skye's Gen AI in education research for staff training in Industry.)

@@ -7,25 +7,16 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - [[Meera Warrier]] - Assistant Director, Researchers and Research Culture, University of Sheffield (organiser)
-- [[James]]
+- [[James Marshall|James]]
 - [[Jon]]
 - [[Ash Tiwari]] - suggested Meera get in touch (not present)
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Meera arranged a 30-minute meeting to discuss opportunities around some additional EPSRC funding the University has received, including AI-related training for industry as well as AMRC's own PGRs and postdocs.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - Additional funding is related to skills development.
 - Original proposal was for secondments into industry and vice versa, but EPSRC didn't want to fund this - seen as subsidising industry.
@@ -35,16 +26,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Funding window is tight: 1 October 2025 to 31 March 2026.
 - Need to confirm to [[Meera Warrier]] by w/c 22nd September what the ~£20k could fund.
 
 ## Action Items
 
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
-
-- [[Jon]] / [[James]] - Let [[Meera Warrier]] know w/c 22nd Sept what the ~£20k could fund.
+- [[Jon]] / [[James Marshall|James]] - Let [[Meera Warrier]] know w/c 22nd Sept what the ~£20k could fund.
 - [[Meera Warrier]] - Share EPSRC documentation on what can / can't be funded.

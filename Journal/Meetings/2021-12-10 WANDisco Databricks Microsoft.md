@@ -7,9 +7,6 @@ tags:
 
 ## Attendees
 
-> [!info] Who was in this meeting?
-> Link to People with `[[Name]]`.
-
 - AMRC: [[Rab]], [[Katie]], [[Aiden]], [[Jon]], [[Ryan]]
 - Databricks: [[Richard Wylie]] (EMEA Azure Lead)
 - WANDisco: [[Paul Scott-Murphy]] (CTO, Bay Area), [[David Richards]] (CEO)
@@ -18,15 +15,9 @@ tags:
 
 ## Purpose
 
-> [!info] Why did this meeting happen?
-> One sentence on the goal of this meeting. What was it meant to accomplish?
-
 - Joint session between AMRC, Databricks, WANDisco, Microsoft, and AES Seals to explore a tangible Azure Databricks stack demonstration using AES Seals' bearing failure data.
 
 ## Key Discussion Points
-
-> [!note] What was talked about?
-> Capture the substance - not a transcript, but the important points, context, and nuance that you'd want to recall later.
 
 - [[David Richards]] (DR): the Digital Meets Manufacturing commission wants a tangible Azure Databricks stack demonstration, showing current best practice. AES have bearing failure data going back to 1968. AMRC Data Cloud to be developed together with AES Seals.
 - [[Richard Wylie]] (RW): outlined a reference architecture based on core, Azure Databricks, and open source - "Azure Databricks Modern Analytics Architecture", documented on Microsoft docs (docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture).
@@ -40,16 +31,10 @@ tags:
 
 ## Decisions
 
-> [!warning] What was agreed?
-> Record any decisions made, who made them, and any conditions or caveats. Decisions are the highest-value output of most meetings.
-
 - Architecture to be built on the AMRC Cloud tenant, with an AES Seals tenancy underneath.
 - [[Rab]] and [[JS]] to work with AES on use cases and KPIs.
 
 ## Action Items
-
-> [!example] Who is doing what by when?
-> Use the format `[[Person]] - (Action)` for clear accountability tracking.
 
 - [[David Richards]] - (Develop proper architecture on AMRC Cloud tenant, with AES Seals tenancy below it)
 - [[Rab]] - (Work with AES on use cases and KPIs, alongside [[JS]])
