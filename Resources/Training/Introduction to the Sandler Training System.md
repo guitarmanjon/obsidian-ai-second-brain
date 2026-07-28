@@ -1,0 +1,51 @@
+---
+source:
+tags:
+  - Resource
+  - Sales
+last updated: 2026-07-25T00:00:00
+---
+
+## Summary
+
+> [!info] Why is this resource worth keeping?
+> In 2-3 sentences, explain what this resource covers and why it's useful. Focus on the value it provides to your work, not just what it is, but why you saved it.
+
+- Handwritten notes (with several pasted presentation-slide photos) from a Sandler sales training course, led by trainer Roy Johnson, spanning at least three sessions (9 Jan 2024, 23 Jan 2023 [sic, as dated in the notes], and 30 Jan 2024). Covers the core Sandler Selling System: the sales "funnel"/pipeline stages (Bonding & Rapport, Up-front Contract, Pain, Budget, Decision, Fulfilment, Post-Sell), the Success Triangle (Attitude/Behaviour/Technique), why buyers and sellers fall into a dysfunctional "dance," how to build rapport and uncover genuine pain, and how to run up-front contracts, questioning strategies, and prospecting behaviours.
+
+## Key Takeaways
+
+> [!tip] The essential insights from this resource
+> Distill the most important points. What would you want to remember if you came back to this in 6 months? Use progressive summarization, bold the critical phrases.
+
+- **Purpose of the training:** get everyone "on the same page" with **consistent terminology across the business** — what am I "selling," how to have those conversations, when to let a deal lapse, how to pitch effectively, and how to pinpoint what the customer actually wants. Sales people are framed as **"Agents of change."**
+- **Pipeline / funnel definitions** (people define these differently, so align on one model): a funnel narrowing from **Suspects** through the stages **Bonding & Rapport → Up-front Contract → Pain → Budget → Decision**, with prospects becoming progressively **"Cold" → "Warm" → "Hot"** as they move down, and crossing a **"Qualified"** line near the bottom. Below that: **Customer** = someone who has actually given you money; **Prospect** = someone who *could* become a customer.
+- **Budget** includes not just money but also **time, people, and political will**.
+- **Mnemonic for the seven funnel/"submarine" stages** (Bonding & Building Rapport, Up-front Contract, Pain, Budget, Decision, Fulfilment, Post-Sell) — initials B-U-P-B-D-F-P, with a memorable phrase against each letter (source handwriting is hard to read in places; see note below).
+- **Success Triangle:** Attitude, Behaviour, and Technique — Attitude is called out as most important, but **all three are needed for success**.
+- **The Reality of B2B / "How Buyers Buy":** in enterprise sales, many people take an interest, creating more opportunities to "trip up." **"Every client you now have will eventually leave you."**
+- **The Buyer-Seller Dance:** the textbook dance is Buyer (Express Interest → Act Motivated → Obtain Information → Avoid Commitment → Obtain Information → Disappear, ending as an "Educated Buyer") against Seller (Needs Analysis → Present/Proposal → Close → Handle Objections → Follow-Up, ending as a "Frustrated Salesperson"). What **really** goes on: against the same seller stages, buyers **Lie, Steal, Lie, Steal, Hide**. **"You can lie to a salesperson and still go to heaven."** Our job as sales is **to get to the truth — the truth is out there.**
+- **Significance & Recency:** watch for these when a prospect raises something — significance ("they will know the numbers"), recency (if very recent, it could be a "knee-jerk reaction").
+- **Bonding & rapport:** treat people the way *they* want to be treated — make them comfortable. Related model: **The O.K. Corral** (a 2x2 of "I'm OK/not OK with me" vs. "You are OK/not OK with me") — the healthy, happy position is "I am OK, You are OK" (get on with); the other three quadrants are one-down/helpless, toxic/hopeless, or one-up/angry.
+- **V.I.P.s** — a prompt for conversation: **V**ictories, **I**mpending events, **P**roblems.
+- **Handling "no":** arrange a call for a future date; ask *"And what are we going to talk about?"* and *"Anything else?"*
+- **Unpick & Unpack:** pick up on key points the prospect raises in conversation and explore them, e.g. *"You mentioned price — sounds like that's the most important [factor]," "Value — what does value mean to you?," "ROI — what does ROI mean to you?"*
+- **Up-front Contract (revision) covers:** Timing, Agenda, Prospect's good outcome/expectations, Salesperson's good outcome/expectations, and Outcomes + next steps. A closing-style version: *"At the end of our meeting… I can say no, you can say no, and if neither of us says no, there's a yes in there."*
+- **Get uncomfortable with the shape of the funnel** — it should be narrow/tapered (illustrated as a "thong" vs. "boxers"), representing time and money invested, not a wide rectangular shape.
+- **Pain:** "The reason people buy from us is because of present or future pain." **"Cost is never the real 'issue' for a prospect saying no."** It's all about them — if a prospect didn't have to buy from you, they wouldn't. The problem a prospect presents with is usually **not the cause of the pain, it's a symptom** — **"prescription before diagnosis is malpractice."** An exercise ranked pain/pleasure × present/future as motivators for change, with **present pain ranked as the #1 motivator** and future pleasure the weakest. **"Fear of loss is a bigger motivator than pleasure of gain."**
+- **Pain Funnel questions** — a sequence to get to the root of the problem and increase/surface the pain: *"Tell me more about that… Can you be more specific? Give me an example… How long has that been a problem? What have you tried to do about that? And did that work? How much do you think that has cost you? How do you feel about that / how has it affected you? Have you given up trying to deal with the problem?"* Earlier questions help define scope; later questions increase emotional engagement. **Price according to pain.** Roughly **80% of sales interactions end in no change.**
+- **Questioning Strategies (70-30 rule):** the salesperson should only be doing ~30% of the talking — mostly questions, to find out more and shape a better offering. **It's the prospect's picture** — Sandler rules include: no buzzwords, "don't spill your candy in the lobby," and "don't paint seagulls in your prospect's picture" (sell what the prospect needs, not what you want to show off). Learn everything about your product/service — just don't "tell" it. **If you're justifying, you are not in control.** If the prospect stops talking, you stop talking.
+- **Budget** is discussed only after pain has been established. **Don't talk cost, only talk investment.** Pattern-interrupt line: *"Mr Prospect, if it costs you a penny, you shouldn't do it"* — gets them thinking about value, investment, and why they're doing it. Refer back to pain. Consider **presumptive questions**, e.g. *"When you considered XYZ, what was the outcome?"* — especially good if you know they've already thought about it.
+- Reference note: "Identifying the Prospect's Decision-Making Process" and other material referenced only as page numbers in the physical Sandler workbook (e.g. p.47, p.63, p.77) — **"see notes in book."**
+- For AMRC-type visitors, consider an up-front contract at the start of the day: *"When you leave today, what would good look like for you?"*
+- **Fulfilment failure modes:** taking too long to respond, quoting for something the prospect didn't want (go back to pain/listen), not addressing the pain in the proposal (unpick & unpack), going over time/budget, being undercut, or the decision-maker having left (check if anything has changed). Line for handling being undercut: discover early if it's an issue, find out who they're choosing and why, and why the competitor is cheaper. Useful framing line: *"You're probably not interested in this, but we've used X in the past."*
+- **Post-Sell — what could go wrong:** similar risks to fulfilment, plus over-commitment to too many contracts, people leaving the business, resources changing, and still being undercut.
+- **"Results are the evidence of the behaviours that went before."** Behaviours are **leading indicators**; Outcomes/Results are **lagging indicators**, with PESTLE factors affecting the variance in results — but results are ultimately driven by prior, controllable behaviour. We tend to celebrate lagging indicators, but celebrating leading indicators could drive better behaviours and results. ("Identity vs Role Theory" flagged as worth further reading.)
+- **Prospecting behaviours to get involved with:** proactively researching what other groups/teams are doing; asking existing/approaching customers what else they need and why they chose that project; networking events; "laying the seeds of doubt" by referring to international standards; group discussion, referrals, networking, and asking "what bad things will happen [if they don't act]?"; case studies; LinkedIn; "chase the money" / "stand in the flow of money" (funding bodies); and aim for **3-wide, 3-deep** relationships — more than one point of contact per account.
+
+## See Also
+
+> [!tip] Related links
+> Link to related Areas `[[Area Name]]`, Techniques `[[Technique Name]]`, or other Resources.
+
+- ...
