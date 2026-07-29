@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Kadir]] (AFRC)
+- [[Kadir]] ([[AFRC]])
 - [[Megan]]
 - [[Donka]]
 - [[Andy Bell]]
@@ -17,22 +17,22 @@ tags:
 
 ## Purpose
 
-- Mini-MISSY catch up covering AFRC forging issues/delays, additional funding options, and a sustainability data follow-on discussion with [[Andy Bell]].
+- Mini-[[MISSY]] catch up covering [[AFRC]] forging issues/delays, additional funding options, and a sustainability data follow-on discussion with [[Andy Bell]].
 
 ## Key Discussion Points
 
-- AFRC update from [[Kadir]]:
+- [[AFRC]] update from [[Kadir]]:
   - Problems with the radial forge robot.
   - Proposal for a slightly different forging approach - less risky than the initial solid design.
   - Needs discussion with TMG to see how the proposal affects machining.
   - Knock-on effect of delay to machining - 15th October delivery date.
 - Additional funding - [[Megan]] described the options:
-  - Sprint 4 - sustainability and net zero, across AMRC and AFRC (needs defining).
+  - Sprint 4 - sustainability and net zero, across AMRC and [[AFRC]] (needs defining).
   - Extend Sprint 3 - move analytics further.
   - Expand Sprints 1 and 2 - more samples, test pieces, etc.
   - Expand evaluation of Edge device and app capability.
   - Operational side - how does it fit with a real production environment.
-  - Funding is across the whole team - R-R, AFRC, AMRC.
+  - Funding is across the whole team - [[Rolls-Royce|R-R]], [[AFRC]], AMRC.
 - From [[Donka]]: proposed moving the meeting to 11:30-12:30 so she can attend - no problem from JS's perspective.
 - Follow-on call with [[Andy Bell]]:
   - Following discussion with [[Adam Brown|Adam B]] - can machine tool data output be used to inform sustainability/energy usage?

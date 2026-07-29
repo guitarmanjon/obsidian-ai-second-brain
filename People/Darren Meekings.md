@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Collins contact who initiated the AMRC connection; flagged value-stream mapping as priority number 1, and Collins' "second valley of death" (MRL 6+) as where AMRC help is most needed.
+- [[Collins Aerospace|Collins]] contact who initiated the AMRC connection; flagged value-stream mapping as priority number 1, and [[Collins Aerospace|Collins]]' "second valley of death" (MRL 6+) as where AMRC help is most needed.
 
 ## Notes
 

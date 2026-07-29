@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- *Collaborative landscape identified**: Speech and Hearing (SPandH), Dept of Computer Science ([[Jon Barker]], [[Guy Brown]], [[Ning Ma]]) - robust speech processing, computational auditory scene analysis, audio-visual machine listening. Dynamics Research Group, School of MACE ([[Keith Worden]], [[Elizabeth Cross]], [[Neil Sims]]) - Structural Health Monitoring, ML for dynamical structures, chatter mitigation. Acoustics & Sensors experts ([[Kirill Horoshenkov]], [[Matthew Jones]]) - acoustic materials, UKAN sensor networks, physics-informed ML for acoustic-emission source localisation.
+- *Collaborative landscape identified**: Speech and Hearing (SPandH), Dept of Computer Science ([[Jon Barker]], [[Guy Brown]], [[Ning Ma]]) - robust speech processing, computational auditory scene analysis, audio-visual machine listening. Dynamics Research Group, School of MACE ([[Keith Worden]], [[Elizabeth Cross]], [[Neil Sims]]) - Structural Health Monitoring, [[Machine Learning|ML]] for dynamical structures, chatter mitigation. Acoustics & Sensors experts ([[Kirill Horoshenkov]], [[Matthew Jones]]) - acoustic materials, UKAN sensor networks, physics-informed [[Machine Learning|ML]] for acoustic-emission source localisation.
 
 ## Notes
 

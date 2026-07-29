@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Liverpool. Usually found alongside Arutian Ehiasarian on EPSRC/SHU/UoL proposal work (AI-based Digital Twin for Sustainable and Responsive Plasma Surface Manufacturing).
+- University of Liverpool. Usually found alongside Arutian Ehiasarian on EPSRC/[[Sheffield Hallam University|SHU]]/UoL proposal work ([[AI]]-based [[Digital Twin]] for Sustainable and Responsive Plasma Surface Manufacturing).
 
 ## Notes
 

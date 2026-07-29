@@ -26,7 +26,7 @@ tags:
   - XM-60 check to be undertaken by an external party.
   - MSP to be installed.
   - Ball bar checks.
-- Lots of discussion around scope creep, the SoW not having quite enough detail, and internal data review gates before R-R sessions.
+- Lots of discussion around scope creep, the SoW not having quite enough detail, and internal data review gates before [[Rolls-Royce|R-R]] sessions.
 
 ## Decisions
 

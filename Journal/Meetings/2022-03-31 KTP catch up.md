@@ -24,7 +24,7 @@ tags:
 - Question raised on what message is coming from the top (Steve K).
 - Data champions to start spreading the word.
 - [[Katie]] and [[Rufino Bolado|Rufino]] questioning why they're putting in so much work if others in the company don't believe in it.
-- Suggestion to learn from other companies, e.g. Produmax.
+- Suggestion to learn from other companies, e.g. [[Produmax]].
 
 ## Decisions
 

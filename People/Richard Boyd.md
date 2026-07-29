@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Richard Boyd]] (XpertRule demo)
-- XpertRule demo by [[Richard Boyd]]: Node.js and JavaScript are the engines behind their web-based software, Decision Factory.
+- [[Richard Boyd]] ([[XpertRule]] demo)
+- [[XpertRule]] demo by [[Richard Boyd]]: Node.js and JavaScript are the engines behind their web-based software, Decision Factory.
 
 ## Notes
 

@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- Presentation and review of progress on the Razor dashboard build.
+- Presentation and review of progress on the [[Razor]] dashboard build.
 
 ## Key Discussion Points
 

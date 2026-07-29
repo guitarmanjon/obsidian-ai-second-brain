@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Scott Smith]] (Kingsbury): NC capabilities can lead to powerful cycles/programs. Calibration tool is the master reference for everything else on the machine (error stack?). Human error sources: wrong part, wrong program, wrong insert/tool data, incorrect part loading, failure to check tools, forgetting to calibrate probe, uncalibrated manual measuring equipment. Parametric programming is key. RPM fluctuation raised for resonance/chatter control.
+- [[Scott Smith]] ([[Kingsbury]]): NC capabilities can lead to powerful cycles/programs. Calibration tool is the master reference for everything else on the machine (error stack?). Human error sources: wrong part, wrong program, wrong insert/tool data, incorrect part loading, failure to check tools, forgetting to calibrate probe, uncalibrated manual measuring equipment. Parametric programming is key. RPM fluctuation raised for resonance/chatter control.
 
 ## Notes
 

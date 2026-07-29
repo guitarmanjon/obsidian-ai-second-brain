@@ -12,7 +12,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Professor in Materials at UoS, and Theme co-Lead for AI in Engineering and Manufacturing alongside Jon. Involved in CMI/RSE/Royce discussions. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]], [[2025-10-08 CMI Town Hall]], [[2026-01-08 CMI - AI for E&M Fortnightly]], [[2026-02-16 James and Jon - Tom]].
+- Professor in Materials at [[University of Sheffield|UoS]], and Theme co-Lead for [[AI]] in Engineering and Manufacturing alongside Jon. Involved in CMI/RSE/Royce discussions. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]], [[2025-10-08 CMI Town Hall]], [[2026-01-08 CMI - AI for E&M Fortnightly]], [[2026-02-16 James and Jon - Tom]].
 
 ## Notes
 

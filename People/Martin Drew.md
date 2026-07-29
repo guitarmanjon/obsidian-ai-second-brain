@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Martin Drew]] - KYAL machine tools
-- [[Martin Drew]] (KYAL machine tools) suggested a day or two of training from a WFL probing expert, with AMRC's questions/issues/problems (diagrams, descriptions) sent ahead so the trainer can prepare. A meeting is needed at AMRC first to identify what input is wanted from WFL.
+- [[Martin Drew]] (KYAL machine tools) suggested a day or two of training from a WFL [[Probing|probing]] expert, with AMRC's questions/issues/problems (diagrams, descriptions) sent ahead so the trainer can prepare. A meeting is needed at AMRC first to identify what input is wanted from WFL.
 
 ## Notes
 

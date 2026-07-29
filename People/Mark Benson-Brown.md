@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact. Involved in OMI (On-Machine Inspection) discussions.
+- [[Rolls-Royce]] contact. Involved in [[On-Machine Inspection|OMI]] ([[On-Machine Inspection]]) discussions.
 
 ## Notes
 

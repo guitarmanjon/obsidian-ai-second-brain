@@ -15,9 +15,9 @@ tags:
 
 ## Key Discussion Points
 
-- [[Paul Hammond]] is COM-based; built the RSE team at UoS and has now returned to academic work.
+- [[Paul Hammond]] is COM-based; built the RSE team at [[University of Sheffield|UoS]] and has now returned to academic work.
 - Background in complex system simulation and GPUs. Commercialisation journey started to find out if there is application for it in other domains and industry. Software is now mature, no longer research-stage, and is dual-licensed under GPL and Commercial licenses.
-- FLAME simulates complex systems - lots of entities, used to simulate emergent behaviour. Runs entirely on the GPU without the user needing to know about it, a bit like how PyTorch has abstracted GPU use for AI.
+- FLAME simulates complex systems - lots of entities, used to simulate emergent behaviour. Runs entirely on the GPU without the user needing to know about it, a bit like how PyTorch has abstracted GPU use for [[AI]].
 - Digital twinning work has been prolific - traffic modelling on the Isle of Wight, passenger movement on trains - and it's also being used in materials science, e.g. rail steel wear.
 - Performance scale is orders of magnitude ahead of traditional simulation methods.
 - Discussed potential AMRC applications:

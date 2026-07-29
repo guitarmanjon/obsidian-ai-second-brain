@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Not explicitly listed - discussion involving [[Phil Ware]], [[RD]], [[Derek Molloy]], and [[Duncan Gibb]] (Edwards).
-- [[Phil Ware]] can see the opportunity for the AMRC Data Cloud, with anything developed there later moved to Edwards' own cloud platform.
+- [[Phil Ware]] can see the opportunity for the [[AMRC Data Cloud]], with anything developed there later moved to Edwards' own cloud platform.
 
 ## Notes
 

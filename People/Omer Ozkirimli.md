@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Ex-AMRC colleague specialising in machining dynamics; now at the Manufacturing Technology Centre (MTC).
+- Ex-AMRC colleague specialising in machining dynamics; now at the Manufacturing Technology Centre ([[MTC]]).
 - Involved in strain gauge/dyno diagnostic work - estimated 2-3 days on-site plus 2 weeks off-site analysis for a vibration issue.
 
 ## Notes

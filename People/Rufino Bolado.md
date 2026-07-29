@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- CW Fletcher (CWF) contact. Involved in the CWF KTP, NextGen, and machine tool/probing data capture work.
+- CW Fletcher (CWF) contact. Involved in the CWF KTP, NextGen, and machine tool/[[Probing|probing]] data capture work.
 
 ## Notes
 

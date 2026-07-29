@@ -19,7 +19,7 @@ tags:
 - Website - "where's the wow factor?"
 - Training - meeting training ✓
 - [[James]] leaving
-- Oct AI pipe - (note trails off, incomplete)
+- Oct [[AI]] pipe - (note trails off, incomplete)
 
 ## Decisions
 

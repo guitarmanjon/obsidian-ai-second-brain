@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Phil Midwinter]] - process owner for milling and controls, R-R
+- [[Phil Midwinter]] - process owner for milling and controls, [[Rolls-Royce|R-R]]
 
 ## Notes
 

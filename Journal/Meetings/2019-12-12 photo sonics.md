@@ -20,7 +20,7 @@ tags:
 - Photo-Sonics have a portfolio of companies and technologies they deal with.
   - ITS - high speed/accuracy timing between devices, for sensor data alignment.
   - Datatel make RF transmission/reception components; sensors connect to these via differential voltage.
-- [[Erdem Ozturk|EO]] is looking for something like the Fraunhofer 5G solution but using RF instead.
+- [[Erdem Ozturk|EO]] is looking for something like the Fraunhofer [[5G]] solution but using RF instead.
 
 ## Decisions
 

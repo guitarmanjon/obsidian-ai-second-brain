@@ -15,7 +15,7 @@ tags:
 
 ## Key Discussion Points
 
-- Question raised: who is working on Digital Twin in the Dynamics / modelling teams?
+- Question raised: who is working on [[Digital Twin]] in the Dynamics / modelling teams?
 - Reference to twincontrol.eu as a relevant project.
 - WITNESS simulation software noted as being driven by real-time data.
 - [[Tom Garwood]] flagged re: environment measurement sensors.
@@ -27,5 +27,5 @@ tags:
 
 ## Action Items
 
-- [[JS]] - (Send info on who is working on Digital Twin in Dynamics/modelling teams to [[Victoria Tomlinson|Victoria]])
+- [[JS]] - (Send info on who is working on [[Digital Twin]] in Dynamics/modelling teams to [[Victoria Tomlinson|Victoria]])
 - [[JS]] - (Prepare WITNESS training material for [[Victoria Tomlinson|Victoria]])

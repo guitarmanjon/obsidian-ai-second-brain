@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Discussion touching on Singapore and Turing topics.
+- Discussion touching on Singapore and [[Alan Turing Institute|Turing]] topics.
 
 ## Key Discussion Points
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- My development: tried to start leading AMRC AI work strategically via an AI workshop, but this fell by the wayside - hard to prioritise. Sandler sales training - useful change of mindset, good ideas for up-front planning, though not much opportunity yet to put it into practice. External engagements: UnLTD business breakfast panel; BVAA conference keynote "How green is my AI?" (well received). IET Technical Network ongoing - hosted the Manufacturing and AI webinar with [[Akeel Attar]] and [[Lars Butler]].
+- My development: tried to start leading AMRC [[AI]] work strategically via an [[AI]] workshop, but this fell by the wayside - hard to prioritise. Sandler sales training - useful change of mindset, good ideas for up-front planning, though not much opportunity yet to put it into practice. External engagements: UnLTD business breakfast panel; BVAA conference keynote "How green is my [[AI]]?" (well received). [[IET]] Technical Network ongoing - hosted the Manufacturing and [[AI]] webinar with [[Akeel Attar]] and [[Lars Butler]].
 
 ## Notes
 

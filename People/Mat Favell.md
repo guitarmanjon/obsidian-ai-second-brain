@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[TM]] - (Already contacted Renishaw's [[Mat Favell]])
+- [[TM]] - (Already contacted [[Renishaw]]'s [[Mat Favell]])
 
 ## Notes
 

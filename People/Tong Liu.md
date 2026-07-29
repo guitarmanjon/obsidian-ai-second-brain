@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Tong Liu]] - Lecturer, pervasive computing
-- [[Tong Liu]] presented "The Utility of Lifelong AI in Industrial Soft Sensing and Condition Monitoring" (Pervasive Computing Group). Lifelong ML aims to mimic human learning more closely - e.g. recognising wheels on a new type of vehicle having only ever seen them on a different vehicle - by building a knowledge base for the ML model.
+- [[Tong Liu]] presented "The Utility of Lifelong [[AI]] in Industrial Soft Sensing and [[Condition Monitoring]]" (Pervasive Computing Group). Lifelong [[Machine Learning|ML]] aims to mimic human learning more closely - e.g. recognising wheels on a new type of vehicle having only ever seen them on a different vehicle - by building a knowledge base for the [[Machine Learning|ML]] model.
 
 ## Notes
 

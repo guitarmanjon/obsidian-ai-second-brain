@@ -7,15 +7,15 @@ tags:
 
 ## Attendees
 
-- [[Nathan Richards]] - Razor
-- [[Julie Downs]] - Razor
-- [[Catherine Outram]] - Razor
-- [[Tom Helliwell]] - Razor
+- [[Nathan Richards]] - [[Razor]]
+- [[Julie Downs]] - [[Razor]]
+- [[Catherine Outram]] - [[Razor]]
+- [[Tom Helliwell]] - [[Razor]]
 - [[JS]] - AMRC
 
 ## Purpose
 
-- Routine catch-up between AMRC and Razor.
+- Routine catch-up between AMRC and [[Razor]].
 
 ## Key Discussion Points
 

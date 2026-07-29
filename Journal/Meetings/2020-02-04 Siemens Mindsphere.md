@@ -18,14 +18,14 @@ tags:
 - [[AL]] (AMRC)
 - [[RS]] (AMRC)
 - [[Rikki]] (AMRC)
-- [[Boyang Song|Boyang S]] (UoS, ACSE)
-- [[Yosof]] (Siemens, TUoS Mindsphere lounge)
-- [[Marko]] (Siemens, Mindsphere lounge)
-- [[Alan Norbury|Alan N]] (Siemens)
-- [[Dave Moss]] (Siemens, R&D / TUoS link)
-- [[Paul Diggle]] (Siemens)
-- [[Andy Hudson]] (Siemens)
-- [[David Cant|Dave Cant]] (no longer Siemens)
+- [[Boyang Song|Boyang S]] ([[University of Sheffield|UoS]], ACSE)
+- [[Yosof]] ([[Siemens]], TUoS Mindsphere lounge)
+- [[Marko]] ([[Siemens]], Mindsphere lounge)
+- [[Alan Norbury|Alan N]] ([[Siemens]])
+- [[Dave Moss]] ([[Siemens]], R&D / TUoS link)
+- [[Paul Diggle]] ([[Siemens]])
+- [[Andy Hudson]] ([[Siemens]])
+- [[David Cant|Dave Cant]] (no longer [[Siemens]])
 
 ## Purpose
 
@@ -35,12 +35,12 @@ tags:
 
 - Round table introductions, started 13:21.
 - [[Alan Norbury|Alan N]]:
-  - Explained the purpose of the meeting - commercial licenses for AMRC as part of Siemens' Industrial Software offering.
+  - Explained the purpose of the meeting - commercial licenses for AMRC as part of [[Siemens]]' Industrial Software offering.
   - 5 days of support for training included.
   - [[Paul Diggle]] to be based on site 1 day per month for ad hoc enquiries.
 - [[GH]]:
   - Gave an update - lots of history with Mindsphere at AMRC but a currently confused message.
-  - [[Kallum Burgin|Callum]] will be the key contact between AMRC and Siemens.
+  - [[Kallum Burgin|Callum]] will be the key contact between AMRC and [[Siemens]].
 - [[Alan Norbury|Alan N]] (ROI angle):
   - Open access demo at AMRC is desirable.
   - Links to Members who are commercialising Mindsphere use.
@@ -49,7 +49,7 @@ tags:
 
 ## Decisions
 
-- [[Kallum Burgin|Callum]] to be the key contact between AMRC and Siemens for Mindsphere.
+- [[Kallum Burgin|Callum]] to be the key contact between AMRC and [[Siemens]] for Mindsphere.
 
 ## Action Items
 

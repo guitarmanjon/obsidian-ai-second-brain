@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Call with [[Lynsay Callaghan]] to discuss the IET TN Digital in-person session.
+- Call with [[Lynsay Callaghan]] to discuss the [[IET]] TN Digital in-person session.
 
 ## Notes
 

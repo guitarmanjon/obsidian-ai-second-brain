@@ -11,7 +11,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Used to be at the MTC (Manufacturing Technology Centre). Discussed re: HVMC/HUMC digital visit agenda and MSISA hours on Harbour. See [[2023-01-31 Daily Notes]], [[2023-02-02 Daily Notes]], [[2023-08-09 Tehseen MSISA]].
+- Used to be at the [[MTC]] (Manufacturing Technology Centre). Discussed re: [[HVMC]]/HUMC digital visit agenda and MSISA hours on Harbour. See [[2023-01-31 Daily Notes]], [[2023-02-02 Daily Notes]], [[2023-08-09 Tehseen MSISA]].
 
 ## Notes
 

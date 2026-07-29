@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Kadir Paslioglu]] - Senior Manufacturing Engineer, Incremental Forming Theme Lead at AFRC
+- [[Kadir Paslioglu]] - Senior Manufacturing Engineer, Incremental Forming Theme Lead at [[AFRC]]
 
 ## Notes
 

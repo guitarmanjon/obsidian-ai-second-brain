@@ -13,11 +13,11 @@ tags:
 
 ## Purpose
 
-- Explore crossover potential of an existing intro-to-AI webinar into the manufacturing sector.
+- Explore crossover potential of an existing intro-to-[[AI]] webinar into the manufacturing sector.
 
 ## Key Discussion Points
 
-- [[Prof Andrew Cox]] has developed a 4-hour intro-to-AI webinar for information professionals - intelligent people who don't understand AI - delivered as an interactive session rather than one-way.
+- [[Prof Andrew Cox]] has developed a 4-hour intro-to-[[AI]] webinar for information professionals - intelligent people who don't understand [[AI]] - delivered as an interactive session rather than one-way.
 - Question of crossover into manufacturing - JS's view is yes, absolutely.
 - Discussion on whether it could be offered to AMRC partners or others in the manufacturing industry.
 - Value seen in a targeted audience rather than a generic course like those found on LinkedIn.
@@ -29,4 +29,4 @@ tags:
 
 ## Action Items
 
-- [[Rab]] - (E-introduce [[JS]] and [[Prof Andrew Cox]] to continue the conversation about adapting the AI webinar for manufacturing).
+- [[Rab]] - (E-introduce [[JS]] and [[Prof Andrew Cox]] to continue the conversation about adapting the [[AI]] webinar for manufacturing).

@@ -8,13 +8,13 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[Rachel Yeung]]
-- NMIS: [[Laurie Da Silva]], [[Syed]]
-- R-R: [[Jamie McGourlay|Jamie]], [[Andy Mantle]]
+- [[NMIS]]: [[Laurie Da Silva]], [[Syed]]
+- [[Rolls-Royce|R-R]]: [[Jamie McGourlay|Jamie]], [[Andy Mantle]]
 - Other: [[Michael King]]
 
 ## Purpose
 
-- Technical review session for the MISSY project.
+- Technical review session for the [[MISSY]] project.
 
 ## Key Discussion Points
 

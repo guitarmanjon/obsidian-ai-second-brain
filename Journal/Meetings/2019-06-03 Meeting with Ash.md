@@ -17,7 +17,7 @@ tags:
 ## Key Discussion Points
 
 **Ash overview**
-- Joint research centre role with Airbus and RAE.
+- Joint research centre role with [[Airbus]] and RAE.
 - Team moved up from Cranfield with Ash; backgrounds in manufacturing engineering and computer science.
 - TRL 2-3 level of work, split into three research areas: digitisation, real-time simulation (using live shop-floor data), and multi-level optimisation (new techniques for optimising process parameters).
 - Key strength is using live data to update processes.
@@ -27,7 +27,7 @@ tags:
 
 **Windo Hutabarat - Notes**
 - Hand-held semi-automated drills - data extraction capability through electrification of drills.
-- Geo-location being used instead of in-process monitoring (latter de-prioritised at Airbus).
+- Geo-location being used instead of in-process monitoring (latter de-prioritised at [[Airbus]]).
 - Digitisation of drilling machines to match hole quality with process data; matching data to holes is currently a manual geo-location process. Referenced Veselovac 2017 - process monitoring strategy for drilling and broaching.
 - Follow-up work: human activity capture, tool tracking, workpiece location, work action location. Data management also a significant area of work.
 - Database design for structured data management; tracking tool wear progress and identifying hole type/correction by tool wear.

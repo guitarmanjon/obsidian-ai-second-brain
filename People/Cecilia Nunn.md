@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Cecilia Nunn]] - Responsible AI Lead, Digital Catapult (panel chair)
+- [[Cecilia Nunn]] - Responsible [[AI]] Lead, [[Digital Catapult]] (panel chair)
 
 ## Notes
 

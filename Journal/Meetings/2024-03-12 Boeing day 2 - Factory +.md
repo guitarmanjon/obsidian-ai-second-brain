@@ -22,12 +22,12 @@ tags:
 
 ## Purpose
 
-- Second day of a Boeing workshop/visit focused on Factory+ (F+) developments and deployment.
+- Second day of a [[Boeing]] workshop/visit focused on Factory+ (F+) developments and deployment.
 
 ## Key Discussion Points
 
 - [[Phil Freeman]] emphasised the need for wider context data, not just machine data, and raised machine-to-machine security considerations.
-- Update from [[AG]] on Factory+ (F+) developments and how it will fit into Boeing Sheffield, including the challenges of deploying F+ across other Boeing facilities - e.g. Sheffield and Everett have very different approaches to networking and machine connectivity.
+- Update from [[AG]] on Factory+ (F+) developments and how it will fit into [[Boeing]] Sheffield, including the challenges of deploying F+ across other [[Boeing]] facilities - e.g. Sheffield and Everett have very different approaches to networking and machine connectivity.
 
 ## Decisions
 

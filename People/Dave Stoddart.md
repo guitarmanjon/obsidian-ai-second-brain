@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dave Stoddart]] - Head of Simulation and Verification, Nuclear AMRC
-- [[Dave Stoddart]] was a key contact for that NAMRC engagement; to check whether he is coming on 22nd Jan.
+- [[Dave Stoddart]] - Head of Simulation and Verification, [[Nuclear AMRC]]
+- [[Dave Stoddart]] was a key contact for that [[Nuclear AMRC|NAMRC]] engagement; to check whether he is coming on 22nd Jan.
 - No firm decision recorded. Topics floated: [[Lee Aucott]] speaking on materials/manufacturing challenges, a possible F2050 tour (by 3pm) with a look into COMPASS, and checking whether [[Dave Stoddart]] can attend on 22nd Jan.
 
 ## Notes

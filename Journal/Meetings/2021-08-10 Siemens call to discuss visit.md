@@ -8,11 +8,11 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[HB]]
-- Siemens: [[Rob Poyner|Rob]], [[Alan Norbury|Alan]], [[Nat]]
+- [[Siemens]]: [[Rob Poyner|Rob]], [[Alan Norbury|Alan]], [[Nat]]
 
 ## Purpose
 
-- Plan logistics and agenda for an upcoming Siemens visit.
+- Plan logistics and agenda for an upcoming [[Siemens]] visit.
 
 ## Key Discussion Points
 

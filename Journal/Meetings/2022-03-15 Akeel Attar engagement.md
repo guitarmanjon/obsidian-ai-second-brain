@@ -7,16 +7,16 @@ tags:
 
 ## Attendees
 
-- [[Akeel Attar]] (XpertRule)
+- [[Akeel Attar]] ([[XpertRule]])
 - [[JS]]
 
 ## Purpose
 
-- Discussion around potential seminars Akeel can give, and how to re-establish the relationship with XpertRule.
+- Discussion around potential seminars Akeel can give, and how to re-establish the relationship with [[XpertRule]].
 
 ## Key Discussion Points
 
-- [[Akeel Attar]] proposed several ways for XpertRule to engage: webinars/seminars, quarterly drop-in sessions for AMRC staff to discuss data challenges with Akeel and [[Iain Crosley]] (who between them cover the tech side and the process engineering side), and demonstrators at the AMRC.
+- [[Akeel Attar]] proposed several ways for [[XpertRule]] to engage: webinars/seminars, quarterly drop-in sessions for AMRC staff to discuss data challenges with Akeel and [[Iain Crosley]] (who between them cover the tech side and the process engineering side), and demonstrators at the AMRC.
 - Process Mining flagged as an emerging field with a lot of interest.
 - [[Iain Crosley]] had previously tried to engage with the membership team about 12 months ago but didn't get anywhere, so dropped it.
 - Physical seminar proposed for May 2022, now agreed for 16th May - would include an intro from Akeel and JS on the relationship and how it's progressing.
@@ -26,7 +26,7 @@ tags:
 ## Decisions
 
 - Physical seminar date confirmed as 16th May 2022.
-- Membership route to be deferred until the relationship with XpertRule is re-established, per [[Rab]]'s advice.
+- Membership route to be deferred until the relationship with [[XpertRule]] is re-established, per [[Rab]]'s advice.
 
 ## Action Items
 

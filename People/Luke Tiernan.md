@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - An overview of Novatech's offering and capabilities, presented by [[Luke Tiernan]].
-- [[Luke Tiernan]] focuses on high-end workstations - AI-heavy, data-heavy, storage-heavy use cases.
+- [[Luke Tiernan]] focuses on high-end workstations - [[AI]]-heavy, data-heavy, storage-heavy use cases.
 
 ## Notes
 

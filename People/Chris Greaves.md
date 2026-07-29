@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Informal catch-up with [[Chris Greaves]] on DES/IMG resourcing and the Boeing relationship.
+- Informal catch-up with [[Chris Greaves]] on DES/IMG resourcing and the [[Boeing]] relationship.
 
 ## Notes
 

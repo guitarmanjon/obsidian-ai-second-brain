@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Siemens UK Aero tech consultant; involved in early Siemens Edge use-case discussions with AMRC.
-- Attended the Siemens Data Analysis Session - realised Insights Hub is more powerful than previously understood. See [[2023-07-18 Siemens Data Analysis Session]].
+- [[Siemens]] UK Aero tech consultant; involved in early [[Siemens Edge]] use-case discussions with AMRC.
+- Attended the [[Siemens]] Data Analysis Session - realised Insights Hub is more powerful than previously understood. See [[2023-07-18 Siemens Data Analysis Session]].
 
 ## Notes
 

@@ -9,8 +9,8 @@ tags:
 
 - [[Ashley Oulton]]
 - [[JS]] (attended, took part in panel discussion)
-- Discussion leaders from: BAE, Mars, LISI ([[Ondrej Polak|Ondrej]]), JLR, Dyson, GSK, Coates (textiles), OCI, Becketts Foods.
-- Vendors present: Netap, Novotek.
+- Discussion leaders from: [[BAE Systems|BAE]], Mars, [[LISI]] ([[Ondrej Polak|Ondrej]]), JLR, Dyson, GSK, Coates (textiles), OCI, Becketts Foods.
+- Vendors present: Netap, [[Novotek]].
 
 ## Purpose
 
@@ -22,10 +22,10 @@ tags:
 - Each roundtable had one or two discussion leaders: introduces themselves and the table topic, then delegates go round the table to introduce themselves. 8-9 topics in total.
 - Table topics split into two key areas:
   - Data management: data collection & integration, IoT and sensors, data governance, developing data strategy.
-  - Data insight: AI and ML, data collaboration, monetising data, predictive analytics.
+  - Data insight: [[AI]] and [[Machine Learning|ML]], data collaboration, monetising data, predictive analytics.
 - [[JS]] took part in a panel discussion.
-- Vendors present: Netap, Novotek.
-- Discussion leaders came from BAE, Mars, LISI ([[Ondrej Polak|Ondrej]]), JLR, Dyson, GSK, Coates (textiles), OCI, Becketts Foods.
+- Vendors present: Netap, [[Novotek]].
+- Discussion leaders came from [[BAE Systems|BAE]], Mars, [[LISI]] ([[Ondrej Polak|Ondrej]]), JLR, Dyson, GSK, Coates (textiles), OCI, Becketts Foods.
 - Keynote: systems and data controller from Williams F1.
 
 ## Decisions

@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jon Stammers]], [[Simon Wakefield]] (Rolls-Royce SMR)
-- Discuss [[Simon Wakefield]] speaking at an upcoming IET event.
-- [[Simon Wakefield]] is keen to support - he is pursuing FIET (Fellow of the IET) so opportunities like this are suitable for him.
+- [[Jon Stammers]], [[Simon Wakefield]] ([[Rolls-Royce]] SMR)
+- Discuss [[Simon Wakefield]] speaking at an upcoming [[IET]] event.
+- [[Simon Wakefield]] is keen to support - he is pursuing FIET (Fellow of the [[IET]]) so opportunities like this are suitable for him.
 
 ## Notes
 

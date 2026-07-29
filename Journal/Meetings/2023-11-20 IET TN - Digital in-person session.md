@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Call with [[Lynsay Callaghan]] to discuss the IET TN Digital in-person session.
+- Call with [[Lynsay Callaghan]] to discuss the [[IET]] TN Digital in-person session.
 
 ## Key Discussion Points
 

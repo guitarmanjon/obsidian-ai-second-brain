@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Discussion of a potential ML/automation opportunity with BSC Filters.
+- Discussion of a potential [[Machine Learning|ML]]/automation opportunity with BSC Filters.
 
 ## Key Discussion Points
 

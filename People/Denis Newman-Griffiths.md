@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Pronounced "Den-ee", uses they/them.
-- UoS contact working on compute/tools and AI-enabled research - on-prem/UoS-owned LLM work, AI for Science, and links with RSE. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]], [[2026-01-08 CMI - AI for E&M Fortnightly]].
+- [[University of Sheffield|UoS]] contact working on compute/tools and [[AI]]-enabled research - on-prem/[[University of Sheffield|UoS]]-owned [[LLM]] work, [[AI]] for Science, and links with RSE. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]], [[2026-01-08 CMI - AI for E&M Fortnightly]].
 
 ## Notes
 

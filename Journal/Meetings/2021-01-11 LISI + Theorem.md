@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Meeting with LISI and Theorem (purpose not detailed in the source notes).
+- Meeting with [[LISI]] and Theorem (purpose not detailed in the source notes).
 
 ## Key Discussion Points
 

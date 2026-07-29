@@ -9,12 +9,12 @@ tags:
 
 - [[SB]]
 - [[JS]]
-- [[Arutian Ehiasarian]] ("Harry") - plasma expert, plasma coatings on thin films, Sheffield Hallam University (SHU)
+- [[Arutian Ehiasarian]] ("Harry") - plasma expert, plasma coatings on thin films, [[Sheffield Hallam University]] ([[Sheffield Hallam University|SHU]])
 - [[James Bradley]] - leads the technological plasma group at Liverpool
 
 ## Purpose
 
-- Discuss the potential to apply AI / ML to plasma deposition, and scope a joint proposal.
+- Discuss the potential to apply [[AI]] / [[Machine Learning|ML]] to plasma deposition, and scope a joint proposal.
 
 ## Key Discussion Points
 
@@ -26,7 +26,7 @@ tags:
   - WP1 - collect a dataset for training from the plasma and from the coating. Ionbond are on board and already implementing sensors on their machines via an IUK project.
 - [[James Bradley]] - thin films develop over many hours, but very fast changes in the plasma may affect the thin film; thin films are currently only ever inspected after the process is complete.
 - Rapid changes in plasma can cause defects in the finished coating (e.g. arcs), though arc suppression already addresses some of this.
-- Physics-based theories link coating quality with plasma performance - idea to use physics knowledge to guide ML model design.
+- Physics-based theories link coating quality with plasma performance - idea to use physics knowledge to guide [[Machine Learning|ML]] model design.
 - [[James Bradley]] wants to put sensors into the plasma, which may itself affect the plasma - not necessarily desirable in an industrial setting. Preference to link new sensor readings back to existing sensors instead.
 - Possible route to funding via the Manufacturing the Future call.
 - Case for support and other docs shared via OneDrive link.

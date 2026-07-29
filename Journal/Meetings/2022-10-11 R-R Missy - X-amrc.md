@@ -15,7 +15,7 @@ tags:
 
 ## Purpose
 
-- Align on a single point of engagement across AMRC groups for R-R, and discuss the Ti 6-4 test piece.
+- Align on a single point of engagement across AMRC groups for [[Rolls-Royce|R-R]], and discuss the Ti 6-4 test piece.
 
 ## Key Discussion Points
 

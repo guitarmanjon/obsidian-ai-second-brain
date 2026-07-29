@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- At NMIS. Surname not yet known - flag if it comes up. See [[2023-07-18 Siemens Data Analysis Session]].
+- At [[NMIS]]. Surname not yet known - flag if it comes up. See [[2023-07-18 Siemens Data Analysis Session]].
 
 ## Notes
 

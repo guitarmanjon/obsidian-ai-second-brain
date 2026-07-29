@@ -21,7 +21,7 @@ tags:
 - Recognised technical authority within AMRC
   - If I ask others across the AMRC who is leading robotics work, will they say [[Daniela Sawyer|DS]]?
 - Reporting - [[Chris Scraggs|Chris]] - what have you seen? Can [[Daniela Sawyer|DS]] write and review reports?
-- Publications on UoS profile page - conf papers do not have [[Daniela Sawyer|DS]] as author?
+- Publications on [[University of Sheffield|UoS]] profile page - conf papers do not have [[Daniela Sawyer|DS]] as author?
 
 ## Decisions
 

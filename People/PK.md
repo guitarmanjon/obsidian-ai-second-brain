@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact involved in Catapult programme deliverability discussions and cutting-tool data capture/outsourcing questions.
+- [[Rolls-Royce]] contact involved in Catapult programme deliverability discussions and cutting-tool data capture/outsourcing questions.
 
 ## Notes
 

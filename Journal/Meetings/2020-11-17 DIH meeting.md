@@ -29,8 +29,8 @@ tags:
   - Update from centre leads (5 minutes) - highlight whatever we want to highlight.
   - Successes, Opportunities, Risks/Issues, Help/Support needed.
   - Key lessons learnt.
-- Made Smarter has a lot of legacy material from the NW pilot.
-- HVMC has Innovation hubs info.
+- [[Made Smarter]] has a lot of legacy material from the NW pilot.
+- [[HVMC]] has Innovation hubs info.
 
 ## Decisions
 
@@ -41,6 +41,6 @@ tags:
 - (Owner not specified in source) - (Complete holiday / working pattern tracker)
 - (Owner not specified in source) - (PM support needed for SFIH work)
 - (Owner not specified in source) - (Set up a risk register)
-- (Owner not specified in source) - (Make this a regular item for reviewing RR and Lessons Learnt)
+- (Owner not specified in source) - (Make this a regular item for reviewing [[Rolls-Royce|RR]] and Lessons Learnt)
 - (Owner not specified in source) - (Really need to get on with identifying use cases and making contacts)
 - (Owner not specified in source) - (Produce a one-pager for centre testbed capabilities)

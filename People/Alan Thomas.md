@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Ex-colleague, used to be in Jon's team. Has now left AMRC and works at the University of Sheffield.
-- Distinct from [[Alan Norbury]] (Siemens, retired).
+- Ex-colleague, used to be in Jon's team. Has now left AMRC and works at the [[University of Sheffield]].
+- Distinct from [[Alan Norbury]] ([[Siemens]], retired).
 
 ## Notes
 

@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Stefan Hickox]] (PEL) Q12 update: cutting trials at AML; AMRC machine has a Mori condition monitoring card enabling data integration on HMI, but AML doesn't have this (significant install cost); BAE would not link the PEL module to machine tools for HMI data display, preferring central control of machine tools and dashboards on PCs next to machines. Tool has accelerometer (XYZ), temperature (thermocouple), and wear sensor (resistance). Further work: additional sensing (wear, temperature, accelerometer, force/Spike?), presenting data back to the user, and feeding into manufacturing intelligence / big data work.
-- [[Stefan Hickox]] (PEL) and [[Austin Cook]] (BAE) provided steering to the project: Ti material suggestions, cutting tool costs, digital manufacturing (intelligent factory, in-process verification), alignment of AE data to cutting position (corners, wrap-around); tool wear/breakage of most interest to BAE.
+- [[Stefan Hickox]] (PEL) Q12 update: cutting trials at AML; AMRC machine has a Mori condition monitoring card enabling data integration on HMI, but AML doesn't have this (significant install cost); [[BAE Systems|BAE]] would not link the PEL module to machine tools for HMI data display, preferring central control of machine tools and dashboards on PCs next to machines. Tool has accelerometer (XYZ), temperature (thermocouple), and wear sensor (resistance). Further work: additional sensing (wear, temperature, accelerometer, force/Spike?), presenting data back to the user, and feeding into manufacturing intelligence / big data work.
+- [[Stefan Hickox]] (PEL) and [[Austin Cook]] ([[BAE Systems|BAE]]) provided steering to the project: Ti material suggestions, cutting tool costs, digital manufacturing (intelligent factory, in-process verification), alignment of AE data to cutting position (corners, wrap-around); tool wear/breakage of most interest to [[BAE Systems|BAE]].
 
 ## Notes
 

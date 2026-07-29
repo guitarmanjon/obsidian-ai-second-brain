@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 
 - [[Stacey Downton|Stacey]] to start putting together a list of industrial "friends" that can shape and influence the testbed.
 - [[Stacey Downton]] (NCC) — stakeholder management.
-- [[Stacey Downton|Stacey]] leading HVMC input to the Expression of Interest (EOI).
+- [[Stacey Downton|Stacey]] leading [[HVMC]] input to the Expression of Interest (EOI).
 
 ## Notes
 

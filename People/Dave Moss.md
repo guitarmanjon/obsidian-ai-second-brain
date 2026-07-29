@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dave Moss]] (Siemens, R&D / TUoS link)
-- Working with Siemens - contact is [[Dave Moss]].
+- [[Dave Moss]] ([[Siemens]], R&D / TUoS link)
+- Working with [[Siemens]] - contact is [[Dave Moss]].
 
 ## Notes
 

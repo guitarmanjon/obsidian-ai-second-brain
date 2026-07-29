@@ -7,11 +7,11 @@ tags:
 
 ## Attendees
 
-- [[Darren]] (XpertRule)
+- [[Darren]] ([[XpertRule]])
 
 ## Purpose
 
-- A catch-up call with [[Darren]] from XpertRule.
+- A catch-up call with [[Darren]] from [[XpertRule]].
 
 ## Key Discussion Points
 

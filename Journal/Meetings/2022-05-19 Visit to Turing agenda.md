@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Nico]] (Turing)
+- [[Nico]] ([[Alan Turing Institute|Turing]])
 - [[Rab]]
 - [[Tim Dodwell]]
 - [[Adam Sobey]]
@@ -16,20 +16,20 @@ tags:
 
 ## Purpose
 
-- Set the scene on Turing's Data-Centric Engineering vision and explore synergies for future collaboration with AMRC.
+- Set the scene on [[Alan Turing Institute|Turing]]'s Data-Centric Engineering vision and explore synergies for future collaboration with AMRC.
 
 ## Key Discussion Points
 
 **Setting the Scene**
-- [[Nico]] presented Turing's vision for LRF funding for DCE in Turing 2.0, and the Turing Research and Innovation Cluster in Digital Twins.
+- [[Nico]] presented [[Alan Turing Institute|Turing]]'s vision for LRF funding for DCE in [[Alan Turing Institute|Turing]] 2.0, and the [[Alan Turing Institute|Turing]] Research and Innovation Cluster in Digital Twins.
 
 **Activities to Date**
 - [[Rab]] introduced AMRC and its work in the context of DCE.
 - [[Tim Dodwell]] gave a research presentation on manufacturing.
 - [[Adam Sobey]] presented on manufacturing in marine and maritime contexts.
 - [[Eric Daub]] presented on REG work in DCE.
-- [[Rab]] covered "Turing in Residence."
-- [[Florian Ostmann]] presented on the AI Standards Hub.
+- [[Rab]] covered "[[Alan Turing Institute|Turing]] in Residence."
+- [[Florian Ostmann]] presented on the [[AI]] Standards Hub.
 - Q&A followed the presentations.
 
 **What's Next?**

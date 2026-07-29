@@ -13,10 +13,10 @@ tags:
 
 ### What would make today high-impact?
 
-- [x] PO for Turing
+- [x] PO for [[Alan Turing Institute|Turing]]
 - [x] Register [[Shiv]] + IT
 - [x] Chris Proudfoot email
-- [ ] Turing DSG egress
+- [ ] [[Alan Turing Institute|Turing]] DSG egress
 - [ ] JeS form test
 
 ### What context do I need loaded?

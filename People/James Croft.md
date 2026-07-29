@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Razor team identified: [[Tom Helliwell]], [[James Croft]], [[Martin]] (Head of Product).
+- [[Razor]] team identified: [[Tom Helliwell]], [[James Croft]], [[Martin]] (Head of Product).
 
 ## Notes
 

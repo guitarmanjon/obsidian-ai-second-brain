@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Airbus Central (St Eloi): [[Emeric Noirot Nerin]] (tech development and maturity for hard metal cutting), [[Florian Versolato]] (online tool wear monitoring), [[Willy Cadet]]
+- [[Airbus]] Central (St Eloi): [[Emeric Noirot Nerin]] (tech development and maturity for hard metal cutting), [[Florian Versolato]] (online tool wear monitoring), [[Willy Cadet]]
 - [[Emeric Noirot Nerin]]'s slide: 90% Ti, bit of Inconel and some steel.
-- [[Emeric Noirot Nerin]]: tool path strategy as first step - still using dated, tried and tested programs that are stable - how can the process be optimised? Tool wear - hybrid approach of prediction and monitoring. Monitoring - liked the approach of using data for each area of need (operational, machine health, process monitoring). Valley of death between industrialised solution and concept - always a risk.
+- [[Emeric Noirot Nerin]]: tool path strategy as first step - still using dated, tried and tested programs that are stable - how can the process be optimised? Tool wear - hybrid approach of prediction and monitoring. Monitoring - liked the approach of using data for each area of need (operational, [[Machine Health Monitoring|machine health]], process monitoring). Valley of death between industrialised solution and concept - always a risk.
 
 ## Notes
 

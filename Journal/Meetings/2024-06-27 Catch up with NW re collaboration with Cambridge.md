@@ -19,7 +19,7 @@ tags:
 ## Key Discussion Points
 
 - [[Praveen Vishwakarma]] wants to work with [[Alexandra Brintrup]] on developing Inka for supply chain purposes; data availability is the biggest challenge.
-- [[Mohsin Farhat]]: [[Alexandra Brintrup]] might be able to help with access to quality data; also looking at using ML to identify new customers for supply chain companies.
+- [[Mohsin Farhat]]: [[Alexandra Brintrup]] might be able to help with access to quality data; also looking at using [[Machine Learning|ML]] to identify new customers for supply chain companies.
 - [[Victor Shi]]: the work could lead to a Fit4Aerospace piece of work - identifying suppliers that could supply aero but don't yet, identifying the skills gap, and upskilling accordingly. Should be attractive to funders given the importance of the aero supply chain.
 - Context from a forwarded email chain (25 June, from [[Mohsin Farhat]] to Joseph, Victor, Praveen, Aparajithan, Zohaib): the goal of the internal meeting is to understand the specific areas where [[Alexandra Brintrup]] can help, rather than duplicating effort already completed - AMRC has significant expertise constructing complex knowledge graphs, particularly through the Inka work. Suggested initial collaboration areas: managing uncertainty in the supply chain, accessing valuable supply chain data sources, and utilising link prediction (multiple supply chain applications). Need to establish clear objectives before determining collaboration benefit.
 - Earlier in the chain (19 June), [[Alexandra Brintrup]] replied sharing two papers on supply network reconstruction data sources/approaches as a starting point (noting a Bacilieri et al. paper was still under review), following an initial event where she met the AMRC team.

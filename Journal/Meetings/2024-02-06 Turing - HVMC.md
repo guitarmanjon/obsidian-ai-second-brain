@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Discussion regarding the Turing Institute and HVMC (High Value Manufacturing Catapult).
+- Discussion regarding the [[Alan Turing Institute|Turing]] Institute and [[HVMC]] (High Value Manufacturing Catapult).
 
 ## Key Discussion Points
 

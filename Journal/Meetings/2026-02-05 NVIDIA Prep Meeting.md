@@ -18,9 +18,9 @@ tags:
 
 - Objective of the NVIDIA visit is to scope out potential work between AMRC and NVIDIA.
 - NVIDIA research grants seen as low hanging fruit to start the relationship.
-- This would mark the start of a relationship with AMRC, building on the existing link at UoS.
+- This would mark the start of a relationship with AMRC, building on the existing link at [[University of Sheffield|UoS]].
 - Grants provide money for software and hardware, but there is also support available for grants, LoS, etc.
-- A possible follow-on would be a digital manufacturing workshop at AMRC with UoS colleagues and NVIDIA.
+- A possible follow-on would be a digital manufacturing workshop at AMRC with [[University of Sheffield|UoS]] colleagues and NVIDIA.
 - Senior attendees discussed as potential invitees to a future session (not necessarily present at this prep meeting): [[Andrew Silcox|Andy Silcox]] (potentially just to say hello) and [[Tom Hodgson]] (tentative).
 - Possibility raised of NVIDIA speaking at an AMRC tech session.
 
@@ -30,4 +30,4 @@ tags:
 
 ## Action Items
 
-- [[Hari Sood|Hari]] - (Follow up on organising a digital manufacturing workshop at AMRC with UoS colleagues and NVIDIA)
+- [[Hari Sood|Hari]] - (Follow up on organising a digital manufacturing workshop at AMRC with [[University of Sheffield|UoS]] colleagues and NVIDIA)

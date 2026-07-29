@@ -12,8 +12,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Head of Composites Centre, AMRC. Discussed process monitoring in the past, and possibly AI topics.
-- Note: NOT to be confused with [[Kevin Obuya]] (ex-AMRC, computer vision/AI) - resolve bare "Kevin" per-instance based on context, don't assume.
+- Head of Composites Centre, AMRC. Discussed process monitoring in the past, and possibly [[AI]] topics.
+- Note: NOT to be confused with [[Kevin Obuya]] (ex-AMRC, computer vision/[[AI]]) - resolve bare "Kevin" per-instance based on context, don't assume.
 
 ## Notes
 

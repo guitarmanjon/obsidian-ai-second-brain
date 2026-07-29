@@ -9,7 +9,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Presented on AI @ BKETC during the [[2026-02-09 Boeing Korea Visit]] - actively applying AI solutions across Boeing production (perception, predictive/decision-making, generative, MLOPS). Also referenced in [[2026-02-10 Social Media Training]] re: a follow-up "tracer" visit.
+- Presented on [[AI]] @ BKETC during the [[2026-02-09 Boeing Korea Visit]] - actively applying [[AI]] solutions across [[Boeing]] production (perception, predictive/decision-making, generative, MLOPS). Also referenced in [[2026-02-10 Social Media Training]] re: a follow-up "tracer" visit.
 
 ## Notes
 

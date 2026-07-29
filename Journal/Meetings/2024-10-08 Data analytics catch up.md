@@ -18,8 +18,8 @@ tags:
 ## Key Discussion Points
 
 - [[JS]] open question: is the process working for people, or is [[Matthew Brown|Matt B]] just asking for things via a long list?
-- [[Grace]] (GL): not enough time to learn Databricks properly and do the long list of analytics [[Matthew Brown|Matt B]] has asked for.
-- [[TR]]: most work done offline due to limited time, not using the full capabilities of Databricks.
+- [[Grace]] (GL): not enough time to learn [[Databricks]] properly and do the long list of analytics [[Matthew Brown|Matt B]] has asked for.
+- [[TR]]: most work done offline due to limited time, not using the full capabilities of [[Databricks]].
 - Question of whether the team understands enough about the tasks [[Matthew Brown|Matt B]] has set - lots of machining-based questions needed to understand the data.
 - Was the task list from [[Matthew Brown|Matt B]] unrealistic? [[Grace]] - sort of; had to rewrite a lot of scripts following discussions with [[Matthew Brown|Matt B]].
 - [[Matthew Brown|Matt B]] asked for 4-5 different features for each case in the list; [[Grace]] not sure all of them can or need to be done.

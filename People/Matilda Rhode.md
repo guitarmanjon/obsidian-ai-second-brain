@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Introductory meeting between [[Grace Lim]] and Airbus's [[Matilda Rhode]] (met via PETRAS) to discuss OT security research and potential collaboration.
+- Introductory meeting between [[Grace Lim]] and [[Airbus]]'s [[Matilda Rhode]] (met via PETRAS) to discuss OT security research and potential collaboration.
 - [[Grace Lim]] met [[Matilda Rhode]] through PETRAS.
 
 ## Notes

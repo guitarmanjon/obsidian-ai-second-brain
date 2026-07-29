@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- BAE Systems Senior Manufacturing Development Engineer (Advanced Machining Group, ManTech); raised a bolt grip-length measurement automation need, and was involved in Montronix installation/training on the Typhoon line.
+- [[BAE Systems]] Senior Manufacturing Development Engineer (Advanced Machining Group, ManTech); raised a bolt grip-length measurement automation need, and was involved in Montronix installation/training on the Typhoon line.
 
 ## Notes
 

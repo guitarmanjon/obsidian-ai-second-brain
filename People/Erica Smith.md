@@ -11,7 +11,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Machining Group colleague; involved in MISSY (WP3/WP4/WP5) and R-R Controls visit work. Looking at building a team (~£500k) to look after the OWAST database and supporting software, working with Research IT.
+- Machining Group colleague; involved in [[MISSY]] (WP3/WP4/WP5) and [[Rolls-Royce|R-R]] Controls visit work. Looking at building a team (~£500k) to look after the OWAST database and supporting software, working with Research IT.
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Discussion regarding the Razor proposal; no further detail was captured on this page.
+- Discussion regarding the [[Razor]] proposal; no further detail was captured on this page.
 
 ## Key Discussion Points
 

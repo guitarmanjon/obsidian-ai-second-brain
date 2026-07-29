@@ -14,15 +14,15 @@ tags:
 
 ## Purpose
 
-- To discuss collaboration with Huddersfield (Hudds) on thermal modelling, surface finish prediction, and the EPSRC Future Metrology Hub.
+- To discuss collaboration with [[University of Huddersfield|Huddersfield]] (Hudds) on thermal modelling, surface finish prediction, and the EPSRC Future [[Metrology]] Hub.
 
 ## Key Discussion Points
 
 - Hudds have temperature sensing on their machines, which can be used to validate their thermal models.
 - Could use the model to develop thermal compensation for AMRC's H5 machine; transferability of the model was a key question.
-- Surface finish prediction models: use H5 for making parts with and without control models, implementing AI feedback.
-- Discussion of industrial contacts who might be interested (vibration, surface finish, tap testing) - is anyone using tap testing already? Rolls-Royce mentioned as a possibility.
-- EPSRC Future Metrology Hub:
+- Surface finish prediction models: use H5 for making parts with and without control models, implementing [[AI]] feedback.
+- Discussion of industrial contacts who might be interested (vibration, surface finish, tap testing) - is anyone using tap testing already? [[Rolls-Royce]] mentioned as a possibility.
+- EPSRC Future [[Metrology]] Hub:
   - [[Erdem Ozturk|Erdem]] doing a small work package on robot machining.
   - [[Simon Fletcher|Simon]] - MMPS on robots.
   - [[Patrick Keogh]] (Bath) - backlash of robot joints.
@@ -39,4 +39,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - (Catch up with [[Ben M]] regarding the EPSRC Future Metrology Hub.)
+- [[JS]] - (Catch up with [[Ben M]] regarding the EPSRC Future [[Metrology]] Hub.)

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Steven Halliday]] - Global Process Lead Tooling, Rolls-Royce
+- [[Steven Halliday]] - Global Process Lead Tooling, [[Rolls-Royce]]
 
 ## Notes
 

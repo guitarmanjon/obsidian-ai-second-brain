@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Discussion on Boeing Composites Digital for IHSS.
+- Discussion on [[Boeing]] Composites Digital for IHSS.
 
 ## Key Discussion Points
 

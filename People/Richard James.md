@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- AMRC Cymru colleague. Attended the Airbus visit alongside the AMRC team.
+- [[AMRC Cymru]] colleague. Attended the [[Airbus]] visit alongside the AMRC team.
 
 ## Notes
 

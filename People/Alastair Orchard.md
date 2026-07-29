@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Alastair Orchard]] - Siemens Innovation Labs, Digitalisation Teams, based in Italy
+- [[Alastair Orchard]] - [[Siemens]] Innovation Labs, Digitalisation Teams, based in Italy
 
 ## Notes
 

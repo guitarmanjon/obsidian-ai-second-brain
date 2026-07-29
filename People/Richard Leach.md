@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 
 - University of Nottingham: [[Richard Leach]]
 - [[Richard Leach]] looking at Catapult as industry support.
-- Proposal for [[Richard Leach]]'s chair research: AI-enhanced in-process measurement, using existing AI techniques. Out of scope: IoT, Cloud, QIF (Quality Information Framework).
+- Proposal for [[Richard Leach]]'s chair research: [[AI]]-enhanced in-process measurement, using existing [[AI]] techniques. Out of scope: IoT, Cloud, QIF (Quality Information Framework).
 
 ## Notes
 

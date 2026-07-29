@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Tracey Brown]] - Sense about Science
-- **Public Perceptions of AI** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and AI; [[Ben Morrow|Ben]] - DSIT)
-- [[Tracey Brown]]: big issue is that the public doesn't know who is making decisions on when and where AI will be used - where does the power lie?
+- **Public Perceptions of [[AI]]** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and [[AI]]; [[Ben Morrow|Ben]] - DSIT)
+- [[Tracey Brown]]: big issue is that the public doesn't know who is making decisions on when and where [[AI]] will be used - where does the power lie?
 
 ## Notes
 

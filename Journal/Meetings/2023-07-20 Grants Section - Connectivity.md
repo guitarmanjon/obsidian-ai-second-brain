@@ -14,20 +14,20 @@ tags:
 
 ## Purpose
 
-- Discussion of the Connectivity grants strand and AMRC's data/AI strategy for funding applications.
+- Discussion of the Connectivity grants strand and AMRC's data/[[AI]] strategy for funding applications.
 
 ## Key Discussion Points
 
-- People's attitudes to technological change -> LISI & Uni of B'ham
+- People's attitudes to technological change -> [[LISI]] & Uni of B'ham
 - Data form: submitted to BridgeAI - scored well but didn't get funded
 - Strategy is still at the forefront
 - Data is plentiful -> Design, manufacturing, logistics, sustainability
 - Strategy needed to link all these together
-- Not just the algorithm, also the structure behind the data -> DS+AI workflow at AMRC?
+- Not just the algorithm, also the structure behind the data -> DS+[[AI]] workflow at AMRC?
 - Data form overview:
   - Fast track offsite manufacturing
   - Automation is a business-led decision
-  - One AI application: simulate, compare & evaluate options in current software -> optimisation is the goal
+  - One [[AI]] application: simulate, compare & evaluate options in current software -> optimisation is the goal
   - Another application: kit of parts -> put into a parametric model for customer -> system can automate placement/modelling of parts
   - Multi-objective optimisation (minimise): waste reduction -> cut-offs; embodied carbon reduction
 - 5 day visit:

@@ -24,7 +24,7 @@ tags:
       - [[Ash]] - have spares turned up? 9 off should be there.
       - X axis strain gauge snagged - needs replacing.
     - Humidity - again, NI, needs [[Hatim Laalej|Hatim]]'s input.
-  - IBS Spindle Inspector:
+  - IBS [[Spindle]] Inspector:
     - Awaiting USB stick - [[Dave]] has sent serial numbers, etc.
     - IBS interested in the fact that AMRC have one - demo site.
   - Still some minor snags with the machine itself - MTT resolving.

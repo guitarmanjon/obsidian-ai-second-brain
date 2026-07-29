@@ -12,7 +12,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Machining Group. Deep involvement in ATR (data-centric manufacturing, automation, CAM data maturity) - see [[2026-01-15 ATR Update]]. Also flagged as a contact for chip formation work in [[2026-02-25 Paul Hammond - FLAME]].
+- Machining Group. Deep involvement in ATR ([[Data Centric Manufacturing|data-centric manufacturing]], automation, [[CAM]] data maturity) - see [[2026-01-15 ATR Update]]. Also flagged as a contact for chip formation work in [[2026-02-25 Paul Hammond - FLAME]].
 - Involved in tool-wear monitoring discussions - noted the many factors affecting tool wear and the lack of active monitoring/data.
 
 ## Notes

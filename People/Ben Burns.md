@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Ben Burns]] (BB) aims: review the draft, get feedback from R-R, and get answers to questions for R-R on how they want it presented / what to include. BB capturing notes separately (linked in the source, in Drive).
+- [[Ben Burns]] (BB) aims: review the draft, get feedback from [[Rolls-Royce|R-R]], and get answers to questions for [[Rolls-Royce|R-R]] on how they want it presented / what to include. BB capturing notes separately (linked in the source, in Drive).
 
 ## Notes
 

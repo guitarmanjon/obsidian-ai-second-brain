@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- Discussion about what data should be included on the Razor dashboard.
+- Discussion about what data should be included on the [[Razor]] dashboard.
 
 ## Key Discussion Points
 

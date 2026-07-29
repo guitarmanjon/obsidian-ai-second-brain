@@ -20,9 +20,9 @@ tags:
 - Splunk — let [[Jake Senior]] and [[Sean]] know when training is happening.
 - IMG mostly uses Python libraries — Tensorflow, Keras(?), PyTorch.
 - IBM AC922(?) platform — strong compute platform for analytics, being set up for wider access; Tensorflow implementation in progress; IBM PowerAI Vision used as frontend software.
-- Amido — Azure machine learning; let the IMG team know.
-- H20 — Driverless AI, ~£120k/year licence; grandmasters at Kaggle.
-- NLP — project with RR looking at MRO; RAID — headsets that questions can be asked of; IBM Watson NLP considered pretty solid; [[Jake Senior]] working on an NLP tool for converting meeting speech to text.
+- [[Amido]] — [[Azure]] machine learning; let the IMG team know.
+- H20 — Driverless [[AI]], ~£120k/year licence; grandmasters at Kaggle.
+- NLP — project with [[Rolls-Royce|RR]] looking at MRO; RAID — headsets that questions can be asked of; IBM Watson NLP considered pretty solid; [[Jake Senior]] working on an NLP tool for converting meeting speech to text.
 - Thin wall machining project with [[Adam Brown]]; process modelling involved — [[Javier]].
 
 ## Decisions

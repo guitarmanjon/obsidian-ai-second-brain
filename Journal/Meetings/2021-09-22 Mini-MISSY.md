@@ -8,19 +8,19 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Andrew Hamilton|AH]] (AFRC)
+- [[Andrew Hamilton|AH]] ([[AFRC]])
 - [[Jamie McGourlay|JMc]]
 - [[Andy Bell]]
 - [[Donka]]
 
 ## Purpose
 
-- Mini-MISSY catch up covering the forging update and the proposed uplift for a Net Zero/sustainability focus.
+- Mini-[[MISSY]] catch up covering the forging update and the proposed uplift for a Net Zero/sustainability focus.
 
 ## Key Discussion Points
 
 - Discussion over the forging update and a PO amendment for uplift.
-- [[Andrew Hamilton|AH]] gave an overview of the previous day's AFRC discussion on building net zero/sustainability into WP3.
+- [[Andrew Hamilton|AH]] gave an overview of the previous day's [[AFRC]] discussion on building net zero/sustainability into WP3.
 - [[Jamie McGourlay|JMc]] met with [[Andy Bell]], who confirmed there is no dedicated resource on sustainability at present.
 - [[JS]] suggested resource could come from the IMG data science team, with a sustainability focus.
 - Question raised about the Small World report and what it means for AMRC - to ask [[Andy Bell]].

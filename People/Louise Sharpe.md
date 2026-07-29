@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield. Handles queries on Additional Associate Support / FEC overhead costs for KTP finances.
-- JS emailed [[Louise Sharpe]] on 16 June 2025: Boeing had raised this in the LMC and separately - the KTP candidate Boeing are most interested in (background in materials testing) knows the labs at the main university where this testing could be done, and Boeing want to know if this line item covers access to such facilities.
+- [[University of Sheffield]]. Handles queries on Additional Associate Support / FEC overhead costs for KTP finances.
+- JS emailed [[Louise Sharpe]] on 16 June 2025: [[Boeing]] had raised this in the LMC and separately - the KTP candidate [[Boeing]] are most interested in (background in materials testing) knows the labs at the main university where this testing could be done, and [[Boeing]] want to know if this line item covers access to such facilities.
 
 ## Notes
 

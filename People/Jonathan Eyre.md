@@ -11,7 +11,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Colleague. Worked on distributed data - discussed as part of a wider concern about that work not being included in DC+AI, and an internal EOI to replace him on it. Also referenced as an example of a more public-facing Senior TF role. See [[2023-03-02 Chat With Lindsay]], [[2023-08-08 AG SRDS Review]].
+- Colleague. Worked on distributed data - discussed as part of a wider concern about that work not being included in DC+[[AI]], and an internal EOI to replace him on it. Also referenced as an example of a more public-facing Senior TF role. See [[2023-03-02 Chat With Lindsay]], [[2023-08-08 AG SRDS Review]].
 
 ## Notes
 

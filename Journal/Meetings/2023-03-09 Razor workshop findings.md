@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Summary of findings from a Razor workshop.
+- Summary of findings from a [[Razor]] workshop.
 
 ## Key Discussion Points
 

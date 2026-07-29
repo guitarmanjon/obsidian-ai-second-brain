@@ -7,13 +7,13 @@ tags:
 
 ## Attendees
 
-- Siemens: [[Rob Poyner]], [[Nathaniel Hudson|Nat Hudson]], [[Mark Coombs|Mark Coombes]], [[Daniel Burton]]
+- [[Siemens]]: [[Rob Poyner]], [[Nathaniel Hudson|Nat Hudson]], [[Mark Coombs|Mark Coombes]], [[Daniel Burton]]
 - AMRC: [[JS]], [[Jon Hall]], [[Rachel Yeung]], [[Javier]]
-- R-R: (attendees not listed)
+- [[Rolls-Royce|R-R]]: (attendees not listed)
 
 ## Purpose
 
-- Siemens to give feedback on MISSY use cases.
+- [[Siemens]] to give feedback on [[MISSY]] use cases.
 
 ## Key Discussion Points
 

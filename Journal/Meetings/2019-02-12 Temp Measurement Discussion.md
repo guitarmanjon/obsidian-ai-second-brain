@@ -33,7 +33,7 @@ tags:
 	- Residual stress modelling benefits from absolute temperature.
 	- Discussion of coupling force and temperature - noted these aren't always correlated directly (e.g. cutting faster can lead to lower forces but higher temperature).
 - [[AB]]: temperature as another measurement to add through the Catapult system.
-- EngD discussion with AFRC: data from the forming process plus data from the machining process gives a prediction of residual stress.
+- EngD discussion with [[AFRC]]: data from the forming process plus data from the machining process gives a prediction of residual stress.
 
 ## Decisions
 

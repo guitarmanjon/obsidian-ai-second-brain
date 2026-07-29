@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Karl Huckerby]] noted machine connectivity wasn't covered in the NMIS notes; [[Jamie McGourlay|JMc]] said it should be covered elsewhere.
+- [[Karl Huckerby]] noted machine connectivity wasn't covered in the [[NMIS]] notes; [[Jamie McGourlay|JMc]] said it should be covered elsewhere.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Colleague - invited/asked about an HVMC visit. See [[2023-02-08 Daily Notes]].
+- Colleague - invited/asked about an [[HVMC]] visit. See [[2023-02-08 Daily Notes]].
 
 ## Notes
 

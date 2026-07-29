@@ -23,8 +23,8 @@ tags:
   - E.g. if dimensions/surface finish etc. are critical, how is this being addressed?
   - Influence on input variables to the end product - suggested as an offline piece of work to understand influence.
   - Need to demonstrate how the project goes beyond off-the-shelf products.
-  - Renishaw process pyramid raised as a possible reference model.
-- Open question on how AMRC and LISI will work together - how will developments at AMRC be transferred to LISI?
+  - [[Renishaw]] process pyramid raised as a possible reference model.
+- Open question on how AMRC and [[LISI]] will work together - how will developments at AMRC be transferred to [[LISI]]?
 
 ## Decisions
 

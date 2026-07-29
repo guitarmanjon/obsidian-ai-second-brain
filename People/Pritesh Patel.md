@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- AMRC Cymru colleague. Involved in cross-AMRC AI strategy workshops and the Airbus visit.
+- [[AMRC Cymru]] colleague. Involved in cross-AMRC [[AI]] strategy workshops and the [[Airbus]] visit.
 
 ## Notes
 

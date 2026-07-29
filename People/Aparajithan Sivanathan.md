@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Works with NPL (national clock signals) exploring time-synchronisation hardware opportunities for manufacturing; involved in Catapult programme priority-setting for Connectivity and AI/Analytics themes.
+- Works with NPL (national clock signals) exploring time-synchronisation hardware opportunities for manufacturing; involved in Catapult programme priority-setting for Connectivity and [[AI]]/Analytics themes.
 
 ## Notes
 

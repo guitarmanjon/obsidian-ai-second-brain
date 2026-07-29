@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Lead Engineer in IMG, leads work spanning machine vision/AI (RAVINe), R-R MUSIC, and Boeing AVI (blade inspection). Regular 1:1s with JS.
+- Lead Engineer in IMG, leads work spanning machine vision/[[AI]] (RAVINe), [[Rolls-Royce|R-R]] MUSIC, and [[Boeing]] AVI (blade inspection). Regular 1:1s with JS.
 
 ## Notes
 

@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Explore project concepts and unspent budget for Airbus-related work.
+- Explore project concepts and unspent budget for [[Airbus]]-related work.
 
 ## Key Discussion Points
 

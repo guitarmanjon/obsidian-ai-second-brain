@@ -7,21 +7,21 @@ tags:
 
 ## Attendees
 
-- [[Meera Warrier]] - Assistant Director, Researchers and Research Culture, University of Sheffield (organiser)
+- [[Meera Warrier]] - Assistant Director, Researchers and Research Culture, [[University of Sheffield]] (organiser)
 - [[James Marshall|James]]
 - [[Jon]]
 - [[Ash Tiwari]] - suggested Meera get in touch (not present)
 
 ## Purpose
 
-- Meera arranged a 30-minute meeting to discuss opportunities around some additional EPSRC funding the University has received, including AI-related training for industry as well as AMRC's own PGRs and postdocs.
+- Meera arranged a 30-minute meeting to discuss opportunities around some additional EPSRC funding the University has received, including [[AI]]-related training for industry as well as AMRC's own PGRs and postdocs.
 
 ## Key Discussion Points
 
 - Additional funding is related to skills development.
 - Original proposal was for secondments into industry and vice versa, but EPSRC didn't want to fund this - seen as subsidising industry.
 - Alternative: fund the development and delivery of training to industry.
-- Funding figures discussed: Hackathon (£8-10k); Web 2 - [[Susan Oman]] - AI literacy (£50k); ~£20-25k remaining to spend on the skills side.
+- Funding figures discussed: Hackathon (£8-10k); Web 2 - [[Susan Oman]] - [[AI]] literacy (£50k); ~£20-25k remaining to spend on the skills side.
 - Immediate thought: build on [[Lindsay]]'s work on data skills / the CDT module, and expand it for industrial training.
 
 ## Decisions

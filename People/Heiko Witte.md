@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Director, CHESCO. Ex-Rolls-Royce. In touch with Jamie McGourlay and Neil Tatman.
+- Director, CHESCO. Ex-[[Rolls-Royce]]. In touch with Jamie McGourlay and Neil Tatman.
 
 ## Notes
 

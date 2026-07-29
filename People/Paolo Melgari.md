@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paolo Melgari]] (CPI) presentation: initial printing of electronic sensors - ultimately not used due to rough surface of PCBN/PCD.
+- [[Paolo Melgari]] ([[CPI]]) presentation: initial printing of electronic sensors - ultimately not used due to rough surface of PCBN/PCD.
 
 ## Notes
 

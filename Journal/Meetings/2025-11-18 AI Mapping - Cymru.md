@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- AMRC Cymru's session in the AI Mapping workshop series (see [[AI Mapping Workshop Template]]), mapping AI-related work, talent, and future aspirations for the group.
+- [[AMRC Cymru]]'s session in the [[AI]] Mapping workshop series (see [[AI Mapping Workshop Template]]), mapping [[AI]]-related work, talent, and future aspirations for the group.
 
 ## Key Discussion Points
 

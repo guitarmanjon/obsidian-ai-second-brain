@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jacob Roszak]] - Research & Development Engineer at AFRC, organising and presenting the Sprint 1 - Digital Radial Forging work package
+- [[Jacob Roszak]] - Research & Development Engineer at [[AFRC]], organising and presenting the Sprint 1 - Digital Radial Forging work package
 
 ## Notes
 

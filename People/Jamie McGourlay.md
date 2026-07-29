@@ -12,10 +12,10 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact re: MISSY ([[2026-01-08 AMRC x COM]]). Also connected to [[Heiko]] at CHESCO ([[2026-03-04 CHESCO Day 1]]).
+- [[Rolls-Royce]] contact re: [[MISSY]] ([[2026-01-08 AMRC x COM]]). Also connected to [[Heiko]] at CHESCO ([[2026-03-04 CHESCO Day 1]]).
 - Wants seamless IMG/TMG engagement so AMRC can be referred to as a whole rather than dealing with each group separately.
-- Also works with Jon on Rolls-Royce ADG projects.
-- Raised total-cost-of-ownership-for-data questions at Rolls-Royce; looking into why the Artis system isn't back on the table for R-R.
+- Also works with Jon on [[Rolls-Royce]] ADG projects.
+- Raised total-cost-of-ownership-for-data questions at [[Rolls-Royce]]; looking into why the Artis system isn't back on the table for [[Rolls-Royce|R-R]].
 
 ## Notes
 

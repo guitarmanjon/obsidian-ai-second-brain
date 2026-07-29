@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Stefan Hickox]] (PEL) and [[Austin Cook]] (BAE) provided steering to the project: Ti material suggestions, cutting tool costs, digital manufacturing (intelligent factory, in-process verification), alignment of AE data to cutting position (corners, wrap-around); tool wear/breakage of most interest to BAE.
+- [[Stefan Hickox]] (PEL) and [[Austin Cook]] ([[BAE Systems|BAE]]) provided steering to the project: Ti material suggestions, cutting tool costs, digital manufacturing (intelligent factory, in-process verification), alignment of AE data to cutting position (corners, wrap-around); tool wear/breakage of most interest to [[BAE Systems|BAE]].
 
 ## Notes
 

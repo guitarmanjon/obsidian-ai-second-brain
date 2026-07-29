@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield, Computer Science (COM). Background in causal inference; keen to align research with real-world AMRC work. Colleagues from COM also involved in AMRC/IMG testing research collaborations: Donghwan Shin, Robert Hierons, Jose Miguel Rojas, Phil McMinn.
+- [[University of Sheffield]], Computer Science (COM). Background in causal inference; keen to align research with real-world AMRC work. Colleagues from COM also involved in AMRC/IMG testing research collaborations: Donghwan Shin, Robert Hierons, Jose Miguel Rojas, Phil McMinn.
 
 ## Notes
 

@@ -22,7 +22,7 @@ tags:
 	- 1.2 Investigation of feedforward vs feedback control architectures for machining optimisation - [[Tom McLeay]] (referred to [[Erdem Ozturk|Erdem]] during leave period) - £30k. Involves an EngD student, [[Rob Ward]], hence reduced cost.
 	- 1.3 Diamond tooling case study / emerging tooling materials to filter the latest cutting tool tech - [[Adam Brown]] - £50k. Can also form a test bed for sub-packages 1 and 2, studies on Evo machine.
 	- 1.4 Monitoring of diamond tooling case study - [[Jon Stammers]] - £50k. Required for validation of models in sub-packages 1 and 2.
-	- 1.5 Machinability of new materials - library and standard test procedures / further develop machinability libraries - [[Chris Taylor]] - £50k. Not yet scoped in detail; [[Adam]] to be closely involved, linking to feature-based work.
+	- 1.5 [[Machinability]] of new materials - library and standard test procedures / further develop machinability libraries - [[Chris Taylor]] - £50k. Not yet scoped in detail; [[Adam]] to be closely involved, linking to feature-based work.
 	- 1.6 Introduce coolant testing into the machinability library - [[Kev Monteith]] - £50k. Fairly independent piece of work investigating a coolant testing/control strategy, addressing recent CFA gaps.
 - **Project 2 - Investigation into Tool Grinding Capabilities at the AMRC** (£100k submitted to Catapult):
 	- Development of tool grinding capability and exploration into power skiving tooling manufacture - [[Dave Curtis]] ([[Ben Cook]], [[Dan Smith]], [[Adam Brown]]) - £60k. Important this forms a clear strategy before completion - need a clear plan covering capital required, target customers, member views, USP, and a SWOT analysis.
@@ -31,8 +31,8 @@ tags:
 - From [[Tom McCready|Tom McC]]'s email of 12/06/2018 to [[Tom]] and [[Phil Kirkland|Phil]]: proposal that [[Tom McCready]] gets £40k for NX plugin development, with grinding then getting £60k only.
 - Follow-up discussion questions:
 	- What is the link between Projects 1.1-1.4? Must have a link.
-	- 1.1/1.2 - Virtual machining: can the software be developed into a usable package, or does it need NX/Catia/etc to support it? Easier to go straight to a CAM environment? Do Dynamics have the resource for £100k of work?
-	- 1.5 - Machinability library: what needs to be developed, who is the customer, and is a lot of work needed?
+	- 1.1/1.2 - Virtual machining: can the software be developed into a usable package, or does it need NX/Catia/etc to support it? Easier to go straight to a [[CAM]] environment? Do Dynamics have the resource for £100k of work?
+	- 1.5 - [[Machinability]] library: what needs to be developed, who is the customer, and is a lot of work needed?
 	- 1.6 - Coolant testing: needs a new, consistent testing method (e.g. spiral pocketing test, same tool, change coolant).
 	- Idea of a knowledge base for AMRC staff (and partners?) as a proposal for next year's Catapult.
 	- 1.3 - Diamond tooling: could the tools be made as part of Project 2 (grinding)?

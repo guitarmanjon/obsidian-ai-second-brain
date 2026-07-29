@@ -11,10 +11,10 @@ tags:
 - Supported by [[Shaoming]], [[Chao Sun|Chao]], [[Zunmin]]
 - Guests: [[Prof. JunTong Xi]] (School of Mechanical Engineering, Shanghai Jiao Tong University; Director of Institute of Intelligent Manufacturing and Information Engineering; Director of Shanghai Key Laboratory of Advanced Manufacturing Environment)
 - [[Prof. ZhenQiang Yao]] (School of Mechanical Engineering, SJTU; Professor of Institute of Manufacturing Technology and Equipment Automation; Chairman of the degree committee of the first faculty of engineering science, SJTU)
-- [[Prof. LiMin Zhu]] (School of Mechanical Engineering, SJTU; Cheung Kong Scholars Distinguished Professor; Head of the Department of Mechanical Engineering and Automation; Vice director of the State Key Laboratory of Mechanical System and Vibration)
+- [[Prof. LiMin Zhu]] (School of Mechanical Engineering, SJTU; Cheung Kong Scholars Distinguished Professor; Head of the Department of Mechanical Engineering and Automation; Vice director of the State Key Laboratory of Mechanical System and [[Vibration]])
 - [[Dr. MingJun Ren]] (School of Mechanical Engineering, SJTU; Lecturer in Mechanical Engineering)
 - [[Mr. Xiao Yang]] (School of Mechanical Engineering, SJTU; PhD student)
-- From Huddersfield: [[Jane Jiang]], [[Wenhan Zeng]], [[Zhen Tong]], [[Duo Li]]
+- From [[University of Huddersfield|Huddersfield]]: [[Jane Jiang]], [[Wenhan Zeng]], [[Zhen Tong]], [[Duo Li]]
 
 ## Purpose
 

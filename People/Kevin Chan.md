@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Refined AMRC attendee list: NW - [[Siva]] (or [[James Hughes]]); Castings - [[Jack]]; TMG - [[Pete Crawforth]]; IMG - [[JS]], [[AG]]; Cymru - [[Kevin Chan]]; CC - [[Matt Smith]](?); Design - [[Dave King]]; Labs - none.
-- [[Kevin Chan]] - AMRC Cymru capabilities
+- [[Kevin Chan]] - [[AMRC Cymru]] capabilities
 
 ## Notes
 

@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Retired.
-- Siemens contact; involved in RTOS and Edge tender discussions (Ubisense); covered Daniela's project proposals and Siemens visit follow-up.
+- [[Siemens]] contact; involved in RTOS and Edge tender discussions (Ubisense); covered Daniela's project proposals and [[Siemens]] visit follow-up.
 
 ## Notes
 

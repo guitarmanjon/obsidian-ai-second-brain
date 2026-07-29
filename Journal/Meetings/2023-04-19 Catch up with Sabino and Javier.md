@@ -13,11 +13,11 @@ tags:
 
 ## Purpose
 
-- General catch-up with Sabino and Javier, touching on Siemens partnership matters.
+- General catch-up with Sabino and Javier, touching on [[Siemens]] partnership matters.
 
 ## Key Discussion Points
 
-- Siemens: [[Sabino]] heard from Sinan that AMRC is getting Mindsphere for free, possibly as part of the wider partnership.
+- [[Siemens]]: [[Sabino]] heard from Sinan that AMRC is getting Mindsphere for free, possibly as part of the wider partnership.
 
 ## Decisions
 

@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Worked on blisk manufacturing capability for Rolls-Royce Inchinnan, and an automated point-cloud-to-CAD software process.
+- Worked on blisk manufacturing capability for [[Rolls-Royce]] Inchinnan, and an automated point-cloud-to-CAD software process.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paul Turner|Paul]]: suggested maybe bringing together supply chain with RR to fund work instead of Samulet 4; noted concessions in the supply chain/RR - around 60 people in S&T working on concessions.
+- [[Paul Turner|Paul]]: suggested maybe bringing together supply chain with [[Rolls-Royce|RR]] to fund work instead of Samulet 4; noted concessions in the supply chain/[[Rolls-Royce|RR]] - around 60 people in S&T working on concessions.
 
 ## Notes
 

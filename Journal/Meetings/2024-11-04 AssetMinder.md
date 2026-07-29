@@ -12,11 +12,11 @@ tags:
 
 ## Purpose
 
-- Discuss a potential AssetMinder opportunity with Rolls-Royce (R-R), and AMRC site asset possibilities.
+- Discuss a potential AssetMinder opportunity with [[Rolls-Royce]] ([[Rolls-Royce|R-R]]), and AMRC site asset possibilities.
 
 ## Key Discussion Points
 
-- Discussed the R-R opportunity (without explicitly naming R-R in wider discussion).
+- Discussed the [[Rolls-Royce|R-R]] opportunity (without explicitly naming [[Rolls-Royce|R-R]] in wider discussion).
   - AssetMinder is a SaaS company, so their system is required.
   - Data can be pushed out of AssetMinder's PTC platform (ThingWorx) to another system if needed.
 - AMRC-side options:
@@ -30,4 +30,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - (Put R-R in touch with AssetMinder via a virtual introduction)
+- [[JS]] - (Put [[Rolls-Royce|R-R]] in touch with AssetMinder via a virtual introduction)

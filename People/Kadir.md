@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Involved in forging-proposal/TMG discussions, presenting variables AFRC/AMRC can capture.
+- Involved in forging-proposal/TMG discussions, presenting variables [[AFRC]]/AMRC can capture.
 
 ## Notes
 

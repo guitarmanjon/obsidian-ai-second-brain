@@ -12,7 +12,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Discusses HVMC data strategy and AI adoption - see [[2026-01-28 Rab]]. Topics include the AMRC Director of Data role, data-first strategy, and DCM/Catapult mandate.
+- Discusses [[HVMC]] data strategy and [[AI]] adoption - see [[2026-01-28 Rab]]. Topics include the AMRC Director of Data role, data-first strategy, and DCM/Catapult mandate.
 
 ## Notes
 

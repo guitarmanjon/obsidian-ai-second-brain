@@ -24,11 +24,11 @@ tags:
 - What if data exists in silos/PDFs/paper? → Expectation is that the companies are already on a data journey.
 - How close to real-time do you think is possible?
 - Are you working with any IoT companies?
-  - Fourjaw maybe.
+  - [[Fourjaw]] maybe.
 - Data ownership??
 - Clear focus on customer problem as opposed to the tech.
 - Data cloud would be beneficial to TUBR.
-- "80% accuracy" is given as marketing (easily accessible for non-ML people).
+- "80% accuracy" is given as marketing (easily accessible for non-[[Machine Learning|ML]] people).
 - Physics engine is TUBR's IP.
   - Patent applied for.
 - Subscription based product.

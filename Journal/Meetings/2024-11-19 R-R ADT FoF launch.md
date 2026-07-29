@@ -8,22 +8,22 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[HB]], [[Cansu Kandemir|Cansu]], [[Lindsay]], [[Colin Dengate]]
-- MTC: [[Steve Cartwright]], [[Tom Cockerill]], [[Agata Suwala]]
-- R-R: [[Jamie McGourlay|Jamie]], [[Geraint Prisk]], [[Matt Chamberlain]], [[Dave Baty]], [[Jason Rowe]], [[Mark Heyman]], [[Daniel Nock]]
+- [[MTC]]: [[Steve Cartwright]], [[Tom Cockerill]], [[Agata Suwala]]
+- [[Rolls-Royce|R-R]]: [[Jamie McGourlay|Jamie]], [[Geraint Prisk]], [[Matt Chamberlain]], [[Dave Baty]], [[Jason Rowe]], [[Mark Heyman]], [[Daniel Nock]]
 
 ## Purpose
 
-- Launch of the Rolls-Royce ADT Factory of the Future (FoF) work, agreeing scope, phasing, audience and format for the study across AMRC, MTC and R-R.
+- Launch of the [[Rolls-Royce]] ADT Factory of the Future (FoF) work, agreeing scope, phasing, audience and format for the study across AMRC, [[MTC]] and [[Rolls-Royce|R-R]].
 
 ## Key Discussion Points
 
 - [[Dave Baty]] gave an overview.
-- Discussion on how the centres (AMRC/MTC) will split the work - R-R want to ensure both centres contribute across all areas, since both have relevant expertise.
+- Discussion on how the centres (AMRC/[[MTC]]) will split the work - [[Rolls-Royce|R-R]] want to ensure both centres contribute across all areas, since both have relevant expertise.
 - [[HB]] asked about the phases of work and what the next phase looks like:
-  - R-R: the current factory network is to be renewed for the next major product - the current network won't be reused.
+  - [[Rolls-Royce|R-R]]: the current factory network is to be renewed for the next major product - the current network won't be reused.
   - Next product not expected to launch for ~10 years, so the question is what that future factory would look like; maturity in 5 years is the realistic target, since a factory for a product launching in 10 years needs about 5 years of build and prep.
   - Breakdown proposed: things usable now for low-hanging-fruit wins; capability acquisition alongside this to realise enabling technology; and a Near-/Medium-/Long-term view.
-- [[Steve Cartwright|SC]] (Steve Cartwright) raised whether the work needs to focus on how people work with the tech - e.g. zero-harm, slips/trips/falls, working at heights, use of cranes. R-R noted cranes are a big factor, with a lot of cranes in the current plant.
+- [[Steve Cartwright|SC]] (Steve Cartwright) raised whether the work needs to focus on how people work with the tech - e.g. zero-harm, slips/trips/falls, working at heights, use of cranes. [[Rolls-Royce|R-R]] noted cranes are a big factor, with a lot of cranes in the current plant.
 - Productivity targets: A&T target of 85% productivity; assembly, disassembly (for MRO) and test are the targets for this work.
 - Mid-way check-in planned to review "chapter headings".
 - Audience & format: should be as engaging and interesting as possible, though not expecting flashy videos etc. given only 4 weeks are available. [[Tom Cockerill|TC]] (Tom Cockerill) asked about using a generic CAD of an engine for visualisations - agreed to use a generic CAD from the internet to avoid export control issues. Audience likely to be principal engineers.

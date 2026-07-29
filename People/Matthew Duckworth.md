@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Airbus: [[Paul Blatch]] (?), [[Amar Liaqat]], Mark (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
+- [[Airbus]]: [[Paul Blatch]] (?), [[Amar Liaqat]], Mark (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
 
 ## Notes
 

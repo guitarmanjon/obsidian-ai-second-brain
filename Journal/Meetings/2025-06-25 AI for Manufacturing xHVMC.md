@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- AI for Manufacturing xHVMC session.
+- [[AI]] for Manufacturing xHVMC session.
 
 ## Key Discussion Points
 

@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Oliver Glub]] - MOM Consultant (Presenter)
-- Manufacturing Operations Management ([[Oliver Glub]]) - enriching process planning with real-time actual data to improve predictions; Manufacturing Execution System integrates with other Siemens systems (e.g. Teamcenter); Advanced Planning and Scheduling gives a paperless production planning solution; driven by SIMATIC IT Unified Architecture for connectivity including machine tools; Discrete Manufacturing allows collection of data on why a process stopped, defects, rework, non-conformance, etc.
+- Manufacturing Operations Management ([[Oliver Glub]]) - enriching process planning with real-time actual data to improve predictions; Manufacturing Execution System integrates with other [[Siemens]] systems (e.g. Teamcenter); Advanced Planning and Scheduling gives a paperless production planning solution; driven by SIMATIC IT Unified Architecture for connectivity including machine tools; Discrete Manufacturing allows collection of data on why a process stopped, defects, rework, non-conformance, etc.
 
 ## Notes
 

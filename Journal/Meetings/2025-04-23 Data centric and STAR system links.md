@@ -18,7 +18,7 @@ tags:
 
 ## Key Discussion Points
 
-- TMG's approach to data management (STAR) came from OWA and the Machinability library - a bottom-up approach.
+- TMG's approach to data management (STAR) came from OWA and the [[Machinability]] library - a bottom-up approach.
 - DCM is a top-down approach.
 - [[Rob Bramley]] presented Standardised Testing, Analysis and Reporting (STAR).
 - Question raised: how much of this was known to the DCM team during development of the DCM resources/workflow?

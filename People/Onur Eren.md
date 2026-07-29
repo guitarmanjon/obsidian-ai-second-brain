@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Intro to [[Onur Eren]] - Principal Engineer at WMG.
+- Intro to [[Onur Eren]] - Principal Engineer at [[WMG]].
 
 ## Notes
 

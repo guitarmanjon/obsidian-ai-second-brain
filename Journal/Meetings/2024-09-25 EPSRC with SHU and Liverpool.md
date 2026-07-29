@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Arutian Ehiasarian|Harry]] (SHU)
+- [[Arutian Ehiasarian|Harry]] ([[Sheffield Hallam University|SHU]])
 - [[James Bradley]] (Liverpool)
 
 ## Purpose

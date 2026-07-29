@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R: [[James Pemperton]] (data analytics), [[Matt Hurn]] (Digital ME, deploying data engineering/science skills into R-R), [[Ryan Harlow]] (Chief of Digital Operations), [[Paul Harrison]] (Digital Manufacturing Specialist, Smart Factory project), [[Alan Gawthorpe]] (Enterprise Architect, Civil Digital), [[Yu Sing Keung]] (Erica, intern)
+- [[Rolls-Royce|R-R]]: [[James Pemperton]] (data analytics), [[Matt Hurn]] (Digital ME, deploying data engineering/science skills into [[Rolls-Royce|R-R]]), [[Ryan Harlow]] (Chief of Digital Operations), [[Paul Harrison]] (Digital Manufacturing Specialist, Smart Factory project), [[Alan Gawthorpe]] (Enterprise Architect, Civil Digital), [[Yu Sing Keung]] (Erica, intern)
 
 ## Notes
 

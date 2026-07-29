@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[James Halstead]] - Senior Delivery Manager, Manufacturing Metrology, NPL Huddersfield
+- [[James Halstead]] - Senior Delivery Manager, Manufacturing [[Metrology]], NPL [[University of Huddersfield|Huddersfield]]
 
 ## Notes
 

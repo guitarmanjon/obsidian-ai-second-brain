@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Airbus Central (St Eloi): [[Emeric Noirot Nerin]] (tech development and maturity for hard metal cutting), [[Florian Versolato]] (online tool wear monitoring), [[Willy Cadet]]
+- [[Airbus]] Central (St Eloi): [[Emeric Noirot Nerin]] (tech development and maturity for hard metal cutting), [[Florian Versolato]] (online tool wear monitoring), [[Willy Cadet]]
 
 ## Notes
 

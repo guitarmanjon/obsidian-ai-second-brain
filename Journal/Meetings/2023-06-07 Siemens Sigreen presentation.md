@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Product presentation from Siemens Sigreen, delivered by [[Nazli]] (customer success).
+- Product presentation from [[Siemens]] Sigreen, delivered by [[Nazli]] (customer success).
 
 ## Key Discussion Points
 

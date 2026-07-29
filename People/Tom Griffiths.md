@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **[[Tom Griffiths]] - Principles of using Gen AI in R+I**
-- [[Tom Griffiths]] - (Share the University's Gen AI guidance pages in AMRC once launched next month.)
+- **[[Tom Griffiths]] - Principles of using Gen [[AI]] in R+I**
+- [[Tom Griffiths]] - (Share the University's Gen [[AI]] guidance pages in AMRC once launched next month.)
 
 ## Notes
 

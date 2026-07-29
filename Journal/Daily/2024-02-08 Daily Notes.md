@@ -13,7 +13,7 @@ tags:
 
 ### What would make today high-impact?
 
-- Sheffield AI info to [[Vald]], [[Karrame]] (NAMRC)
+- Sheffield [[AI]] info to [[Vald]], [[Karrame]] ([[Nuclear AMRC|NAMRC]])
 - TL meeting prep
 
 ### What context do I need loaded?

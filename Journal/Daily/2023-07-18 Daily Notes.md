@@ -28,7 +28,7 @@ tags:
 
 - Ben's NextGen meeting - emailed [[Karen Payne|Karen]].
 - [[Robin]] re: API.
-- Siemens Data Analysis Session held with [[Rob P.]] - see [[2023-07-18 Siemens Data Analysis Session]].
+- [[Siemens]] Data Analysis Session held with [[Rob P.]] - see [[2023-07-18 Siemens Data Analysis Session]].
 
 ### What created friction today?
 

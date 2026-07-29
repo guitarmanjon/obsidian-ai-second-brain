@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- On the line: DePuy - [[Katerina Mouliadou]], [[Eymard Gorman]]; Sandvik - [[Jens Nannen]]
+- On the line: [[DePuy]] - [[Katerina Mouliadou]], [[Eymard Gorman]]; Sandvik - [[Jens Nannen]]
 - [[Jens Nannen]] - Sales Manager for Digital Machining, Central Europe, supports North Europe (inc. UK). Used to work for Prometec.
 - [[Jens Nannen]]: at present, the "plus" side of CoroPlus is available for turning; milling will come soon.
 

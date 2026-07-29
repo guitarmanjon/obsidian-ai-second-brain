@@ -13,16 +13,16 @@ tags:
 
 ## Purpose
 
-- Explore Aurora's condition-monitoring/AI offering and AMRC's potential role in the Smart Grant bid.
+- Explore Aurora's condition-monitoring/[[AI]] offering and AMRC's potential role in the Smart Grant bid.
 
 ## Key Discussion Points
 
 - Innovate UK proposal is the discussion point.
-- Consortium currently includes Aurora, HGL Dynamics (hi-fi kit, possibly for defense), Steamdesk (web front end), and University of Nottingham (Digital team for AI/analytics).
+- Consortium currently includes Aurora, HGL Dynamics (hi-fi kit, possibly for defense), Steamdesk (web front end), and University of Nottingham (Digital team for [[AI]]/analytics).
 - SMEs are the target market - proposition needs to be economically viable, simple, and effective, referencing a Cambridge University paper on Industry 4.0 challenges (knowledge, cost, integration).
   - Asset agnostic.
   - Ground-to-cloud offering including hardware for DCS/PLC gateway, continuous vibration monitoring, and vibration/thermography spot/hand samplers; oil sampling also mentioned.
-  - Responsible AI - not a completely black box.
+  - Responsible [[AI]] - not a completely black box.
   - System-level analysis rather than isolated assets.
 - Unique digital fingerprint of normal behaviour: comparing normal vs live data plus failure modes, failure data, and maintenance data.
 - Aurora has user and dev environments allowing domain/application-specific knowledge to be included, with bespoke software built on generic approaches.

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- AFRC: [[Lewes Glen]], [[Michael Canavan]] (CAD and Tooling Theme Lead at NMIS)
+- [[AFRC]]: [[Lewes Glen]], [[Michael Canavan]] (CAD and Tooling Theme Lead at [[NMIS]])
 
 ## Notes
 

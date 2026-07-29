@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Former colleague, part of Jon's team, has now left. Worked on computer vision and AI projects.
+- Former colleague, part of Jon's team, has now left. Worked on computer vision and [[AI]] projects.
 - Covers visual inspection within IMG; represented on the ACP Senior Engineer track discussion.
 - Note: NOT to be confused with [[Kevin Kerrigan]] (Head of Composites Centre, AMRC) - "Kev K" is deliberately not an alias here.
 

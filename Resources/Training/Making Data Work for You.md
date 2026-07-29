@@ -25,9 +25,9 @@ last updated: 2026-07-25T00:00:00
 - **Data management policy / curation lifecycle** (from a pasted diagram screenshot): data moves through **creation → collection → processing → analysis** (grouped as "data curation"), then **preservation** (maintain, keep up to date, redact), **re-use** (is it still useful?), and **deletion** (does it expire? is it irrelevant? should it legally be removed?).
 - **Case studies** presented (each as a pasted slide screenshot with minimal accompanying notes — topics only, not transcribed in detail):
   - **Automated data integration** — Roberts Vain Wilshaw (chartered surveyors): Hartree built an automated pipeline combining varying open/business data sources into an integrated database to speed up lead generation.
-  - **Forecasting energy use** — South West Water: ML/time-series model (Python/R) to forecast energy use per waste-water treatment plant and enable fair site-to-site comparisons.
+  - **Forecasting energy use** — South West Water: [[Machine Learning|ML]]/time-series model (Python/R) to forecast energy use per waste-water treatment plant and enable fair site-to-site comparisons.
   - **Smart crop protection** — with IBM and Rothamsted Research: pest-risk prediction models aimed at helping farmers plan preventative measures, reduce crop losses, and lower insurance costs.
-  - **Predicting care pathways** — NHS Liverpool Central Commissioning Group: ML model predicting which post-hospital interventions (community, social, mental health) a patient would need after discharge.
+  - **Predicting care pathways** — NHS Liverpool Central Commissioning Group: [[Machine Learning|ML]] model predicting which post-hospital interventions (community, social, mental health) a patient would need after discharge.
 
 ## See Also
 

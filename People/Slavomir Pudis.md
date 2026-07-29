@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Slavomir Pudis]] (Slavo) - Mondelez, Productivity Lead for MEU business unit, confectionary category, 21 sites
+- [[Slavomir Pudis]] (Slavo) - [[Mondelez]], Productivity Lead for MEU business unit, confectionary category, 21 sites
 - Original ask from [[Slavomir Pudis]]: hasn't found a business case for predictive M&R so far; interested in condition-based monitoring with forecasting, performance visibility, and material visibility use cases.
-- Introductions: [[Bobby Manesh]] (Lead Research Engineer, AI, AMRC Cymru); [[JS]]; [[Slavomir Pudis]] (Productivity Lead, MEU confectionary, 21 sites).
+- Introductions: [[Bobby Manesh]] (Lead Research Engineer, [[AI]], [[AMRC Cymru]]); [[JS]]; [[Slavomir Pudis]] (Productivity Lead, MEU confectionary, 21 sites).
 
 ## Notes
 

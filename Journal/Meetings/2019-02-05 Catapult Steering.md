@@ -27,7 +27,7 @@ tags:
 	- Mandatory for tech fellows and tech leads; attendance for the rest of the machining group at team discretion.
 - Working to standards:
 	- Discussion of machinability and strategy development as an example.
-	- Questions from RR on the standards AMRC is working to.
+	- Questions from [[Rolls-Royce|RR]] on the standards AMRC is working to.
 	- Considered whether AMRC could start proposing its own standards for its work, and whether current standards are even relevant to the future of machining and new materials.
 - Coolant work:
 	- Tramp oil increases tool life but means the process is not controlled.

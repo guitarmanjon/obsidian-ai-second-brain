@@ -12,7 +12,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- RR Associate Fellow for Machining, co-leading the MISSY machining strand; focus on closed-loop part conformity validation, sensor/KPV correlation, and Net Zero measurement for machining.
+- [[Rolls-Royce|RR]] Associate Fellow for Machining, co-leading the [[MISSY]] machining strand; focus on closed-loop part conformity validation, sensor/KPV correlation, and Net Zero measurement for machining.
 
 ## Notes
 

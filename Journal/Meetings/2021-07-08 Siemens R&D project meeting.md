@@ -17,7 +17,7 @@ tags:
 
 ## Purpose
 
-- Give [[Adrian Hirst]] and [[Ross Caddens]] a brief overview of the ongoing Siemens R&D projects.
+- Give [[Adrian Hirst]] and [[Ross Caddens]] a brief overview of the ongoing [[Siemens]] R&D projects.
 
 ## Key Discussion Points
 

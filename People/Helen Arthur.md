@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Helen Arthur]] is leading the KTP programme at NAMRC.
-- [[Helen Arthur]]'s rough figure for income to NAMRC is £65k per company/KTP per year.
+- [[Helen Arthur]] is leading the KTP programme at [[Nuclear AMRC|NAMRC]].
+- [[Helen Arthur]]'s rough figure for income to [[Nuclear AMRC|NAMRC]] is £65k per company/KTP per year.
 
 ## Notes
 

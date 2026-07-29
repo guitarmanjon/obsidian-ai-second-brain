@@ -19,8 +19,8 @@ tags:
 
 - Potential EPSRC Met hub case studies:
   - Integration of data from OWA - differing sampling rates a complication; need to catch up with [[Pete]] on this.
-  - BAE - possibly Flexcelle-related; potential NW (North West) link?
-- R-R MISSY project raised as a possible reference point.
+  - [[BAE Systems|BAE]] - possibly Flexcelle-related; potential NW (North West) link?
+- [[Rolls-Royce|R-R]] [[MISSY]] project raised as a possible reference point.
 
 ## Decisions
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R2B: [[TMcC]]'s (TM) examples suggested new machines to RR Inchinan. [[Andy Collis]] (AC) asked if this was a blank slate or building on existing capability - RR have 4 existing Mazak 730 machines (different controllers), looking to expand with 3 more (only 1 signed up so far, options on the other 2). Machines are being upgraded (software) to allow data capture.
+- R2B: [[TMcC]]'s (TM) examples suggested new machines to [[Rolls-Royce|RR]] Inchinan. [[Andy Collis]] (AC) asked if this was a blank slate or building on existing capability - [[Rolls-Royce|RR]] have 4 existing Mazak 730 machines (different controllers), looking to expand with 3 more (only 1 signed up so far, options on the other 2). Machines are being upgraded (software) to allow data capture.
 
 ## Notes
 

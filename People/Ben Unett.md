@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- IET Manufacturing Technical Network committee member; co-owns the Quantum Manufacturing event topic with JS.
+- [[IET]] Manufacturing Technical Network committee member; co-owns the Quantum Manufacturing event topic with JS.
 
 ## Notes
 

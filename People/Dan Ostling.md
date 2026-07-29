@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 
 - [[Dan Ostling]] (Machining Dynamics Expert)
 - [[Dan Ostling]]'s presentation:
-- [[Dan Ostling]] sees more involvement around the applications side of development, less so on tech development. What are people doing today (e.g. RR)? What could be improved? Potential for more complex features if needed. Machine data from WFL not possible at present - working with WFL in Spring to enable (is WFL OPC enabled?).
+- [[Dan Ostling]] sees more involvement around the applications side of development, less so on tech development. What are people doing today (e.g. [[Rolls-Royce|RR]])? What could be improved? Potential for more complex features if needed. Machine data from WFL not possible at present - working with WFL in Spring to enable (is WFL OPC enabled?).
 
 ## Notes
 

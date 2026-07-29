@@ -10,19 +10,19 @@ last updated: 2026-07-25T00:00:00
 
 ## Objective
 
-- Coordinate AI-for-manufacturing efforts across AMRC, UoS colleagues, CMI, and other HVMC centres - via "pods" focused on specific areas of manufacturing/tech, and a four-part coordination framework (Knowledge Translation, Opportunity Matchmaking, Content & Narrative, Talent & Skills) - so effort isn't siloed and real opportunities get matched to real problems. Scope of what exactly needs coordinating is still being defined (see Blockers).
+- Coordinate [[AI]]-for-manufacturing efforts across AMRC, [[University of Sheffield|UoS]] colleagues, CMI, and other [[HVMC]] centres - via "pods" focused on specific areas of manufacturing/tech, and a four-part coordination framework (Knowledge Translation, Opportunity Matchmaking, Content & Narrative, Talent & Skills) - so effort isn't siloed and real opportunities get matched to real problems. Scope of what exactly needs coordinating is still being defined (see Blockers).
 
 ## Key Results
 
 - [ ] List of potential pod topics + people compiled
-- [ ] Speak at MACH about AI for Manufacturing
+- [ ] Speak at MACH about [[AI]] for Manufacturing
 - [ ] Contribute to / speak at the CMI Townhall (October)
-- [ ] AMRC AI Showcase delivered, with AMRC members, staff, and UoS staff involved
+- [ ] AMRC [[AI]] Showcase delivered, with AMRC members, staff, and [[University of Sheffield|UoS]] staff involved
 - [ ] Partnership team formed (target: Sept '26)
 
 ## Stakeholders
 
-- Paul J. - IET TN contact
+- Paul J. - [[IET]] TN contact
 - Akeel - Industry / developers contact
 - Susan? / Louise? (noted as "S.S." on the whiteboard) - workforce impact angle
 - Max? / Amir? - possible contributors to CMI Townhall content
@@ -82,5 +82,5 @@ views:
 
 ## See Also
 
-- [[2025-09-29 Townhall Presentation]] - earlier townhall talk covering AMRC AI involvement, related context
+- [[2025-09-29 Townhall Presentation]] - earlier townhall talk covering AMRC [[AI]] involvement, related context
 - ...

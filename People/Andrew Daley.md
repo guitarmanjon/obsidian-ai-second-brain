@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R working with Strathclyde on Quantum (ahead of the game - Prof [[Andrew Daley]], now at Oxford) and Bristol on AI (lead academic talking to chip designers).
+- [[Rolls-Royce|R-R]] working with Strathclyde on Quantum (ahead of the game - Prof [[Andrew Daley]], now at Oxford) and Bristol on [[AI]] (lead academic talking to chip designers).
 
 ## Notes
 

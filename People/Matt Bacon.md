@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Worked on IMG document management (Windchill/PTC) - see [[2018-02-07 Windchill Discussions]].
+- Worked on IMG document management ([[Windchill]]/PTC) - see [[2018-02-07 Windchill Discussions]].
 
 ## Notes
 

@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Rob Moody]] (Siemens)
+- [[Rob Moody]] ([[Siemens]])
 - [[JS]]
 - [[Adam Brown]]
 - [[Chris Taylor]]
@@ -15,7 +15,7 @@ tags:
 
 ## Purpose
 
-- Continued discussion between AMRC and Siemens on making machining processes more sustainable, following on from the earlier CAM sustainability meeting.
+- Continued discussion between AMRC and [[Siemens]] on making machining processes more sustainable, following on from the earlier [[CAM]] sustainability meeting.
 
 ## Key Discussion Points
 

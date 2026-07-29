@@ -17,7 +17,7 @@ tags:
 
 - General feeling across the teams - people leaving, workload, etc.
 - PM and resourcing; new things coming in?
-- R-R FoF: [[Jon Stammers|Jon]] or [[Alex]] to tech-sign the PoP; workshop on Monday; following that, a couple of days of a few people's time.
+- [[Rolls-Royce|R-R]] FoF: [[Jon Stammers|Jon]] or [[Alex]] to tech-sign the PoP; workshop on Monday; following that, a couple of days of a few people's time.
 
 ## Decisions
 

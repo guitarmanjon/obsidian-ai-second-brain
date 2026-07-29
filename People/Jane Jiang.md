@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- From Huddersfield: [[Jane Jiang]], [[Wenhan Zeng]], [[Zhen Tong]], [[Duo Li]]
+- From [[University of Huddersfield|Huddersfield]]: [[Jane Jiang]], [[Wenhan Zeng]], [[Zhen Tong]], [[Duo Li]]
 
 ## Notes
 

@@ -16,7 +16,7 @@ tags:
 
 ## Key Discussion Points
 
-- EPSRC Metrology Hub.
+- EPSRC [[Metrology]] Hub.
 - Project with [[Adam Brown]] - monitoring Forming, Machining, and inspection.
 - Bearing housing case study.
 

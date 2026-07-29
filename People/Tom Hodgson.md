@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tom Hodgson]] - Head of Metrology F2050
+- [[Tom Hodgson]] - Head of [[Metrology]] F2050
 - Senior attendees discussed as potential invitees to a future session (not necessarily present at this prep meeting): [[Andy Silcox]] (potentially just to say hello) and [[Tom Hodgson]] (tentative).
 
 ## Notes

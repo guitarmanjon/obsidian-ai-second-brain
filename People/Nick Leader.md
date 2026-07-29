@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Konektio - experience in IoT in big corporates, WEF. Distinct from Nick Leeder (AssetMinder).
+- [[Konektio]] - experience in IoT in big corporates, WEF. Distinct from Nick Leeder (AssetMinder).
 
 ## Notes
 

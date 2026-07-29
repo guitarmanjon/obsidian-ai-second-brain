@@ -21,11 +21,11 @@ tags:
 - Tech roadmap on SharpCloud
 - Digitalising manufacturing
 - Challenge: cost of production + time wasted
-  → opportunity - data-centric manufacturing, e.g. tool changes
+  → opportunity - [[Data Centric Manufacturing|data-centric manufacturing]], e.g. tool changes
 - AMRC people:
   - [[James Hunt]]
   - [[Steve Brewer]]
-  - [[Rob Weatherhead]] - Wales, Chief Eng. for Aerospace, links to Airbus
+  - [[Rob Weatherhead]] - Wales, Chief Eng. for Aerospace, links to [[Airbus]]
 
 ## Decisions
 

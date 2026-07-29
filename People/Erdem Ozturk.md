@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Ex-colleague from AMRC Machining Group (Dynamics), now runs his own company, Productive Machines.
-- Worked on Digital Twin concepts, referencing Bloom's taxonomy in relation to digital machining/autonomous machines/AI; involved in Sinumerik Edge deployment for simulation/monitoring.
+- Worked on [[Digital Twin]] concepts, referencing Bloom's taxonomy in relation to digital machining/autonomous machines/[[AI]]; involved in [[Sinumerik]] Edge deployment for simulation/monitoring.
 
 ## Notes
 

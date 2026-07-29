@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- BTMA (British Turned Parts Manufacturers Association). Called to give an overview of the BTMA and explore AMRC speaking to members about AI - focused on turning and milling sub-contracting in the UK, run by members for members.
+- BTMA (British Turned Parts Manufacturers Association). Called to give an overview of the BTMA and explore AMRC speaking to members about [[AI]] - focused on turning and milling sub-contracting in the UK, run by members for members.
 
 ## Notes
 

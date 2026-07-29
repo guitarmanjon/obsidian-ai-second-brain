@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Evan B-J]] - tech lead in NAMRC, vitrification test rig
+- [[Evan B-J]] - tech lead in [[Nuclear AMRC|NAMRC]], vitrification test rig
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Prep notes ahead of a Turing Institute interview.
+- Prep notes ahead of a [[Alan Turing Institute|Turing]] Institute interview.
 
 ## Key Discussion Points
 

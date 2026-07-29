@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- HVMC digital Strategic Programme Group (SPG) meeting - no further detail recorded.
+- [[HVMC]] digital Strategic Programme Group (SPG) meeting - no further detail recorded.
 
 ## Key Discussion Points
 

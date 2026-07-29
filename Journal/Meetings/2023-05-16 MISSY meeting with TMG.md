@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- MISSY project meeting with TMG.
+- [[MISSY]] project meeting with TMG.
 
 ## Key Discussion Points
 

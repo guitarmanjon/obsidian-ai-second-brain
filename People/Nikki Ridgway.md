@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Nikki Ridgway]] is Director of Operations for the Chief Scientist at Turing.
+- [[Nikki Ridgway]] is Director of Operations for the Chief Scientist at [[Alan Turing Institute|Turing]].
 
 ## Notes
 

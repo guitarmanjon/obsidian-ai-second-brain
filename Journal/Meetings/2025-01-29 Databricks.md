@@ -11,12 +11,12 @@ tags:
 
 ## Purpose
 
-- Note flagging Databricks as a technology of interest, prompted by news of a major investment.
+- Note flagging [[Databricks]] as a technology of interest, prompted by news of a major investment.
 
 ## Key Discussion Points
 
-- Databricks received a $10bn investment, in recognition of how it helps AI development through data management.
-- Conclusion: Databricks should be considered a key technology in the AMI (Augmented Manufacturing Intelligence) concept.
+- [[Databricks]] received a $10bn investment, in recognition of how it helps [[AI]] development through data management.
+- Conclusion: [[Databricks]] should be considered a key technology in the AMI (Augmented Manufacturing Intelligence) concept.
 
 ## Decisions
 

@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Gave an overview of machine tool communication building blocks (HMI, power drives, OPC Server) in early Amido engagement discussions.
+- Gave an overview of machine tool communication building blocks (HMI, power drives, OPC Server) in early [[Amido]] engagement discussions.
 
 ## Notes
 

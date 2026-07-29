@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Meera Warrier]] - Assistant Director, Researchers and Research Culture, University of Sheffield (organiser)
+- [[Meera Warrier]] - Assistant Director, Researchers and Research Culture, [[University of Sheffield]] (organiser)
 - Need to confirm to [[Meera Warrier]] by w/c 22nd September what the ~£20k could fund.
 - [[Jon]] / [[James Marshall|James]] - Let [[Meera Warrier]] know w/c 22nd Sept what the ~£20k could fund.
 

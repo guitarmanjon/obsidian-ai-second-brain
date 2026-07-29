@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Huddersfield. MMPS on robots.
+- [[University of Huddersfield]]. MMPS on robots.
 
 ## Notes
 

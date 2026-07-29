@@ -19,7 +19,7 @@ tags:
 ## Key Discussion Points
 
 - [[Lindsay]]:
-  - Data Cloud data should remain usable in 10 years' time.
+  - [[AMRC Data Cloud|Data Cloud]] data should remain usable in 10 years' time.
   - Take influence from Factory+ for schemas.
   - Develop guidance for how data should be stored, labelled, etc.
   - [[AG]] raised the question: what does "good data" look like? Suggestion for a general guide on best practice for data storage.

@@ -18,12 +18,12 @@ tags:
 
 ## Purpose
 
-- Monthly MISSY project catch-up.
+- Monthly [[MISSY]] project catch-up.
 
 ## Key Discussion Points
 
 - Scope creep management.
-- Screening 2 - work started here; [[Rachel Yeung]] has made notes. Discussions mainly around Rolls-Royce asking for too much / out-of-scope items.
+- Screening 2 - work started here; [[Rachel Yeung]] has made notes. Discussions mainly around [[Rolls-Royce]] asking for too much / out-of-scope items.
 - Calibration.
 
 ## Decisions

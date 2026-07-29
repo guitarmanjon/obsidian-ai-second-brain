@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Tech lead for AI, does a lot of machine vision work and covers ML ops; involved in early IBM AC922 hardware/software work.
+- Tech lead for [[AI]], does a lot of machine vision work and covers [[Machine Learning|ML]] ops; involved in early IBM AC922 hardware/software work.
 
 ## Notes
 

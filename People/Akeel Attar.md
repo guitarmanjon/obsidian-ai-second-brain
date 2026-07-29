@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Chair of the Board at XpertRule, mentoring the new CEO; co-hosted the IET Manufacturing and AI webinar with Lars Butler.
+- Chair of the Board at [[XpertRule]], mentoring the new CEO; co-hosted the [[IET]] Manufacturing and [[AI]] webinar with Lars Butler.
 
 ## Notes
 

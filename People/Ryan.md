@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Involved in the AMRC Data Cloud - started the migration from FourJaw (FJ) to ADC.
+- Involved in the [[AMRC Data Cloud]] - started the migration from [[Fourjaw|FourJaw]] (FJ) to ADC.
 
 ## Notes
 

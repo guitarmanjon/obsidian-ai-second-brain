@@ -15,7 +15,7 @@ tags:
 
 - [x] Send roadmap for [[JH]]
 - [x] Read proposal from [[JH]]
-- [ ] Arrange AI catch-ups
+- [ ] Arrange [[AI]] catch-ups
 - [ ] HTP - ATJs, adverts, etc.
 - [x] Check tour spreadsheet
 - [ ] Comms - scheduling at CSVF

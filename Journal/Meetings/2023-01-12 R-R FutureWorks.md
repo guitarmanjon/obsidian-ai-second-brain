@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Meeting relating to R-R FutureWorks; no further detail was recorded.
+- Meeting relating to [[Rolls-Royce|R-R]] FutureWorks; no further detail was recorded.
 
 ## Key Discussion Points
 

@@ -18,11 +18,11 @@ tags:
 - Meetings I'm invited to:
   - Monday - SLT
   - Thursday - TL
-  - DC&AI - Tuesday
-  - DC&AI Senior - Monday
-  - MISSY...
-  - IET TC - monthly
-  - HVMC - DCWG - every 2 months?
+  - DC&[[AI]] - Tuesday
+  - DC&[[AI]] Senior - Monday
+  - [[MISSY]]...
+  - [[IET]] TC - monthly
+  - [[HVMC]] - DCWG - every 2 months?
   - ED&I
 - Difference between TF + LE:
   - TF -> More focused on lower TRL bidding, etc. Line management not required.

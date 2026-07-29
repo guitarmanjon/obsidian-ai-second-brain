@@ -11,11 +11,11 @@ tags:
 - [[TR]]
 - [[Rachel Yeung]]
 - [[JMg]]
-- [[Craig Johnson]] (Patent Attorney for R-R)
+- [[Craig Johnson]] (Patent Attorney for [[Rolls-Royce|R-R]])
 
 ## Purpose
 
-- IP session for MISSY, covering the ontology framework and reviewing analytics findings ahead of patent submissions.
+- IP session for [[MISSY]], covering the ontology framework and reviewing analytics findings ahead of patent submissions.
 
 ## Key Discussion Points
 

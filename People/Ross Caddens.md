@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Ross Caddens]] - Strategic Programmes, Catapults (Presenter)
-- [[Ross Caddens]] - Siemens UK, BD manager, supporting Catapults
-- [[Ross Caddens]] offered to host a visit to the Siemens Manchester demonstrator room.
+- [[Ross Caddens]] - [[Siemens]] UK, BD manager, supporting Catapults
+- [[Ross Caddens]] offered to host a visit to the [[Siemens]] Manchester demonstrator room.
 
 ## Notes
 

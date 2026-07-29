@@ -13,7 +13,7 @@ tags:
 - [[Ian C]]
 - [[Matthew Brown|Matt B]]
 - [[RY]]
-- [[Aasiya Thakur]] (NMIS)
+- [[Aasiya Thakur]] ([[NMIS]])
 - [[Rodrigo]] (?)
 - [[Tom]] (?)
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Call to review the question pack from [[Jamie McGourlay|Jamie]] detailing what R-R is asking for ahead of TRL4.
+- Call to review the question pack from [[Jamie McGourlay|Jamie]] detailing what [[Rolls-Royce|R-R]] is asking for ahead of TRL4.
 
 ## Key Discussion Points
 

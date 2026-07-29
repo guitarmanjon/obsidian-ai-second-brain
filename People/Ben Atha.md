@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Proposed a partnership to deliver topic-specific skills training courses for South Yorkshire manufacturers, focused on tech (IoT, Software) rather than Data Science.
+- Proposed a partnership to deliver topic-specific skills training courses for South Yorkshire manufacturers, focused on tech (IoT, Software) rather than [[Data Science]].
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Mark Howard]] - CFMS (part-time), 36 years background at Airbus, heading up R&T at Airbus UK.
+- [[Mark Howard]] - CFMS (part-time), 36 years background at [[Airbus]], heading up R&T at [[Airbus]] UK.
 
 ## Notes
 

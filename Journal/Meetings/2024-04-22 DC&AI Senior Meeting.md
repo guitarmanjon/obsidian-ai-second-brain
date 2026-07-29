@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- 15:00 DC&AI senior meeting.
+- 15:00 DC&[[AI]] senior meeting.
 
 ## Key Discussion Points
 

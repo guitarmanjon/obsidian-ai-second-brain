@@ -22,7 +22,7 @@ tags:
 - Objectives:
   - LabVIEW Core 3 training and certification - a challenge to stay consistent with LabVIEW, so has to spend time getting back into it; suggested [[Hatim Laalej|HL]] tries to build it into daily/weekly practice.
   - [[Hatim Laalej|HL]] to look into NI training sooner rather than later to get education pricing.
-  - Siemens PLC and high-frequency data capture - integrating sensors into PLC on H5.
+  - [[Siemens]] PLC and high-frequency data capture - integrating sensors into PLC on H5.
   - [[JS]] to ask Gav about training.
   - Advanced machine learning - has started looking at this via online MATLAB training.
   - Apply for CEng - probably not this year, finding time to do it.
@@ -35,6 +35,6 @@ tags:
 
 ## Action Items
 
-- [[JS]] - Ask Gav about Siemens PLC/high-frequency data capture training for [[Hatim Laalej|HL]].
+- [[JS]] - Ask Gav about [[Siemens]] PLC/high-frequency data capture training for [[Hatim Laalej|HL]].
 - [[Hatim Laalej|HL]] - Look into NI training sooner rather than later to get education pricing.
 - [[Hatim Laalej|HL]] - Build LabVIEW practice into daily/weekly routine.

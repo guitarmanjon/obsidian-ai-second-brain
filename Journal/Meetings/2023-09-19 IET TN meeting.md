@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Regular IET Manufacturing TN committee meeting.
+- Regular [[IET]] Manufacturing TN committee meeting.
 
 ## Key Discussion Points
 

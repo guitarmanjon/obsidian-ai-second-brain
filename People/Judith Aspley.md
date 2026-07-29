@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Manchester. Former IET Manufacturing Technical Network committee member (no longer involved); owned the Working with Composites event topic.
+- University of Manchester. Former [[IET]] Manufacturing Technical Network committee member (no longer involved); owned the Working with Composites event topic.
 
 ## Notes
 

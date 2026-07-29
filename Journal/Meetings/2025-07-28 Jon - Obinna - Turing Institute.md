@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[Jon]]
-- [[Obinna]] - Partnerships Lead at the Turing Institute, recently took over partnership responsibilities for the Sustainability (formerly DCE) mission
+- [[Obinna]] - Partnerships Lead at the [[Alan Turing Institute|Turing]] Institute, recently took over partnership responsibilities for the Sustainability (formerly DCE) mission
 - [[Mat Corbett]] - now Head of Partnerships, previously handled this mission (mentioned, not present)
 - [[Alexandra Brintrup|Alexandra]] - covers Digital Manufacturing within the mission (mentioned, not present)
 

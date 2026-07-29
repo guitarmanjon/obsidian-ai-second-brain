@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Matt Ellis]] - Lecturer in ML group
-- [[Matt Ellis]] presented on the ML group. Topics included neuromorphic computing (computing systems that process information the way the human brain works), spanning robotics, neuroscience and healthcare. PyKale library mentioned as a reproducible ML library (possibly part of PyTorch). Neural Stochastic Differential Equations described as a form of "digital twin".
+- [[Matt Ellis]] - Lecturer in [[Machine Learning|ML]] group
+- [[Matt Ellis]] presented on the [[Machine Learning|ML]] group. Topics included neuromorphic computing (computing systems that process information the way the human brain works), spanning robotics, neuroscience and healthcare. PyKale library mentioned as a reproducible [[Machine Learning|ML]] library (possibly part of PyTorch). Neural Stochastic Differential Equations described as a form of "digital twin".
 - Potential supervisors considered: [[Kathy]] ([[NP]]'s current supervisor, or colleagues of hers); [[Dongwhan Shin]] (autonomous vehicles - [[NP]] already has contact and will follow up); [[Matt Ellis]] and [[Luca Manneschi]] (suggested by [[Tom Hayward]]); [[Mengdie Zhuang]] (suggested by [[Kathy]]).
 
 ## Notes

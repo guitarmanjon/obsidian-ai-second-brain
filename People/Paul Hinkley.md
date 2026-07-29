@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paul Hinkley]] from Siemens covers connectivity and cyber.
+- [[Paul Hinkley]] from [[Siemens]] covers connectivity and cyber.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Chief Partner and Solution Officer, Konektio.
+- Chief Partner and Solution Officer, [[Konektio]].
 
 ## Notes
 

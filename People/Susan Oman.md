@@ -10,7 +10,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- UoS Social Sciences (SSH) - discussed data skills (Bolster project), "Trustworthy Systems" vs. trust in existing systems, and interdisciplinary funding/bid challenges in [[2026-01-21 AMRC x Social Sciences]].
+- [[University of Sheffield|UoS]] Social Sciences (SSH) - discussed data skills (Bolster project), "Trustworthy Systems" vs. trust in existing systems, and interdisciplinary funding/bid challenges in [[2026-01-21 AMRC x Social Sciences]].
 
 ## Notes
 

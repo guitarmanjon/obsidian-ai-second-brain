@@ -7,20 +7,20 @@ tags:
 
 ## Attendees
 
-- [[Katy Riddington]] (NCC / HVMC Skills)
+- [[Katy Riddington]] (NCC / [[HVMC]] Skills)
 - [[Andy Sutton]] (programme management of skills delivery, NCC Connect)
 - [[JS]]
 
 ## Purpose
 
-- Explore how existing NCC digital learning courses could be piloted across HVMC centres, including AMRC.
+- Explore how existing NCC digital learning courses could be piloted across [[HVMC]] centres, including AMRC.
 
 ## Key Discussion Points
 
 - [[Katy Riddington]] outlined the challenge, which seems focused on existing modules/courses.
 - [[Andy Sutton]] gave an overview of existing NCC courses - 2-day courses, free to attend: Intro to Robotics, Intro to Smart Benches, IoT, Data Collection and Display, Immersive Tech.
 - Learning factories concept - using kit on the shop floor.
-- Made Smarter funding referenced as a potential funding route.
+- [[Made Smarter]] funding referenced as a potential funding route.
 - Phase 1 details:
   - Local delivery is key.
   - NCC's hardware is water-system based - this could potentially be delivered at AMRC and other centres.

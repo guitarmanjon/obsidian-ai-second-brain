@@ -11,13 +11,13 @@ tags:
 
 ## Purpose
 
-- AMRC Data and AI Showcase / conference, held in F2050, to showcase AMRC's Data and AI research to partners.
+- AMRC Data and [[AI]] Showcase / conference, held in F2050, to showcase AMRC's Data and [[AI]] research to partners.
 
 ## Key Discussion Points
 
 - Held in F2050.
-- Partners invited, alongside Shef.AI.
-- Purpose: showcase AMRC's Data and AI research.
+- Partners invited, alongside Shef.[[AI]].
+- Purpose: showcase AMRC's Data and [[AI]] research.
 - Invited external speakers: James Fortune, Alexandra Brintrup, James Marshall, Akeel Attar.
 
 ## Decisions

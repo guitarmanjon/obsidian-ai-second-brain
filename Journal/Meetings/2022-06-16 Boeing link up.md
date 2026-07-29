@@ -12,12 +12,12 @@ tags:
 - [[PY]] - AMRC
 - [[AG]] - AMRC
 - [[Ted Brezina]] - AMRC
-- [[Kieran Gray]] - Boeing
-- [[Phil Freeman]] - Boeing
+- [[Kieran Gray]] - [[Boeing]]
+- [[Phil Freeman]] - [[Boeing]]
 
 ## Purpose
 
-- General link-up / catch-up between AMRC and Boeing.
+- General link-up / catch-up between AMRC and [[Boeing]].
 
 ## Key Discussion Points
 

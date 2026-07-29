@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paul Dwyer]]: off-machine is better for getting tool profile (doesn't use CNC time); probing is better for capturing tool wear. UC Dublin work ([[Szymon Baron]]): instrumentation of pallets with embedded sensors, connected to MTConnect for positional data; force feedback used for tool wear monitoring; concerns over commercial use/IP; material hardness may affect how well the system works; Nordmann already running on machine for breakage detection, skipping to sister tool. UCD system can be embedded in tombstones etc.
+- [[Paul Dwyer]]: off-machine is better for getting tool profile (doesn't use [[CNC]] time); [[Probing|probing]] is better for capturing tool wear. UC Dublin work ([[Szymon Baron]]): instrumentation of pallets with embedded sensors, connected to MTConnect for positional data; force feedback used for tool wear monitoring; concerns over commercial use/IP; material hardness may affect how well the system works; Nordmann already running on machine for breakage detection, skipping to sister tool. UCD system can be embedded in tombstones etc.
 
 ## Notes
 

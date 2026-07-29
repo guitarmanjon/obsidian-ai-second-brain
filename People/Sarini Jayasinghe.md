@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- NMIS: [[Awais]], [[Sarini Jayasinghe]] (name uncertain in source)
+- [[NMIS]]: [[Awais]], [[Sarini Jayasinghe]] (name uncertain in source)
 
 ## Notes
 

@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Databricks: [[Bala Amavasai]] (Global Tech Director, Manufacturing and Logistics; 16 years in Sheffield, left 15 years ago; previously led AI team at Stanley Black & Decker; at Databricks ~1 year leading the Manufacturing vertical), [[Anthony Marangos-Gilks]] (Account Manager for AMRC - Manufacturing, Automotive; joined Databricks April 2022; Commercial Account Executive)
-- [[Bala Amavasai]] is very close to Digital Catapult, with three programmes kicking off shortly.
+- [[Databricks]]: [[Bala Amavasai]] (Global Tech Director, Manufacturing and Logistics; 16 years in Sheffield, left 15 years ago; previously led [[AI]] team at Stanley Black & Decker; at [[Databricks]] ~1 year leading the Manufacturing vertical), [[Anthony Marangos-Gilks]] (Account Manager for AMRC - Manufacturing, Automotive; joined [[Databricks]] April 2022; Commercial Account Executive)
+- [[Bala Amavasai]] is very close to [[Digital Catapult]], with three programmes kicking off shortly.
 
 ## Notes
 

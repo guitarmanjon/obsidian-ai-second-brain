@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- University of Sheffield contact - referenced in relation to a "Resp. AI bid" funding proposal cost breakdown (Hy Subs work package, WP6). See [[2023-04-25 Hy Subs Work Package Cost Breakdown]].
+- [[University of Sheffield]] contact - referenced in relation to a "Resp. [[AI]] bid" funding proposal cost breakdown (Hy Subs work package, WP6). See [[2023-04-25 Hy Subs Work Package Cost Breakdown]].
 
 ## Notes
 

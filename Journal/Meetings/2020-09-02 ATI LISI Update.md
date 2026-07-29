@@ -17,7 +17,7 @@ tags:
 
 ## Key Discussion Points
 
-- BAIUK has been affected by COVID-19: their capex budget has been reduced by parent company LISI from an expected £1.6m for the next year down to around £0.5m.
+- BAIUK has been affected by COVID-19: their capex budget has been reduced by parent company [[LISI]] from an expected £1.6m for the next year down to around £0.5m.
 - As a result, BAIUK will be unable to fund all the machine tools stated in the grant application.
 - Two options identified to proceed:
   - De-scope the project to leave out the grinding and thread rolling processes — this would mean the Hi Lok fasteners target product no longer benefits.

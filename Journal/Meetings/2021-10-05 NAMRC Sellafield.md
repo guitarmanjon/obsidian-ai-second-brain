@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- NAMRC/Sellafield discussion to review the roadmap for deploying Industry 4.0 technology and identify a non-radioactive asset opportunity.
+- [[Nuclear AMRC|NAMRC]]/Sellafield discussion to review the roadmap for deploying Industry 4.0 technology and identify a non-radioactive asset opportunity.
 
 ## Key Discussion Points
 

@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- None recorded (personal notes following a Dev Academy webinar with [[Kevin Smith]], Made Smarter).
-- Key learnings from Made Smarter (per [[Kevin Smith]]): SMEs learn from each other; people and skills matter; Made Smarter runs engagements helping SMEs with first steps, identifying a "digital champion" (www.madesmarter.uk/start-your-digital-manufacturing-journey/).
+- None recorded (personal notes following a Dev Academy webinar with [[Kevin Smith]], [[Made Smarter]]).
+- Key learnings from [[Made Smarter]] (per [[Kevin Smith]]): SMEs learn from each other; people and skills matter; [[Made Smarter]] runs engagements helping SMEs with first steps, identifying a "digital champion" (www.madesmarter.uk/start-your-digital-manufacturing-journey/).
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Nicolas Guernion]] interested in how AMRC are positioning for Made Smarter.
+- [[Nicolas Guernion]] interested in how AMRC are positioning for [[Made Smarter]].
 - [[Nicolas Guernion]] asked about the likelihood of higher TRL funding; [[Rab S]] said above TRL 7 is unlikely.
 
 ## Notes

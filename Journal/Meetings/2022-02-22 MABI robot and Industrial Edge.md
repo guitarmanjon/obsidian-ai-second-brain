@@ -16,7 +16,7 @@ tags:
 ## Key Discussion Points
 
 - MABI robot - open question over who is looking after it.
-- SINUMERIK One - Siemens have funding to get one, 3-4 months away.
+- SINUMERIK One - [[Siemens]] have funding to get one, 3-4 months away.
 - Run My Robot.
 - Native programming.
 - NX plugin for force feedback.

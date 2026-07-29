@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Adaptive feedrate control - [[Garry Mepham]] presented a Siemens applications example for AFC using "Technology functions". Uses a PID loop implementation to provide adaptive control; PID parameters can be changed by the user to fine tune control. Synchronous Actions are used - "DO" is the key identifier of a SA. Note: this runs on the controller so no option to perform data analysis/manipulation off-machine to influence feedrate.
+- Adaptive feedrate control - [[Garry Mepham]] presented a [[Siemens]] applications example for AFC using "Technology functions". Uses a PID loop implementation to provide adaptive control; PID parameters can be changed by the user to fine tune control. Synchronous Actions are used - "DO" is the key identifier of a SA. Note: this runs on the controller so no option to perform data analysis/manipulation off-machine to influence feedrate.
 
 ## Notes
 

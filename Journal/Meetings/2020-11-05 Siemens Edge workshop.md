@@ -35,7 +35,7 @@ tags:
   - Question of what has the greatest influence on energy consumption - tool coating, MWF choice, etc.
   - [[Charles Tivey]] raised PAC sensors.
 - Mendix:
-  - [[Charles Tivey]] - acquired by Siemens to fill a gap in their offering. Mindsphere was created to allow contextualisation of data on the ISO95 pyramid; Mendix was acquired to provide a tool to rapidly build and deploy apps internally and to customers.
+  - [[Charles Tivey]] - acquired by [[Siemens]] to fill a gap in their offering. Mindsphere was created to allow contextualisation of data on the ISO95 pyramid; Mendix was acquired to provide a tool to rapidly build and deploy apps internally and to customers.
   - [[Rob Van t'Hof]] gave examples of what can be done with Mendix: OEE dashboarding and alerting to managers/engineers, workflow development, native mobile apps.
   - Small apps (e.g. Excel conversion) as well as full-scale deployments such as much of the backend of PostNL (Netherlands postal service).
   - Potential use in IMG to move away from custom software development that can't be passed on to customers/partners.

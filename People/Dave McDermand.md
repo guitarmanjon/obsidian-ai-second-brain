@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dave McDermand]] - Head of UK PreSales, Siemens (Presenter)
+- [[Dave McDermand]] - Head of UK PreSales, [[Siemens]] (Presenter)
 - Overview - [[Dave McDermand]]; NX12 - [[Chris Abbott]]; Factory layout and optimisation - [[Ian Walls]]
 
 ## Notes

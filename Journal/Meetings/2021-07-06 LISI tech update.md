@@ -16,13 +16,13 @@ tags:
 
 ## Purpose
 
-- Review LISI's WP progress and agree what support AMRC can provide on data storage and structure.
+- Review [[LISI]]'s WP progress and agree what support AMRC can provide on data storage and structure.
 
 ## Key Discussion Points
 
-- [[Ondrej Polak|Ondrej]] / [[Krzysztof Dec|Krzysztof]] gave an update on LISI's work packages.
-- Support on WP3 - MES: MQTT structure via Factory+.
-- WP4 - IT and data structure: LISI need guidance on where data should be stored, whether it could be done better, and what work is needed; AMRC to provide a data storage review.
+- [[Ondrej Polak|Ondrej]] / [[Krzysztof Dec|Krzysztof]] gave an update on [[LISI]]'s work packages.
+- Support on WP3 - [[MES]]: [[MQTT]] structure via Factory+.
+- WP4 - IT and data structure: [[LISI]] need guidance on where data should be stored, whether it could be done better, and what work is needed; AMRC to provide a data storage review.
 
 ## Decisions
 
@@ -30,4 +30,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - Provide LISI with a data storage review for WP4.
+- [[JS]] - Provide [[LISI]] with a data storage review for WP4.

@@ -7,13 +7,13 @@ tags:
 
 ## Attendees
 
-- R-R onsite: [[Jamie McGourlay|Jamie]], [[Steve Carter]], [[Phil Midwinter]]
+- [[Rolls-Royce|R-R]] onsite: [[Jamie McGourlay|Jamie]], [[Steve Carter]], [[Phil Midwinter]]
 - AMRC onsite: [[Tim]], [[Rodrigo]], [[Erica]]
 - AMRC remote: [[Pete]], [[Richard Bonnell|Rich B]], [[JS]]
 
 ## Purpose
 
-- Wash-up/debrief following a site visit to the Rolls-Royce Controls site.
+- Wash-up/debrief following a site visit to the [[Rolls-Royce]] Controls site.
 
 ## Key Discussion Points
 

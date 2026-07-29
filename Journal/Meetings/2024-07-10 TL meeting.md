@@ -17,7 +17,7 @@ tags:
 ## Key Discussion Points
 
 - To discuss: tone and value of comms - what is being sent out, is it actually of value, does it need sending out? People on the ground are now a bit blasé to everything being sent out and don't see a lot of value in the comms from SLT.
-- Siemens Transform: do we know who is going? Is anyone coordinating travel?
+- [[Siemens]] Transform: do we know who is going? Is anyone coordinating travel?
 
 ## Decisions
 

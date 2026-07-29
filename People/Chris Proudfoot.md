@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- IET Manufacturing Technical Network committee member; has organised events on Lasers in Manufacturing, Adoption of New Manufacturing Technology, and Sustainability.
+- [[IET]] Manufacturing Technical Network committee member; has organised events on Lasers in Manufacturing, [[Technology Adoption|Adoption of New Manufacturing Technology]], and Sustainability.
 
 ## Notes
 

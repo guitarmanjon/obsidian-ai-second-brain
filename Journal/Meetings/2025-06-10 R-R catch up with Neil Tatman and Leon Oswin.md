@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Catch up meeting with Rolls-Royce contacts [[Neil Tatman]] and [[Leon Oswin]].
+- Catch up meeting with [[Rolls-Royce]] contacts [[Neil Tatman]] and [[Leon Oswin]].
 
 ## Key Discussion Points
 

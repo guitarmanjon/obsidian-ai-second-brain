@@ -26,7 +26,7 @@ tags:
 
 ### What progress did I make today?
 
-- Email about HVMC visit on 21st Feb
+- Email about [[HVMC]] visit on 21st Feb
 - [[Tehseen]] - confirmed plan for 21st Feb
 
 ### What created friction today?

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Aiden Lockwood]]: short projects with Boeing Sheffield (BS) around automation as preliminary work; has fed into BS on IT infrastructure requirements (five 9s availability).
+- [[Aiden Lockwood]]: short projects with [[Boeing]] Sheffield (BS) around automation as preliminary work; has fed into BS on IT infrastructure requirements (five 9s availability).
 
 ## Notes
 

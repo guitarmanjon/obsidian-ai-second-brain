@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paul Monks]] - Chief Scientific Advisor, DESNZ (keynote; JS also spoke with him during arrival coffee re: NAMRC, SMR)
-- Keynote from [[Paul Monks]]: ongoing challenge of identifying how AI can maximise decarbonisation; AI driving clean energy growth.
+- [[Paul Monks]] - Chief Scientific Advisor, DESNZ (keynote; JS also spoke with him during arrival coffee re: [[Nuclear AMRC|NAMRC]], SMR)
+- Keynote from [[Paul Monks]]: ongoing challenge of identifying how [[AI]] can maximise decarbonisation; [[AI]] driving clean energy growth.
 
 ## Notes
 

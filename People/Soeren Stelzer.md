@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Soeren Stelzer]] (DMMC dept, digital solutions software, IoT, ML to the shop floor)
+- [[Soeren Stelzer]] (DMMC dept, digital solutions software, IoT, [[Machine Learning|ML]] to the shop floor)
 - [[Soeren Stelzer]] has been working on Edge for a couple of years to get more unusual use cases available.
 - [[Soeren Stelzer]]: an app must be published to be installed on Edge; training is available for how to do this.
 

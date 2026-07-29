@@ -23,7 +23,7 @@ tags:
 - Access Skills Bank funding could make courses cheaper for participants; under a partnership, funding would flow to AMRC.
 - [[Ben Atha]] has tried for 18 months to work with the AMRC Training Centre (TC) without success - either no response or no appetite; TC seems more focused on selling their teaching space.
 - [[Ben Atha]] needs someone from AMRC to sit with him for an hour to flesh out a list of courses.
-- DA also offers micro courses on using AI for business processes.
+- DA also offers micro courses on using [[AI]] for business processes.
 - Proposed effort split: a few days of AMRC people's time to devise course content and key outcomes; Dev Academy would then develop, deliver, and certificate the courses.
 
 ## Decisions

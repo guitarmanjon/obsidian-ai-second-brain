@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Horizon EU link-up call to explore potential collaboration with [[Yannick Morel]].
-- [[Yannick Morel]]'s area of focus is AI and robotics.
+- [[Yannick Morel]]'s area of focus is [[AI]] and robotics.
 
 ## Notes
 

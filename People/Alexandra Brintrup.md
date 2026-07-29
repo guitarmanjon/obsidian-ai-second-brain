@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Professor, University of Cambridge (ab702@cam.ac.uk). Part of the Turing Institute's Sustainability challenge area.
+- Professor, University of Cambridge (ab702@cam.ac.uk). Part of the [[Alan Turing Institute|Turing]] Institute's Sustainability challenge area.
 - Potential collaboration with AMRC (via Inka/knowledge graph work) on supply chain data sources, uncertainty management, and link prediction.
 
 ## Notes

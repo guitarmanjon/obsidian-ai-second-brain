@@ -11,7 +11,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Digital Associate on the Boeing KTP, based at Boeing Sheffield; came from an MSc in Robotics at UoS (ACSE). Works on InfluxDB historian, Factory+, condition monitoring, and discrete event simulation.
+- Digital Associate on the [[Boeing]] KTP, based at [[Boeing]] Sheffield; came from an MSc in Robotics at [[University of Sheffield|UoS]] (ACSE). Works on InfluxDB historian, Factory+, condition monitoring, and discrete event simulation.
 
 ## Notes
 

@@ -8,11 +8,11 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Rob P]] (Siemens)
+- [[Rob P]] ([[Siemens]])
 
 ## Purpose
 
-- Regular bi-weekly catch-up with Siemens.
+- Regular bi-weekly catch-up with [[Siemens]].
 
 ## Key Discussion Points
 

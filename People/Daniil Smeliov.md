@@ -11,7 +11,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- AMRC colleague with a GKN planning background; involved in analytics basics work with Grace, and considered for the ACP Senior Engineer track.
+- AMRC colleague with a [[GKN]] planning background; involved in analytics basics work with Grace, and considered for the ACP Senior Engineer track.
 
 ## Notes
 

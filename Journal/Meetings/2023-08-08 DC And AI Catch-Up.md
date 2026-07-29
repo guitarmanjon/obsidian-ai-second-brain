@@ -18,7 +18,7 @@ tags:
 - Monthly meeting - need volunteers.
 - SRDS:
   - My Development.
-  - Pay and grading - check UoS pages.
+  - Pay and grading - check [[University of Sheffield|UoS]] pages.
   - Submit training requests - these will be reviewed next month or so.
 - Buses - anyone affected? Yes - [[Grace]], [[Ariana]].
 - Internal conference?

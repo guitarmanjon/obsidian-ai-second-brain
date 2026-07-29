@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Colleague at AMRC Cymru - to be messaged re: NextGen programme. See [[2023-01-30 Daily Notes]].
+- Colleague at [[AMRC Cymru]] - to be messaged re: NextGen programme. See [[2023-01-30 Daily Notes]].
 
 ## Notes
 

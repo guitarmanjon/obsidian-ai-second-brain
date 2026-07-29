@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tasinur Kahn]] - Teaching Associate, real-time ML models and data streaming
+- [[Tasinur Kahn]] - Teaching Associate, real-time [[Machine Learning|ML]] models and data streaming
 
 ## Notes
 

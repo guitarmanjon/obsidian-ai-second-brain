@@ -13,13 +13,13 @@ tags:
 
 ## Purpose
 
-- Plan an IET Manufacturing and AI session, building on the earlier Digital event.
+- Plan an [[IET]] Manufacturing and [[AI]] session, building on the earlier Digital event.
 
 ## Key Discussion Points
 
 - Sense of urgency - "make or break now, we need to get this sorted."
 - [[Paul Johnson]] potentially has a lead.
-- The AI event is planned to build on the earlier Digital event.
+- The [[AI]] event is planned to build on the earlier Digital event.
 
 ## Decisions
 

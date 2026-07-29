@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- At FourJaw. Discussed re: their API. See [[2023-07-18 Daily Notes]].
+- At [[Fourjaw|FourJaw]]. Discussed re: their API. See [[2023-07-18 Daily Notes]].
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jimmy Jarvis]] - Digital Catapult (project overview)
+- [[Jimmy Jarvis]] - [[Digital Catapult]] (project overview)
 
 ## Notes
 

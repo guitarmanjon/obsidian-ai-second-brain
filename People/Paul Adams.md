@@ -10,7 +10,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact discussed via [[Rob Poyner]] in [[2026-02-16 Siemens Catch Up]] - feels R-R doesn't get enough value out of digital/automation projects; MISSY was raised as a missed opportunity for digital information systems.
+- [[Rolls-Royce]] contact discussed via [[Rob Poyner]] in [[2026-02-16 Siemens Catch Up]] - feels [[Rolls-Royce|R-R]] doesn't get enough value out of digital/automation projects; [[MISSY]] was raised as a missed opportunity for digital information systems.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- NMIS contact, also involved in MISSY.
+- [[NMIS]] contact, also involved in [[MISSY]].
 
 ## Notes
 

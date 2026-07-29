@@ -13,8 +13,8 @@ tags:
 
 ### What would make today high-impact?
 
-- Boeing SC – 82990 started (Q7); 30300 more appl.
-- Boeing address – registered as per Q9; CH or where? KTP will take place?
+- [[Boeing]] SC – 82990 started (Q7); 30300 more appl.
+- [[Boeing]] address – registered as per Q9; CH or where? KTP will take place?
 - Q10 – working location; Hybrid OK?
 - Q14 – [[Dez]]'s job title → supervisor for both
 - [[KB]] Supervisor details?

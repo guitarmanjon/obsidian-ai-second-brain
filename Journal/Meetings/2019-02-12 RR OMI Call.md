@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[James Moore|JM]]
-- RR: [[Jamie McGourlay|JMcG]], [[Andy Mantle|AM]] (Andy Mantle), [[Peter Roden]], [[Mark Benson-Brown]], [[Richard Preston]], [[Diane Oddie]]
+- [[Rolls-Royce|RR]]: [[Jamie McGourlay|JMcG]], [[Andy Mantle|AM]] (Andy Mantle), [[Peter Roden]], [[Mark Benson-Brown]], [[Richard Preston]], [[Diane Oddie]]
 - Also referenced in notes: [[Richard Foster]], [[Sam Fifield]], [[James Moore]], [[Rob Evans]], [[Richard Morris]], [[Diane Oddie|DO]]
 
 ## Purpose
@@ -22,39 +22,39 @@ tags:
 **Pre-notes / Agenda**
 
 - [[Richard Foster]] "requirements", with input from [[Sam Fifield]]:
-	- Reducing reliance on CMM - how can OMI help? [[Sam Fifield|SF]] hinted at "inspection by inference": measure tools at start/end of process; measure some faces made with the same tool to infer other features. [[Richard Foster|RF]]: a control plan is needed for this, and confidence in results is key to eliminating the end-of-machining inspection cycle.
-	- Speeding up probing time - prior RR ADG and MP2.3 work; CAM-based probing (NX poor here); could SPRINT assist, since it's already available on machines?
+	- Reducing reliance on [[CMM]] - how can [[On-Machine Inspection|OMI]] help? [[Sam Fifield|SF]] hinted at "inspection by inference": measure tools at start/end of process; measure some faces made with the same tool to infer other features. [[Richard Foster|RF]]: a control plan is needed for this, and confidence in results is key to eliminating the end-of-machining inspection cycle.
+	- Speeding up [[Probing|probing]] time - prior [[Rolls-Royce|RR]] ADG and MP2.3 work; [[CAM]]-based [[Probing|probing]] (NX poor here); could SPRINT assist, since it's already available on machines?
 	- Geometric and process data - could this be better utilised to support measure cuts and confidence building?
-	- Broken tools leading to oversize measure cuts - logic to capture this; measure tools if OMI reveals an oversize measure cut.
+	- Broken tools leading to oversize measure cuts - logic to capture this; measure tools if [[On-Machine Inspection|OMI]] reveals an oversize measure cut.
 	- Machine Health Verification.
-- From a meeting on 12 November 2018: ABG proposal around reducing final inspection using OMI/machine data; confidence in OMI results vs. CMM for critical features; AS13004 PFMEA approach; connected supply chain.
+- From a meeting on 12 November 2018: ABG proposal around reducing final inspection using [[On-Machine Inspection|OMI]]/machine data; confidence in [[On-Machine Inspection|OMI]] results vs. [[CMM]] for critical features; AS13004 PFMEA approach; connected supply chain.
 - Agenda:
-	- Setting the scene - [[Richard Foster]] and [[Andy Mantle]] (RR), to give a brief overview of Rolls-Royce's needs across the various business units.
-	- HPIP requirements - [[Sam Fifield]], AMRC - what needs have been recognised within AMRC for OMI.
-	- Review of MP2.3 OMI work - [[James Moore]], AMRC - summary of the MP2.3 OMI work and proposals for future work that didn't take place.
+	- Setting the scene - [[Richard Foster]] and [[Andy Mantle]] ([[Rolls-Royce|RR]]), to give a brief overview of [[Rolls-Royce]]'s needs across the various business units.
+	- HPIP requirements - [[Sam Fifield]], AMRC - what needs have been recognised within AMRC for [[On-Machine Inspection|OMI]].
+	- Review of MP2.3 [[On-Machine Inspection|OMI]] work - [[James Moore]], AMRC - summary of the MP2.3 [[On-Machine Inspection|OMI]] work and proposals for future work that didn't take place.
 	- Discussion and next steps - all. Earlier discussions had included potential for an ADG or ABG project at AMRC - is there potential for inclusion in remaining Manufacturing Portfolio work? Open discussion on where to go next.
 
 **Live meeting notes**
 
 - [[JS]] gave an overview.
 - [[Andy Mantle|AM]] (Andy Mantle) - why this meeting exists: Barnoldswick needs; [[Richard Foster|Richard F]]; anything useful from MP2.3; rapid probe moves - can DMG provide an M-code similar to the Hermle? [[Andy Mantle|AM]] needs to follow up on procedure for this.
-- [[Diane Oddie|Diane]] (Oddie): 2 new DMGs, with 2 different probing systems (SPRINT and standard), used for checking fixtures and inspecting features. Restrained parts in the fixture mean the final on-machine inspection doesn't meet requirements (controlled temp and unconstrained) - is there a desire to move to this route? Yes, to reduce time, but it needs to be deemed acceptable by engineering. Also covered: compensation/measure cuts, in-process checks, working with Renishaw, and the MCRL gate.
-	- Calibration of probes is not controlled as tightly as on CMM; possible internal learning based on Hermle machines at Washington.
+- [[Diane Oddie|Diane]] (Oddie): 2 new DMGs, with 2 different [[Probing|probing]] systems (SPRINT and standard), used for checking fixtures and inspecting features. Restrained parts in the fixture mean the final on-machine inspection doesn't meet requirements (controlled temp and unconstrained) - is there a desire to move to this route? Yes, to reduce time, but it needs to be deemed acceptable by engineering. Also covered: compensation/measure cuts, in-process checks, working with [[Renishaw]], and the MCRL gate.
+	- Calibration of probes is not controlled as tightly as on [[CMM]]; possible internal learning based on Hermle machines at Washington.
 	- [[Richard Foster]] looking into placement of an artefact on DMG 210/125; artefacts already exist to check probes (3D Quickset to calibrate the master probe).
-- [[Sam]] (Fifield): HPIP requirements. Question: can any CMM items be transferred onto the machine, or does this just shift the bottleneck to the machine tool? Idea of being smarter with data already collected - e.g. only measuring tool length (in relation to measure cuts) to infer correct feature size, replacing the end-of-machining cycle with measure cut + tool length data. Example: front bearing housing has a 20-30 minute end-of-machining cycle. Faster probing time might not be a huge gain since there aren't many probing routines in the machining (diameters ~1500mm, saving of a few minutes per part).
+- [[Sam]] (Fifield): HPIP requirements. Question: can any [[CMM]] items be transferred onto the machine, or does this just shift the bottleneck to the machine tool? Idea of being smarter with data already collected - e.g. only measuring tool length (in relation to measure cuts) to infer correct feature size, replacing the end-of-machining cycle with measure cut + tool length data. Example: front bearing housing has a 20-30 minute end-of-machining cycle. Faster [[Probing|probing]] time might not be a huge gain since there aren't many [[Probing|probing]] routines in the machining (diameters ~1500mm, saving of a few minutes per part).
 - [[James]] (Moore) overview of MP2.3 work (slides to be shared on ForumPass):
-	- AI3329 summary, focused on OMI - complex features desktop study and ADG2268 review were the only work completed, out of 12 potential bits of work.
+	- AI3329 summary, focused on [[On-Machine Inspection|OMI]] - complex features desktop study and ADG2268 review were the only work completed, out of 12 potential bits of work.
 	- Outcome: 5 technologies were found suitable; 80-20 rule - most features could be handled by 2 technologies.
-	- Probing cycle time reduction: Hermle implemented a new M-code to ignore probe triggers so the probe can move in rapid, proved with a cardboard box test. Investigated impact of forces/deflection on probes during acceleration/deceleration - high-speed camera showed no deflection; Renishaw confirmed rapid moves before the probe were more likely to damage the machine than the probe itself. Potential savings for RR were significant - £17k over 7 parts/year.
+	- [[Probing]] cycle time reduction: Hermle implemented a new M-code to ignore probe triggers so the probe can move in rapid, proved with a cardboard box test. Investigated impact of forces/deflection on probes during acceleration/deceleration - high-speed camera showed no deflection; [[Renishaw]] confirmed rapid moves before the probe were more likely to damage the machine than the probe itself. Potential savings for [[Rolls-Royce|RR]] were significant - £17k over 7 parts/year.
 - What next? Any opportunity in HPIP?
-	- [[Diane Oddie|Diane]]: DMG 125 probing cycles are designed for end-of-process inspection - cycle time reduction could be significant; SPRINT is on the 125 so this would help.
+	- [[Diane Oddie|Diane]]: DMG 125 [[Probing|probing]] cycles are designed for end-of-process inspection - cycle time reduction could be significant; SPRINT is on the 125 so this would help.
 	- [[Andy Mantle|AM]]: tool measurement not currently accurate enough - concerns include accuracy of the device used, which part of the tool is measured, tool push-off not accounted for (though this wouldn't matter if tolerances were large enough).
-	- [[Andy Mantle|AM]] interested in what can be done with on-machine measurements being "bought off" by Engineering. Unconstrained measurement is an issue - some features (e.g. bosses/bores) less impacted than larger features. If Engineering will accept it, it could happen. Temperature - shop floor does get cold; [[Andy Mantle|AM]] asked about focusing on wider-limit features, and what dimensional control exists without temperature control. [[Diane Oddie|DO]]: GKN have done temperature compensation for OMI based on thermal expansion.
-	- [[Richard Morris]] very keen on this work; [[Rob Evans]] in Engineering working on reducing CMM inspection approval.
-	- [[Diane Oddie|DO]]: GOM project ongoing - more relaxed features being GOM'd, tighter features CMM'd.
-	- Correlation between OMI and CMM results: [[Diane Oddie|DO]] has done some work here - 2 μm difference seen on a test part. MeasurLink not yet set up in the FBH building for all DMGs; FBH is a good candidate (simpler, detailed features to compare).
+	- [[Andy Mantle|AM]] interested in what can be done with on-machine measurements being "bought off" by Engineering. Unconstrained measurement is an issue - some features (e.g. bosses/bores) less impacted than larger features. If Engineering will accept it, it could happen. Temperature - shop floor does get cold; [[Andy Mantle|AM]] asked about focusing on wider-limit features, and what dimensional control exists without temperature control. [[Diane Oddie|DO]]: [[GKN]] have done temperature compensation for [[On-Machine Inspection|OMI]] based on thermal expansion.
+	- [[Richard Morris]] very keen on this work; [[Rob Evans]] in Engineering working on reducing [[CMM]] inspection approval.
+	- [[Diane Oddie|DO]]: GOM project ongoing - more relaxed features being GOM'd, tighter features [[CMM]]'d.
+	- Correlation between [[On-Machine Inspection|OMI]] and [[CMM]] results: [[Diane Oddie|DO]] has done some work here - 2 μm difference seen on a test part. MeasurLink not yet set up in the FBH building for all DMGs; FBH is a good candidate (simpler, detailed features to compare).
 	- Temperature data capture on shop floor - idea of a standard-length part with a temperature logger to indicate machine tool conditions; carbon part unaffected by temperature.
-- Post meeting: setting of right-angle heads (manual load) - guaranteeing spindle rotational position, using a probing cycle to check spindle angle and provide compensation; a parameter controls the spindle angle. Potential from [[Sam Fifield|SF]]: right-angled head, reduced cycle time.
+- Post meeting: setting of right-angle heads (manual load) - guaranteeing spindle rotational position, using a [[Probing|probing]] cycle to check spindle angle and provide compensation; a parameter controls the spindle angle. Potential from [[Sam Fifield|SF]]: right-angled head, reduced cycle time.
 
 ## Decisions
 

@@ -7,11 +7,11 @@ tags:
 
 ## Attendees
 
-- [[Corin Mynett]] - Razor
+- [[Corin Mynett]] - [[Razor]]
 
 ## Purpose
 
-- Meeting between Razor and AMRC regarding MIP - no further detail recorded.
+- Meeting between [[Razor]] and AMRC regarding MIP - no further detail recorded.
 
 ## Key Discussion Points
 

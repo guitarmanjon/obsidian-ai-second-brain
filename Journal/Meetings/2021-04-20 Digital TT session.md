@@ -8,12 +8,12 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Chris Dungey]] (AFRC)
-- [[Daniel Vera|Dan Vera]] (WMG)
-- [[Alex Smith]] (CPI)
-- [[Dimitrios Anagnostakis|Dimitrios]] (NAMRC)
-- [[Lakshmi Akurati|Lakshmi]] (MTC)
-- [[Himanshu]] (AFRC)
+- [[Chris Dungey]] ([[AFRC]])
+- [[Daniel Vera|Dan Vera]] ([[WMG]])
+- [[Alex Smith]] ([[CPI]])
+- [[Dimitrios Anagnostakis|Dimitrios]] ([[Nuclear AMRC|NAMRC]])
+- [[Lakshmi Akurati|Lakshmi]] ([[MTC]])
+- [[Himanshu]] ([[AFRC]])
 
 ## Purpose
 

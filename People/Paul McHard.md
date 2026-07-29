@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Paul McHard]] (AFRC digital team)
-- [[Paul McHard]] (AFRC digital team) also involved.
+- [[Paul McHard]] ([[AFRC]] digital team)
+- [[Paul McHard]] ([[AFRC]] digital team) also involved.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- IET Manufacturing Technical Network committee member; owns EV Manufacturing and Blogs event topics, also involved in Academic Topics and Manufacturing and AI events.
+- [[IET]] Manufacturing Technical Network committee member; owns EV Manufacturing and Blogs event topics, also involved in Academic Topics and Manufacturing and [[AI]] events.
 
 ## Notes
 

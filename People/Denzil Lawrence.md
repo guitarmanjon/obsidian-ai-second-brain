@@ -12,7 +12,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Boeing contact - involved in the Boeing SC (security clearance) application process and the Boeing HTP - LMC 0 kickoff meeting. See [[2023-01-30 Daily Notes]], [[2023-02-14 Boeing SC Application Notes]], [[2023-09-06 Boeing HTP LMC 0 Meeting]].
+- [[Boeing]] contact - involved in the [[Boeing]] SC (security clearance) application process and the [[Boeing]] HTP - LMC 0 kickoff meeting. See [[2023-01-30 Daily Notes]], [[2023-02-14 Boeing SC Application Notes]], [[2023-09-06 Boeing HTP LMC 0 Meeting]].
 
 ## Notes
 

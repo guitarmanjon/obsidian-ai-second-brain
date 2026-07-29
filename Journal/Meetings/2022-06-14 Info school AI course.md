@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Stub note referencing an AI course through the Information School; no further detail captured on the page.
+- Stub note referencing an [[AI]] course through the Information School; no further detail captured on the page.
 
 ## Key Discussion Points
 

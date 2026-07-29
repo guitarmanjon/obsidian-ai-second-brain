@@ -19,13 +19,13 @@ tags:
 
 ## Purpose
 
-- Replan session for MISSY, focused on outstanding queries/assumptions, technical risks, and how upcoming AMRC roadmap activities align with the project.
+- Replan session for [[MISSY]], focused on outstanding queries/assumptions, technical risks, and how upcoming AMRC roadmap activities align with the project.
 
 ## Key Discussion Points
 
-- [[Rachel Yeung]] was away, but suggested the session focus on: outstanding queries/assumptions for remaining phases; technical risks (e.g. the limited transferability of Kistler kit to production); and, time permitting, upcoming roadmap activities that align with MISSY (XRD, tool wear/ATWIS system, testing of Sandvik Coroplus/TNS) and other AMRC work with synergy to MISSY (linking to what [[Jamie McGourlay|Jamie]] raised at Tech Fellows, per [[Pete Crawforth]]).
-- Miro board used: "AMRC MISSY Manufacturing Process Map".
-- [[Pete Crawforth]] raised looking at what ongoing/upcoming AMRC work could/will supersede MISSY at its close - need to flag this to [[Jamie McGourlay|Jamie]] and/or bring it into MISSY.
+- [[Rachel Yeung]] was away, but suggested the session focus on: outstanding queries/assumptions for remaining phases; technical risks (e.g. the limited transferability of Kistler kit to production); and, time permitting, upcoming roadmap activities that align with [[MISSY]] (XRD, tool wear/ATWIS system, testing of Sandvik Coroplus/TNS) and other AMRC work with synergy to [[MISSY]] (linking to what [[Jamie McGourlay|Jamie]] raised at Tech Fellows, per [[Pete Crawforth]]).
+- Miro board used: "AMRC [[MISSY]] Manufacturing Process Map".
+- [[Pete Crawforth]] raised looking at what ongoing/upcoming AMRC work could/will supersede [[MISSY]] at its close - need to flag this to [[Jamie McGourlay|Jamie]] and/or bring it into [[MISSY]].
 - 13:35 [[Ian Cook]] left.
 - Long discussion on including milling and drilling, and the implications for effort/time required.
 - 13:57 [[Pete Crawforth]] left; 13:58 [[Tim Rooker]] joined online; 14:16 [[Pete Crawforth]] rejoined; 14:31 [[Tom Finkill]] left.
@@ -38,4 +38,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] / [[Pete Crawforth]] - (Flag to [[Jamie McGourlay|Jamie]] which ongoing/upcoming AMRC work could supersede or feed into MISSY)
+- [[JS]] / [[Pete Crawforth]] - (Flag to [[Jamie McGourlay|Jamie]] which ongoing/upcoming AMRC work could supersede or feed into [[MISSY]])

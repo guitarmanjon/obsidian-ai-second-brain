@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Blue sheet summary - [[Colin High]] (CH) questioned what MISSY will actually deliver.
+- Blue sheet summary - [[Colin High]] (CH) questioned what [[MISSY]] will actually deliver.
 
 ## Notes
 

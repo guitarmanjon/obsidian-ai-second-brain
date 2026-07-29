@@ -25,13 +25,13 @@ tags:
 
 - IT re: TMA devices - done
 - ICP ... include HCP, [[Hydes]], [[Missy]] - done
-- Boeing AS agreement - done
+- [[Boeing]] AS agreement - done
 - [[Jamie McGourlay|JMc]] Monthly deliverables - done
 - LOS for OctaiPipe - done
 - [[Jamie McGourlay|JMc]] infrastructure + F+ - done
 - Business case for HCPs - done (open questions raised: GOL ref? / Both under IMG for BC?)
 - Get [[Alex]] + [[Adam]] on with ATJs - done
-- Review R-R DEM presentation - outstanding (not yet done)
+- Review [[Rolls-Royce|R-R]] DEM presentation - outstanding (not yet done)
 - [[Javier]] re: use of MIRO - outstanding (not yet done)
 
 ### What created friction today?

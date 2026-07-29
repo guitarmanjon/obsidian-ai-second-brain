@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **Public Perceptions of AI** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and AI; [[Ben Morrow|Ben]] - DSIT)
-- [[Tania Duarte]]: positive experiences of AI will improve public perception and trust; the question people should be asking is "what are you being sold?"; need increased diversity among people working in and developing AI.
+- **Public Perceptions of [[AI]]** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and [[AI]]; [[Ben Morrow|Ben]] - DSIT)
+- [[Tania Duarte]]: positive experiences of [[AI]] will improve public perception and trust; the question people should be asking is "what are you being sold?"; need increased diversity among people working in and developing [[AI]].
 
 ## Notes
 

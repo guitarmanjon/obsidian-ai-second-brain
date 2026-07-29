@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Tech Fellow; approached by Chris Dungey about a visiting-professor scheme, with ideas for a team of visiting profs across AI/Quantum/Semiconductors.
+- Tech Fellow; approached by Chris Dungey about a visiting-professor scheme, with ideas for a team of visiting profs across [[AI]]/Quantum/Semiconductors.
 
 ## Notes
 

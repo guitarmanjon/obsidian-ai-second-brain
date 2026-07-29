@@ -27,9 +27,9 @@ tags:
 	- H5 in January - need to know what data acquisition and sensors will look like, and how to connect and retrieve data.
 	- Sinucom NC - power, position, and anything else available on the NC.
 - Top-up funding items:
-	- Machinability - coolant question, no SoW yet.
+	- [[Machinability]] - coolant question, no SoW yet.
 	- Diamond case study - case study itself is easy to do; SoW almost ready for CT work; 3 work packages (CT, Dynamics, PM&C); high velocity test at 700m/min needing higher data rates; question over Heidenhain support; finishing study where machine error is important; full RPM of 18,000.
-	- Dynamics - embedding their tools in CAM; Siemens chosen, though [[AB]] feels this isn't a great choice and HyperMill may be better; concern that Dynamics are off doing their own thing too often; force is the main focus, with surface finish and form not yet considered.
+	- Dynamics - embedding their tools in [[CAM]]; [[Siemens]] chosen, though [[AB]] feels this isn't a great choice and HyperMill may be better; concern that Dynamics are off doing their own thing too often; force is the main focus, with surface finish and form not yet considered.
 
 ## Decisions
 

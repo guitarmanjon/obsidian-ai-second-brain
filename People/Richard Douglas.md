@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, Rolls-Royce), [[Jonathan Butters]] (Data Scientist, Rolls-Royce), [[Stephen O'Brien]] (Data Scientist, Rolls-Royce), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
+- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, [[Rolls-Royce]]), [[Jonathan Butters]] (Data Scientist, [[Rolls-Royce]]), [[Stephen O'Brien]] (Data Scientist, [[Rolls-Royce]]), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
 - [[Richard Douglas]] - Technical Project Manager, leading data science projects, background in engine health monitoring and enterprise analytics
-- [[Jamie McGourlay]] gave an overview of MISSY for [[Richard Douglas]]'s benefit.
+- [[Jamie McGourlay]] gave an overview of [[MISSY]] for [[Richard Douglas]]'s benefit.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Razor contact. Involved in DataQI, NextGen and broader AI adoption trends discussions.
+- [[Razor]] contact. Involved in DataQI, NextGen and broader [[AI]] adoption trends discussions.
 
 ## Notes
 

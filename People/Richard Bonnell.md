@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Technical Lead in Cutting Technology, The Machining Group, AMRC.
-- Involved in MISSY - WP1 lead (machining and experiment plan), R-R Controls visits, and MISSY replanning/deep dives.
+- Involved in [[MISSY]] - WP1 lead (machining and experiment plan), [[Rolls-Royce|R-R]] Controls visits, and [[MISSY]] replanning/deep dives.
 
 ## Notes
 

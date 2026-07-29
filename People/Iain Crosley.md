@@ -11,7 +11,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- CEO of XpertRule; covers the process-engineering side of engagement (alongside Akeel Attar on the tech side) and has a strong Siemens-integrator relationship.
+- CEO of [[XpertRule]]; covers the process-engineering side of engagement (alongside Akeel Attar on the tech side) and has a strong [[Siemens]]-integrator relationship.
 
 ## Notes
 

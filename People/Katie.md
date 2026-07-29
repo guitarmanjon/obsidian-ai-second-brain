@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Boeing Engineering Manager; weekly meetings with the Machining KTP Associate, taking more of a supervisory lead alongside Olivia.
+- [[Boeing]] Engineering Manager; weekly meetings with the Machining KTP Associate, taking more of a supervisory lead alongside Olivia.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Ex-Renishaw placement, now in Jon's team. Coordinated a Renishaw visit day and contact list, drawing on his placement connections there.
+- Ex-[[Renishaw]] placement, now in Jon's team. Coordinated a [[Renishaw]] visit day and contact list, drawing on his placement connections there.
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Planning notes for an upcoming HVMC visit, to line up AMRC representatives, capability presentations, and a CTO/Digital Leads conversation.
+- Planning notes for an upcoming [[HVMC]] visit, to line up AMRC representatives, capability presentations, and a CTO/Digital Leads conversation.
 
 ## Key Discussion Points
 
@@ -26,4 +26,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - Confirm the final AMRC attendee list per group ahead of the HVMC visit.
+- [[JS]] - Confirm the final AMRC attendee list per group ahead of the [[HVMC]] visit.

@@ -16,7 +16,7 @@ tags:
 ## Key Discussion Points
 
 - Team Centre order
-    - Confirm with Siemens on deployment
+    - Confirm with [[Siemens]] on deployment
 - Op Centre - fine as it's shop floor
     - Quicker deployment
 - Procurement needs doing to avoid increased lead times
@@ -25,7 +25,7 @@ tags:
 - Team Centre is Admin - write
     - [[Rob Poyner|Rob]] to support?
 - OnePLM -> 3rd party integrators for Team Centre
-- [[Mike Grainger]] at Siemens for Op Centre
+- [[Mike Grainger]] at [[Siemens]] for Op Centre
 
 ## Decisions
 

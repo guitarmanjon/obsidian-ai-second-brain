@@ -13,12 +13,12 @@ tags:
 
 ## Purpose
 
-- IMG-led session on AI, with speakers from industry/academia.
+- IMG-led session on [[AI]], with speakers from industry/academia.
 
 ## Key Discussion Points
 
 - [[James Fortune]] - Aletheia framework work
-- [[Alexander Brinkmp]] - Turing
+- [[Alexander Brinkmp]] - [[Alan Turing Institute|Turing]]
 - [[Sarah Marshall]] - CMI
 
 ## Decisions

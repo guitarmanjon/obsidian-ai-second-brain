@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tim Underwood]] (Boeing R&T) is at Boeing Sheffield for network architecture; [[Gary Hilton]] is Head of IT there.
+- [[Tim Underwood]] ([[Boeing]] R&T) is at [[Boeing]] Sheffield for network architecture; [[Gary Hilton]] is Head of IT there.
 
 ## Notes
 

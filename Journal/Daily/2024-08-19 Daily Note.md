@@ -16,8 +16,8 @@ tags:
 - [[Lindsay]] CStat - R+R
 - Jon to do
 - NP statement
-- TR AI paperwork
-- Long AI plan
+- TR [[AI]] paperwork
+- Long [[AI]] plan
   - Catering? [[Ben M]]
 - Find time for:
   - Catapult proposals

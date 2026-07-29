@@ -9,7 +9,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Human-centred AI work at Cymru, raised in connection with HVMC - see [[2026-02-09 Chris Dungey]] and [[2026-01-21 AMRC x Social Sciences]]. Surname not yet known.
+- Human-centred [[AI]] work at Cymru, raised in connection with [[HVMC]] - see [[2026-02-09 Chris Dungey]] and [[2026-01-21 AMRC x Social Sciences]]. Surname not yet known.
 
 ## Notes
 

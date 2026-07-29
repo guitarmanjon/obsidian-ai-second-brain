@@ -17,10 +17,10 @@ tags:
 
 ## Key Discussion Points
 
-- 5 months in, all good mostly. Not all projects are CV-related - Mini MISSY and Shipyard of the Future are not CV related; "AI in Situ" and "SCRIMS" involve data/Python.
+- 5 months in, all good mostly. Not all projects are CV-related - Mini [[MISSY]] and Shipyard of the Future are not CV related; "[[AI]] in Situ" and "SCRIMS" involve data/Python.
 - AWE project coming up - CV related, metrology of components.
 - [[Alan Thomas|Alan]] wants to do more CV or develop Python further - keen to keep learning.
-- Data Science: [[Jon Eyre]] data ontologies mentioned.
+- [[Data Science]]: [[Jon Eyre]] data ontologies mentioned.
 
 ## Decisions
 

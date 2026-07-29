@@ -11,11 +11,11 @@ tags:
 
 ## Purpose
 
-- Personal notes on where AI could be used across the organisation, split between business needs and research uses.
+- Personal notes on where [[AI]] could be used across the organisation, split between business needs and research uses.
 
 ## Key Discussion Points
 
-- Business needs / uses: AI note-takers for meetings; grant-writing assistants; knowledgebase searching; monthly lessons-learned summaries.
+- Business needs / uses: [[AI]] note-takers for meetings; grant-writing assistants; knowledgebase searching; monthly lessons-learned summaries.
 - Research uses: not detailed beyond the column heading in the source note.
 
 ## Decisions

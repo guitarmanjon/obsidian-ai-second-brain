@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- 13:53 - Metrology challenge
+- 13:53 - [[Metrology]] challenge
 
 ## Key Discussion Points
 

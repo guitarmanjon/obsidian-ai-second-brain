@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Only known as "Ian" - surname not yet captured, flag if it comes up. MISSY WP6 lead (sustainability of machining activities) - power consumption analysis, swarf management, drawing on Catapult/ABG outputs.
+- Only known as "Ian" - surname not yet captured, flag if it comes up. [[MISSY]] WP6 lead (sustainability of machining activities) - power consumption analysis, swarf management, drawing on Catapult/ABG outputs.
 
 ## Notes
 

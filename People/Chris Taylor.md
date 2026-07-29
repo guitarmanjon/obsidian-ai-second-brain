@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- 1.5 Machinability of new materials - library and standard test procedures / further develop machinability libraries - [[Chris Taylor]] - £50k. Not yet scoped in detail; [[Adam]] to be closely involved, linking to feature-based work.
-- [[JS]]: would be useful to have a list of KPVs that RR work with - [[Chris Taylor]] might have access; possibly [[Dave Curtis]] for Grinding (though not directly applicable); relevant to Rotatives and Casings.
+- 1.5 [[Machinability]] of new materials - library and standard test procedures / further develop machinability libraries - [[Chris Taylor]] - £50k. Not yet scoped in detail; [[Adam]] to be closely involved, linking to feature-based work.
+- [[JS]]: would be useful to have a list of KPVs that [[Rolls-Royce|RR]] work with - [[Chris Taylor]] might have access; possibly [[Dave Curtis]] for Grinding (though not directly applicable); relevant to Rotatives and Casings.
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Discussion on Siemens Insights Hub.
+- Discussion on [[Siemens]] Insights Hub.
 
 ## Key Discussion Points
 

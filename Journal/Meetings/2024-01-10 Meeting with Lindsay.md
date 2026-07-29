@@ -15,7 +15,7 @@ tags:
 
 ## Key Discussion Points
 
-- MISSY / MSISA - LL's agenda
+- [[MISSY]] / MSISA - LL's agenda
   - MSISA hours - still on Harbour
 - Supporting Hesti with £15k of work by end of Feb - Rodrigo?
 

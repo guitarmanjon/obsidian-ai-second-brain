@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Routine catch-up call with Siemens.
+- Routine catch-up call with [[Siemens]].
 
 ## Key Discussion Points
 

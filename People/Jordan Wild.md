@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jordan Wild]] (NCC - sender of email proposing the AI preparedness activity)
-- Email from [[Jordan Wild]] (NCC) proposing to convene a session on the AI preparedness activity, an expansion of the existing HPC/AI work.
-- [[Jordan Wild]] - Convene a session to run through the AI preparedness ask in detail and work up the outline framework.
+- [[Jordan Wild]] (NCC - sender of email proposing the [[AI]] preparedness activity)
+- Email from [[Jordan Wild]] (NCC) proposing to convene a session on the [[AI]] preparedness activity, an expansion of the existing HPC/[[AI]] work.
+- [[Jordan Wild]] - Convene a session to run through the [[AI]] preparedness ask in detail and work up the outline framework.
 
 ## Notes
 

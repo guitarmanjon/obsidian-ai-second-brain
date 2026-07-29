@@ -11,12 +11,12 @@ tags:
 
 ## Purpose
 
-- Catch-up with [[Lindsay]] on Catapult 25/26 planning, covering Digital Thread and sustainability topics.
+- Catch-up with [[Lindsay]] on Catapult 25/26 planning, covering [[Digital Thread]] and sustainability topics.
 
 ## Key Discussion Points
 
-- Digital Thread:
-  - Data Centric Manufacturing needs to be included within the Digital Thread work.
+- [[Digital Thread]]:
+  - [[Data Centric Manufacturing]] needs to be included within the [[Digital Thread]] work.
   - Composites team has been written out of their project because AMRC cannot commit money.
 - Sustainability:
   - Transparency on carbon footprint.

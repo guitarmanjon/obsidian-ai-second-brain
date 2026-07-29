@@ -20,8 +20,8 @@ tags:
 - [[Lee Aucott]] felt his colleagues might be more relevant to the robotics topic and suggested they speak at the event instead.
 - [[Lee Aucott]] will talk about materials and manufacturing challenges within UKIFS (and possibly UKAEA).
 - AMRC noted as relevant to the discussion.
-- UKAEA previously had significant engagement with NAMRC, via Geraint - contracts were about to be put in place when NAMRC was disbanded.
-- [[Dave Stoddart]] was a key contact for that NAMRC engagement; to check whether he is coming on 22nd Jan.
+- UKAEA previously had significant engagement with [[Nuclear AMRC|NAMRC]], via Geraint - contracts were about to be put in place when [[Nuclear AMRC|NAMRC]] was disbanded.
+- [[Dave Stoddart]] was a key contact for that [[Nuclear AMRC|NAMRC]] engagement; to check whether he is coming on 22nd Jan.
 - [[Emma Cantello Saville]] asked about automation challenges - [[Lee Aucott]] said there are **many**.
   - Currently at prototyping stage, not serial manufacture.
   - Automation isn't a current focus - the approach is to get the basics right first, then automate.

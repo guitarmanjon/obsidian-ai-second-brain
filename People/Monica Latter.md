@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- UoS researcher. Spoke at the CMI Town Hall (Pramita) on bias within internet infrastructure, specifically search and tech. See [[2025-10-08 CMI Town Hall]].
+- [[University of Sheffield|UoS]] researcher. Spoke at the CMI Town Hall (Pramita) on bias within internet infrastructure, specifically search and tech. See [[2025-10-08 CMI Town Hall]].
 
 ## Notes
 

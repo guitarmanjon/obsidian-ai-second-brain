@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- DPG's session in the AI Mapping workshop series (see [[AI Mapping Workshop Template]]), mapping AI-related work, talent, and future aspirations for the group.
+- DPG's session in the [[AI]] Mapping workshop series (see [[AI Mapping Workshop Template]]), mapping [[AI]]-related work, talent, and future aspirations for the group.
 
 ## Key Discussion Points
 

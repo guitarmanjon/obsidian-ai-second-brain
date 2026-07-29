@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Mini MISSY risk review, focused on the sustainability risk for the project.
+- Mini [[MISSY]] risk review, focused on the sustainability risk for the project.
 
 ## Key Discussion Points
 

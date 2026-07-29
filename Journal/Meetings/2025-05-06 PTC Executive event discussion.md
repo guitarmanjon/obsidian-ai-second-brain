@@ -22,7 +22,7 @@ tags:
 - Event on 10th July at Concorde Museum, Bristol; approx. 35 attendees, senior employees (mid-management to below C-suite).
 - Theme for July event: innovation.
 - Keynote 1: Susie Braam (UK National Security) on innovation, stepping out of comfort zone, leading innovation and transformation.
-- Keynote 2: ask of JS/AMRC to deep dive into how tech (AI and connectivity) is shaping the future of UK manufacturing from a tech perspective - trends and technologies for the future, innovations; 25-30 min presentation within a 45-minute slot.
+- Keynote 2: ask of JS/AMRC to deep dive into how tech ([[AI]] and connectivity) is shaping the future of UK manufacturing from a tech perspective - trends and technologies for the future, innovations; 25-30 min presentation within a 45-minute slot.
 - Keynote 3: JSM Hill Helicopters CEO, a disruptor in manufacturing methods.
 - Panel discussions planned, featuring customers.
 

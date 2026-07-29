@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tony Fipps]] - R-R, Future Methods Team
+- [[Tony Fipps]] - [[Rolls-Royce|R-R]], Future Methods Team
 
 ## Notes
 

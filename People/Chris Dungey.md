@@ -11,7 +11,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Recently appointed National AI Champion for Advanced Manufacturing at the HVM Catapult. First substantive meeting covered his mandate, the "digital front door" initiative, and the National AI Validation Network - see [[2026-02-09 Chris Dungey]]. Also referenced in [[2026-01-22 MACH Catch Up]] and [[2026-01-28 Rab]] re: MACH speaking slots and HVMC data strategy/case studies.
+- Recently appointed National [[AI]] Champion for Advanced Manufacturing at the HVM Catapult. First substantive meeting covered his mandate, the "digital front door" initiative, and the National [[AI]] Validation Network - see [[2026-02-09 Chris Dungey]]. Also referenced in [[2026-01-22 MACH Catch Up]] and [[2026-01-28 Rab]] re: MACH speaking slots and [[HVMC]] data strategy/case studies.
 
 ## Notes
 

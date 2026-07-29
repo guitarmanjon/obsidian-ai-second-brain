@@ -13,15 +13,15 @@ tags:
 
 ## Purpose
 
-- Update Razor (Jamie Hinton/Tom Helliwell) on AMRC Data Cloud capabilities beyond FourJaw.
+- Update [[Razor]] (Jamie Hinton/Tom Helliwell) on [[AMRC Data Cloud]] capabilities beyond [[Fourjaw|FourJaw]].
 
 ## Key Discussion Points
 
-- Ryan has given [[Jamie Hinton]] an update on Data Cloud.
-- [[Jamie Hinton]] is interested in bringing in ERP data, etc.
-- [[JS]] explained that FourJaw is not the limit - AMRC can do more.
+- Ryan has given [[Jamie Hinton]] an update on [[AMRC Data Cloud|Data Cloud]].
+- [[Jamie Hinton]] is interested in bringing in [[ERP]] data, etc.
+- [[JS]] explained that [[Fourjaw|FourJaw]] is not the limit - AMRC can do more.
 - Dashboards - [[Jamie Hinton]] is on board with this.
-- Data pumping from ERP and additional sensors discussed.
+- Data pumping from [[ERP]] and additional sensors discussed.
 
 ## Decisions
 
@@ -29,5 +29,5 @@ tags:
 
 ## Action Items
 
-- [[Ryan]] - (Continue updating [[Jamie Hinton]] on Data Cloud progress)
-- [[JS]] - (Follow up on dashboards and ERP/sensor data pumping for Razor)
+- [[Ryan]] - (Continue updating [[Jamie Hinton]] on [[AMRC Data Cloud|Data Cloud]] progress)
+- [[JS]] - (Follow up on dashboards and [[ERP]]/sensor data pumping for [[Razor]])

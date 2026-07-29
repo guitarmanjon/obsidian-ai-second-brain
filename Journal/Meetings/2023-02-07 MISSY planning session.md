@@ -16,7 +16,7 @@ tags:
 
 ## Purpose
 
-- Planning session for the MISSY project.
+- Planning session for the [[MISSY]] project.
 
 ## Key Discussion Points
 

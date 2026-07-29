@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Adrian Smith]] - Turing Strategy Launch speaker
-- **Turing Strategy Launch** ([[Anjana Ahuja]] hosting; [[Doug Gurr]]; [[Adrian Smith]])
-- [[Adrian Smith]]: 3 focus points - defence and security, health, and environment (biodiversity and climate); mentioned the Turing university network.
+- [[Adrian Smith]] - [[Alan Turing Institute|Turing]] Strategy Launch speaker
+- **[[Alan Turing Institute|Turing]] Strategy Launch** ([[Anjana Ahuja]] hosting; [[Doug Gurr]]; [[Adrian Smith]])
+- [[Adrian Smith]]: 3 focus points - defence and security, health, and environment (biodiversity and climate); mentioned the [[Alan Turing Institute|Turing]] university network.
 
 ## Notes
 

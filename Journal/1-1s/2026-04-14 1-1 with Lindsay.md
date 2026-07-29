@@ -16,7 +16,7 @@ tags:
 
 ## Key Discussion Points
 
-- R-R FoF work discussed (brief note only).
+- [[Rolls-Royce|R-R]] FoF work discussed (brief note only).
 
 ## Decisions
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Mandy Ridyard]] (Produmax): UK productivity definition questioned. "Sig" - improving leadership in manufacturing productivity (PDF referenced). Red-green-blue people exercise - done with all employees? KTP proposed to simulate operator intelligence. Employee engagement survey mentioned.
+- [[Mandy Ridyard]] ([[Produmax]]): UK productivity definition questioned. "Sig" - improving leadership in manufacturing productivity (PDF referenced). Red-green-blue people exercise - done with all employees? KTP proposed to simulate operator intelligence. Employee engagement survey mentioned.
 
 ## Notes
 

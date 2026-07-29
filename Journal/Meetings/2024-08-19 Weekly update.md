@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Weekly MISSY project update.
+- Weekly [[MISSY]] project update.
 
 ## Key Discussion Points
 

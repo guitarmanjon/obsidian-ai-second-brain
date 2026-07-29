@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Liaised with JS (via Sam Turner) to avoid duplication of machining-related work between AFRC and AMRC.
+- Liaised with JS (via Sam Turner) to avoid duplication of machining-related work between [[AFRC]] and AMRC.
 
 ## Notes
 

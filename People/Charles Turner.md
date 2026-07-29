@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Data Cloud is being talked about externally ([[Charles Turner]] telling Sheffield manufacturers it's ready and free) — raises questions: who gets companies on board, what sensor systems/data/access/guidance is needed, whether the "EyUp" course is the intended onboarding path, how to fund the time needed, how to respond if a company approaches tomorrow wanting to get on board.
+- [[AMRC Data Cloud|Data Cloud]] is being talked about externally ([[Charles Turner]] telling Sheffield manufacturers it's ready and free) — raises questions: who gets companies on board, what sensor systems/data/access/guidance is needed, whether the "EyUp" course is the intended onboarding path, how to fund the time needed, how to respond if a company approaches tomorrow wanting to get on board.
 
 ## Notes
 

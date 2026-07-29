@@ -20,7 +20,7 @@ tags:
 
 ## Key Discussion Points
 
-- Over 800 CMM reports can be sent to [[Marvin]].
+- Over 800 [[CMM]] reports can be sent to [[Marvin]].
 
 ## Decisions
 

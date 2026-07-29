@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dave Green]] - Siemens Aerospace, Boeing account globally
-- [[Bob]] clarified he meant the Boeing Sheffield facility specifically. [[Ben Morgan]]: not sure. [[Dave Green]]: understands it's very standardised on Siemens and 840D.
+- [[Dave Green]] - [[Siemens]] Aerospace, [[Boeing]] account globally
+- [[Bob]] clarified he meant the [[Boeing]] Sheffield facility specifically. [[Ben Morgan]]: not sure. [[Dave Green]]: understands it's very standardised on [[Siemens]] and 840D.
 
 ## Notes
 

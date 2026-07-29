@@ -17,11 +17,11 @@ tags:
 
 ## Purpose
 
-- Digital Twin Hive project update.
+- [[Digital Twin]] Hive project update.
 
 ## Key Discussion Points
 
-- Digital Twin Hive is funded by Turing.
+- [[Digital Twin]] Hive is funded by [[Alan Turing Institute|Turing]].
 
 ## Decisions
 

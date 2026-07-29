@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Involved in Sandvik machine package discussions (maintenance limitations, alarms, custom features) for the DePuy demonstrator.
+- Involved in Sandvik machine package discussions (maintenance limitations, alarms, custom features) for the [[DePuy]] demonstrator.
 
 ## Notes
 

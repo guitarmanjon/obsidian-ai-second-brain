@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Oliver Cockerill]](?) - R-R manufacturing apprentice
+- [[Oliver Cockerill]](?) - [[Rolls-Royce|R-R]] manufacturing apprentice
 
 ## Notes
 

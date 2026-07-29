@@ -30,10 +30,10 @@ tags:
   - Process employed in development.
   - What TRL is acceptable for each technology?
 - Question of how simulation, modelling and cutting tech outputs are captured, stored, and compared/analysed - a searchable database to see what's been done before was raised as a gap.
-- Modelling: ML solution for minimising DoE (Design of Experiments) requirement.
+- Modelling: [[Machine Learning|ML]] solution for minimising DoE (Design of Experiments) requirement.
 - Autowear:
   - Link Autowear output data to sensor data, as part of the same data stream.
-  - Use Autowear to capture images; manual analysis forms part of the dataset to train the ML element of Autowear.
+  - Use Autowear to capture images; manual analysis forms part of the dataset to train the [[Machine Learning|ML]] element of Autowear.
   - Could Autowear identify which tool is in the spindle, so data can be attributed to that tool?
 - Relationship between power, torque, force and wear.
 - Real-time process optimisation:

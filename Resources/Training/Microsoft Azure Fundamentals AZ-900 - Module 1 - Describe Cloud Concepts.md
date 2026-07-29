@@ -47,8 +47,8 @@ last updated: 2026-07-25T00:00:00
 - Overall: cloud computing is using networked resources that can take advantage of all these benefits.
 
 **Lesson 3 - Describe Cloud Service Types**
-- **IaaS (Infrastructure as a Service)** - infrastructure is provided by the cloud provider; typically priced on consumption. With IaaS you have the greatest responsibility, but also the greatest control. Example: Azure VM is IaaS.
-- **PaaS (Platform as a Service)** - infrastructure, OS, and middleware provided by cloud. Often feature-rich with easy config - turnkey solutions. Usually the best choice for reducing management burden. Less responsibility but, consequently, less control. Example: Azure App Service.
+- **IaaS (Infrastructure as a Service)** - infrastructure is provided by the cloud provider; typically priced on consumption. With IaaS you have the greatest responsibility, but also the greatest control. Example: [[Azure]] VM is IaaS.
+- **PaaS (Platform as a Service)** - infrastructure, OS, and middleware provided by cloud. Often feature-rich with easy config - turnkey solutions. Usually the best choice for reducing management burden. Less responsibility but, consequently, less control. Example: [[Azure]] App Service.
 - **SaaS (Software as a Service)** - infrastructure, OS, and software provided by cloud. Usually pay-as-you-go or free. Often accessed via web browser or app. Least responsibility - little to no control. Probably the most common cloud service in use.
 - Notes trail off into a "Thought experiment - Analysing cloud types" exercise that is cut short at the end of this page range (content picks up in the next section of the notebook).
 

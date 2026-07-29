@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- IMG colleague, Digital team. Was the key AMRC/Siemens contact for the Mindsphere relationship. Involved in HySpec proposal capacity/resourcing discussions.
+- IMG colleague, Digital team. Was the key AMRC/[[Siemens]] contact for the Mindsphere relationship. Involved in HySpec proposal capacity/resourcing discussions.
 
 ## Notes
 

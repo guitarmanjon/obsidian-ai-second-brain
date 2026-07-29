@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- CMI Townhall - general updates, speaker sessions on Bias in AI, and a discussion of future strategy and research clusters.
+- CMI Townhall - general updates, speaker sessions on [[AI Ethics|Bias]] in [[AI]], and a discussion of future strategy and research clusters.
 
 ## Key Discussion Points
 
@@ -25,7 +25,7 @@ tags:
   - AMRC Player: inquiry into whether any content is available yet.
   - Funding: £5k Player Content Development fund available.
 
-**Speaker Sessions: Bias in AI**
+**Speaker Sessions: [[AI Ethics|Bias]] in [[AI]]**
 - [[Monica Latter]] (Pramita): explored bias within internet infrastructure, specifically search and tech.
 - [[Hadley Beresford]]: discussed algorithmic bias in the DWP and the "AlgoBias" Toolkit.
 - CognoSpeak ([[Caitlin]] & [[Madka]]): presented their tool for early diagnosis of dementia.
@@ -40,7 +40,7 @@ tags:
 **Posters** (from handwritten notes, same event)
 - [[M. Marr]] - Parkinson's Gait research: physiological studies on gait in Parkinson's sufferers.
 - [[Jamie McLoughlin]] - Unstructured Text.
-- Gotham "Critical GenAI Literacy" - [[Lindsay]].
+- Gotham "Critical [[AI|GenAI]] Literacy" - [[Lindsay]].
 
 ## Decisions
 

@@ -8,22 +8,22 @@ tags:
 ## Attendees
 
 - [[Rab]]
-- [[Mark Taylor|Mark T]] (CPI)
-- [[Rich M]] (NMIS)
-- [[Nandini Chakravorti|Nandini]] (MTC)
-- [[Onur Eren]] (WMG)
-- [[Matt P]] (WMG)
-- [[David M]] (NAMRC)
-- [[Sam R]] (HVMC)
+- [[Mark Taylor|Mark T]] ([[CPI]])
+- [[Rich M]] ([[NMIS]])
+- [[Nandini Chakravorti|Nandini]] ([[MTC]])
+- [[Onur Eren]] ([[WMG]])
+- [[Matt P]] ([[WMG]])
+- [[David M]] ([[Nuclear AMRC|NAMRC]])
+- [[Sam R]] ([[HVMC]])
 - [[Jonathan B]] (NCC)
 
 ## Purpose
 
-- Cross-HVMC catch up call on the Digitalising Manufacturing Foundations project.
+- Cross-[[HVMC]] catch up call on the Digitalising Manufacturing Foundations project.
 
 ## Key Discussion Points
 
-- Intro to [[Onur Eren]] - Principal Engineer at WMG.
+- Intro to [[Onur Eren]] - Principal Engineer at [[WMG]].
 - Review of the stakeholder map - noted as internal only, not to be shared.
 
 ## Decisions

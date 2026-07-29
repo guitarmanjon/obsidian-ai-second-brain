@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Project MISSY meeting (details not captured in the source notes).
+- Project [[MISSY]] meeting (details not captured in the source notes).
 
 ## Key Discussion Points
 

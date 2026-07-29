@@ -21,7 +21,7 @@ tags:
 
 ## Purpose
 
-- Workshop with Boeing discussing future funding opportunities.
+- Workshop with [[Boeing]] discussing future funding opportunities.
 
 ## Key Discussion Points
 

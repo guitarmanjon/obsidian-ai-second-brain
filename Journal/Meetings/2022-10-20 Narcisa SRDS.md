@@ -20,8 +20,8 @@ tags:
 - Mentoring new/less experienced engineers.
 - Strong team management, work allocation, and scoping - multiple examples, proven skills in this area.
 - Good interaction with big industrial partners.
-- Fantastic feedback on ISCF from Innovate UK and Rolls-Royce (AI lead).
-- MUSIC project - told JF that £400k was not enough, and R-R subsequently upped the budget; example of clear communication with partners.
+- Fantastic feedback on ISCF from Innovate UK and [[Rolls-Royce]] ([[AI]] lead).
+- MUSIC project - told JF that £400k was not enough, and [[Rolls-Royce|R-R]] subsequently upped the budget; example of clear communication with partners.
 - Recognised as a technical leader by colleagues; relied on for advice, including customer management advice; mentors colleagues across all areas.
 - Involved in all aspects of leading a team - recruitment, SRDS, mentoring, and induction.
 - Roadmapping experience.

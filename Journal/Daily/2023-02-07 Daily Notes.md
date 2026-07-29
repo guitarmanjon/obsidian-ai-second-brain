@@ -23,9 +23,9 @@ tags:
 
 ### What progress did I make today?
 
-- HICOMS info sent for Turing (Alan Turing Institute, completed)
+- HICOMS info sent for [[Alan Turing Institute|Turing]] ([[Alan Turing Institute]], completed)
 - Mini AISSY report sent to NMCS (completed)
-- Scoped a "Resp. AI bid" - a 2 year project worth ~£250k, described as a pipeline for pulling through early research; planned to start in Summer 2023; involves Tech Gate, RoA, PI time
+- Scoped a "Resp. [[AI]] bid" - a 2 year project worth ~£250k, described as a pipeline for pulling through early research; planned to start in Summer 2023; involves Tech Gate, RoA, PI time
 
 ### What created friction today?
 

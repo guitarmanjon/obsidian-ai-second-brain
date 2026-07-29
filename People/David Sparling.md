@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[David Sparling]] - Manufacturing Lead for IT (or similar), R-R
+- [[David Sparling]] - Manufacturing Lead for IT (or similar), [[Rolls-Royce|R-R]]
 
 ## Notes
 

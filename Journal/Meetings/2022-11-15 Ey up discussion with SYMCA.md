@@ -26,7 +26,7 @@ tags:
   - [[Khalil Kirkwood]]: a 12-18 month condition on staying with the company post-training, paid for by the company.
 - Opportunities for collaboration: from April 2023 onwards, either compensated by SYMCA for a second cohort or a third cohort. [[Joseph Quinn]] noted AMRC needs to demonstrate demand before SYMCA funding can be considered.
 - [[Khalil Kirkwood]] set a deadline of end of this week to define what's being done, for the SYMCA submission defining needed bootcamps.
-  - [[Simon Collingwood]]: agreed to put something in - skills are the biggest challenge for manufacturing, and AMRC is the digital lead in HVMC.
+  - [[Simon Collingwood]]: agreed to put something in - skills are the biggest challenge for manufacturing, and AMRC is the digital lead in [[HVMC]].
   - DFE funding is what SYMCA is applying for.
   - Question raised: do we have anything showing the need for this type of training?
 - [[Jon Stammers]] asked what bootcamps are covered - digital and advanced manufacturing are both covered.

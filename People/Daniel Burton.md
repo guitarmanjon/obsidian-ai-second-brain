@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Siemens: [[Alan Norbury]], [[Daniel Burton]] (account manager for R-R, Digital Industries Software), [[Rob Poyner]] (corporate account manager for R-R)
-- R-R Functional Data Management Strategy raised by [[Daniel Burton]] (DB).
+- [[Siemens]]: [[Alan Norbury]], [[Daniel Burton]] (account manager for [[Rolls-Royce|R-R]], Digital Industries Software), [[Rob Poyner]] (corporate account manager for [[Rolls-Royce|R-R]])
+- [[Rolls-Royce|R-R]] Functional Data Management Strategy raised by [[Daniel Burton]] (DB).
 - [[Daniel Burton]] - Mendix is probably the option here - low-code/no-code, but can bring in Python code/scripts.
 
 ## Notes

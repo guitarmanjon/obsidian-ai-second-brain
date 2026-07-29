@@ -16,8 +16,8 @@ tags:
 ## Key Discussion Points
 
 - Focus of the hackathon still needs to be defined.
-- Question of what's in it for participants - possibly future involvement in the AMRC Data Cloud.
-- Query on whether Fourjaw poses any challenges.
+- Question of what's in it for participants - possibly future involvement in the [[AMRC Data Cloud]].
+- Query on whether [[Fourjaw]] poses any challenges.
 - Student hackathon needs more structure than an open event.
 - An open event with more experienced data scientists can be less focused, relying on the data scientists' own skills to define the end product.
 - [[Rikki]] and the IoT Engine - companies at an early stage of their IoT journey could be a good fit; 12 hours of support available from Barnsley Digital.

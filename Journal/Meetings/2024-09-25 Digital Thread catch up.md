@@ -7,13 +7,13 @@ tags:
 
 ## Attendees
 
-- R-R: [[Neil Hastilow]] (Digital Strategy Integrator), [[Ryan Harlow]] (Chief of Digital Operations, Theme Lead for MoM), [[Jamie McGourlay|Jamie McG]]
-- AFRC: [[Lewes Glen]], [[Michael Canavan]] (CAD and Tooling Theme Lead at NMIS)
+- [[Rolls-Royce|R-R]]: [[Neil Hastilow]] (Digital Strategy Integrator), [[Ryan Harlow]] (Chief of Digital Operations, Theme Lead for MoM), [[Jamie McGourlay|Jamie McG]]
+- [[AFRC]]: [[Lewes Glen]], [[Michael Canavan]] (CAD and Tooling Theme Lead at [[NMIS]])
 - AMRC: [[TR]], [[JS]], [[Rachel Yeung]]
 
 ## Purpose
 
-- Catch-up on the Digital Thread strand of MISSY, with input from R-R and AFRC.
+- Catch-up on the [[Digital Thread]] strand of [[MISSY]], with input from [[Rolls-Royce|R-R]] and [[AFRC]].
 
 ## Key Discussion Points
 

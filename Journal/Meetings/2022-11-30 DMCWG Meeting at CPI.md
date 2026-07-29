@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- DMCWG meeting hosted at CPI; no further detail was captured on this page.
+- DMCWG meeting hosted at [[CPI]]; no further detail was captured on this page.
 
 ## Key Discussion Points
 

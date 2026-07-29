@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Quarterly risk review catch-up for the MISSY project.
+- Quarterly risk review catch-up for the [[MISSY]] project.
 
 ## Key Discussion Points
 

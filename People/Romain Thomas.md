@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Research Software Engineering (RSE) at UoS - line managed by Saul but RSE sits independently, part of Comp Sci. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]].
+- Research Software Engineering (RSE) at [[University of Sheffield|UoS]] - line managed by Saul but RSE sits independently, part of Comp Sci. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]], [[2025-10-13 CMI - AI and Research Computing]].
 
 ## Notes
 

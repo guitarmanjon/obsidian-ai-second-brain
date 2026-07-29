@@ -14,12 +14,12 @@ tags:
 
 ## Purpose
 
-- Regular Siemens call to review app trials and coordinate potential AFRC involvement.
+- Regular [[Siemens]] call to review app trials and coordinate potential [[AFRC]] involvement.
 
 ## Key Discussion Points
 
 - [[NH]] confirmed the Analyze MyCondition app has been approved for a 3-month trial.
-- [[RP]] asked whether AFRC would be interested in an overview session; [[JS]] confirmed yes and can extend the invite.
+- [[RP]] asked whether [[AFRC]] would be interested in an overview session; [[JS]] confirmed yes and can extend the invite.
 
 ## Decisions
 
@@ -27,4 +27,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - Extend an invite to AFRC for a Siemens overview session.
+- [[JS]] - Extend an invite to [[AFRC]] for a [[Siemens]] overview session.

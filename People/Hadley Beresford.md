@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- UoS researcher. Spoke at the CMI Town Hall on algorithmic bias in the DWP and the "AlgoBias" Toolkit. See [[2025-10-08 CMI Town Hall]].
+- [[University of Sheffield|UoS]] researcher. Spoke at the CMI Town Hall on algorithmic bias in the DWP and the "AlgoBias" Toolkit. See [[2025-10-08 CMI Town Hall]].
 
 ## Notes
 

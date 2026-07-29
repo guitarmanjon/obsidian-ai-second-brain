@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tom Finkill]] introduced - coming in to take over from Matt Brown as key point of contact/programme lead; has relevant implementation experience from previous projects (IP, HP, Flexcelle) though no prior knowledge of MISSY itself.
+- [[Tom Finkill]] introduced - coming in to take over from Matt Brown as key point of contact/programme lead; has relevant implementation experience from previous projects (IP, HP, Flexcelle) though no prior knowledge of [[MISSY]] itself.
 - 13:57 [[Pete Crawforth]] left; 13:58 [[Tim Rooker]] joined online; 14:16 [[Pete Crawforth]] rejoined; 14:31 [[Tom Finkill]] left.
 
 ## Notes

@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Chemist background, Head of Tech Strategy at CPI (Centre for Process Industries). Only met once. Spoke on where the process industries market is heading, and on sustainability (circular economy, sustainability, digital) for an IET TN session.
+- Chemist background, Head of Tech Strategy at [[CPI]] (Centre for Process Industries). Only met once. Spoke on where the process industries market is heading, and on sustainability (circular economy, sustainability, digital) for an [[IET]] TN session.
 
 ## Notes
 

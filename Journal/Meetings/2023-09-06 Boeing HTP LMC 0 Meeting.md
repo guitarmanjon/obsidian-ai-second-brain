@@ -8,17 +8,17 @@ tags:
 ## Attendees
 
 - [[Andy Barnett|Andy B]]
-- [[Dez]] - Boeing
-- [[Harpinder]] - Boeing
+- [[Dez]] - [[Boeing]]
+- [[Harpinder]] - [[Boeing]]
 - [[JS]] - AMRC
 - [[Alex G]] - AMRC
 - [[Adam Brown|Adam B]] - AMRC
 - [[Rachael Hill|Rachael H]] - AMRC
-- [[Louise Sharpe]] - UoS
+- [[Louise Sharpe]] - [[University of Sheffield|UoS]]
 
 ## Purpose
 
-- Boeing HTP - LMC 0.
+- [[Boeing]] HTP - LMC 0.
 
 ## Key Discussion Points
 

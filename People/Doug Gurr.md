@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Doug Gurr]] - chair of board of trustees, The Alan Turing Institute
-- **Turing Strategy Launch** ([[Anjana Ahuja]] hosting; [[Doug Gurr]]; [[Adrian Smith]])
+- [[Doug Gurr]] - chair of board of trustees, The [[Alan Turing Institute]]
+- **[[Alan Turing Institute|Turing]] Strategy Launch** ([[Anjana Ahuja]] hosting; [[Doug Gurr]]; [[Adrian Smith]])
 - [[Doug Gurr]]: chair of the board of trustees; 3 key points - focus, additionality, impact.
 
 ## Notes

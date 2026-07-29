@@ -22,7 +22,7 @@ tags:
   - Open-sourcing control software with core IP removed.
   - Delta Tau controller - open source controller in the US, used across universities and research centres, becoming embedded in machine tools now.
   - History of development with Cranfield Precision, back to 1972, including hardware development.
-- Developed their own controller as Siemens, Fanuc, etc. struggle with the applications Fives Landis target.
+- Developed their own controller as [[Siemens]], Fanuc, etc. struggle with the applications Fives Landis target.
 - Real-time kinematic calculations in the clock so the machine can be programmed as an orthogonal machine.
   - Machine demoed during the MTA session - twin rotary tables.
   - Millisecond clock cycle - benefit to near real-time control?
@@ -36,7 +36,7 @@ tags:
   - Over 100 channels.
   - Logs for the last 1000 components kept on the machine.
   - Clock rate - 1 millisecond.
-  - OPC-UA built in.
+  - [[OPC-UA]] built in.
 - RS274 (G-code) programming not used - too limited for what their machines do.
   - Post-processing? - they have their own part programming tool.
 - KTP definitely an option to get new blood into them.
@@ -49,13 +49,13 @@ tags:
 - Demand modifier - can change what an axis is doing, depending on input to the modifier.
 - Big Data opportunity - 1 kHz sample rate.
 - Performance log viewer, including FFT capability built in.
-- AI used to profile cam - AI determined the velocity at which the cam rotated, and AI modification of workspeeds.
+- [[AI]] used to profile cam - [[AI]] determined the velocity at which the cam rotated, and [[AI]] modification of workspeeds.
 - Writing of real-time code is a big win for Landis - having this capability in the UK is a missing skill.
 - [[Rob Ward]] EngD??
-- Idea: build an AMRC CNC with Landis OpenCNC control, incorporating all of the research activities at AMRC.
+- Idea: build an AMRC [[CNC]] with Landis OpenCNC control, incorporating all of the research activities at AMRC.
   - Open platform to try to control mechanisms.
   - Fits with the idea that the UK should be developing its own machine tools.
-  - Possible consortium: Landis, Huddersfield?, TUoS, AMRC.
+  - Possible consortium: Landis, [[University of Huddersfield|Huddersfield]]?, TUoS, AMRC.
 
 ## Decisions
 

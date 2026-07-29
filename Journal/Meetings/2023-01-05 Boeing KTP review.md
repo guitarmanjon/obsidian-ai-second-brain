@@ -13,12 +13,12 @@ tags:
 
 ## Purpose
 
-- To review the Boeing KTP submission ahead of its draft deadline.
+- To review the [[Boeing]] KTP submission ahead of its draft deadline.
 
 ## Key Discussion Points
 
 - Pre-meeting note: [[Andy Barnett]] has requested the draft by 9th January.
-- Q21 relates to Boeing, as it aligns with the strategic aims of the business partner.
+- Q21 relates to [[Boeing]], as it aligns with the strategic aims of the business partner.
 - No further substantive notes recorded.
 
 ## Decisions

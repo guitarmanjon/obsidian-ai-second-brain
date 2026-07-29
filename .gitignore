@@ -17,3 +17,6 @@ Thumbs.db
 # Temporary / backup files
 *.tmp
 *.bak
+
+# Generated skill reports (regenerated on each run, not source content)
+.claude/skills/*/reports/

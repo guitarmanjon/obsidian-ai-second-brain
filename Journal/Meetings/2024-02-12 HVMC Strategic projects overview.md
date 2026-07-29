@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Overview session on HVMC strategic projects.
+- Overview session on [[HVMC]] strategic projects.
 
 ## Key Discussion Points
 

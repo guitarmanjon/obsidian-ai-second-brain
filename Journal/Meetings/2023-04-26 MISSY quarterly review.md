@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- MISSY project quarterly review.
+- [[MISSY]] project quarterly review.
 
 ## Key Discussion Points
 

@@ -8,7 +8,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-- Slides are University of Sheffield "EPSRC Advice" decks plus live workshop discussion/exercise notes; screenshots of slides are noted rather than transcribed where they carried little extra text.
+- Slides are [[University of Sheffield]] "EPSRC Advice" decks plus live workshop discussion/exercise notes; screenshots of slides are noted rather than transcribed where they carried little extra text.
 
 ## Key Takeaways
 
@@ -57,7 +57,7 @@ last updated: 2026-07-25T00:00:00
 - What partners might get out of a project (workshop exercise) included: access to upskilled staff.
 - The overall aim is a **set of letters** collectively supporting the "why us" case, built on the Track Record.
 - **Who writes it**: usually someone in the partner's management hierarchy, to show real commitment. **Who it's addressed to**: usually the PI, but can be wider for multi-university proposals, or the site lead if the partner supports work at a particular site.
-- What else to include: a brief description of the organisation (don't assume referees understand what a specific sub-part of even a well-known company like Rolls-Royce does - name recognition isn't understanding); some key stats backing suitability/potential; previous track record of collaboration; evidence of engagement in preparing the proposal (e.g. brainstorming workshops).
+- What else to include: a brief description of the organisation (don't assume referees understand what a specific sub-part of even a well-known company like [[Rolls-Royce]] does - name recognition isn't understanding); some key stats backing suitability/potential; previous track record of collaboration; evidence of engagement in preparing the proposal (e.g. brainstorming workshops).
 - **Co-creation is a big theme within EPSRC (and UKRI)**. Regular company meetings are a good way to demonstrate co-creation - identifying a genuine need from the company through these sessions. LoS that reference a brainstorming session or regular meetings carry a lot more weight than ones that simply say the company is "interested."
 - Jon's personal note from the session: "I need to engage companies to see if my proposal is actually a real need!"
 - Companies may worry about formal commitment, but there are **no legal issues** here - proceed on the basis that the stated collaboration will go ahead as planned. Within the University, an LoS usually isn't needed, but sort out the internal politics first (e.g. equipment technically belonging to the University may not actually be available when you need it) - consider making internal partners a formal part of the proposal with staff input instead.

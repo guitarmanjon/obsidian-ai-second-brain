@@ -23,11 +23,11 @@ tags:
 - AMRC Spinouts are on the tooling hub for drop-in sessions.
 - Coffee machine: taking it requires permission from [[Tom H]] and clarity from [[Gemma Cowley|Gemma]] on the requirements for taking it. An alternative is to get a cheaper coffee machine and just run power to it, feeding live data from F2050.
 - Engine demo from [[AMRC North West]]: it's safer to have someone from [[AMRC North West]] drive the demo there, hiring a van and having [[AMRC North West]] pack it. Coordinating couriers at the NEC is very difficult. Still need to ask [[AMRC North West]] what they're thinking, including whether a forklift is needed and whether [[AMRC North West]] are willing to pack, transport, and return the demo.
-- Speaking slot confirmed for 3:00-3:30 on Wednesday, where HVMC is launching its digital strategy. This is a collaborative session between [[Chris Dungey]] and [[JS]], with [[Dave Curtis]] potentially also getting involved.
+- Speaking slot confirmed for 3:00-3:30 on Wednesday, where [[HVMC]] is launching its digital strategy. This is a collaborative session between [[Chris Dungey]] and [[JS]], with [[Dave Curtis]] potentially also getting involved.
 
 ## Decisions
 
-- Speaking slot for the HVMC digital strategy launch confirmed for 3:00-3:30 on Wednesday, jointly led by [[Chris Dungey]] and [[JS]], with possible involvement from [[Dave Curtis]].
+- Speaking slot for the [[HVMC]] digital strategy launch confirmed for 3:00-3:30 on Wednesday, jointly led by [[Chris Dungey]] and [[JS]], with possible involvement from [[Dave Curtis]].
 
 ## Action Items
 

@@ -26,7 +26,7 @@ tags:
 - [[Sophie Tomlinson]] asked Giovanni if he's looking to coordinate - he has submitted as coordinator previously, is open to not coordinating this time, and has several other projects where he's being encouraged to coordinate.
 - Question on other ongoing discussions: re-submitting an application that was previously rejected.
 - [[Giovanni Lugaresi]] has some sub-groups in mind that could work.
-- Flanders Make could be brought in as a partner from Belgium, or help find other partners (e.g. Volvo). Food/drink and pharma are also big process industries in Belgium. Integrators are also possible - industrial advisors are compulsory for PhDs (Siemens are advising on one).
+- Flanders Make could be brought in as a partner from Belgium, or help find other partners (e.g. Volvo). Food/drink and pharma are also big process industries in Belgium. Integrators are also possible - industrial advisors are compulsory for PhDs ([[Siemens]] are advising on one).
 - [[JS]] gave an overview of AMRC's heavy involvement in aerospace - noted interest in branching out to other sectors.
 - Next steps discussed: get ideas down in a PowerPoint, build the idea then look at the consortium - take a solid idea to a consortium rather than the reverse. No obligations at this stage; strategy is to build a group.
 - Plan to start exchanging ideas over email and meet again in 2-3 weeks.

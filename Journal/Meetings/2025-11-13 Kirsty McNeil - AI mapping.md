@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Session related to AI mapping with [[Kirsty McNeil]].
+- Session related to [[AI]] mapping with [[Kirsty McNeil]].
 
 ## Key Discussion Points
 

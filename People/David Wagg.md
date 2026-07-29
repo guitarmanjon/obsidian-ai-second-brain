@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Introductory discussion with [[David Wagg]] to explore how AMRC and university faculty can complement each other on Digital Twin research and funding opportunities.
-- [[David Wagg]] has a mechanical engineering background; on secondment to the Turing Institute as co-director of Digital Twin work alongside [[Keith Worden]].
+- Introductory discussion with [[David Wagg]] to explore how AMRC and university faculty can complement each other on [[Digital Twin]] research and funding opportunities.
+- [[David Wagg]] has a mechanical engineering background; on secondment to the [[Alan Turing Institute|Turing]] Institute as co-director of [[Digital Twin]] work alongside [[Keith Worden]].
 
 ## Notes
 

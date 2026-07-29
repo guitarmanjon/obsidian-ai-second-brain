@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Introductory meeting between the University of Sheffield (UoS) and IMG.
+- Introductory meeting between the [[University of Sheffield]] ([[University of Sheffield|UoS]]) and IMG.
 
 ## Key Discussion Points
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Discussion of Sinumerik Edge (Siemens/Microsoft product engineering) - how to make that data more available and get more use out of cloud-based solutions; potential to tap into Microsoft and Siemens software dev teams, including contact with [[Sam George]] at Microsoft (Head of IoT).
+- Discussion of [[Sinumerik]] Edge ([[Siemens]]/Microsoft product engineering) - how to make that data more available and get more use out of cloud-based solutions; potential to tap into Microsoft and [[Siemens]] software dev teams, including contact with [[Sam George]] at Microsoft (Head of IoT).
 
 ## Notes
 

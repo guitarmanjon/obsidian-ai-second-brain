@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Katy Riddington]] (NCC / HVMC Skills)
+- [[Katy Riddington]] (NCC / [[HVMC]] Skills)
 - [[Katy Riddington]] outlined the challenge, which seems focused on existing modules/courses.
 - Costs to be worked out once outline received from [[Katy Riddington]] and [[Andy Sutton]].
 

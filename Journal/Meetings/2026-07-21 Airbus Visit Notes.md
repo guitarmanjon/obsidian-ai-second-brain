@@ -8,13 +8,13 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[Grace Lim|GL]], [[Stephen Marr|SM]], [[Emilio Lomelin|Emlo]], [[Zohaib Farhat|Zohaib]], [[Richard James|Richard J]], [[Pritesh Patel|Pritesh]]
-- Airbus: [[Paul Blatch]] (?), [[Amar Liaqat]], Mark (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
+- [[Airbus]]: [[Paul Blatch]] (?), [[Amar Liaqat]], Mark (Design to Manufacture), [[Andy Cain]], [[Triston]] (?), [[Matthew Duckworth]]
 
 Note: some proper nouns and acronyms in the original handwritten source were hard to read - these are marked (?) throughout, with best-guess transcriptions kept as written.
 
 ## Purpose
 
-- AMRC site visit to Airbus, covering their digital/PLM systems and connected-assets work across A350 and single-aisle production.
+- AMRC site visit to [[Airbus]], covering their digital/[[PLM]] systems and connected-assets work across A350 and single-aisle production.
 
 ## Key Discussion Points
 
@@ -27,7 +27,7 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 - [[Paul Blatch]] (?): "We're showing you this so you can see we're already digitised" - automated backend systems rather than previously manual lists, so people can focus on actioning change.
 - Lots of ACC acronyms and assumptions made in these conversations.
 - Design drives everything - changes cannot be actioned the other way.
-- What's being shown is the benchmark, for A350 - single aisle has more complexity and Airbus are trying to bring it into line. Amount of data is huge, so updates only run twice per week.
+- What's being shown is the benchmark, for A350 - single aisle has more complexity and [[Airbus]] are trying to bring it into line. Amount of data is huge, so updates only run twice per week.
 
 **System / SAP notes**
 - System likely developed by a 3rd-party contractor out of Toulouse.
@@ -40,7 +40,7 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 
 **Operator's Viewpoint - Nick (?)**
 - ACP is the primary tool + SAP.
-- ACP etc. also link into "third parties" - i.e. Supply Chain, Sprint, GKN.
+- ACP etc. also link into "third parties" - i.e. Supply Chain, Sprint, [[GKN]].
 - Some parts are outsourced, e.g. standard brackets. Critical "Class 1" parts are fully traced.
 - **CAIR** - Contract Airworthiness Inspection Records (?). **AIR** - Aircraft Inspection Record.
 - Systems are structured around how processes have developed - doesn't mean the data is structured in a useful way.
@@ -48,16 +48,16 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 - SAP transaction codes are basically different ways of looking at the same data.
 - Measurement data feeds the machining of facing components at **FAL** (Final Assembly Line), so the fit is flush.
 - **ACPub** - Aircraft Progress (?) (next gen?).
-- A wing will start with ~1000s (?) of "to-do" items that get ticked off as it progresses. MES on shop floor checks items; low operator interaction with MES.
+- A wing will start with ~1000s (?) of "to-do" items that get ticked off as it progresses. [[MES]] on shop floor checks items; low operator interaction with [[MES]].
 - Side note: critical knowledge capture occurs when people retire who have critical experience.
 
 **ARP - Rob + [[Owens]]/Nick**
-- Nick - 40 years at Airbus.
-- Airbus Resource Planning - **ARP**. Single aisle focus.
+- Nick - 40 years at [[Airbus]].
+- [[Airbus]] Resource Planning - **ARP**. Single aisle focus.
 - Re-"tooling" - the digital backbone for single aisle production. Started in 2018. First metal to be cut with the new system this year (or next year?).
 - A lot of new products, incl. pylons (?), hubs, undercarriages (?) etc.
 - People are key to the toolkit.
-- Transition has included dual PLM while the new system is spun up and the old is decommissioned.
+- Transition has included dual [[PLM]] while the new system is spun up and the old is decommissioned.
 - Rob gave an overview of benefits & constraints: product, process, design, industrial agreements etc. will not change - just get a more robust and modern digital system.
 - UK is playing catch-up to European colleagues.
 - 2027 will be about change - training, onboarding.
@@ -66,8 +66,8 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 **[[Robert Whiffen]] (?) - Connected Assets**
 - "Digital Alchemy" - drawn up in Germany? With a Hamburg demo.
 - Ambition/vision has nothing new: automating processes that are currently manual; connectivity is key; AMRs; "pull" production flow based on data captured.
-- Assets are predominantly hand tools. Each tool has its own supplier protocol for connectivity - Airbus tried developing a common chip that suppliers had to use for any tool sold to Airbus, which didn't work out; now Airbus deal with the various protocols, maintaining the connection software.
-- 5-step implementation: Standalone ↔ Asset ↔ Process ↔ Process ↔ Digital Twin (Connectivity → Monitoring → Control → Digital Twin).
+- Assets are predominantly hand tools. Each tool has its own supplier protocol for connectivity - [[Airbus]] tried developing a common chip that suppliers had to use for any tool sold to [[Airbus]], which didn't work out; now [[Airbus]] deal with the various protocols, maintaining the connection software.
+- 5-step implementation: Standalone ↔ Asset ↔ Process ↔ Process ↔ [[Digital Twin]] (Connectivity → Monitoring → Control → [[Digital Twin]]).
 
 **SAP Hanach? (latest version?) (?)**
 - Connectivity/Digital Alchemy is difficult to secure funding for because the ROI is not clear.
@@ -78,8 +78,8 @@ Note: some proper nouns and acronyms in the original handwritten source were har
 - Compartmentalisation of data - everyone sees the same data through a different view. E.g. 5 different ways of describing the same tool. People copy data from the master, leading to incorrect data.
 
 **Discussion**
-- MTS being updated - internal Airbus development team.
-- SAP 4/HANA (S4) will be used on single aisle production - it is a PLM system.
+- MTS being updated - internal [[Airbus]] development team.
+- SAP 4/HANA (S4) will be used on single aisle production - it is a [[PLM]] system.
 - [[Paul Blatch]] (?) wants to learn more about ontologies - everyone is looking at the same data but in different ways.
 
 ## Decisions

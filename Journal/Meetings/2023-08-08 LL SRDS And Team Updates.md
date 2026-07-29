@@ -18,7 +18,7 @@ tags:
 - [[Rodrigo]]: resourcing concerns - has charged 270 hours to the project but we're not sure what he's done; concerns over performance.
 - Comms breakdown - again.
 - [[JS]] to have a sit-down talk with [[RS]] this week - ask [[Tim]] for his input prior to the meeting.
-- Mention shy comments from [[Jamie McGourlay|JMc]] at R-R.
+- Mention shy comments from [[Jamie McGourlay|JMc]] at [[Rolls-Royce|R-R]].
 - EPSRC: digitally enabled circular economy + other opportunities.
 
 ## Decisions

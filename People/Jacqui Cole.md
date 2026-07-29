@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- From the University of Cambridge. Guest speaker for Materials 4.0 - James was trying to get her for the AI for Engineering & Manufacturing theme lead role. Has done work using LLMs for literature harvesting for materials research. See [[2026-01-08 CMI - AI for E&M Fortnightly]].
+- From the University of Cambridge. Guest speaker for Materials 4.0 - James was trying to get her for the [[AI]] for Engineering & Manufacturing theme lead role. Has done work using [[LLM|LLMs]] for literature harvesting for materials research. See [[2026-01-08 CMI - AI for E&M Fortnightly]].
 
 ## Notes
 

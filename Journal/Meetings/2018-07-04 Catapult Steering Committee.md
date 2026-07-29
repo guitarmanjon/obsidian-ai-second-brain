@@ -30,7 +30,7 @@ tags:
 	- Specific challenge features: free-standing thin walls (3mm), deep pockets with thin walls, tight corners, slot roughing.
 	- Trials starting 16 July in preparation for proper tests in September; prep for actual machine trials in August/September.
 	- Synchronisation of data across Spike, Kistler, vibration, MTConnect; NI libraries for Visual Studio; want to avoid using multiple laptops as sync is tricky.
-	- Vibration data capture - [[Hatim Laalej|Hatim]] to facilitate.
+	- [[Vibration]] data capture - [[Hatim Laalej|Hatim]] to facilitate.
 - [[Hue]]:
 	- VM vs measured cutting forces; review of ABG080.
 	- Question: can the AMRC VM solution predict tool deflection and the resulting large steps left in heavy roughing (direct slotting from ABG080)?

@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Meeting with Minitab regarding MISSY analytics, possibly relating to WP5.
+- Meeting with Minitab regarding [[MISSY]] analytics, possibly relating to WP5.
 
 ## Key Discussion Points
 

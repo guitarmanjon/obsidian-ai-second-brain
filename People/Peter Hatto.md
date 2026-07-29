@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Peter Hatto]] has a long-standing relationship with [[Arutian Ehiasarian|Harry Ehiasarian]] at SHU, with previous joint projects implementing outputs at Ionbond.
+- [[Peter Hatto]] has a long-standing relationship with [[Arutian Ehiasarian|Harry Ehiasarian]] at [[Sheffield Hallam University|SHU]], with previous joint projects implementing outputs at Ionbond.
 - [[Peter Hatto]] potentially dedicated to the project as a Co-I; technically retired but has capacity to work on the project and with Ionbond, bringing a lot of experience.
 
 ## Notes

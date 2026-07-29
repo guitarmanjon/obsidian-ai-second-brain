@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("Organisations")
+properties:
+  file.name:
+    displayName: Name
+  note.type:
+    displayName: Type
+  note.relationship:
+    displayName: Relationship
+  note.last updated:
+    displayName: Last Updated
+  note.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: All Organisations
+    order:
+      - file.name
+      - type
+      - relationship
+      - last updated
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 420

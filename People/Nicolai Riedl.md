@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Nicolai Riedl]] - Siemens Aerospace team, Germany
+- [[Nicolai Riedl]] - [[Siemens]] Aerospace team, Germany
 
 ## Notes
 

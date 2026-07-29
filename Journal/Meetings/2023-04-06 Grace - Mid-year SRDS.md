@@ -17,7 +17,7 @@ tags:
 ## Key Discussion Points
 
 - [[Grace|GL]] has made a list of achievements and ongoing work.
-- Chartership - degree has been certified by BCS, looking at CEng through IET.
+- Chartership - degree has been certified by BCS, looking at CEng through [[IET]].
 
 ## Decisions
 

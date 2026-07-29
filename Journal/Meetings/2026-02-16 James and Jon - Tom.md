@@ -28,10 +28,10 @@ tags:
 - Updates from [[James Marshall|JM]]:
   - URC Directors getting a standing direction to FICOM (??).
     - Support [[Lizzy]] in this?
-  - LIPF - must be some connection here across UoS and AMRC.
+  - LIPF - must be some connection here across [[University of Sheffield|UoS]] and AMRC.
   - [[Tom Hayward]] - Dynamics group - should we have a closer link to them?
     - [[Max]], one of the fellows, is part of Dynamics.
-    - Interest Group - not active enough. [[David Wagg|Dave Wagg]] leads the Digital Twin IG.
+    - Interest Group - not active enough. [[David Wagg|Dave Wagg]] leads the [[Digital Twin]] IG.
 - Next townhall focus on Eng. and Man.
   - Bring the STEM groups back in.
 

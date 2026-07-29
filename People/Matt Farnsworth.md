@@ -12,7 +12,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Commercial Director at the AMRC.
-- Involved in Boeing platform/IO-Link funding discussions (ADG bolt-on) and grinding project scoping with Dave Curtis.
+- Involved in [[Boeing]] platform/IO-Link funding discussions (ADG bolt-on) and grinding project scoping with Dave Curtis.
 
 ## Notes
 

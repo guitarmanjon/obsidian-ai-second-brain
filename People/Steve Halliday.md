@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Steve Halliday]] - tooling and fixturing, AFRC partnership manager
+- [[Steve Halliday]] - tooling and fixturing, [[AFRC]] partnership manager
 
 ## Notes
 

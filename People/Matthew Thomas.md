@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Timet contact. Discussed machining/lathe limitations at Timet and interest in how AMRC research is taken to deployment.
+- [[Timet]] contact. Discussed machining/lathe limitations at [[Timet]] and interest in how AMRC research is taken to deployment.
 
 ## Notes
 

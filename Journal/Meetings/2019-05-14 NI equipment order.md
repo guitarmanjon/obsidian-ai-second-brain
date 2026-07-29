@@ -16,7 +16,7 @@ tags:
 
 ## Purpose
 
-- To understand where AMRC stands in terms of National Instruments' (NI) tier 1 contribution, and to discuss the equipment budget request and the wider AMRC/NI relationship.
+- To understand where AMRC stands in terms of [[National Instruments]]' (NI) tier 1 contribution, and to discuss the equipment budget request and the wider AMRC/NI relationship.
 
 ## Key Discussion Points
 

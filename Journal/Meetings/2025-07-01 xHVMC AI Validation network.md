@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- xHVMC AI Validation network meeting, held at the HVMC London office.
+- xHVMC [[AI]] Validation network meeting, held at the [[HVMC]] London office.
 
 ## Key Discussion Points
 

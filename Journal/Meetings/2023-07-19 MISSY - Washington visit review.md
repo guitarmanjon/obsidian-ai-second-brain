@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Review of a MISSY-related visit to Washington - source notes contain only the date/title heading, with no further body text captured.
+- Review of a [[MISSY]]-related visit to Washington - source notes contain only the date/title heading, with no further body text captured.
 
 ## Key Discussion Points
 

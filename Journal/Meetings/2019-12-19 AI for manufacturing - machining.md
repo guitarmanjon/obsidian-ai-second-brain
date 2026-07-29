@@ -20,11 +20,11 @@ tags:
 
 ## Key Discussion Points
 
-- Complex engineering - transferring people skills to AI systems, e.g. auto CAM.
+- Complex engineering - transferring people skills to [[AI]] systems, e.g. auto [[CAM]].
   - Offline solution / productivity model.
-  - [[Omer Ozkirimli|OO]]: analytical models, not necessarily AI.
-  - Apply AI to things that cannot otherwise be simulated.
-- Combination of domain knowledge and AI is the focus of a planned white paper.
+  - [[Omer Ozkirimli|OO]]: analytical models, not necessarily [[AI]].
+  - Apply [[AI]] to things that cannot otherwise be simulated.
+- Combination of domain knowledge and [[AI]] is the focus of a planned white paper.
 - Is there a better alternative to DoE (Design of Experiments)?
   - Toolkit for determining optimal parameters for Structures (not toolpath).
   - Covers sequencing, tool path, and process variables.

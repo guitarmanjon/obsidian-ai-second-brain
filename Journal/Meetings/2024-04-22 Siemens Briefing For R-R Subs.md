@@ -15,11 +15,11 @@ tags:
 
 ## Purpose
 
-- 12:00 briefing for R-R Subs on Siemens.
+- 12:00 briefing for [[Rolls-Royce|R-R]] Subs on [[Siemens]].
 
 ## Key Discussion Points
 
-- 10:30 intro from AMRC to include what we've done around machining activities, can mention MISSY as it is R-R. Check with [[Jamie McGourlay|Jamie]]?
+- 10:30 intro from AMRC to include what we've done around machining activities, can mention [[MISSY]] as it is [[Rolls-Royce|R-R]]. Check with [[Jamie McGourlay|Jamie]]?
 - Shop floor tour - focus on MABI cell and connectivity there.
 - Need some TMG input.
 
@@ -29,4 +29,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - (Check with [[Jamie McGourlay|Jamie]] whether MISSY can be mentioned in the AMRC intro)
+- [[JS]] - (Check with [[Jamie McGourlay|Jamie]] whether [[MISSY]] can be mentioned in the AMRC intro)

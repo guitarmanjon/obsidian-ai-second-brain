@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Boeing-side supervisor/key link for the Digital KTP Associate and connectivity challenges from the Sheffield team.
+- [[Boeing]]-side supervisor/key link for the Digital KTP Associate and connectivity challenges from the Sheffield team.
 
 ## Notes
 

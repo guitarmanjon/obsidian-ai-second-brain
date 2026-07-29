@@ -17,7 +17,7 @@ tags:
 
 - Testbeds:
   - Follow-on from the Legacy LTP.
-  - DevOps testing environments - prove out approaches before trying to get into organisations like RR etc.
+  - DevOps testing environments - prove out approaches before trying to get into organisations like [[Rolls-Royce|RR]] etc.
   - AMRC likely to get a chunk of ~£2.x million.
   - A software testbed also considered, e.g. using machining data as a testbed.
 - Smart Factory Catapult project:

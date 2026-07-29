@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Also referenced in notes: [[Richard Foster]], [[Sam Fifield]], [[James Moore]], [[Rob Evans]], [[Richard Morris]], [[Diane Oddie|DO]]
-- [[Richard Morris]] very keen on this work; [[Rob Evans]] in Engineering working on reducing CMM inspection approval.
+- [[Richard Morris]] very keen on this work; [[Rob Evans]] in Engineering working on reducing [[CMM]] inspection approval.
 
 ## Notes
 

@@ -9,7 +9,7 @@ tags:
 
 ### What is my main focus today?
 
-- Prepare slide(s) on AI (for HVMC / Turing)
+- Prepare slide(s) on [[AI]] (for [[HVMC]] / [[Alan Turing Institute|Turing]])
 
 ### What would make today high-impact?
 
@@ -23,17 +23,17 @@ tags:
 
 ### What progress did I make today?
 
-- Drafted content for AI slide (for HVMC / Turing):
+- Drafted content for [[AI]] slide (for [[HVMC]] / [[Alan Turing Institute|Turing]]):
   - Number of active researchers
   - Papers published
-  - Links - CMI, TL for AI in Manufacturing
+  - Links - CMI, TL for [[AI]] in Manufacturing
   - 5 or 6 key areas / projects:
     - DCM
     - Machining
     - CV
-    - CAD to ML training data
+    - CAD to [[Machine Learning|ML]] training data
     - G Code from drawing
-    - AI £7.25M
+    - [[AI]] £7.25M
     - Uncertainty Quantification
     - Mention DT / Ontology work?
   - Project value?

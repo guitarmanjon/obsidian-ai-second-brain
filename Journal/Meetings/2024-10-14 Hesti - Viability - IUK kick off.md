@@ -27,7 +27,7 @@ tags:
     - Commercial risks are light on the ground.
     - Regulatory compliance - constraints applied to models to ensure policies are complied with.
 - Dissemination activities currently just boilerplate items.
-- Discussion of which events to present at - AMRC AI Showcase, Connected Places Catapult.
+- Discussion of which events to present at - AMRC [[AI]] Showcase, Connected Places Catapult.
 
 ## Decisions
 
@@ -36,4 +36,4 @@ tags:
 ## Action Items
 
 - (Team) - (Conduct detailed risk review at first project meeting)
-- (Team) - (Consider presenting at AMRC AI Showcase / Connected Places Catapult)
+- (Team) - (Consider presenting at AMRC [[AI]] Showcase / Connected Places Catapult)

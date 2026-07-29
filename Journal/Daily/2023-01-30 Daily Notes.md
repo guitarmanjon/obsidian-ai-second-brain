@@ -33,7 +33,7 @@ tags:
 ### What progress did I make today?
 
 - Theme away day: found candidate dates, ran Slack poll, decided on half day format
-- Held session with [[Grace]] + [[Kevin]] on HVMC strategic projects
+- Held session with [[Grace]] + [[Kevin]] on [[HVMC]] strategic projects
 
 ### What created friction today?
 

@@ -18,7 +18,7 @@ tags:
 
 - All paperwork confirmed in order.
 - What next: carry on as current - [[Grace Lim|GL]] has been doing the role already.
-- Resource: yes, need some. Using MSc students (UoS and SHU) ticks the STEM box. Project engineer needed. YiI - at least one will be doing some cyber work (shared resource with Digital).
+- Resource: yes, need some. Using MSc students ([[University of Sheffield|UoS]] and [[Sheffield Hallam University|SHU]]) ticks the STEM box. Project engineer needed. YiI - at least one will be doing some cyber work (shared resource with Digital).
 - Projects: some work in the pipeline. [[Grace Lim|GL]] - not biting off more than she can chew.
 
 ## Decisions

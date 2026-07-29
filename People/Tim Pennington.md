@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tim Pennington]] - specialist at Siemens.
+- [[Tim Pennington]] - specialist at [[Siemens]].
 
 ## Notes
 

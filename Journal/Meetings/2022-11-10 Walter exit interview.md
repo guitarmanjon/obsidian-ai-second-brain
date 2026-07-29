@@ -28,7 +28,7 @@ tags:
 - AOB:
   - [[Walter]] has informed [[John Clarke]].
   - Wishes he could have done more practical coding for cyber security rather than writing documents, and more prototyping.
-  - Considered the Airbus pathfinder beacons work to be "garbage."
+  - Considered the [[Airbus]] pathfinder beacons work to be "garbage."
   - Has left documents on the K: drive.
 
 ## Decisions

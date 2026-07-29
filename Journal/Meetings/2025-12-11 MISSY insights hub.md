@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Session related to the MISSY insights hub.
+- Session related to the [[MISSY]] insights hub.
 
 ## Key Discussion Points
 

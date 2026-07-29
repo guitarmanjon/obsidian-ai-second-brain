@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Agenda covered: review of previous notes/actions from the 28th June meeting ([[Chris Proudfoot]]); completed events including 5G in Manufacturing (7th September, [[David Matthews]]/JA) and the Sustainability Series ([[Chris Proudfoot]]/[[Gemma Hadley]]) - Additive Manufacturing (6th October), Metrology (13th October), Design (20th October).
+- Agenda covered: review of previous notes/actions from the 28th June meeting ([[Chris Proudfoot]]); completed events including [[5G]] in Manufacturing (7th September, [[David Matthews]]/JA) and the Sustainability Series ([[Chris Proudfoot]]/[[Gemma Hadley]]) - Additive Manufacturing (6th October), [[Metrology]] (13th October), Design (20th October).
 - Recruitment ([[Gemma Hadley]]): some interest generated from the webinars.
 
 ## Notes

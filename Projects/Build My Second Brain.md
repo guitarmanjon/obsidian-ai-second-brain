@@ -33,7 +33,7 @@ last updated: 2026-04-01T09:54:00
 ### Decisions Made
 
 - **Start with Areas before Techniques.** Rationale: Areas define the knowledge domains; Techniques distill from them. You need the domains before you can distill.
-- **Use Obsidian over Notion.** Rationale: markdown-first means files are portable, Git-versioned, and AI-readable. Wikilinks create a native knowledge graph without proprietary lock-in.
+- **Use Obsidian over Notion.** Rationale: markdown-first means files are portable, Git-versioned, and [[AI]]-readable. Wikilinks create a native knowledge graph without proprietary lock-in.
 
 ### Blockers
 

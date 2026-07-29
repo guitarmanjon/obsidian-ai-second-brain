@@ -15,7 +15,7 @@ tags:
 
 ## Purpose
 
-- Plan work package (WP) resourcing and roles for the MISSY project using a people-up approach.
+- Plan work package (WP) resourcing and roles for the [[MISSY]] project using a people-up approach.
 
 ## Key Discussion Points
 
@@ -25,17 +25,17 @@ tags:
   - [[Grace Lim]] - data security, sensor cyber.
   - [[Rodrigo Siqueira da Souza|Rodrigo Siqueira]] - data dictionary, cloud migration, data analytics.
   - [[Tim Rooker]] - data scientist.
-  - [[Ryan Diver]] - set up of Data Cloud.
+  - [[Ryan Diver]] - set up of [[AMRC Data Cloud|Data Cloud]].
   - Software dev (unspecified) - data dashboards.
-  - [[Lindsay Lee]] - data science and AI, statistical methods.
+  - [[Lindsay Lee]] - data science and [[AI]], statistical methods.
 
 ## Decisions
 
-- Adopt a people-up approach to planning MISSY work packages, using Matt Brown's FMEA as a base.
+- Adopt a people-up approach to planning [[MISSY]] work packages, using Matt Brown's FMEA as a base.
 
 ## Action Items
 
-- [[Ryan Diver]] - (Set up Data Cloud for MISSY)
+- [[Ryan Diver]] - (Set up [[AMRC Data Cloud|Data Cloud]] for [[MISSY]])
 - [[Tim Rooker]] - (Provide data science input)
 - [[Rodrigo Siqueira da Souza|Rodrigo Siqueira]] - (Work on data dictionary and cloud migration)
-- [[Lindsay Lee]] - (Provide data science/AI and statistical methods input)
+- [[Lindsay Lee]] - (Provide data science/[[AI]] and statistical methods input)

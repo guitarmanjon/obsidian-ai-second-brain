@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Sample data needed to guide the Thingworx work - some machines output CSV, some XML, but [[Paul Harrison]] confirmed data will be provided in JSON format (already converted by R-R). Samples to be provided.
-- R-R: [[James Pemperton]] (data analytics), [[Matt Hurn]] (Digital ME, deploying data engineering/science skills into R-R), [[Ryan Harlow]] (Chief of Digital Operations), [[Paul Harrison]] (Digital Manufacturing Specialist, Smart Factory project), [[Alan Gawthorpe]] (Enterprise Architect, Civil Digital), [[Yu Sing Keung]] (Erica, intern)
+- Sample data needed to guide the Thingworx work - some machines output CSV, some XML, but [[Paul Harrison]] confirmed data will be provided in JSON format (already converted by [[Rolls-Royce|R-R]]). Samples to be provided.
+- [[Rolls-Royce|R-R]]: [[James Pemperton]] (data analytics), [[Matt Hurn]] (Digital ME, deploying data engineering/science skills into [[Rolls-Royce|R-R]]), [[Ryan Harlow]] (Chief of Digital Operations), [[Paul Harrison]] (Digital Manufacturing Specialist, Smart Factory project), [[Alan Gawthorpe]] (Enterprise Architect, Civil Digital), [[Yu Sing Keung]] (Erica, intern)
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Damir Filipovic]] gave a briefing presentation on AIOTI (Alliance for AI, IoT, and Edge - Continuum Alliance) to help AMRC decide if it's relevant.
+- [[Damir Filipovic]] gave a briefing presentation on AIOTI (Alliance for [[AI]], IoT, and Edge - Continuum Alliance) to help AMRC decide if it's relevant.
 - [[Damir Filipovic]] - (Send over the AIOTI slides)
 
 ## Notes

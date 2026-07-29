@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Megan Creswick]] shared R-R's list of KPVs for input/comment, including machine kinematics; EPSRC to fund some time in configuring a DAQ device for sensor data capture.
-- [[JS]] - (Review and comment on R-R's list of KPVs shared by [[Megan Creswick]])
+- [[Megan Creswick]] shared [[Rolls-Royce|R-R]]'s list of KPVs for input/comment, including machine kinematics; EPSRC to fund some time in configuring a DAQ device for sensor data capture.
+- [[JS]] - (Review and comment on [[Rolls-Royce|R-R]]'s list of KPVs shared by [[Megan Creswick]])
 
 ## Notes
 

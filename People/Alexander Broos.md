@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Presenters: [[Sam Turner]] (HVMC), [[Alexander Broos]] (VDW), [[Dritan Kaleshi]] (Digital Catapult)
+- Presenters: [[Sam Turner]] ([[HVMC]]), [[Alexander Broos]] (VDW), [[Dritan Kaleshi]] ([[Digital Catapult]])
 - Umati - [[Alexander Broos]], VDW (German machine tool builders association):
 
 ## Notes

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Initial call to explore whether AMRC could deliver a 5-day assist to help DataForm Lab (an SME in the construction supply chain) with a Data & AI Strategy, funded by a small (~£2k) budget tied to an EU grant that needs to be spent quickly. [[Cameron Christie]] brokered the introduction via Slack on 22 May, asking [[JS]] to speak with Eva.
+- Initial call to explore whether AMRC could deliver a 5-day assist to help DataForm Lab (an SME in the construction supply chain) with a Data & [[AI]] Strategy, funded by a small (~£2k) budget tied to an EU grant that needs to be spent quickly. [[Cameron Christie]] brokered the introduction via Slack on 22 May, asking [[JS]] to speak with Eva.
 
 ## Notes
 

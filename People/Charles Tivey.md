@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Siemens manufacturing expert for aerospace (UK); leads the Lean Digital Validation Lab for Industry 4.0, based in Germany with a CCAM branch.
+- [[Siemens]] manufacturing expert for aerospace (UK); leads the Lean Digital Validation Lab for Industry 4.0, based in Germany with a CCAM branch.
 
 ## Notes
 

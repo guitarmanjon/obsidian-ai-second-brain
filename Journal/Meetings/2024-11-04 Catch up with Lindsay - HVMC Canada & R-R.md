@@ -12,16 +12,16 @@ tags:
 
 ## Purpose
 
-- Catch-up with [[Lindsay]] covering HVMC Canada mentoring and R-R A&T topics.
+- Catch-up with [[Lindsay]] covering [[HVMC]] Canada mentoring and [[Rolls-Royce|R-R]] A&T topics.
 
 ## Key Discussion Points
 
-- HVMC Canada:
+- [[HVMC]] Canada:
   - How much prep time is needed?
   - What exactly are we mentoring on?
   - Do we get pre-arranged material?
   - How do we coordinate with other centres to provide consistency?
-- R-R A&T topic raised but not detailed further.
+- [[Rolls-Royce|R-R]] A&T topic raised but not detailed further.
 
 ## Decisions
 

@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Roger Hayes]] - Digital Manufacturing Engineer, R-R SMR
+- [[Roger Hayes]] - Digital Manufacturing Engineer, [[Rolls-Royce|R-R]] SMR
 - Initial feedback from [[Roger Hayes]] was positive - this was the sort of information he was looking for.
-- [[Roger Hayes]] - R-R SMR Digital Manufacturing Manager
+- [[Roger Hayes]] - [[Rolls-Royce|R-R]] SMR Digital Manufacturing Manager
 
 ## Notes
 

@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Continue refining the EPSRC proposal with SHU and University of Liverpool (UoL), including cost adjustments and work package changes.
+- Continue refining the EPSRC proposal with [[Sheffield Hallam University|SHU]] and University of Liverpool (UoL), including cost adjustments and work package changes.
 
 ## Key Discussion Points
 
@@ -23,16 +23,16 @@ tags:
   - Travel at £16k.
   - Consumables at £10k.
   - Total: £486,612.
-- WP4 - data prep, or a new task called "data gathering", to be brought forward to allow gathering of data from other sources for training ML models.
+- WP4 - data prep, or a new task called "data gathering", to be brought forward to allow gathering of data from other sources for training [[Machine Learning|ML]] models.
 - WP4 and WP5 to be shifted left by 2 quarters.
 - Energy use focus: use the National Grid API for real-time energy use, and a digital twin to predict energy reduction.
-- Proposed title: "AI-based Digital Twin Enabled Sustainable and Responsive Plasma Surface Manufacturing".
+- Proposed title: "[[AI]]-based [[Digital Twin]] Enabled Sustainable and Responsive Plasma Surface Manufacturing".
 
 ## Decisions
 
 - Total project cost fixed at £486,612 based on adjusted staffing/travel/consumables.
 - WP4 and WP5 timelines shifted forward by 2 quarters.
-- Project title agreed as "AI-based Digital Twin Enabled Sustainable and Responsive Plasma Surface Manufacturing".
+- Project title agreed as "[[AI]]-based [[Digital Twin]] Enabled Sustainable and Responsive Plasma Surface Manufacturing".
 
 ## Action Items
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Luke Denby-White]] from Boeing MT team at Sheffield talking to Razor
+- [[Luke Denby-White]] from [[Boeing]] MT team at Sheffield talking to [[Razor]]
 
 ## Notes
 

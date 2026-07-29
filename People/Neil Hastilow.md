@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R: [[Neil Hastilow]] (Digital Strategy Integrator), [[Ryan Harlow]] (Chief of Digital Operations, Theme Lead for MoM), [[Jamie McG]]
+- [[Rolls-Royce|R-R]]: [[Neil Hastilow]] (Digital Strategy Integrator), [[Ryan Harlow]] (Chief of Digital Operations, Theme Lead for MoM), [[Jamie McG]]
 
 ## Notes
 

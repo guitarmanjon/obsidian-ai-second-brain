@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Call with Boeing (topic not further specified in notes).
+- Call with [[Boeing]] (topic not further specified in notes).
 
 ## Key Discussion Points
 

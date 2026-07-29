@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Andy Sherlock]] - Director of Data-Driven Manufacturing, NMIS
-- [[Andy Sherlock]] discussed getting NMIS data scientists into local companies for consultancy, working with in-house data types.
+- [[Andy Sherlock]] - Director of Data-Driven Manufacturing, [[NMIS]]
+- [[Andy Sherlock]] discussed getting [[NMIS]] data scientists into local companies for consultancy, working with in-house data types.
 
 ## Notes
 

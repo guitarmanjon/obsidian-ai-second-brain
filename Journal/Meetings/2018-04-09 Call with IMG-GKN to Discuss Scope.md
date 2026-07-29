@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[Gavin Hill]] (IMG)
-- [[Simon Jenkins]] (GKN)
+- [[Simon Jenkins]] ([[GKN]])
 - [[JS]]
 
 ## Purpose

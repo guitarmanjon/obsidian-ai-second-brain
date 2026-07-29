@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[David Leslie]] - panel speaker (remote), Public Perceptions of AI
-- **Public Perceptions of AI** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and AI; [[Ben Morrow|Ben]] - DSIT)
-- [[David Leslie]]: do AI researchers care about what the public think?
+- [[David Leslie]] - panel speaker (remote), Public Perceptions of [[AI]]
+- **Public Perceptions of [[AI]]** (host [[Anjana Ahuja]]; [[David Leslie]] remote; [[Tracey Brown]] - Sense about Science; [[Tania Duarte]] - We and [[AI]]; [[Ben Morrow|Ben]] - DSIT)
+- [[David Leslie]]: do [[AI]] researchers care about what the public think?
 
 ## Notes
 

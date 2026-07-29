@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- A Databricks session (no further detail captured on the page).
+- A [[Databricks]] session (no further detail captured on the page).
 
 ## Key Discussion Points
 

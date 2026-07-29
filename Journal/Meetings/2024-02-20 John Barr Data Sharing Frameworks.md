@@ -7,11 +7,11 @@ tags:
 
 ## Attendees
 
-- [[John Barr]] (UoS InfoSec)
+- [[John Barr]] ([[University of Sheffield|UoS]] InfoSec)
 
 ## Purpose
 
-- Data sharing frameworks - HVMC project
+- Data sharing frameworks - [[HVMC]] project
 
 ## Key Discussion Points
 

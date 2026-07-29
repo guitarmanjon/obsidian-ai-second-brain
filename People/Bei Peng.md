@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Spreadsheet shared by [[Bei Peng]] with info on COM supervisors, interests etc.
-- MISSY data - showed [[Bei Peng]] the data dictionary, explained what a machining trial is. Can do pattern recognition, part quality, predict optimisation methods. Bei thinks there are lots of opportunities. Has done some similar work with NSG, under NDA, with them reviewing papers/outputs etc. - will share a paper with JS that can be shared with [[Jamie McGourlay|Jamie]]. Bei has a PhD student starting in May, school funded - nationality constraints? Student is Chinese.
+- [[MISSY]] data - showed [[Bei Peng]] the data dictionary, explained what a machining trial is. Can do pattern recognition, part quality, predict optimisation methods. Bei thinks there are lots of opportunities. Has done some similar work with NSG, under NDA, with them reviewing papers/outputs etc. - will share a paper with JS that can be shared with [[Jamie McGourlay|Jamie]]. Bei has a PhD student starting in May, school funded - nationality constraints? Student is Chinese.
 
 ## Notes
 

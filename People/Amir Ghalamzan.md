@@ -10,7 +10,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- CMI Theme Lead for AI for Robotics, and Director of Sheffield Robotics (both UoS). Led discussions on Cymru and Agri-robotics at the CMI Town Hall. See [[2025-10-08 CMI Town Hall]], [[2026-01-22 CMI Weekly Catch Up]].
+- CMI Theme Lead for [[AI]] for Robotics, and Director of Sheffield Robotics (both [[University of Sheffield|UoS]]). Led discussions on Cymru and Agri-robotics at the CMI Town Hall. See [[2025-10-08 CMI Town Hall]], [[2026-01-22 CMI Weekly Catch Up]].
 
 ## Notes
 

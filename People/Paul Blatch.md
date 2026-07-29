@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Airbus contact. Building an ontology & taxonomy with Jim Eyre; interested in data ontologies and UNS.
+- [[Airbus]] contact. Building an ontology & taxonomy with Jim Eyre; interested in data ontologies and UNS.
 
 ## Notes
 

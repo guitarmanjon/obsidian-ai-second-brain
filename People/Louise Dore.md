@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- Research Growth Manager for Social Sciences at UoS. Also connected to skills for data and AI, and to AMRC-side fellowship work. See [[2025-10-08 CMI Town Hall]], [[2026-01-06 FLF Internal Interview for LL]], [[2026-01-15 ATR Update]], [[2026-02-09 Chris Dungey]], [[2026-03-10 COM x AMRC]], [[2026-01-21 AMRC x Social Sciences]].
+- Research Growth Manager for Social Sciences at [[University of Sheffield|UoS]]. Also connected to skills for data and [[AI]], and to AMRC-side fellowship work. See [[2025-10-08 CMI Town Hall]], [[2026-01-06 FLF Internal Interview for LL]], [[2026-01-15 ATR Update]], [[2026-02-09 Chris Dungey]], [[2026-03-10 COM x AMRC]], [[2026-01-21 AMRC x Social Sciences]].
 
 ## Notes
 

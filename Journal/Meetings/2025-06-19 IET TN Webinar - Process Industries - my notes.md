@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Host/prep notes for the live IET TN "Process Industries" webinar (see [[2024-11-14 IET TN - Process Industries]] for the planning history).
+- Host/prep notes for the live [[IET]] TN "Process Industries" webinar (see [[2024-11-14 IET TN - Process Industries]] for the planning history).
 
 ## Key Discussion Points
 

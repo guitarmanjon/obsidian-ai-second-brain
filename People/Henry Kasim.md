@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Henry Kasim]] (R-R Singapore, Smart Discovery Tool)
+- [[Henry Kasim]] ([[Rolls-Royce|R-R]] Singapore, Smart Discovery Tool)
 
 ## Notes
 

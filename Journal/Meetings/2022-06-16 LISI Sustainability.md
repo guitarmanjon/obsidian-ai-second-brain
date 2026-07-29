@@ -7,11 +7,11 @@ tags:
 
 ## Attendees
 
-- None recorded - notes appear to be from a LISI site visit/discussion, no attendee list given.
+- None recorded - notes appear to be from a [[LISI]] site visit/discussion, no attendee list given.
 
 ## Purpose
 
-- Capture LISI's changing approach to performance metrics, tooling efficiency, and energy/compressed air use.
+- Capture [[LISI]]'s changing approach to performance metrics, tooling efficiency, and energy/compressed air use.
 
 ## Key Discussion Points
 

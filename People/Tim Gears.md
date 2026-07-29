@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- 11th November: Siemens VIPs visiting - plan to look at Sinumerik Edge and Sinumerik One on the Hella machine. [[Tom McCready]] and the AMRC Board involved. A decision is needed on what to take from Sinumerik Edge through to Industrial Edge. [[Tim Gears]] also involved.
+- 11th November: [[Siemens]] VIPs visiting - plan to look at [[Sinumerik]] Edge and [[Sinumerik]] One on the Hella machine. [[Tom McCready]] and the AMRC Board involved. A decision is needed on what to take from [[Sinumerik]] Edge through to Industrial Edge. [[Tim Gears]] also involved.
 
 ## Notes
 

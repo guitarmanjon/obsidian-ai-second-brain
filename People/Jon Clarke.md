@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jon Clarke]] — Comp Sci, Cyber security, AI — flagged as a contact.
+- [[Jon Clarke]] — Comp Sci, Cyber security, [[AI]] — flagged as a contact.
 
 ## Notes
 

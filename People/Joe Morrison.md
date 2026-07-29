@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Joe Morrison]] - R-R SMR Manufacturing Engineering
+- [[Joe Morrison]] - [[Rolls-Royce|R-R]] SMR Manufacturing Engineering
 
 ## Notes
 

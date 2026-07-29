@@ -22,13 +22,13 @@ tags:
 - WP2.3 report (data storage and retention), due the day before, will now be end of November; will not impact project delivery.
 - WP2.4 report due end of January but might be delayed as Tim is not available in January.
 - Case studies status:
-  - XpertRule - sorted.
-  - FourJaw - James has sent case studies for Lindsay to choose from.
+  - [[XpertRule]] - sorted.
+  - [[Fourjaw|FourJaw]] - James has sent case studies for Lindsay to choose from.
   - CW Fletcher - not yet; need the new KTP Associate first.
   - NextGen - to be included.
-  - AMRC Data Cloud - needs Tim's input.
-  - Siemens - outstanding.
-- Siemens Edge install - Jon H has time; need to get him involved with Siemens/TMG.
+  - [[AMRC Data Cloud]] - needs Tim's input.
+  - [[Siemens]] - outstanding.
+- [[Siemens Edge]] install - Jon H has time; need to get him involved with [[Siemens]]/TMG.
 - Other groups: MM catching up with other teams this week. TMG running a workshop on standardising data capture across TMG. CC and Castings less certain - LL thinks Castings are doing OK.
 
 ## Decisions
@@ -39,6 +39,6 @@ tags:
 ## Action Items
 
 - [[MM]] - (Have up-to-date project plans uploaded to Harbour by Christmas)
-- [[Tim]] - (Provide input for the AMRC Data Cloud case study)
-- [[Jon H]] - (Get involved with Siemens/TMG for the Edge install)
+- [[Tim]] - (Provide input for the [[AMRC Data Cloud]] case study)
+- [[Jon H]] - (Get involved with [[Siemens]]/TMG for the Edge install)
 - [[MM]] - (Continue catching up with other teams this week)

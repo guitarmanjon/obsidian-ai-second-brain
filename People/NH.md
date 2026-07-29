@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Siemens contact involved in gateway/managed-switch architecture discussions for Edge deployments.
+- [[Siemens]] contact involved in gateway/managed-switch architecture discussions for Edge deployments.
 
 ## Notes
 

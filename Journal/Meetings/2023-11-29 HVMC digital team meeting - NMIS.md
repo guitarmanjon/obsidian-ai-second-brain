@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- HVMC digital team meeting with NMIS (no further detail recorded).
+- [[HVMC]] digital team meeting with [[NMIS]] (no further detail recorded).
 
 ## Key Discussion Points
 

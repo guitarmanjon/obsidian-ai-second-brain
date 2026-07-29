@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- CBI, works on all things AI policy. AI Skills Task force / AI and Data Protection WG.
+- CBI, works on all things [[AI]] policy. [[AI]] Skills Task force / [[AI]] and Data Protection WG.
 - [[Shivani Gupta]] - hosted and led the roundtable.
 - 14:05 - Introductions; [[Shivani Gupta]] hosting and leading.
 - 14:11 - [[Shivani Gupta]] gave an overview of learnings to date.

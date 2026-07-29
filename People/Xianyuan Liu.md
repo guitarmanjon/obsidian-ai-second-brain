@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Xianyuan Liu]] - multimodal AI library, PyKale, AIR team.
+- [[Xianyuan Liu]] - multimodal [[AI]] library, PyKale, AIR team.
 
 ## Notes
 

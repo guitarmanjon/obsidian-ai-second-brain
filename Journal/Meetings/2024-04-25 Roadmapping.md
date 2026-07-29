@@ -26,7 +26,7 @@ tags:
 - [[Jon H]] presented on Data Security as part of the roadmapping session:
 	- Top level: awareness in industry of what security means for the OT space; existing active networks; demonstrating best practice through application and demos in F2050; research-to-industry - the "valley of death" is alive and well in the cyber space, possible opportunity for a CDT (who would supervise?).
 	- Awareness and education identified as key based on findings so far - lack of knowledge/understanding at all levels of an organisation, and lack of awareness by vendors of how OT differs (e.g. open USB ports on machine tools for program transfer).
-	- Research priorities: securing IIoT architectures and legacy systems (current/near-future activity); academic angles - anomaly detection, false alarm reduction for IDS/IRS, increasing trust in IRS; human factors as a near/future area of work; quantum encryption as a future concern - people are worried about it, but is there a need for education on the reality?
+	- Research priorities: securing [[IIoT]] architectures and legacy systems (current/near-future activity); academic angles - anomaly detection, false alarm reduction for IDS/IRS, increasing trust in IRS; human factors as a near/future area of work; quantum encryption as a future concern - people are worried about it, but is there a need for education on the reality?
 
 ## Decisions
 

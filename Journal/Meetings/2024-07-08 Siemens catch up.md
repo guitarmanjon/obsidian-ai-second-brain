@@ -11,11 +11,11 @@ tags:
 
 ## Purpose
 
-- Regular catch up with Siemens covering MISSY progress and skills/training needs.
+- Regular catch up with [[Siemens]] covering [[MISSY]] progress and skills/training needs.
 
 ## Key Discussion Points
 
-- Discussion around MISSY - licence availability and costs from [[Kostas]] (nothing confirmed yet), and location of Edge devices.
+- Discussion around [[MISSY]] - licence availability and costs from [[Kostas]] (nothing confirmed yet), and location of Edge devices.
 - Skills and training - ensuring the team has people trained up; a one day session with [[Luke Nelson]] on Analyze MyMachine and similar tools.
 
 ## Decisions

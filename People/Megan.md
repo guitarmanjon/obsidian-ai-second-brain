@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Works on stubshaft manufacture (HPDM 4.0) lead case for Rotatives, and KPV definition work for Mini/Maxi-MISSY.
+- Works on stubshaft manufacture (HPDM 4.0) lead case for Rotatives, and KPV definition work for Mini/Maxi-[[MISSY]].
 
 ## Notes
 

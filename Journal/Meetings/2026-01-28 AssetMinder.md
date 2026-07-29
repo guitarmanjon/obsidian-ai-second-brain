@@ -23,13 +23,13 @@ tags:
 - Topics raised: AM demo in F2050, a Tier 2 partnership with AM, and joint ITI opportunities.
 
 **JS overview of AMRC updates**
-- [[JS]] gave an overview covering the CEO, HVMC, etc.
+- [[JS]] gave an overview covering the CEO, [[HVMC]], etc.
 - New AMRC partnership model discussed.
   - **AM - do we need to visit? [[Julia Yeardley|Julia]]**
   - Plus ITI info needed for the new model.
 
 **Robots**
-- Potentially of interest, mentioned because of [[James Moore|James]]'s PLM work on the Kuka.
+- Potentially of interest, mentioned because of [[James Moore|James]]'s [[PLM]] work on the Kuka.
 - **COMPASS robots?**
 - BVAA - IoT: Hy SaaS. AM have ATGx kit with bluetooth auto connect.
 
@@ -47,5 +47,5 @@ tags:
 ## Action Items
 
 - [[Julia Yeardley|Julia]] - (Confirm whether a visit to AM is needed)
-- [[James Moore|James]] - (Follow up on whether COMPASS robots are relevant, given his PLM work on the Kuka)
+- [[James Moore|James]] - (Follow up on whether COMPASS robots are relevant, given his [[PLM]] work on the Kuka)
 - [[Phil]] - (Connect with [[Julia Yeardley|Julia]] on AM/COMPASS follow-up)

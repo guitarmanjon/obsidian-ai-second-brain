@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- AMRC colleague. Involved in dynamic robotics work on Airbus projects.
+- AMRC colleague. Involved in dynamic robotics work on [[Airbus]] projects.
 
 ## Notes
 

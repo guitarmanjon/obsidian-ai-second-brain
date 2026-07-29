@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- Prepare for an upcoming Siemens meeting, following on from Rob's tech notes.
+- Prepare for an upcoming [[Siemens]] meeting, following on from Rob's tech notes.
 
 ## Key Discussion Points
 

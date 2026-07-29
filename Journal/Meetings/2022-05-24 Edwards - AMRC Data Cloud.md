@@ -11,13 +11,13 @@ tags:
 
 ## Purpose
 
-- Discuss how the AMRC Data Cloud could support Edwards and the possibility of migrating developed capability to Edwards' own cloud platform.
+- Discuss how the [[AMRC Data Cloud]] could support Edwards and the possibility of migrating developed capability to Edwards' own cloud platform.
 
 ## Key Discussion Points
 
-- [[Phil Ware]] can see the opportunity for the AMRC Data Cloud, with anything developed there later moved to Edwards' own cloud platform.
-- [[Ryan Diver|RD]] gave an overview of the AMRC Data Cloud.
-- [[Derek Molloy]] noted Edwards are already using Azure and Databricks; security is of more interest to them than the architecture, which they're already familiar with.
+- [[Phil Ware]] can see the opportunity for the [[AMRC Data Cloud]], with anything developed there later moved to Edwards' own cloud platform.
+- [[Ryan Diver|RD]] gave an overview of the [[AMRC Data Cloud]].
+- [[Derek Molloy]] noted Edwards are already using [[Azure]] and [[Databricks]]; security is of more interest to them than the architecture, which they're already familiar with.
 - [[Duncan Gibb]] noted Edwards are working with Kagool.
 
 ## Decisions

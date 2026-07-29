@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Arutian Ehiasarian|Harry]] - SHU
+- [[Arutian Ehiasarian|Harry]] - [[Sheffield Hallam University|SHU]]
 - [[Peter Hatto]] - Ionbond
 - [[JS]]
 - [[JE]]

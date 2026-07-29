@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Notes stub relating to the Digital Catapult; no further detail was captured on the page.
+- Notes stub relating to the [[Digital Catapult]]; no further detail was captured on the page.
 
 ## Key Discussion Points
 

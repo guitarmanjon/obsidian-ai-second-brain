@@ -25,7 +25,7 @@ tags:
 
 - [ ] JeS form test
 - [x] HO G7 info.
-- [x] Invites/ask about HVMC visit
+- [x] Invites/ask about [[HVMC]] visit
   - [x] [[Ben Morrow|Ben]]
   - [x] [[Dave King]]
   - [x] AMRC Labs

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Sara Gray]] (Senior Marketing Manager, Databricks - not present)
+- [[Sara Gray]] (Senior Marketing Manager, [[Databricks]] - not present)
 
 ## Notes
 

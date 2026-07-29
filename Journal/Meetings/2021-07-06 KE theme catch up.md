@@ -20,7 +20,7 @@ tags:
 - [[SB]] presented slides on what KE is.
 - Fundamentally little change to day-to-day work, but an opportunity to grow.
 - Four areas: Electrification, PM&C, ROS, Mobile robotics.
-- IMG working groups: Non-conventional machining (automated assembly theme); Robotics and control (automation theme); Knowledge Exchange (KE theme); Smart Factories (Connectivity and AI theme); HMI (Digital theme).
+- IMG working groups: Non-conventional machining (automated assembly theme); Robotics and control (automation theme); Knowledge Exchange (KE theme); Smart Factories (Connectivity and [[AI]] theme); HMI (Digital theme).
 - Five pillars to [[SB]]'s KE strategy:
   - Facilities - ensuring equipment/instrumentation etc. exists to take research from academia into F2050, and to industry.
   - Skills - ensuring people are skilled up to do the work they want to do; outreach via student projects, PhD mentorship, summer placements.

@@ -18,13 +18,13 @@ tags:
 
 ## Key Discussion Points
 
-- The "AI winter" - a period where AI was no longer seen as a useful technology.
-- Prof. Donald Michie referenced as a UK father of AI.
-- Decision engineering discussed in contrast to AI.
+- The "[[AI]] winter" - a period where [[AI]] was no longer seen as a useful technology.
+- Prof. Donald Michie referenced as a UK father of [[AI]].
+- Decision engineering discussed in contrast to [[AI]].
 - Deep learning is excellent for deriving correlations but cannot do causation - this requires understanding of input/output relationships (root cause analysis), and is unable to use background domain and common-sense knowledge.
 - Audience questions raised in chat:
-  - [[Edwin L Anarcaya Roca]] (11:11) - asked whether we're naively helping big corporations dominate the AI landscape, how to use deep learning effectively with insufficient data (synthetic/augmented data, generative models), and whether unsupervised learning could work without domain experts.
-  - [[Dimitrios Anagnostakis]] (12:15) - asked whether rules and work instructions within an MES system could be combined to create AI/ML models or decision trees more quickly, or even automate their generation.
+  - [[Edwin L Anarcaya Roca]] (11:11) - asked whether we're naively helping big corporations dominate the [[AI]] landscape, how to use deep learning effectively with insufficient data (synthetic/augmented data, generative models), and whether unsupervised learning could work without domain experts.
+  - [[Dimitrios Anagnostakis]] (12:15) - asked whether rules and work instructions within an [[MES]] system could be combined to create [[AI]]/[[Machine Learning|ML]] models or decision trees more quickly, or even automate their generation.
 - Key message: "understand your data before you go anywhere near deep learning" - symbolic learning as a step before DL.
 - Increased accuracy for DL usually means decreased transparency; symbolic learning is more transparent.
 - Distinction drawn between disturbances (uncontrollable factors affecting the process) and controllable variables (factors affecting the process that can be controlled).

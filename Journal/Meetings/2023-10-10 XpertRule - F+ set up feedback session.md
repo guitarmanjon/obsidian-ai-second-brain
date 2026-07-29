@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- Feedback session with XpertRule (XR) on their experience setting up Factory+ as part of onboarding a new colleague.
+- Feedback session with [[XpertRule]] (XR) on their experience setting up Factory+ as part of onboarding a new colleague.
 
 ## Key Discussion Points
 

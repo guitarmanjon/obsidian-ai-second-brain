@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Franciscos Gomez Medina]] - Alan Turing Institute (project overview)
+- [[Franciscos Gomez Medina]] - [[Alan Turing Institute]] (project overview)
 
 ## Notes
 

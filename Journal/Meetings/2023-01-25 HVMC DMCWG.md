@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- HVMC Digital Manufacturing Community Working Group (DMCWG) meeting; no further detail was recorded.
+- [[HVMC]] Digital Manufacturing Community Working Group (DMCWG) meeting; no further detail was recorded.
 
 ## Key Discussion Points
 

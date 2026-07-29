@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[James Boyman]] (Area Sales Manager, Hexagon Metrology)
+- [[James Boyman]] (Area Sales Manager, Hexagon [[Metrology]])
 
 ## Notes
 

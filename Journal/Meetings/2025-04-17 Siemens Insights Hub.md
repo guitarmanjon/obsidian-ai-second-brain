@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Run through the Statement of Requirements (SoR) and current plan for Siemens Insights Hub to check it still fits.
+- Run through the Statement of Requirements (SoR) and current plan for [[Siemens]] Insights Hub to check it still fits.
 
 ## Key Discussion Points
 

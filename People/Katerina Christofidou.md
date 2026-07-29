@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield, Computer Science. Colleague of Tom Hayward.
+- [[University of Sheffield]], Computer Science. Colleague of Tom Hayward.
 - Supervising Narcisa's PhD; suggested Mengdie Zhuang as a further EngD supervisor.
 
 ## Notes

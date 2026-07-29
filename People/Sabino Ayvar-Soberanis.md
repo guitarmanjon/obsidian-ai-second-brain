@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Sabino Ayvar-Soberanis]] (Sabino) - lots of cross-group links in Catapult 26/27, good news. AI in Materials events - [[Jacqui Cole]] presenting, from Cambridge, on information management - follow-up via the CMI. A few ADG projects in TMG related to Digital topics.
+- [[Sabino Ayvar-Soberanis]] (Sabino) - lots of cross-group links in Catapult 26/27, good news. [[AI]] in Materials events - [[Jacqui Cole]] presenting, from Cambridge, on information management - follow-up via the CMI. A few ADG projects in TMG related to Digital topics.
 
 ## Notes
 

@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Simon Collingwood]] gave an overview of NextGen.
-- [[Simon Collingwood]]: agreed to put something in - skills are the biggest challenge for manufacturing, and AMRC is the digital lead in HVMC.
+- [[Simon Collingwood]]: agreed to put something in - skills are the biggest challenge for manufacturing, and AMRC is the digital lead in [[HVMC]].
 
 ## Notes
 

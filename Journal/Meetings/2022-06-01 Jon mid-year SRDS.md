@@ -18,7 +18,7 @@ tags:
 
 - [[JH]] has talked to his team.
 - [[Grace]] - splitting time between CV and Cyber; not sure if this is wise, but can see how it makes the role more interesting; happy to carry on. Has PhD interest (already known).
-- [[Walter]] - happy at the moment; light on project work; getting involved with NAMRC and SMR.
+- [[Walter]] - happy at the moment; light on project work; getting involved with [[Nuclear AMRC|NAMRC]] and SMR.
 - [[Artur Grigals|Artur]] - was on track to get a pay bump prior to becoming Tech Lead, but this has disappeared.
 - [[Ben Morrow]] - potentially joining Jon's LE team; need to look at formalities of this.
 - [[Jon H]] himself:

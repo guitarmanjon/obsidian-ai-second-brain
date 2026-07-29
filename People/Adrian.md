@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Machining KTP Associate at Boeing, supervised by Luke and Sean; worked on Vericut and waste billet simulation before the Machining Associate role was discontinued.
+- Machining KTP Associate at [[Boeing]], supervised by Luke and Sean; worked on Vericut and waste billet simulation before the Machining Associate role was discontinued.
 
 ## Notes
 

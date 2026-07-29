@@ -8,9 +8,9 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Richard James]] (AMRC Metrology)
-- [[James Boyman]] (Area Sales Manager, Hexagon Metrology)
-- [[Mick Walters]] (Business Relationships Manager, Hexagon Metrology)
+- [[Richard James]] (AMRC [[Metrology]])
+- [[James Boyman]] (Area Sales Manager, Hexagon [[Metrology]])
+- [[Mick Walters]] (Business Relationships Manager, Hexagon [[Metrology]])
 - [[Mike Wilson]] (VP Sales, Wilcox Associates)
 
 ## Purpose

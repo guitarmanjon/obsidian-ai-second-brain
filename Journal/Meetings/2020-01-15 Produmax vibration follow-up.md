@@ -8,8 +8,8 @@ tags:
 ## Attendees
 
 - [[Omer Ozkirimli|OO]]
-- [[Dave Brady]] (Produmax)
-- [[Jeremy Ridyard|Jeremy]] (Produmax)
+- [[Dave Brady]] ([[Produmax]])
+- [[Jeremy Ridyard|Jeremy]] ([[Produmax]])
 
 ## Purpose
 
@@ -28,7 +28,7 @@ tags:
 - 4 inch cores taken to validate the floor spec - found up to 150mm in places, with sponge insulation underneath the concrete. Not yet tested - results expected in about a month.
 - [[Omer Ozkirimli|OO]] estimated 2-3 days on-site time and 2 weeks of off-site analysis, to diagnose where the issue lies.
 - [[Dave Brady]] to send through info on machine specs regarding floor requirements, dimensions, and tool carousels.
-- [[Dave Brady]] confirmed as main contact at Produmax, with [[Jeremy Ridyard|Jeremy]] for escalation.
+- [[Dave Brady]] confirmed as main contact at [[Produmax]], with [[Jeremy Ridyard|Jeremy]] for escalation.
 
 ## Decisions
 

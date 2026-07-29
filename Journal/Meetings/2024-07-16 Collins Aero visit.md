@@ -21,7 +21,7 @@ tags:
 
 ## Purpose
 
-- Visit from Collins Aerospace Manufacturing Engineering managers to explore areas of collaboration.
+- Visit from [[Collins Aerospace]] Manufacturing Engineering managers to explore areas of collaboration.
 
 ## Key Discussion Points
 

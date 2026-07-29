@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Max Keedwell]] (RR, Capability acquisition, repair)
+- [[Max Keedwell]] ([[Rolls-Royce|RR]], Capability acquisition, repair)
 
 ## Notes
 

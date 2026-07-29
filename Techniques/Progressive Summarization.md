@@ -27,7 +27,7 @@ last updated: 2026-04-01T09:54:00
 
 - **Most notes never get past Layer 1 and that's fine.** Not every note deserves deep distillation. The act of layering happens naturally when you encounter a note that's actually useful. Notes that never get revisited stay at Layer 1, and that's a signal about their value.
 - **Layer 4 (executive summary) has the highest return on investment.** A 2-sentence summary at the top of a note saves more future time than any amount of bolding or highlighting. If you only do one layer beyond capture, make it this one.
-- **Progressive Summarization works exceptionally well with AI skills.** An AI skill that reads a note can identify the bolded and highlighted layers, giving it a pre-prioritized view of what matters. This is one of the reasons structure matters for AI-augmented knowledge management.
+- **Progressive Summarization works exceptionally well with [[AI]] skills.** An [[AI]] skill that reads a note can identify the bolded and highlighted layers, giving it a pre-prioritized view of what matters. This is one of the reasons structure matters for [[AI]]-augmented knowledge management.
 - **The technique scales where scheduled review doesn't.** "Review all your notes weekly" is a practice that dies with the first busy week. "Add a layer whenever you happen to open a note" survives because it requires no scheduling, it piggybacks on work you're already doing.
 
 ## Outputs

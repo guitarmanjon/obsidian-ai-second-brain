@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Mick Walters]] (Business Relationships Manager, Hexagon Metrology)
+- [[Mick Walters]] (Business Relationships Manager, Hexagon [[Metrology]])
 
 ## Notes
 

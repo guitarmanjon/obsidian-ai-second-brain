@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **[[Skye Zhao]] - Gen AI for Education: Towards Inclusive and Equitable Learning**
-- [[Skye Zhao]] - (Consider what can be learned from Skye's Gen AI in education research for staff training in Industry.)
+- **[[Skye Zhao]] - Gen [[AI]] for Education: Towards Inclusive and Equitable Learning**
+- [[Skye Zhao]] - (Consider what can be learned from Skye's Gen [[AI]] in education research for staff training in Industry.)
 
 ## Notes
 

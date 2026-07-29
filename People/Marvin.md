@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Presented on CMM report data analysis, including using OCR to extract data from PDF files, as part of the ARMADa project.
+- Presented on [[CMM]] report data analysis, including using OCR to extract data from PDF files, as part of the ARMADa project.
 
 ## Notes
 

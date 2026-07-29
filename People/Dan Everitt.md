@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Ada Mode: [[Dan Everitt]] (co-founder, engaged with Sellafield on AI strategy, bringing AI and advanced data analytics to industry, with plenty of background with Sellafield/nuclear industry)
+- Ada Mode: [[Dan Everitt]] (co-founder, engaged with Sellafield on [[AI]] strategy, bringing [[AI]] and advanced data analytics to industry, with plenty of background with Sellafield/nuclear industry)
 
 ## Notes
 

@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dattatraya Parle]] ("Datta") - NAMRC
-- [[Dattatraya Parle]] ("Datta") started as NAMRC's Tech Lead for AI/ML at the end of November. His strategy (shared 3rd March 2022) is built around four pillars:
+- [[Dattatraya Parle]] ("Datta") - [[Nuclear AMRC|NAMRC]]
+- [[Dattatraya Parle]] ("Datta") started as [[Nuclear AMRC|NAMRC]]'s Tech Lead for [[AI]]/[[Machine Learning|ML]] at the end of November. His strategy (shared 3rd March 2022) is built around four pillars:
 - Data sets and sufficiently powerful computation are [[Dattatraya Parle]]'s current biggest challenges.
 
 ## Notes

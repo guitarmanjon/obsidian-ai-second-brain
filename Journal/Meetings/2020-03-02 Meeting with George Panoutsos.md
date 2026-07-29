@@ -28,7 +28,7 @@ tags:
 - Link to the NLP team in Computer Science - knowledge exchange funding.
 - [[Brian]] and [[Clare]] identified as key people to talk to, re: the transition from industry to academia.
 - Discipline hopping fellowships considered, including EPSRC ICT discipline hopping (https://epsrc.ukri.org/funding/calls/disciplinehopping07/).
-  - Could involve one day per week at the Turing Institute, or two days per week at the University of Sheffield CS department.
+  - Could involve one day per week at the [[Alan Turing Institute|Turing]] Institute, or two days per week at the [[University of Sheffield]] CS department.
 - Royal Society industry fellowships also considered.
 
 ### Feedback on FLF application (panel feedback re: Jon Stammers - Not supported)

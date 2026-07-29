@@ -8,10 +8,10 @@ tags:
 ## Attendees
 
 - [[Steve Ward]] - Emerson, pre-sales technical support and consultancy
-- [[Sam Kirby]] - Novotek
+- [[Sam Kirby]] - [[Novotek]]
 - [[Seun]] (Seun Ojo)
 - [[JS]]
-- [[David Evanson]] - Novotek, Emerson rep at Novotek
+- [[David Evanson]] - [[Novotek]], Emerson rep at [[Novotek]]
 
 ## Purpose
 
@@ -21,7 +21,7 @@ tags:
 
 - [[Steve Ward]] presented a PACEdge intro: capable of various edge architectures - gateway (collects and forwards data), computing (collects and analyses locally), and controller.
 - "Edge controller" combines logic control of a machine/process with edge apps for data analysis and collection.
-- PACEdge 2.0 includes Grafana, containerisation, Node-RED, MQTT, REST.
+- PACEdge 2.0 includes Grafana, containerisation, Node-RED, [[MQTT]], REST.
 - PACEdge 2.1 will include HMI and SCADA applications.
 - CPL410 - Edge Controller (around $5k per web search); IEC61131 (part 3) relevant to PLC.
 - Low-level IO interfaces, 0-24V; can insert analogue sensing devices (0-10V etc.); possible HART device support; IEC104 and IEC61850 comms also supported.

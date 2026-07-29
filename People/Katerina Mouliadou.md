@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- On the line: DePuy - [[Katerina Mouliadou]], [[Eymard Gorman]]; Sandvik - [[Jens Nannen]]
+- On the line: [[DePuy]] - [[Katerina Mouliadou]], [[Eymard Gorman]]; Sandvik - [[Jens Nannen]]
 - [[Katerina Mouliadou]] - J&J centre of excellence for manufacturing, manages work with research centres, project management.
 - [[Katerina Mouliadou]] - not fussed about where the system is demo'd, sooner rather than later preferred. System available for sale in Q1 after the demo.
 

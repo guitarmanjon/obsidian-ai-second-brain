@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- A 1-2-1 with [[HB]] covering Wales DS+AI topics, agenda items including IET TN, Factory+ review, DS workflow, and AMRC.
+- A 1-2-1 with [[HB]] covering Wales DS+[[AI]] topics, agenda items including [[IET]] TN, Factory+ review, DS workflow, and AMRC.
 
 ## Key Discussion Points
 

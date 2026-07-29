@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Presenters: [[Sam Turner]] (HVMC), [[Alexander Broos]] (VDW), [[Dritan Kaleshi]] (Digital Catapult)
-- 5G for Manufacturing - [[Dritan Kaleshi]], Head of Tech for 5G at Digital Catapult:
+- Presenters: [[Sam Turner]] ([[HVMC]]), [[Alexander Broos]] (VDW), [[Dritan Kaleshi]] ([[Digital Catapult]])
+- [[5G]] for Manufacturing - [[Dritan Kaleshi]], Head of Tech for [[5G]] at [[Digital Catapult]]:
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Meeting to discuss Siemens Edge and MindSphere connectivity plans (minimal detail captured beyond attendees; page spans 3 pages with little further content).
+- Meeting to discuss [[Siemens Edge]] and MindSphere connectivity plans (minimal detail captured beyond attendees; page spans 3 pages with little further content).
 
 ## Key Discussion Points
 

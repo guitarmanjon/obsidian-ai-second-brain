@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Nat]] talking to NAMRC's [[Andrew Wright]] - SMR related, involving Brownfield Connect for their VTL machine.
+- [[Nat]] talking to [[Nuclear AMRC|NAMRC]]'s [[Andrew Wright]] - SMR related, involving Brownfield Connect for their VTL machine.
 
 ## Notes
 

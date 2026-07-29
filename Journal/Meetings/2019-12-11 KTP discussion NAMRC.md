@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Helen Arthur]] (NAMRC)
+- [[Helen Arthur]] ([[Nuclear AMRC|NAMRC]])
 
 ## Purpose
 
@@ -16,9 +16,9 @@ tags:
 
 ## Key Discussion Points
 
-- CR&D target for NAMRC is 13+ KTPs.
-- [[Helen Arthur]] is leading the KTP programme at NAMRC.
-- [[Helen Arthur]]'s rough figure for income to NAMRC is £65k per company/KTP per year.
+- CR&D target for [[Nuclear AMRC|NAMRC]] is 13+ KTPs.
+- [[Helen Arthur]] is leading the KTP programme at [[Nuclear AMRC|NAMRC]].
+- [[Helen Arthur]]'s rough figure for income to [[Nuclear AMRC|NAMRC]] is £65k per company/KTP per year.
 
 ## Decisions
 

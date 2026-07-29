@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Tim Shelley]] - working with Rab; email sent from tim.shelley@tjdigitalsystems.com.
-- Email from [[Tim Shelley]] reaching out to propose collaborating on a Made Smarter Innovation Submission.
-- [[Tim Shelley]] is working with [[Rab]], who suggested he reach out to [[Jon]] and [[Merv Alford|Merv]] about the upcoming Made Smarter Innovation Submission.
+- Email from [[Tim Shelley]] reaching out to propose collaborating on a [[Made Smarter]] Innovation Submission.
+- [[Tim Shelley]] is working with [[Rab]], who suggested he reach out to [[Jon]] and [[Merv Alford|Merv]] about the upcoming [[Made Smarter]] Innovation Submission.
 
 ## Notes
 

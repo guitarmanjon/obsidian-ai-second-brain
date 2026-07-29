@@ -11,13 +11,13 @@ tags:
 
 ## Purpose
 
-- To consider what to do with a decommissioned Cincinnati CFV machine tool in the Factory of the Future (FoF), including possible reuse for machine health research.
+- To consider what to do with a decommissioned Cincinnati CFV machine tool in the Factory of the Future (FoF), including possible reuse for [[Machine Health Monitoring|machine health]] research.
 
 ## Key Discussion Points
 
 - Cincinnati 3-axis machine has a knackered tool change and is not trusted.
 - Looking to scrap the machine.
-- Question raised: could AMRC take it and use it for machine health research (e.g. accelerated wear, broken bearings)?
+- Question raised: could AMRC take it and use it for [[Machine Health Monitoring|machine health]] research (e.g. accelerated wear, broken bearings)?
 - Open question of who would look after the machine.
 - [[ABG]] to consider designing a platform for such research.
 
@@ -27,4 +27,4 @@ tags:
 
 ## Action Items
 
-- [[ABG]] - (Consider designing a platform for machine health research using the CFV machine.)
+- [[ABG]] - (Consider designing a platform for [[Machine Health Monitoring|machine health]] research using the CFV machine.)

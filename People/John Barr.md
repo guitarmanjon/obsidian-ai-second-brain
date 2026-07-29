@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Did not yet contact [[John Barr]] (UoS InfoSec) re: data sharing frameworks for the HVMC project (left outstanding)
+- Did not yet contact [[John Barr]] ([[University of Sheffield|UoS]] InfoSec) re: data sharing frameworks for the [[HVMC]] project (left outstanding)
 
 ## Notes
 

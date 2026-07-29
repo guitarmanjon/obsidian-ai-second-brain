@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Nigel Crowder]] feedback: low-code MES is a concern - he's trying to stop people going off in their own directions.
+- [[Nigel Crowder]] feedback: low-code [[MES]] is a concern - he's trying to stop people going off in their own directions.
 - [[TR]] presented the AMRC slides; [[Nigel Crowder]] noted that connectivity on the shop floor is the key thing currently lacking - a minimum standard is needed before any further work can happen.
 
 ## Notes

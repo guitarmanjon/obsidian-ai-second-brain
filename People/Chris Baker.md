@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Chris Baker]] - Science Director, Intelligent Data Ecosystems, Rothamsted Research (panellist)
-- Panel on AI opportunities in decarbonisation: [[Lucy Yu]] highlighted forecasting of energy networks for supply/demand optimisation, and weather forecasting for generation impact (e.g. DeepMind's Gencast). [[Chris Baker]] noted Rothamsted has extensive data useful for validating AI models, stressing importance of validation/verification. National Data Library mentioned repeatedly re: building accessible, validated datasets. Centre for Net Zero has developed the "Faraday" model - a generative AI model (based on GMMs, not an LLM).
+- Panel on [[AI]] opportunities in decarbonisation: [[Lucy Yu]] highlighted forecasting of energy networks for supply/demand optimisation, and weather forecasting for generation impact (e.g. DeepMind's Gencast). [[Chris Baker]] noted Rothamsted has extensive data useful for validating [[AI]] models, stressing importance of validation/verification. National Data Library mentioned repeatedly re: building accessible, validated datasets. Centre for Net Zero has developed the "Faraday" model - a generative [[AI]] model (based on GMMs, not an [[LLM]]).
 
 ## Notes
 

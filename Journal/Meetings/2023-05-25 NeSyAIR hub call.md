@@ -13,13 +13,13 @@ tags:
 
 ## Purpose
 
-- Hub call to progress the NeSyAIR (Neuro-Symbolic AI Revolution) EPSRC AI hub proposal, following acceptance of the outline proposal.
+- Hub call to progress the NeSyAIR (Neuro-Symbolic [[AI]] Revolution) EPSRC [[AI]] hub proposal, following acceptance of the outline proposal.
 
 ## Key Discussion Points
 
-- EPSRC AI hub proposal for "Real Data", with a 5-year lifetime, under the Neuro-Symbolic AI Revolution banner.
+- EPSRC [[AI]] hub proposal for "Real Data", with a 5-year lifetime, under the Neuro-Symbolic [[AI]] Revolution banner.
 - Outline proposal has been accepted, and the consortium has been invited to submit a full proposal.
-- A Letter of Support (LoS) is wanted from AMRC - should mention potential use cases (e.g. aerospace transparency), access to data (possibly via the AMRC Data Cloud, with a link to the webpage), and whether Factory+ is relevant.
+- A Letter of Support (LoS) is wanted from AMRC - should mention potential use cases (e.g. aerospace transparency), access to data (possibly via the [[AMRC Data Cloud]], with a link to the webpage), and whether Factory+ is relevant.
 - Question raised on how much AMRC's time should be valued at for the LoS.
 - Sandpit events proposed to help define use cases.
 - [[Dimitri]] can draft the LoS if sent some bullet points.

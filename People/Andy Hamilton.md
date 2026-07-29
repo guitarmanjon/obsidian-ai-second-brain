@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Andy Hamilton]] asked whether R-R have data analysis methods/tools they could share to give better guidance in future - depends heavily on the challenge.
+- [[Andy Hamilton]] asked whether [[Rolls-Royce|R-R]] have data analysis methods/tools they could share to give better guidance in future - depends heavily on the challenge.
 
 ## Notes
 

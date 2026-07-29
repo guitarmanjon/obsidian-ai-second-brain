@@ -14,7 +14,7 @@ tags:
 
 ## Purpose
 
-- Review of the MISSY project plan.
+- Review of the [[MISSY]] project plan.
 
 ## Key Discussion Points
 

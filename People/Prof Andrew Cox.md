@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Prof Andrew Cox]] has developed a 4-hour intro-to-AI webinar for information professionals - intelligent people who don't understand AI - delivered as an interactive session rather than one-way.
-- [[Rab]] - (E-introduce [[JS]] and [[Prof Andrew Cox]] to continue the conversation about adapting the AI webinar for manufacturing).
+- [[Prof Andrew Cox]] has developed a 4-hour intro-to-[[AI]] webinar for information professionals - intelligent people who don't understand [[AI]] - delivered as an interactive session rather than one-way.
+- [[Rab]] - (E-introduce [[JS]] and [[Prof Andrew Cox]] to continue the conversation about adapting the [[AI]] webinar for manufacturing).
 
 ## Notes
 

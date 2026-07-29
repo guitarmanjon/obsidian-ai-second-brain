@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[JS]] gave an overview of the FLF proposal - definite interest from Turing Institute; [[Mark Jeremy]] has now moved to Cambridge(?); HVM is gaining interest at Turing.
+- [[JS]] gave an overview of the FLF proposal - definite interest from [[Alan Turing Institute|Turing]] Institute; [[Mark Jeremy]] has now moved to Cambridge(?); HVM is gaining interest at [[Alan Turing Institute|Turing]].
 
 ## Notes
 

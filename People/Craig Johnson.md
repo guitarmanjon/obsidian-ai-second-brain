@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Craig Johnson]] (Patent Attorney for R-R)
+- [[Craig Johnson]] (Patent Attorney for [[Rolls-Royce|R-R]])
 
 ## Notes
 

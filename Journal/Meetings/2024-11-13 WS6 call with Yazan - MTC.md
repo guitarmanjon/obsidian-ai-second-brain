@@ -12,12 +12,12 @@ tags:
 
 ## Purpose
 
-- [[Yazan Qarout]] called to discuss AMRC's involvement in "Accelerating AI Testing and Validation...".
+- [[Yazan Qarout]] called to discuss AMRC's involvement in "Accelerating [[AI]] Testing and Validation...".
 
 ## Key Discussion Points
 
-- [[Yazan Qarout]] is tech leading, Theme Lead for AI in the Digital team at MTC.
-- Project aims to capture: sector domain knowledge; understanding of existing facilities, data, and connectivity that could feed AI testing; a mapping exercise for forward planning.
+- [[Yazan Qarout]] is tech leading, Theme Lead for [[AI]] in the Digital team at [[MTC]].
+- Project aims to capture: sector domain knowledge; understanding of existing facilities, data, and connectivity that could feed [[AI]] testing; a mapping exercise for forward planning.
 - [[Yazan Qarout]] needs to know who is leading from AMRC and how much budget AMRC will contribute.
 
 ## Decisions

@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Progress the Boeing KTP application ahead of the target submission deadline.
+- Progress the [[Boeing]] KTP application ahead of the target submission deadline.
 
 ## Key Discussion Points
 

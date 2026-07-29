@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Machine vision and AI - [[Narcisa]]: visual inspection has moved to [[Jaymes Truman]] (a different theme); machine vision is more about whether the computer understands what it's seeing. [[Bikram]] is tech lead for AI and does a lot of machine vision. [[Kevin Obuya|Kevin]] covers visual inspection. [[Grace Lim]] covers AI and cyber, leaning towards visual. [[Wei Kin]] is a jack-of-all-trades across Unity and AI.
+- Machine vision and [[AI]] - [[Narcisa]]: visual inspection has moved to [[Jaymes Truman]] (a different theme); machine vision is more about whether the computer understands what it's seeing. [[Bikram]] is tech lead for [[AI]] and does a lot of machine vision. [[Kevin Obuya|Kevin]] covers visual inspection. [[Grace Lim]] covers [[AI]] and cyber, leaning towards visual. [[Wei Kin]] is a jack-of-all-trades across Unity and [[AI]].
 
 ## Notes
 

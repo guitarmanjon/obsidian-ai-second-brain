@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Bob Naylor]] noted this project uses "shared services" machine tools at BAE (equipment shared between teams, "who shouts loudest owns the equipment") - hence asking AMRC to make the parts.
+- [[Bob Naylor]] noted this project uses "shared services" machine tools at [[BAE Systems|BAE]] (equipment shared between teams, "who shouts loudest owns the equipment") - hence asking AMRC to make the parts.
 
 ## Notes
 

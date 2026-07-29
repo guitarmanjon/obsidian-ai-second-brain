@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- From [[Jon Bray]]'s introduction: [[Sam Casadei]] is part of the SELA group, whose theme this year is AI & Machine Learning. [[Sam Casadei|Sam]]'s group has been given a project from a Sheffield small farmer called Regather, who want to harness data from crops to identify produce quality.
-- [[Sam Casadei|Sam]]'s group is focusing on novel uses of AI and ML, and has decided to look at farming / small holdings / agritech.
+- From [[Jon Bray]]'s introduction: [[Sam Casadei]] is part of the SELA group, whose theme this year is [[AI]] & [[Machine Learning]]. [[Sam Casadei|Sam]]'s group has been given a project from a Sheffield small farmer called Regather, who want to harness data from crops to identify produce quality.
+- [[Sam Casadei|Sam]]'s group is focusing on novel uses of [[AI]] and [[Machine Learning|ML]], and has decided to look at farming / small holdings / agritech.
 
 ## Notes
 

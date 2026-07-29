@@ -12,14 +12,14 @@ tags:
 
 ## Purpose
 
-- Catch up on Siemens SMR programme status.
+- Catch up on [[Siemens]] SMR programme status.
 
 ## Key Discussion Points
 
-- R-R want Siemens to be sole SI (systems integrator).
-- Advanta involved for resourcing and actual work (https://www.siemens-advanta.com/) - a digital transformation subsidiary wholly owned by Siemens.
+- [[Rolls-Royce|R-R]] want [[Siemens]] to be sole SI (systems integrator).
+- Advanta involved for resourcing and actual work (https://www.siemens-advanta.com/) - a digital transformation subsidiary wholly owned by [[Siemens]].
 - Expleo may also be involved.
-- Discussion around who will lead from AMRC / NAMRC.
+- Discussion around who will lead from AMRC / [[Nuclear AMRC|NAMRC]].
 
 ## Decisions
 

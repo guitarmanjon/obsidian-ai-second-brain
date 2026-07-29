@@ -28,7 +28,7 @@ The source text interleaves meeting notes with the text of an email from [[dan s
 - A Statement of Work (SoW) exists, attached to the email.
 - Target machine is the Ecospeed.
 - Opportunity identified for a paperless shop floor.
-- Link to AI work - opportunities for pre- (modelling) and post-analysis of data.
+- Link to [[AI]] work - opportunities for pre- (modelling) and post-analysis of data.
 - [[dan smith]] needs a top-level overview of what each team will contribute, and resource requirements.
 
 **Email context (from [[dan smith]], "Morning All")**
@@ -43,10 +43,10 @@ The source text interleaves meeting notes with the text of an email from [[dan s
 - Proposed methodology: optimised topology via critical load path analysis, which brings challenges around dynamic stability, stress distortion, cutting strategy determination, datum transfer, and fixture methodology - compounded by industry's push toward robotically assisted manufacture/assembly and near-net condition of supply.
 - Envisaged as a 3-year project costing circa £2M (~£666k/year), contingent on equipment availability.
 - Groups involved: Aerostructures and landing gear*, Cutting technology*, Manufacturing intelligence, Process modelling, Emerging technology, Process monitoring and control, Dynamics, IMG*, Design and prototyping (* = greater anticipated involvement, not funding share).
-- Global objective: keep UoS AMRC a global leader in manufacturing technology via practical demonstration of underutilised technology readiness levels.
+- Global objective: keep [[University of Sheffield|UoS]] AMRC a global leader in manufacturing technology via practical demonstration of underutilised technology readiness levels.
 - Local objective: mature technology streams from various AMRC groups into a technology carrier representative of the aluminium aerostructures industry.
 - Deliverables: formal AMRC report, formal technology demonstrator (for shows and in-house), roadmap/capability advancement, upskilling of engineers, industrial paper, patents.
-- Year 1 (proof of manufacturing concepts): use the AI4125P model as a base for an optimised topology; additively generate a near-net source of supply; feature-driven sequencing/strategy/tooling optimisation for thin-wall 5-axis structures (billet and additively grown); on-machine feedback loop for in-process dynamics; review/control part distortion via stress modelling (possible AI use); adaptive fixturing; capture in-process data toward a digital twin; scaled technology carrier demo.
+- Year 1 (proof of manufacturing concepts): use the AI4125P model as a base for an optimised topology; additively generate a near-net source of supply; feature-driven sequencing/strategy/tooling optimisation for thin-wall 5-axis structures (billet and additively grown); on-machine feedback loop for in-process dynamics; review/control part distortion via stress modelling (possible [[AI]] use); adaptive fixturing; capture in-process data toward a digital twin; scaled technology carrier demo.
 - Year 2 (process development for Ecospeed): apply Year 1 learning to manufacture a fully conforming optimised topology artefact; compare near-net vs. traditional billet condition of supply, including a robust process cost study.
 - Year 3 (robotically assisted approach): concept demonstrator combining additive build and subtractive machining, robotically damped/fixtured on a single or traditional platform; robotic fixturing/damping; robotic machining; in-situ assembly and hole generation.
 

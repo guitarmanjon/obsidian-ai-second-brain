@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Reflection on progress of the merged Tuesday DC&AI/Digital meetings, and planning what's next.
+- Reflection on progress of the merged Tuesday DC&[[AI]]/Digital meetings, and planning what's next.
 
 ## Key Discussion Points
 

@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - IMG colleague, Technical Fellow in Manufacturing Intelligence. Focus areas: DES (Discrete Event Simulation), Supply Chain, Cost modelling, value stream mapping.
-- Leads Industrial Engineering-domain work; point of contact for both the Boeing KTP's DES work and Collins' value-stream-mapping engagement.
+- Leads Industrial Engineering-domain work; point of contact for both the [[Boeing]] KTP's DES work and [[Collins Aerospace|Collins]]' value-stream-mapping engagement.
 
 ## Notes
 

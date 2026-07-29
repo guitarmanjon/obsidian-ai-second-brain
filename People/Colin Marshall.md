@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Colin Marshall]] - PLM Consultant (Presenter)
-- IIoT and Product Intelligence ([[Colin Marshall]]) - Digital Performance Twin; Mindsphere platform: MindConnect (secure connections to data feeds - devices, sensors, machines), MindSphere (cloud-based open IoT operating system), MindApps (tools to analyse collected data).
+- [[Colin Marshall]] - [[PLM]] Consultant (Presenter)
+- [[IIoT]] and Product Intelligence ([[Colin Marshall]]) - Digital Performance Twin; Mindsphere platform: MindConnect (secure connections to data feeds - devices, sensors, machines), MindSphere (cloud-based open IoT operating system), MindApps (tools to analyse collected data).
 
 ## Notes
 

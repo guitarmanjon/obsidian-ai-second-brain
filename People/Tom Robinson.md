@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **SMR**: [[JH]] already involved. Lots of small projects around £50k each, but needs oversight for bigger work packages. [[HB]] should have talked to NAMRC about this recently. Another small project with [[Tom Robinson]] is on its way.
-- Logistics - not a key consideration but there will be thought (at R-R?) into requirements from the supply chain on pre-packaged assemblies, how these are packaged to minimise unpacking time. [[Tom Robinson]] (TR) mentioned the BMW motorcycle plant in Germany with automated logistics inside the factory.
+- **SMR**: [[JH]] already involved. Lots of small projects around £50k each, but needs oversight for bigger work packages. [[HB]] should have talked to [[Nuclear AMRC|NAMRC]] about this recently. Another small project with [[Tom Robinson]] is on its way.
+- Logistics - not a key consideration but there will be thought (at [[Rolls-Royce|R-R]]?) into requirements from the supply chain on pre-packaged assemblies, how these are packaged to minimise unpacking time. [[Tom Robinson]] (TR) mentioned the BMW motorcycle plant in Germany with automated logistics inside the factory.
 
 ## Notes
 

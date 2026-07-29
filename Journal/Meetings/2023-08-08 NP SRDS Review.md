@@ -20,7 +20,7 @@ tags:
 - Changes with Harbour:
   - More PMs but still a lot of dependency on NP for input.
   - Balance of PM support vs. additional work for NP is not right...
-  - Work with R-R: [[James Fortune|James F]] doesn't seem interested, not as much engagement as [[Samuel]]. Deflating for NP.
+  - Work with [[Rolls-Royce|R-R]]: [[James Fortune|James F]] doesn't seem interested, not as much engagement as [[Samuel]]. Deflating for NP.
 - Also thinking about "what's next?"
 - Not doing the technical work to be called Tech Lead.
 - Roadmap: [[TMB]] managing the inspection one, which includes Comp. V-Jam?

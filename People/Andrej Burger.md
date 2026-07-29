@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- PowerBI: dashboard knocked up in minutes by [[Andrej Burger]]; backend suspected by [[Steve Jones]] to be standard JavaScript/React.
+- [[Power BI|PowerBI]]: dashboard knocked up in minutes by [[Andrej Burger]]; backend suspected by [[Steve Jones]] to be standard JavaScript/React.
 
 ## Notes
 

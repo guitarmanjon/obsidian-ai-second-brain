@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Shivani]] has already met with [[Denis N-G]]; potential for deputy representation. [[Shivani]] is thinking about this as an AMRC input, and needs to figure out how University of Sheffield fits in.
+- [[Shivani]] has already met with [[Denis N-G]]; potential for deputy representation. [[Shivani]] is thinking about this as an AMRC input, and needs to figure out how [[University of Sheffield]] fits in.
 
 ## Notes
 

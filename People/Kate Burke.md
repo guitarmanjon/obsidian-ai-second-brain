@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Aim: help [[Kate Burke]] populate the P6 plan.
-- [[JS]] / [[Wayne A]] / [[Sarah Kilner|Sarah K]] / [[Pete C]] - (Provide AMRC/NMIS plan output at blue-sheet-milestone level for [[Kate Burke]]'s P6 plan)
+- [[JS]] / [[Wayne A]] / [[Sarah Kilner|Sarah K]] / [[Pete C]] - (Provide AMRC/[[NMIS]] plan output at blue-sheet-milestone level for [[Kate Burke]]'s P6 plan)
 
 ## Notes
 

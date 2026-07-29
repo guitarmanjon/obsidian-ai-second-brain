@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- MISSY project session relating to Bellrock - source notes contain only the date/title heading, with the Attendees and Notes fields left blank.
+- [[MISSY]] project session relating to Bellrock - source notes contain only the date/title heading, with the Attendees and Notes fields left blank.
 
 ## Key Discussion Points
 

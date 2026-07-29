@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Gerd Heinrich]] (GH) - Aerospace Lead Consultant, part of Digital Industry area; works on digital enterprise/end-to-end solutions realising IIoT use cases (MES, shop floor, etc.).
-- [[Gerd Heinrich]] to be the AMRC's support contact within Siemens going forward.
+- [[Gerd Heinrich]] (GH) - Aerospace Lead Consultant, part of Digital Industry area; works on digital enterprise/end-to-end solutions realising [[IIoT]] use cases ([[MES]], shop floor, etc.).
+- [[Gerd Heinrich]] to be the AMRC's support contact within [[Siemens]] going forward.
 
 ## Notes
 

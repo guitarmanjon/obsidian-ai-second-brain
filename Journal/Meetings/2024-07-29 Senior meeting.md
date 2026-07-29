@@ -15,7 +15,7 @@ tags:
 
 ## Key Discussion Points
 
-- To discuss: Salesforce; NAMRC people; Catapult project.
+- To discuss: Salesforce; [[Nuclear AMRC|NAMRC]] people; Catapult project.
 
 ## Decisions
 

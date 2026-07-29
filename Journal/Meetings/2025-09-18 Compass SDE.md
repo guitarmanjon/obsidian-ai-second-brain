@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- To discuss Compass SDE and the potential for a national centre for manufacturing data, with [[Tim]] invited to join the conversation.
+- To discuss Compass [[Secure Data Environment|SDE]] and the potential for a national centre for manufacturing data, with [[Tim]] invited to join the conversation.
 
 ## Key Discussion Points
 

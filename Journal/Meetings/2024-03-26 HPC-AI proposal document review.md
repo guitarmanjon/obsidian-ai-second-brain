@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Review session for the HPC/AI proposal document.
+- Review session for the HPC/[[AI]] proposal document.
 
 ## Key Discussion Points
 

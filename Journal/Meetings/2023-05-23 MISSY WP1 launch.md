@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- MISSY project WP1 launch meeting.
+- [[MISSY]] project WP1 launch meeting.
 
 ## Key Discussion Points
 

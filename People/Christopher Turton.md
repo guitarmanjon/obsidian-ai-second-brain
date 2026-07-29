@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R: [[Jamie McGourlay|JMc]], [[Kyle Marshall]], [[Christopher Turton]], [[Gregor Kappmeier]] (joined 11:01)
+- [[Rolls-Royce|R-R]]: [[Jamie McGourlay|JMc]], [[Kyle Marshall]], [[Christopher Turton]], [[Gregor Kappmeier]] (joined 11:01)
 
 ## Notes
 

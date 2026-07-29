@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Introduction to FLAME, [[Paul Hammond]]'s complex system simulation tool, to scope potential AMRC applications.
-- [[Paul Hammond]] is COM-based; built the RSE team at UoS and has now returned to academic work.
+- [[Paul Hammond]] is COM-based; built the RSE team at [[University of Sheffield|UoS]] and has now returned to academic work.
 
 ## Notes
 

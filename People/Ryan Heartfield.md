@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Ryan Heartfield]] spoke to Plexal about a roundtable event in Stratford, inviting people from the manufacturing sector; challenges to be presented; agenda still being defined. Target organisations include MakeUK, MTA, HVMC, NCSC, MTC, etc., plus security architects from industry.
+- [[Ryan Heartfield]] spoke to Plexal about a roundtable event in Stratford, inviting people from the manufacturing sector; challenges to be presented; agenda still being defined. Target organisations include MakeUK, MTA, [[HVMC]], NCSC, [[MTC]], etc., plus security architects from industry.
 - [[Ryan Heartfield]] asked if [[JS]] could help get people in from desired targets:
 
 ## Notes

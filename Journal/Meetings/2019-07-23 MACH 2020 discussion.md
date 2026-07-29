@@ -27,7 +27,7 @@ tags:
 - Plan to develop the design/features of a part to be machined, feeding into the part used in ABG.
 - [[James Lindsay]] would like a mini plan for TMG involvement.
 - 3D model and AR: IMG have plenty of resource available (grads, interns, etc.).
-- Renishaw Equator volume size and dyno size also noted as considerations.
+- [[Renishaw]] Equator volume size and dyno size also noted as considerations.
 
 ## Decisions
 

@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Alex Morrison]] (MTC)
+- [[Alex Morrison]] ([[MTC]])
 - [[JS]]
 
 ## Purpose
@@ -16,8 +16,8 @@ tags:
 
 ## Key Discussion Points
 
-- Forum+ project, with MTC leading; low-cost IoT sensors for SMEs.
-- Working with AFRC and WMG in the consortium.
+- Forum+ project, with [[MTC]] leading; low-cost IoT sensors for SMEs.
+- Working with [[AFRC]] and [[WMG]] in the consortium.
 - Architecture/framework for attaching sensors of any kind to a machine tool - low-cost, within the skills budget of SMEs as well.
 
 ## Decisions

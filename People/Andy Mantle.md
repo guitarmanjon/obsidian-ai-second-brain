@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Setting the scene - [[Richard Foster]] and [[Andy Mantle]] (RR), to give a brief overview of Rolls-Royce's needs across the various business units.
-- [[Andy Mantle]] (RR, at desk in Derby?)
+- Setting the scene - [[Richard Foster]] and [[Andy Mantle]] ([[Rolls-Royce|RR]]), to give a brief overview of [[Rolls-Royce]]'s needs across the various business units.
+- [[Andy Mantle]] ([[Rolls-Royce|RR]], at desk in Derby?)
 
 ## Notes
 

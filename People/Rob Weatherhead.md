@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Rob Weatherhead]] - Wales, Chief Eng. for Aerospace, links to Airbus
+- [[Rob Weatherhead]] - Wales, Chief Eng. for Aerospace, links to [[Airbus]]
 - CFMS have been in discussion with [[Rob Weatherhead]] and another (unnamed) contact regarding ATI programmes.
 
 ## Notes

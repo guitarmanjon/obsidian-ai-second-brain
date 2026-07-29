@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- IET Manufacturing Technical Network committee member; works with the IET Marketing Team on volunteer recruitment, and co-owns several TN prize events.
+- [[IET]] Manufacturing Technical Network committee member; works with the [[IET]] Marketing Team on volunteer recruitment, and co-owns several TN prize events.
 
 ## Notes
 

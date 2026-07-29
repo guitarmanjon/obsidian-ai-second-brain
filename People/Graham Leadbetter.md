@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Former IET Manufacturing Technical Network committee member (no longer involved); owned Future Roles for Manufacturing Engineers and Future Manufacturing Challenges for SMEs events.
+- Former [[IET]] Manufacturing Technical Network committee member (no longer involved); owned Future Roles for Manufacturing Engineers and Future Manufacturing Challenges for SMEs events.
 
 ## Notes
 

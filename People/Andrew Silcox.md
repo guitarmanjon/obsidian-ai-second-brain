@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Research Director, AMRC Cymru.
-- Involved in TRE/IMG strategy discussions, COMPASS, and R-R/Boeing digital strategy conversations.
+- Research Director, [[AMRC Cymru]].
+- Involved in TRE/IMG strategy discussions, COMPASS, and [[Rolls-Royce|R-R]]/[[Boeing]] digital strategy conversations.
 
 ## Notes
 

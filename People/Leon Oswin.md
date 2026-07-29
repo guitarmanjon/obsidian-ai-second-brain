@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Catch up meeting with Rolls-Royce contacts [[Neil Tatman]] and [[Leon Oswin]].
-- **Connectivity**: well covered in the last project - "tell us more" (AG). What could be the make-up of the data being dealt with? Where can the data go - cloud vs. on-prem? JMc - cloud will be part of the equation, data storage infrastructure *will* change. R-R data policies on data management and where the data can go. Who will be defining the data requirements, and when? Currently being defined - AG has a tech work programme on Digital, [[Leon Oswin]] leading this area now.
+- Catch up meeting with [[Rolls-Royce]] contacts [[Neil Tatman]] and [[Leon Oswin]].
+- **Connectivity**: well covered in the last project - "tell us more" (AG). What could be the make-up of the data being dealt with? Where can the data go - cloud vs. on-prem? JMc - cloud will be part of the equation, data storage infrastructure *will* change. [[Rolls-Royce|R-R]] data policies on data management and where the data can go. Who will be defining the data requirements, and when? Currently being defined - AG has a tech work programme on Digital, [[Leon Oswin]] leading this area now.
 
 ## Notes
 

@@ -26,10 +26,10 @@ tags:
 - Alex A at NCSC Manchester has set up Factory+ to test its security (62443 accreditation).
 - Industrial Control Systems (ICS) Community of Interest mentioned - possibly linked to Chris Hankin at Imperial; has lots of industrial members; individual membership with vetting; supply chain is a current big focus.
 - [[Grace Lim|GL]] asked whether AMRC only looks at the "dirty end" of manufacturing or further; [[RS]] responded that AMRC now looks much further, including enterprise architecture, and deploys/demonstrates other people's solutions.
-- [[Grace Lim|GL]] asked to what extent AMRC has a representative environment; [[JS]] noted assets and control systems are very similar, but MES/ERP representation is missing; [[RS]] added that such environments are regularly set up for projects as needed, then shut down at project end.
+- [[Grace Lim|GL]] asked to what extent AMRC has a representative environment; [[JS]] noted assets and control systems are very similar, but [[MES]]/[[ERP]] representation is missing; [[RS]] added that such environments are regularly set up for projects as needed, then shut down at project end.
 - NCSC lab will be funded by charging out for its use, with government funding for initial setup.
 - Three key areas for the lab: training, testing, exercising. AMRC does plenty of testing but not yet training.
-- Airbus does OT research at their own Newport site, not at AMRC.
+- [[Airbus]] does OT research at their own Newport site, not at AMRC.
 
 ## Decisions
 

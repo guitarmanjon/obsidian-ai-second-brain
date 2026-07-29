@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Rob Bartlett]] - from BVAA (British Valves and Actuators Association)
-- Original ask from [[Rob Bartlett]]: "I was wondering if AMRC would be able to field a speaker at our Annual Meetings, to speak on the topic of AI and its likely impact on manufacturing / engineering industry?"
+- Original ask from [[Rob Bartlett]]: "I was wondering if AMRC would be able to field a speaker at our Annual Meetings, to speak on the topic of [[AI]] and its likely impact on manufacturing / engineering industry?"
 
 ## Notes
 

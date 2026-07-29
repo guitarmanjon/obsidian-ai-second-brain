@@ -21,7 +21,7 @@ tags:
 - FMS have done as much as they can now for energy recovery. USB will be used for indefinite powering.
 - Media: case study for SFIH, as a follow-on from the last AMRC Quarterly.
 - Additional work at AMRC: Hallam have advised on tech sustainability; Sensys in Scotland on BOM and how to improve it.
-- Durham Duplex in Sheffield - Fourjaw connected as well as the FMS system. Open question on how to integrate the two systems together.
+- Durham Duplex in Sheffield - [[Fourjaw]] connected as well as the FMS system. Open question on how to integrate the two systems together.
 - Slot needed in an IMG meeting for FMS / [[Steve Thompson|Steve T]] to present on what they're about and what they're doing.
 
 ## Decisions

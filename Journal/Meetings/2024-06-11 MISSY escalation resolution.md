@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Session to resolve an escalation on the MISSY project.
+- Session to resolve an escalation on the [[MISSY]] project.
 
 ## Key Discussion Points
 

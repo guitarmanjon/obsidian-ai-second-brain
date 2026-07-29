@@ -11,8 +11,8 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Rab]] knows of a 3D printed solution for the food industry - [[Bobby Manesh]], AMRC Wales.
-- [[Bobby Manesh]] - AMRC, Lead Research Engineer (AI), AMRC Cymru
-- Introductions: [[Bobby Manesh]] (Lead Research Engineer, AI, AMRC Cymru); [[JS]]; [[Slavomir Pudis]] (Productivity Lead, MEU confectionary, 21 sites).
+- [[Bobby Manesh]] - AMRC, Lead Research Engineer ([[AI]]), [[AMRC Cymru]]
+- Introductions: [[Bobby Manesh]] (Lead Research Engineer, [[AI]], [[AMRC Cymru]]); [[JS]]; [[Slavomir Pudis]] (Productivity Lead, MEU confectionary, 21 sites).
 
 ## Notes
 

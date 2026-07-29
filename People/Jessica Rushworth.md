@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jessica Rushworth]] - Chief Partnerships Officer, Digital Catapult (opening words)
+- [[Jessica Rushworth]] - Chief Partnerships Officer, [[Digital Catapult]] (opening words)
 
 ## Notes
 

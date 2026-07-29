@@ -26,7 +26,7 @@ tags:
 
 ## Decisions
 
-- Event content to focus on the manufacturing element and design-for-manufacture-and-assembly angle of R-R SMR work.
+- Event content to focus on the manufacturing element and design-for-manufacture-and-assembly angle of [[Rolls-Royce|R-R]] SMR work.
 
 ## Action Items
 

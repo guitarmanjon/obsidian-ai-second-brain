@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Gemma briefed JS on logistics/marketing responsibilities and typical event structure for hosting an IET event.
+- Gemma briefed JS on logistics/marketing responsibilities and typical event structure for hosting an [[IET]] event.
 
 ## Key Discussion Points
 

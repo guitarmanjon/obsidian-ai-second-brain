@@ -12,11 +12,11 @@ tags:
 
 ## Purpose
 
-- To discuss AMRC becoming a partner in a Responsible AI (RAI) call.
+- To discuss AMRC becoming a partner in a Responsible [[AI]] (RAI) call.
 
 ## Key Discussion Points
 
-- Discussion around the Responsible AI call for partners.
+- Discussion around the Responsible [[AI]] call for partners.
 - [[Helen Kennedy]] (HK) sits on the strategy group for RAI.
 - HK's view: not sure that RAI knows what they're looking for, and not sure exactly what the partnership entails, but feels it can only be a good thing.
 - Post-HK-call discussion between [[JS]] and [[Rab]]: reviewed the partnership tiers - Tier 3 is a given, and Tier 1 looks like the preferred option.

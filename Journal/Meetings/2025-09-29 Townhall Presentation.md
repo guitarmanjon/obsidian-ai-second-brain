@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Overview presentation given at an AMRC townhall, introducing Jon's background and his ongoing/planned involvement in AI-for-manufacturing work.
+- Overview presentation given at an AMRC townhall, introducing Jon's background and his ongoing/planned involvement in [[AI]]-for-manufacturing work.
 
 ## Key Discussion Points
 

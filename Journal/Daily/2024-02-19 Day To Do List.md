@@ -26,7 +26,7 @@ tags:
 - Contacted [[Andy Barnett]] re: extension (marked complete)
 - Industrial placement interview delegated (marked complete; handwritten, wording uncertain)
 - Bill Bailey - tickets (marked complete; handwritten, wording uncertain)
-- Did not yet contact [[John Barr]] (UoS InfoSec) re: data sharing frameworks for the HVMC project (left outstanding)
+- Did not yet contact [[John Barr]] ([[University of Sheffield|UoS]] InfoSec) re: data sharing frameworks for the [[HVMC]] project (left outstanding)
 
 ### What created friction today?
 

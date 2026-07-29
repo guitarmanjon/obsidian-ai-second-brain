@@ -26,7 +26,7 @@ tags:
   - **Industry Collaboration & Outcomes** — reflections on industry partner collaborations, what makes them successful, outcomes achieved, and Q&A on shared challenges.
   - **People, Skills + Expertise** — spotlights on teams, leadership reflections on team building, skills development, career journeys, behind-the-scenes content.
   - **Systems Insight + Thought Leadership** — commentary on sector trends, connecting AMRC work to policy, insight-led reflections ("What we're seeing across the sector..."), and project context within the bigger system.
-- **Boeing tracer visit** (referenced from the previous day): [[Soohwan Bae]] is actively applying AI solutions to real challenges across Boeing production — not purely LLMs, though they do feature. Noted as a sector trend that AI is often equated with LLMs, but that's not accurate, and co-pilots aren't the only answer.
+- **[[Boeing]] tracer visit** (referenced from the previous day): [[Soohwan Bae]] is actively applying [[AI]] solutions to real challenges across [[Boeing]] production — not purely [[LLM|LLMs]], though they do feature. Noted as a sector trend that [[AI]] is often equated with [[LLM|LLMs]], but that's not accurate, and co-pilots aren't the only answer.
 - Use a **call to action** in posts, e.g. inviting readers to comment below.
 
 ## Decisions

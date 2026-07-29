@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Scope gate review for the MISSY project.
+- Scope gate review for the [[MISSY]] project.
 
 ## Key Discussion Points
 

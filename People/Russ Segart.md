@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, Rolls-Royce), [[Jonathan Butters]] (Data Scientist, Rolls-Royce), [[Stephen O'Brien]] (Data Scientist, Rolls-Royce), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
-- *AI and ML (sponsored by NetApp, [[Russ Segart]])**
+- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, [[Rolls-Royce]]), [[Jonathan Butters]] (Data Scientist, [[Rolls-Royce]]), [[Stephen O'Brien]] (Data Scientist, [[Rolls-Royce]]), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
+- *[[AI]] and [[Machine Learning|ML]] (sponsored by NetApp, [[Russ Segart]])**
 
 ## Notes
 

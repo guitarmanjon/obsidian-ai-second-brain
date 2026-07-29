@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Siemens contact. Distinct from Andy Hodgson (also Siemens).
+- [[Siemens]] contact. Distinct from Andy Hodgson (also [[Siemens]]).
 
 ## Notes
 

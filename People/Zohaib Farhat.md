@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- AMRC NW colleague. Involved in cross-AMRC AI strategy workshops, HVMC visits, and the Airbus visit.
+- AMRC NW colleague. Involved in cross-AMRC [[AI]] strategy workshops, [[HVMC]] visits, and the [[Airbus]] visit.
 
 ## Notes
 

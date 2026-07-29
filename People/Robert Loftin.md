@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Robert Loftin]] - Lecturer in ML group, Reinforcement learning, Human-AI working together
+- [[Robert Loftin]] - Lecturer in [[Machine Learning|ML]] group, Reinforcement learning, Human-[[AI]] working together
 
 ## Notes
 

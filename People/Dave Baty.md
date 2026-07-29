@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact. Gave scene-setting overview at the ADT FoF launch (2024-11-19) and R-R Derby launch (2024-10-23). Distinct from Dave Brady (Produmax).
+- [[Rolls-Royce]] contact. Gave scene-setting overview at the ADT FoF launch (2024-11-19) and [[Rolls-Royce|R-R]] Derby launch (2024-10-23). Distinct from Dave Brady ([[Produmax]]).
 
 ## Notes
 

@@ -8,16 +8,16 @@ tags:
 ## Attendees
 
 - [[Ben Morgan]] - Head of F2050
-- [[Tom Hodgson]] - Head of Metrology F2050
-- [[Jon Stammers]] - Tech Fellow, Process Monitoring & Control
+- [[Tom Hodgson]] - Head of [[Metrology]] F2050
+- [[Jon Stammers]] - Tech Fellow, [[Process Monitoring]] & Control
 - [[David Butler]] - Science Area Leader for Digital Manufacturing, NPL Scotland
-- [[Dave Stoddart]] - Head of Simulation and Verification, Nuclear AMRC
-- [[James Halstead]] - Senior Delivery Manager, Manufacturing Metrology, NPL Huddersfield
-- [[Aaron Whittam]] - Metrologist, IoT, I4.0, low-cost sensors, NPL Huddersfield
+- [[Dave Stoddart]] - Head of Simulation and Verification, [[Nuclear AMRC]]
+- [[James Halstead]] - Senior Delivery Manager, Manufacturing [[Metrology]], NPL [[University of Huddersfield|Huddersfield]]
+- [[Aaron Whittam]] - Metrologist, IoT, I4.0, low-cost sensors, NPL [[University of Huddersfield|Huddersfield]]
 - [[Mark Summers]] - Head of Advanced Manufacturing, NPL (joined 2 weeks ago, formerly ATI)
 - [[Gareth Edwards]] - Digital Manufacturing Strategy Lead, NPL
 - [[Paul Duncan]] - Data Scientist (Data Uncertainty), measurement uncertainty, NPL Scotland
-- [[Andrew Silcox|Andy Silcox]] - Research Director, AMRC Cymru
+- [[Andrew Silcox|Andy Silcox]] - Research Director, [[AMRC Cymru]]
 - [[Rab Scott]] - Head of Digital, AMRC
 
 ## Purpose
@@ -30,7 +30,7 @@ tags:
 
 - AMRC and F2050 overview - [[Ben Morgan]]
 	- McLaren: chassis built overseas in Austria; supplier can't keep up with future demand. McLaren wants to bring IP back in-house to allow future development (e.g. electrification). Composites assisted in prototyping the chassis, leading to a Sheffield-based McLaren facility.
-	- Boeing: a part was being made by the supply chain with no cost reduction over time; Boeing wants to bring it back "in-house". Development of the part and factory led to a Sheffield-based facility.
+	- [[Boeing]]: a part was being made by the supply chain with no cost reduction over time; [[Boeing]] wants to bring it back "in-house". Development of the part and factory led to a Sheffield-based facility.
 - NPL DESC/Digital Manufacturing - [[Gareth Edwards]]
 	- Strategy teams are relatively new at NPL; still responsible for the core of metrology (metre, second, etc.).
 	- Question: what metrology is needed to ensure the UK succeeds in digital manufacturing? Trust in data, fidelity.
@@ -39,7 +39,7 @@ tags:
 - Rab: trust in data - high-level challenge of how data fidelity changes as it is passed down the line and manipulated.
 - [[David Butler]] - DESC
 	- Aim is to demonstrate the value of data throughout the supply chain, starting with capture, transmission and analysis; trusted generation, acquisition and transfer of data through the supply chain.
-	- NPL: I4.0 process control demonstrator in a Scotland distillery; I4.0 implementation in Huddersfield, low-cost system with traceability back to standards.
+	- NPL: I4.0 process control demonstrator in a Scotland distillery; I4.0 implementation in [[University of Huddersfield|Huddersfield]], low-cost system with traceability back to standards.
 	- Demonstrators: comparability and traceability of sensors at different price points.
 	- Programme overview includes data distribution / distributed time-stamping.
 	- Uncertainty software (NPL Glasgow): trying to maintain granularity of data sets leading to a single output data point - is anything lost in the process, and what can be learnt from the intermittent data?

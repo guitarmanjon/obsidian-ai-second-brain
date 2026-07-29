@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Planning session for an upcoming AI workshop.
+- Planning session for an upcoming [[AI]] workshop.
 
 ## Key Discussion Points
 

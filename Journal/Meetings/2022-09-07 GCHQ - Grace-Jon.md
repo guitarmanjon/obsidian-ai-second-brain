@@ -12,12 +12,12 @@ tags:
 
 ## Purpose
 
-- Clarify value proposition for companies (specifically Airbus) participating in the GCHQ project.
+- Clarify value proposition for companies (specifically [[Airbus]]) participating in the GCHQ project.
 
 ## Key Discussion Points
 
 - Question of what companies get in return for participating in the GCHQ project.
-- Airbus specifically asking about this.
+- [[Airbus]] specifically asking about this.
 - [[JS]] divulged information on where AMRC machine tools are used across the UK.
 
 ## Decisions

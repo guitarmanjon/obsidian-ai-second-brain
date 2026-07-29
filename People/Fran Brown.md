@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Fran Brown]] - Digital Manufacturing Manager for SMR, R-R SMR
+- [[Fran Brown]] - Digital Manufacturing Manager for SMR, [[Rolls-Royce|R-R]] SMR
 
 ## Notes
 

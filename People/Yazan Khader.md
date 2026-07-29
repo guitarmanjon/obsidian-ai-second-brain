@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Yazan Khader]]'s dissertation: "I4.0 and SMEs" - barriers to implementation of Industry 4.0 for local SMEs, comparing local and national SMEs in terms of barriers (expertise, resources, lack of understanding), informed by the Made Smarter review.
+- [[Yazan Khader]]'s dissertation: "I4.0 and SMEs" - barriers to implementation of Industry 4.0 for local SMEs, comparing local and national SMEs in terms of barriers (expertise, resources, lack of understanding), informed by the [[Made Smarter]] review.
 - Start-up visa: [[Yazan Khader]] coming back to UK on a start-up visa, can work alongside unrestricted hours - 2-year visa for recent graduates of UK universities.
 
 ## Notes

@@ -13,11 +13,11 @@ tags:
 - [[Lynsay Callaghan|Lynsay C]]
 - [[David M]]
 - [[Ben Unett|Ben U]]
-- [[Andrew Cooney]] (IET Codes of Practice)
+- [[Andrew Cooney]] ([[IET]] Codes of Practice)
 
 ## Purpose
 
-- Regular IET Manufacturing TN committee meeting - event updates and a guest input from the IET Codes of Practice team.
+- Regular [[IET]] Manufacturing TN committee meeting - event updates and a guest input from the [[IET]] Codes of Practice team.
 
 ## Key Discussion Points
 
@@ -26,8 +26,8 @@ tags:
 - Events update:
   - Emerging tech - [[Chris Proudfoot|CP]] has found a keynote and a second speaker.
   - EV manufacturing - [[Paul Johnson|Paul]] not available.
-  - Digi man - [[Alex Godbehere]] confirmed to speak on Smart Factories; FourJaw interested but want to know the likely audience first; looking for other potential speakers (local tech companies / friendly manufacturers); [[Lynsay Callaghan|Lynsay]] to set up the event page.
-  - Manufacturing and AI - update from [[David]].
+  - Digi man - [[Alex Godbehere]] confirmed to speak on Smart Factories; [[Fourjaw|FourJaw]] interested but want to know the likely audience first; looking for other potential speakers (local tech companies / friendly manufacturers); [[Lynsay Callaghan|Lynsay]] to set up the event page.
+  - Manufacturing and [[AI]] - update from [[David]].
   - Apprentice prize - no update from [[DM]]; [[LC]] noted other groups have used this to attract non-traditional-route engineers.
   - Manufacturing on the moon - all on track.
   - Academic topics - [[Chris Proudfoot|CP]] talking to IfM in Cambridge.

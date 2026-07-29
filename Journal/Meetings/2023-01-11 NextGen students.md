@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[Guy]] (HoD for Comp Sci)
-- [[Haiping Lu]] (Leading Turing activities)
+- [[Haiping Lu]] (Leading [[Alan Turing Institute|Turing]] activities)
 - [[Tom H]]
 - [[Jon S]]
 - [[Rab S]]

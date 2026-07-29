@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Session on the digitalisation forward plan for the Boeing KTP.
+- Session on the digitalisation forward plan for the [[Boeing]] KTP.
 
 ## Key Discussion Points
 

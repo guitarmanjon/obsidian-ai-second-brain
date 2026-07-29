@@ -30,8 +30,8 @@ tags:
 - [x] [[Harry Burroughes|Harry]] - [[Kevin]] + [[Grace]]
     - Regrade, new roles, timeline?
     - Slacked [[Harry Burroughes|Harry]], waiting response.
-- [x] Check GPSRC CfS for AI vs ML.
-    - ML is fine.
+- [x] Check GPSRC CfS for [[AI]] vs [[Machine Learning|ML]].
+    - [[Machine Learning|ML]] is fine.
 - [x] [[Andy Barnett]] re: KTP
     - DCB replied, meeting on 27/2
 - [x] [[Andy]] @ Stirling re: course dates.

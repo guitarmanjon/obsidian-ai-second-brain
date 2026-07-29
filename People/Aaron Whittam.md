@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Aaron Whittam]] - Metrologist, IoT, I4.0, low-cost sensors, NPL Huddersfield
+- [[Aaron Whittam]] - Metrologist, IoT, I4.0, low-cost sensors, NPL [[University of Huddersfield|Huddersfield]]
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Boeing-side supervisor for the Machining KTP Associate, alongside Sean; requested detailed 3-year planning from the Associate.
+- [[Boeing]]-side supervisor for the Machining KTP Associate, alongside Sean; requested detailed 3-year planning from the Associate.
 
 ## Notes
 

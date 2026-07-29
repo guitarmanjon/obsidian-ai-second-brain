@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Chair's report: [[Denzil]] gave an update on the Boeing global situation. Strike action in the US has ended, so Boeing Portland (Boeing Sheffield's main customer) need parts by January 2025. New leader of Boeing Sheffield - [[Tyson Rawls]] (surname spelling uncertain).
+- Chair's report: [[Denzil]] gave an update on the [[Boeing]] global situation. Strike action in the US has ended, so [[Boeing]] Portland ([[Boeing]] Sheffield's main customer) need parts by January 2025. New leader of [[Boeing]] Sheffield - [[Tyson Rawls]] (surname spelling uncertain).
 
 ## Notes
 

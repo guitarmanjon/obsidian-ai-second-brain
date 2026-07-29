@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Give [[Adrian Hirst]] and [[Ross Caddens]] a brief overview of the ongoing Siemens R&D projects.
+- Give [[Adrian Hirst]] and [[Ross Caddens]] a brief overview of the ongoing [[Siemens]] R&D projects.
 - Brief overview of the projects for [[Adrian Hirst]]'s and [[Ross Caddens]]'s benefit.
 
 ## Notes

@@ -22,7 +22,7 @@ tags:
 - What does she want:
   - Almost like a senior TF role.
   - What's the focus?
-  - Ethical AI, safety around it, regulation.
+  - Ethical [[AI]], safety around it, regulation.
 
 ## Decisions
 

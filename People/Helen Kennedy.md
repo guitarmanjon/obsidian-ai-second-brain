@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield, Professor of Digital Society. CMI Advisory Board member.
+- [[University of Sheffield]], Professor of Digital Society. CMI Advisory Board member.
 
 ## Notes
 

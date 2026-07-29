@@ -16,7 +16,7 @@ tags:
 
 ## Key Discussion Points
 
-- Idea: tagging data at source as sensitive using Factory+, automating sensitivity labelling in a TRE/SDE.
+- Idea: tagging data at source as sensitive using Factory+, automating sensitivity labelling in a TRE/[[Secure Data Environment|SDE]].
 - Idea: use of synthetic data.
 
 ## Decisions

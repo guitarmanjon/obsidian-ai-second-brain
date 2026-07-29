@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Richard King]], every week or two — Head of Manufacturing in Aero etc., UK.
-- Amido's non-exec is talking to [[Rina Ladva|Rina]] at MS about credits for AMRC to work with Amido and build a demonstrator — possibly leave this enquiry for now, based on this call's conversation. [[Rab S|Rab]] talks to [[Rina Ladva|Rina]] every ~6 weeks, and [[Richard King|Richard]] every week.
+- [[Amido]]'s non-exec is talking to [[Rina Ladva|Rina]] at MS about credits for AMRC to work with [[Amido]] and build a demonstrator — possibly leave this enquiry for now, based on this call's conversation. [[Rab S|Rab]] talks to [[Rina Ladva|Rina]] every ~6 weeks, and [[Richard King|Richard]] every week.
 
 ## Notes
 

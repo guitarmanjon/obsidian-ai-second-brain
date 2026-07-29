@@ -13,14 +13,14 @@ tags:
 
 ## Purpose
 
-- Requirement is for a tech scan of AI / vision tech in manufacturing.
+- Requirement is for a tech scan of [[AI]] / vision tech in manufacturing.
 
 ## Key Discussion Points
 
 - Eventual use of the tech is on UAVs for finding and deciding on seaborne targets.
 - Scan expected to take 3-4 days of work, with a presentation as output.
 - Potentially more work in the future.
-- A workshop is planned with other consortium members, including Turing.
+- A workshop is planned with other consortium members, including [[Alan Turing Institute|Turing]].
 
 ## Decisions
 

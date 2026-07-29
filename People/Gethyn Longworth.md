@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R Subs: [[Ian Frearson]], [[Gethyn Longworth]] (Solution Architect IT, R-R Subs, MES, Data, AI, PLM), [[Jonathan Lee]] (R-R digital), [[Matthew Milner]] (Ops Improvement manager, MES deployment), [[Nikita Minhas]] (Digital Manufacturing R-R Subs - new facilities and MES)
+- [[Rolls-Royce|R-R]] Subs: [[Ian Frearson]], [[Gethyn Longworth]] (Solution Architect IT, [[Rolls-Royce|R-R]] Subs, [[MES]], Data, [[AI]], [[PLM]]), [[Jonathan Lee]] ([[Rolls-Royce|R-R]] digital), [[Matthew Milner]] (Ops Improvement manager, [[MES]] deployment), [[Nikita Minhas]] (Digital Manufacturing [[Rolls-Royce|R-R]] Subs - new facilities and [[MES]])
 
 ## Notes
 

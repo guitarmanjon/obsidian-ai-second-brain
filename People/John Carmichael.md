@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Mentioned [[John Carmichael]] and possible Sellafield work with NAMRC.
+- Mentioned [[John Carmichael]] and possible Sellafield work with [[Nuclear AMRC|NAMRC]].
 - IO-Link sensors - [[John Carmichael]].
 
 ## Notes

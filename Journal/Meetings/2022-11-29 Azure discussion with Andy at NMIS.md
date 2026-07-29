@@ -7,16 +7,16 @@ tags:
 
 ## Attendees
 
-- [[Andrew Hamilton|Andy]] (NMIS)
+- [[Andrew Hamilton|Andy]] ([[NMIS]])
 - [[JS]] (inferred)
 
 ## Purpose
 
-- Brief discussion with Andy at NMIS about standardising data/analytics tooling across HVMC.
+- Brief discussion with Andy at [[NMIS]] about standardising data/analytics tooling across [[HVMC]].
 
 ## Key Discussion Points
 
-- Databricks discussed as a standard tool across HVMC.
+- [[Databricks]] discussed as a standard tool across [[HVMC]].
 - Anaconda Project mentioned.
 
 ## Decisions

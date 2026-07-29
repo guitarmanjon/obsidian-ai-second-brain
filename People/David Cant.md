@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Siemens: [[David Cant]], [[Tilman Resch]], [[Mark Coombs|Mark]] (Coombs?)
+- [[Siemens]]: [[David Cant]], [[Tilman Resch]], [[Mark Coombs|Mark]] (Coombs?)
 
 ## Notes
 

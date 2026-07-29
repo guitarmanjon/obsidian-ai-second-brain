@@ -7,19 +7,19 @@ tags:
 
 ## Attendees
 
-- [[Charles Tivey]] - Siemens Aero team
-- [[Jamie Smith]] - Tech Lead for modelling (Siemens)
-- [[Nicolai Riedl]] - Siemens Aerospace team, Germany
-- [[Rob Poyner]] - Siemens R-R account manager
-- [[Alastair Orchard]] - Siemens Innovation Labs, Digitalisation Teams, based in Italy
-- [[Piero Orlando]] - Siemens, works with Alastair, Aerospace and complex manufacturing
-- [[Joe Morrison]] - R-R SMR Manufacturing Engineering
-- [[Roger Hayes]] - R-R SMR Digital Manufacturing Manager
+- [[Charles Tivey]] - [[Siemens]] Aero team
+- [[Jamie Smith]] - Tech Lead for modelling ([[Siemens]])
+- [[Nicolai Riedl]] - [[Siemens]] Aerospace team, Germany
+- [[Rob Poyner]] - [[Siemens]] [[Rolls-Royce|R-R]] account manager
+- [[Alastair Orchard]] - [[Siemens]] Innovation Labs, Digitalisation Teams, based in Italy
+- [[Piero Orlando]] - [[Siemens]], works with Alastair, Aerospace and complex manufacturing
+- [[Joe Morrison]] - [[Rolls-Royce|R-R]] SMR Manufacturing Engineering
+- [[Roger Hayes]] - [[Rolls-Royce|R-R]] SMR Digital Manufacturing Manager
 - [[JS]]
 
 ## Purpose
 
-- Introductory meeting between Siemens and Rolls-Royce (R-R) teams to explore Siemens' BOPEX product (Bill of Process Execution) and its potential links to AMRC work.
+- Introductory meeting between [[Siemens]] and [[Rolls-Royce]] ([[Rolls-Royce|R-R]]) teams to explore [[Siemens]]' BOPEX product (Bill of Process Execution) and its potential links to AMRC work.
 
 ## Key Discussion Points
 

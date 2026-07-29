@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Visit relating to R-R Controls (no further detail recorded).
+- Visit relating to [[Rolls-Royce|R-R]] Controls (no further detail recorded).
 
 ## Key Discussion Points
 

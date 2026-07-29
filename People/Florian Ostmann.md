@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Florian Ostmann]] presented on the AI Standards Hub.
+- [[Florian Ostmann]] presented on the [[AI]] Standards Hub.
 
 ## Notes
 

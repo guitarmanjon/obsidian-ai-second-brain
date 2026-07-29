@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield. Contact re: FlameGPU. Castings flagged as another potential contact point for him.
+- [[University of Sheffield]]. Contact re: FlameGPU. Castings flagged as another potential contact point for him.
 
 ## Notes
 

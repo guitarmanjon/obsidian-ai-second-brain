@@ -12,7 +12,7 @@ tags:
 - [[Javier Dominguez-Caballero|JDC]]
 - [[Rachel Yeung]]
 - [[Hassan Ghadbeigi]] (Mech. Eng.)
-- R-R: [[Jamie McGourlay|JMc]], [[Kyle Marshall]], [[Christopher Turton]], [[Gregor Kappmeier]] (joined 11:01)
+- [[Rolls-Royce|R-R]]: [[Jamie McGourlay|JMc]], [[Kyle Marshall]], [[Christopher Turton]], [[Gregor Kappmeier]] (joined 11:01)
 
 ## Purpose
 

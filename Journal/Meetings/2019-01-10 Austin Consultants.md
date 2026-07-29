@@ -26,7 +26,7 @@ tags:
 	- Originally LabVIEW consultants; NI Alliance Partner - potential collaboration opportunity with NI through AMRC.
 	- Work on test rigs, control and measurement, R&D and end-of-line, hardware-in-the-loop.
 	- Green Running was set up by Pete (MD) as an off-shoot - still works closely with Austin, but the two teams are kept as separate entities for IP/security reasons.
-		- Green Running: domestic device for analysing electricity usage (intelligent/AI/ML), and trading of renewable energy between consumers (solar) using tokens/bitcoin tech.
+		- Green Running: domestic device for analysing electricity usage (intelligent/[[AI]]/[[Machine Learning|ML]]), and trading of renewable energy between consumers (solar) using tokens/bitcoin tech.
 	- Austin looking at applying Green Running's domestic-market work to industry; interested in "Full Monty" concept, possibly as part of a consortium.
 	- 2019 roadmap for the next 1-5 years: electric vehicles, condition monitoring, data science.
 	- Relationship with AMRC is Austin-focused, not Green Running.

@@ -24,7 +24,7 @@ tags:
 - Review of previous courses that didn't land:
   - Data champions (with [[Eyup]]) - 2 days per week commitment, too much time for a company to give up, though those who attended got a lot out of it.
   - Bootcamps - funded by DoE, 16 weeks of learning hours which ended up equating to 2 days per week again; content was right but time commitment too much; those who did it got a lot out of it.
-  - AI micro-credentials (1 day courses) - Beatson Clarke (glass manufacture) has already sent 1-2 people, with more lined up.
+  - [[AI]] micro-credentials (1 day courses) - Beatson Clarke (glass manufacture) has already sent 1-2 people, with more lined up.
 
 ## Decisions
 

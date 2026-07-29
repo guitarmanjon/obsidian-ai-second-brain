@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **AutoAlign AI ([[Dan Adamson]], [[Mike Knobben]])**: AI supervisor that interacts with LLMs for safe, secure, reliable, and compliant dynamic interaction with LLMs. Emphasis on "AI Augmented workforce" rather than replacement of people with AI. Context-aware AI examples in wearables that understand a worker's current task context. Multimodal data angle - potential link-up with Hai Ping and UKOMAIN. Very open to R&D collaborations and signposting opportunities.
+- **AutoAlign [[AI]] ([[Dan Adamson]], [[Mike Knobben]])**: [[AI]] supervisor that interacts with [[LLM|LLMs]] for safe, secure, reliable, and compliant dynamic interaction with [[LLM|LLMs]]. Emphasis on "[[AI]] Augmented workforce" rather than replacement of people with [[AI]]. Context-aware [[AI]] examples in wearables that understand a worker's current task context. Multimodal data angle - potential link-up with Hai Ping and UKOMAIN. Very open to R&D collaborations and signposting opportunities.
 
 ## Notes
 

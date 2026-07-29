@@ -18,7 +18,7 @@ tags:
 
 - [[Brian Sheil]] presented on the EPSRC instrumentation for manufacturing bid, with overview slides on Oxford Intelligent Force Sensing.
 - Temperature is also measured by the device.
-- Any material can be used for the force sensors, as a result of the AI optimisation process.
+- Any material can be used for the force sensors, as a result of the [[AI]] optimisation process.
 - Civil engineering is the current use case.
 - EPSRC proposal is called SIGMA.
 - Southampton are working on an ultra low cost analyser - currently a drawback of the system.

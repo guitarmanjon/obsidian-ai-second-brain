@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- University of Sheffield, Computer Science (COM). Works on robotic skills for manufacturing - simulating robots vs real life, transfer of robot skills between robots, search-based testing. Colleagues from COM also involved in AMRC/IMG testing research collaborations: Donghwan Shin, Neil Walkinshaw, Robert Hierons, Jose Miguel Rojas.
+- [[University of Sheffield]], Computer Science (COM). Works on robotic skills for manufacturing - simulating robots vs real life, transfer of robot skills between robots, search-based testing. Colleagues from COM also involved in AMRC/IMG testing research collaborations: Donghwan Shin, Neil Walkinshaw, Robert Hierons, Jose Miguel Rojas.
 
 ## Notes
 

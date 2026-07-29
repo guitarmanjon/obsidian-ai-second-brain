@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tim Underwood]] (Boeing R&T) is at Boeing Sheffield for network architecture; [[Gary Hilton]] is Head of IT there.
-- [[Rui Morreira]] will make introductions between AMRC and key Boeing contacts ([[Paul Davies]], [[Gary Hilton]]) to allow progress — note that RM will shortly be leaving Boeing.
-- [[Rui Morreira]] is leaving Boeing shortly to head back to Portugal; will pass on contacts. [[Paul Davies]] is the key contact and is very interested in IO-Link, wanting to see it happen in Seattle. [[Gary Hilton]] from Boeing UK also flagged.
+- [[Tim Underwood]] ([[Boeing]] R&T) is at [[Boeing]] Sheffield for network architecture; [[Gary Hilton]] is Head of IT there.
+- [[Rui Morreira]] will make introductions between AMRC and key [[Boeing]] contacts ([[Paul Davies]], [[Gary Hilton]]) to allow progress — note that RM will shortly be leaving [[Boeing]].
+- [[Rui Morreira]] is leaving [[Boeing]] shortly to head back to Portugal; will pass on contacts. [[Paul Davies]] is the key contact and is very interested in IO-Link, wanting to see it happen in Seattle. [[Gary Hilton]] from [[Boeing]] UK also flagged.
 
 ## Notes
 

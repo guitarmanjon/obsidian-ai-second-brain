@@ -23,7 +23,7 @@ tags:
   - PM&C introductions given.
 - How to improve Accenture links and tours at AMRC:
   - [[JS]] gave an overview presentation, with input from [[James Moore|JM]] on NGV.
-  - Discussion of Sinumerik Edge (Siemens/Microsoft product engineering) - how to make that data more available and get more use out of cloud-based solutions; potential to tap into Microsoft and Siemens software dev teams, including contact with [[Sam George]] at Microsoft (Head of IoT).
+  - Discussion of [[Sinumerik]] Edge ([[Siemens]]/Microsoft product engineering) - how to make that data more available and get more use out of cloud-based solutions; potential to tap into Microsoft and [[Siemens]] software dev teams, including contact with [[Sam George]] at Microsoft (Head of IoT).
   - MWH asked how to get better/real data into Accenture demos - Full Monty data will be open; monitoring discussed at different levels (micro, meso, macro).
   - JB raised the question of barriers to connectivity.
 - Output from the collaboration ([[SO]]):

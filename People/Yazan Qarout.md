@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Yazan Qarout]] called to discuss AMRC's involvement in "Accelerating AI Testing and Validation...".
-- [[Yazan Qarout]] is tech leading, Theme Lead for AI in the Digital team at MTC.
+- [[Yazan Qarout]] called to discuss AMRC's involvement in "Accelerating [[AI]] Testing and Validation...".
+- [[Yazan Qarout]] is tech leading, Theme Lead for [[AI]] in the Digital team at [[MTC]].
 
 ## Notes
 

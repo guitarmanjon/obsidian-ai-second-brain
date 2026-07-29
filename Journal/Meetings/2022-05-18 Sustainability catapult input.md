@@ -29,7 +29,7 @@ tags:
   - Analytics side considered more important than fast data collection.
   - Concept likened to a "smart meter" for a machine tool or other asset.
 - Discussion on where to trial these black boxes:
-  - AMRC Cymru - whole-cell metering of internal and external power, with links between the two; Cymru have a food cell that is suitable.
+  - [[AMRC Cymru]] - whole-cell metering of internal and external power, with links between the two; Cymru have a food cell that is suitable.
   - Multi-axis machine tool candidate: WFL M30 with SINUMERIK Edge, though flagged as possibly too complex.
 
 ## Decisions

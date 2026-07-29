@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Contacted [[Andrew Martin]] at AMRC Cymru and [[Mark Taylor]] at CPI for thoughts/input.
+- Contacted [[Andrew Martin]] at [[AMRC Cymru]] and [[Mark Taylor]] at [[CPI]] for thoughts/input.
 
 ## Notes
 

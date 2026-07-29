@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Stephanie Harfensteller]] (Aachen) — AI leadership in manufacturing; not leading, more a core member or WP lead; linked to AI excellence and the Jupiter AI factory.
+- [[Stephanie Harfensteller]] (Aachen) — [[AI]] leadership in manufacturing; not leading, more a core member or WP lead; linked to [[AI]] excellence and the Jupiter [[AI]] factory.
 
 ## Notes
 

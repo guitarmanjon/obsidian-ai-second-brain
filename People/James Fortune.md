@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact flagged as needing involvement on AI work (WP4), particularly around Donka's area.
+- [[Rolls-Royce]] contact flagged as needing involvement on [[AI]] work (WP4), particularly around Donka's area.
 
 ## Notes
 

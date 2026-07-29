@@ -16,9 +16,9 @@ tags:
 ## Key Discussion Points
 
 - Overview of cutting tech remit, including developing a process monitoring standard library.
-- Machine tools in scope: Cincinnati H5 (Siemens 840D SL) - data collection method still open; DMU EVO 40 5-axis (Heidenhain 640) - RemoTools SDK for comms.
+- Machine tools in scope: Cincinnati H5 ([[Siemens]] 840D SL) - data collection method still open; DMU EVO 40 5-axis (Heidenhain 640) - RemoTools SDK for comms.
 - Milling is the focus area; also notes on tidal power generation.
-- Pulling OMI data straight from machine tools, using Renishaw cycles.
+- Pulling [[On-Machine Inspection|OMI]] data straight from machine tools, using [[Renishaw]] cycles.
 - Master part used for comparison inspection.
 - MSP used for feature inspection, as opposed to just part alignment.
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Gerd Heinrich]] / [[Oli Hayes]] - (Arrange a session to discuss composite quality evaluation, referencing Siemens' prior work with Airbourne in the Netherlands.)
+- [[Gerd Heinrich]] / [[Oli Hayes]] - (Arrange a session to discuss composite quality evaluation, referencing [[Siemens]]' prior work with Airbourne in the Netherlands.)
 
 ## Notes
 

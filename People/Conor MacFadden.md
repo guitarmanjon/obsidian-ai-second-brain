@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- NMIS. From the digital machining team - developing use cases for data capture, and discussing why capture at certain rates, since application of data defines data rates.
+- [[NMIS]]. From the digital machining team - developing use cases for data capture, and discussing why capture at certain rates, since application of data defines data rates.
 - [[Rab]] - (Link up [[Conor MacFadden]] with the Factory+ team).
 
 ## Notes

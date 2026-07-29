@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Jonathan Archer]] (National Sales Manager, Renishaw)
+- [[Jonathan Archer]] (National Sales Manager, [[Renishaw]])
 - Little content was captured beyond attendee roles: [[Jonathan Archer]] (national sales manager) and [[Tim Mitchell]] (account manager for MT OEMs).
 
 ## Notes

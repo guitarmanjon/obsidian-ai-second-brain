@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Involved in IET webinar planning around Small Modular Reactors (SMR) and modular manufacturing for housing.
+- Involved in [[IET]] webinar planning around Small Modular Reactors (SMR) and modular manufacturing for housing.
 
 ## Notes
 

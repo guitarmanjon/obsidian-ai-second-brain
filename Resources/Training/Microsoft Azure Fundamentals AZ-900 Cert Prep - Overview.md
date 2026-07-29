@@ -8,7 +8,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Summary
 
-- This is the course-level note for the **Microsoft Azure Fundamentals AZ-900 Cert Prep** course, a LinkedIn Learning course from Microsoft Press and Jim Cheshire.
+- This is the course-level note for the **Microsoft [[Azure]] Fundamentals AZ-900 Cert Prep** course, a LinkedIn Learning course from Microsoft Press and Jim Cheshire.
 - The detailed content is captured in the separate Module 1, 2, and 3 notes linked below.
 
 ## Key Takeaways

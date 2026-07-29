@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Sheffield Hallam University (SHU). Works on plasma surface engineering/PVD; usually found alongside James Bradley (University of Liverpool) on EPSRC proposal work (AI-based Digital Twin for Sustainable and Responsive Plasma Surface Manufacturing).
+- [[Sheffield Hallam University]] ([[Sheffield Hallam University|SHU]]). Works on plasma surface engineering/PVD; usually found alongside James Bradley (University of Liverpool) on EPSRC proposal work ([[AI]]-based [[Digital Twin]] for Sustainable and Responsive Plasma Surface Manufacturing).
 - Note: often referred to informally as "Harry" in notes - do not confuse with Harry Burroughes (AMRC).
 
 ## Notes

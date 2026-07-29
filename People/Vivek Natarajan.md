@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- *[[Vivek Natarajan]] - Google DeepMind - "Accelerating Science + Medicine with Collaborative AI Agents"**
+- *[[Vivek Natarajan]] - Google DeepMind - "Accelerating Science + Medicine with Collaborative [[AI]] Agents"**
 
 ## Notes
 

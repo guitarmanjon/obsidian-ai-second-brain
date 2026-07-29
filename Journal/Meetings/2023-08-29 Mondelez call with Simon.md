@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Call with [[Simon Edwards|Simon]] regarding Mondelez.
+- Call with [[Simon Edwards|Simon]] regarding [[Mondelez]].
 
 ## Key Discussion Points
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **[[Christos Christodoulopoulos]] - The Language of Responsible AI**
+- **[[Christos Christodoulopoulos]] - The Language of Responsible [[AI]]**
 
 ## Notes
 

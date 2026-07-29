@@ -12,11 +12,11 @@ tags:
 
 ## Purpose
 
-- Catch-up call to discuss ARIA and the AI strategy workshop.
+- Catch-up call to discuss ARIA and the [[AI]] strategy workshop.
 
 ## Key Discussion Points
 
-- Agenda items for discussion: ARIA; AI strategy workshop. (No further detail on the discussion itself was captured.)
+- Agenda items for discussion: ARIA; [[AI]] strategy workshop. (No further detail on the discussion itself was captured.)
 
 ## Decisions
 

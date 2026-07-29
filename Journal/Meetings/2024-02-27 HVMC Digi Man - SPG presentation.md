@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- SPG presentation on the HVMC Digital Manufacturing programme.
+- SPG presentation on the [[HVMC]] Digital Manufacturing programme.
 
 ## Key Discussion Points
 

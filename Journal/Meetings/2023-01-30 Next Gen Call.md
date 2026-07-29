@@ -17,7 +17,7 @@ tags:
 
 - Course (name transcribed as "Eyup" - unclear): let companies know the gist of the course; no need for A-level maths; do we have phone numbers?
 - What is outstanding?
-- Companies for Razor:
+- Companies for [[Razor]]:
   - CWF + Sterling done
   - Stanley B+D?
   - 2 more... Sylatech (in North Yorks?)
@@ -25,7 +25,7 @@ tags:
 - ARMEG - ghosting us; no machine details given to [[FJ]]
 - Lesson learnt - freebies = flakes
 - Vendors:
-  - Magellan as potential for Razor
+  - Magellan as potential for [[Razor]]
   - Henllan(?) Bakery - can't facilitate a DS course
   - Additional sensor tech - see [[James Robson]] spreadsheet
 

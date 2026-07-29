@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- EyUp Data Science second cohort discussion.
+- EyUp [[Data Science]] second cohort discussion.
 
 ## Key Discussion Points
 

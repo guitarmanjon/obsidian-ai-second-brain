@@ -13,15 +13,15 @@ tags:
 
 ## Purpose
 
-- Catch up with Siemens on outcomes from their recent MetLase visit and status of Industrial Edge / Brownfield Connector.
+- Catch up with [[Siemens]] on outcomes from their recent MetLase visit and status of Industrial Edge / Brownfield Connector.
 
 ## Key Discussion Points
 
-- After AMRC's visit, the Siemens team went to MetLase. Products of interest included:
+- After AMRC's visit, the [[Siemens]] team went to MetLase. Products of interest included:
   - Smart fixturing - instant feedback, quarantining.
   - "Elements".
-- Siemens and MetLase potentially going to work together to industrialise some of MetLase's solutions, using Siemens hardware - "Smart Bench". Industrial Edge use cases also involved.
-- SINUMERIK Edge use at AMRC - on the R-R project; [[Nat]] more familiar with available applications.
+- [[Siemens]] and MetLase potentially going to work together to industrialise some of MetLase's solutions, using [[Siemens]] hardware - "Smart Bench". Industrial Edge use cases also involved.
+- SINUMERIK Edge use at AMRC - on the [[Rolls-Royce|R-R]] project; [[Nat]] more familiar with available applications.
 - Brownfield Connector - progress being made.
 
 ## Decisions

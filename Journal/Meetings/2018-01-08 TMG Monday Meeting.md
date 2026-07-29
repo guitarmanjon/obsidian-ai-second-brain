@@ -15,8 +15,8 @@ tags:
 
 ## Key Discussion Points
 
-- Boeing in on Thursday for an I4.0 meeting.
-- Siemens session on Wednesday - need to find a delegate.
+- [[Boeing]] in on Thursday for an I4.0 meeting.
+- [[Siemens]] session on Wednesday - need to find a delegate.
 
 ## Decisions
 
@@ -24,4 +24,4 @@ tags:
 
 ## Action Items
 
-- [[JS]] - (Find a delegate for the Wednesday Siemens session)
+- [[JS]] - (Find a delegate for the Wednesday [[Siemens]] session)

@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Working session on Fusion (CAD/CAM) work with [[Daniela]].
+- Working session on Fusion (CAD/[[CAM]]) work with [[Daniela]].
 
 ## Key Discussion Points
 

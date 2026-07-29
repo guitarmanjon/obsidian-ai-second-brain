@@ -23,7 +23,7 @@ tags:
 - Testbeds planned for:
   - I2.0 — legacy tools in F2050, improved dashboards and analytics.
   - I3.0 — "Full Monty," align with ABG, integrate into Factory+, generate datasets for perfect parts.
-  - I4.0 — Sinumerik Edge on Starrag NB & ARMS (Titan).
+  - I4.0 — [[Sinumerik]] Edge on Starrag NB & ARMS (Titan).
   - A holistic testbed using the various cells in F2050 and the BMS.
 - Other points:
   - Costings are set; actual details of scope can be adjusted.

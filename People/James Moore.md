@@ -10,8 +10,8 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Worked on the JLR project referenced in Boeing KTP discussions; also involved in Siemens BFC connectivity work and Boeing inspection-data discussions.
-- PM&C/IMG team member, described as a capable, well-rounded Tech Lead; moved from TMG to IMG. Worked on MP2.3 OMI work, robotics/PLM (Kuka), and data science (Python, HySaaS).
+- Worked on the JLR project referenced in [[Boeing]] KTP discussions; also involved in [[Siemens]] BFC connectivity work and [[Boeing]] inspection-data discussions.
+- PM&C/IMG team member, described as a capable, well-rounded Tech Lead; moved from TMG to IMG. Worked on MP2.3 [[On-Machine Inspection|OMI]] work, robotics/[[PLM]] (Kuka), and data science (Python, HySaaS).
 
 ## Notes
 

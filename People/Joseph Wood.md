@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Cambridge/Turing supply-chain collaboration context, alongside Praveen Vishwakarma, Mohsin Farhat, Zohaib Farhat, Victor Shi.
+- Cambridge/[[Alan Turing Institute|Turing]] supply-chain collaboration context, alongside Praveen Vishwakarma, Mohsin Farhat, Zohaib Farhat, Victor Shi.
 
 ## Notes
 

@@ -11,7 +11,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Objective
 
-- Build a strategic partnership between UoS (including the AMRC) and IIT Bombay around AI for Manufacturing, bridging the Centre for Machine Intelligence (CMI) at UoS and the Centre for Machine Intelligence and Data Science (C-MInDS) at IITB. Driven by a top-down mandate from UoS senior leadership recognising IITB as a key strategic global partner, catalysed by a recent visit of IITB academics to Sheffield. Immediate goal: formalise the partnership via a UoS/AMRC delegation trip to Mumbai in October 2026, synchronised with the Northern Mayors India Trade Mission (South Yorkshire Mayor [[Oliver Coppard]]).
+- Build a strategic partnership between [[University of Sheffield|UoS]] (including the AMRC) and IIT Bombay around [[AI]] for Manufacturing, bridging the Centre for Machine Intelligence (CMI) at [[University of Sheffield|UoS]] and the Centre for Machine Intelligence and [[Data Science]] (C-MInDS) at IITB. Driven by a top-down mandate from [[University of Sheffield|UoS]] senior leadership recognising IITB as a key strategic global partner, catalysed by a recent visit of IITB academics to Sheffield. Immediate goal: formalise the partnership via a [[University of Sheffield|UoS]]/AMRC delegation trip to Mumbai in October 2026, synchronised with the Northern Mayors India Trade Mission (South Yorkshire Mayor [[Oliver Coppard]]).
 
 ## Key Results
 
@@ -23,7 +23,7 @@ last updated: 2026-07-27T00:00:00
 ## Stakeholders
 
 - [[Oliver Coppard]] - South Yorkshire Mayor; provides political capital and a ceremonial sign-off moment during the Mumbai trip, as part of the Northern Mayors India Trade Mission.
-- UoS academic delegation + AMRC engineers - travelling to Mumbai in October (individuals not yet named in source material).
+- [[University of Sheffield|UoS]] academic delegation + AMRC engineers - travelling to Mumbai in October (individuals not yet named in source material).
 - IITB C-MInDS academics - partner institution counterparts.
 - Potential local industrial partners for Day 2 of the Mumbai workshop: Tata Group, Mahindra & Mahindra, Godrej Advanced Technologies.
 
@@ -31,7 +31,7 @@ last updated: 2026-07-27T00:00:00
 
 ### Current Status
 
-- 2026-07-27 - Strategic assessment/briefing blueprint captured, covering: background and mandate; AMRC/UoS strengths (Factory+, data-centric manufacturing ideologies, industrial AI track record, the COMPASS testbed); the unique value proposition to IITB (high-TRL translation, high-fidelity structured data via Factory+, the COMPASS Secure Data Environment for sensitive IP); three "clear winner" collaboration pathways (a cross-border transnational data space / shared metadata ontologies; federated learning for defect detection inside the COMPASS SDE; multilingual production assistants combining AMRC shop-floor knowledge with IITB's NLP expertise); and a proposed 3-day Mumbai workshop structure (Day 1 technical/architecture scoping; Day 2 industrial partner integration; Day 3 political capitalisation and LoI sign-off with the Mayor).
+- 2026-07-27 - Strategic assessment/briefing blueprint captured, covering: background and mandate; AMRC/[[University of Sheffield|UoS]] strengths (Factory+, [[Data Centric Manufacturing|data-centric manufacturing]] ideologies, industrial [[AI]] track record, the COMPASS testbed); the unique value proposition to IITB (high-TRL translation, high-fidelity structured data via Factory+, the COMPASS [[Secure Data Environment]] for sensitive IP); three "clear winner" collaboration pathways (a cross-border transnational data space / shared metadata ontologies; federated learning for defect detection inside the COMPASS [[Secure Data Environment|SDE]]; multilingual production assistants combining AMRC shop-floor knowledge with IITB's NLP expertise); and a proposed 3-day Mumbai workshop structure (Day 1 technical/architecture scoping; Day 2 industrial partner integration; Day 3 political capitalisation and LoI sign-off with the Mayor).
 
 ### Decisions Made
 
@@ -40,7 +40,7 @@ last updated: 2026-07-27T00:00:00
 ### Blockers
 
 - Cross-border data governance and export-control questions (IP, aerospace/defence sensitivity) are flagged as needing to be mapped out during Day 1 breakout sessions in Mumbai - not yet resolved.
-- Specific pilot project scope (e.g. exact metadata schema / Digital Twin pipeline target) not yet fixed - earmarked as a Day 2 co-authoring exercise.
+- Specific pilot project scope (e.g. exact metadata schema / [[Digital Twin]] pipeline target) not yet fixed - earmarked as a Day 2 co-authoring exercise.
 
 ## Related Journals
 
@@ -81,4 +81,4 @@ views:
 
 ## See Also
 
-- [[AI for Manufacturing]] - broader AI-for-manufacturing coordination project across AMRC/UoS/CMI/HVMC; this partnership is a distinct, India-specific thread rather than one of its coordination "pods".
+- [[AI for Manufacturing]] - broader [[AI]]-for-manufacturing coordination project across AMRC/[[University of Sheffield|UoS]]/CMI/[[HVMC]]; this partnership is a distinct, India-specific thread rather than one of its coordination "pods".

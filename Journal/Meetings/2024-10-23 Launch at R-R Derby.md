@@ -8,12 +8,12 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]], [[Cansu Kandemir|CK]]
-- MTC: [[Tom Cockerill]], [[Agata Suwala]], [[Steve Cartwright]]
-- R-R: [[Dave Baty]], [[Jamie McGourlay|Jamie McG]], [[Matt Chamberlain]], [[Daniel Nock]], [[Mark Heyman]]
+- [[MTC]]: [[Tom Cockerill]], [[Agata Suwala]], [[Steve Cartwright]]
+- [[Rolls-Royce|R-R]]: [[Dave Baty]], [[Jamie McGourlay|Jamie McG]], [[Matt Chamberlain]], [[Daniel Nock]], [[Mark Heyman]]
 
 ## Purpose
 
-- Launch meeting at Rolls-Royce Derby for the Factory of the Future (FoF) concept work, setting the scene on the key challenges the project needs to address.
+- Launch meeting at [[Rolls-Royce]] Derby for the Factory of the Future (FoF) concept work, setting the scene on the key challenges the project needs to address.
 
 ## Key Discussion Points
 

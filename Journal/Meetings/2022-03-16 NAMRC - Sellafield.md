@@ -21,7 +21,7 @@ tags:
 - Progress made over the last few weeks identifying the consortium.
 - Challenge remains around where to fund it from - a 30% limit applies on many funding calls for Universities/Research Organisations.
 - [[Datta]] has put together some tasks; Adamode are doing task 4.
-- Sellafield are interested in a cloud solution (AMRC Data Cloud) but want to know how secure it would be.
+- Sellafield are interested in a cloud solution ([[AMRC Data Cloud]]) but want to know how secure it would be.
 
 ## Decisions
 

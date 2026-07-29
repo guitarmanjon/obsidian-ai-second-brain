@@ -7,7 +7,7 @@ tags:
 
 ## Attendees
 
-- [[Steve Jones]] (Siemens)
+- [[Steve Jones]] ([[Siemens]])
 - [[Adam Brown]]
 - [[JS]]
 

@@ -12,7 +12,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Leads the Siemens relationship / testbed discussions at AMRC - see [[2026-02-16 Siemens Catch Up]]. Talks regularly with [[Paul Adams]] at Rolls-Royce.
+- Leads the [[Siemens]] relationship / testbed discussions at AMRC - see [[2026-02-16 Siemens Catch Up]]. Talks regularly with [[Paul Adams]] at [[Rolls-Royce]].
 
 ## Notes
 

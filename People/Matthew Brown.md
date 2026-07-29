@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - AMRC colleague, Machining Group / TMG.
-- Works on MISSY data analytics (forging, XRD, EngD) - found relationships between forging parameters and machining output using Kistler sensor data; the Kistler 9kHz signature reveals differences between different input forgings.
+- Works on [[MISSY]] data analytics (forging, XRD, EngD) - found relationships between forging parameters and machining output using Kistler sensor data; the Kistler 9kHz signature reveals differences between different input forgings.
 
 ## Notes
 

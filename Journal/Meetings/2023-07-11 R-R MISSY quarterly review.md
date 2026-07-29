@@ -8,12 +8,12 @@ tags:
 ## Attendees
 
 - AMRC: [[JS]]
-- R-R: [[Jamie McGourlay|Jamie]], [[Donka]], [[Kyle Marshall]], [[Steve Carter]], [[Steven Halliday]]
-- NMIS: [[Awais]], [[Sarini Jayasinghe|Sarini]]
+- [[Rolls-Royce|R-R]]: [[Jamie McGourlay|Jamie]], [[Donka]], [[Kyle Marshall]], [[Steve Carter]], [[Steven Halliday]]
+- [[NMIS]]: [[Awais]], [[Sarini Jayasinghe|Sarini]]
 
 ## Purpose
 
-- Quarterly review meeting for the Rolls-Royce MISSY project.
+- Quarterly review meeting for the [[Rolls-Royce]] [[MISSY]] project.
 
 ## Key Discussion Points
 

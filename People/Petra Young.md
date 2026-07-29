@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Petra Young]] from MS is leading an SMB engagement exercise in the area with Razor.
+- [[Petra Young]] from MS is leading an SMB engagement exercise in the area with [[Razor]].
 
 ## Notes
 

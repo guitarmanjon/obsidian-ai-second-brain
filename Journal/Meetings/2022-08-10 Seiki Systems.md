@@ -18,7 +18,7 @@ tags:
 
 - Original requirement (from JS's email): monitoring systems across 14 companies, 3 machines each, minimum requirement to monitor utilisation and capture downtime reasons via an operator tablet or similar; ideally cloud-hosted with API access; tight timescale of ~3 months.
 - Seiki AIR is on-premise only, but Seiki can supply an on-prem PC to meet the requirement.
-- Monitoring options include: current clamp, tapping into the traffic light signal tower, talking to the CNC via software protocol (e.g. MTConnect), or digital I/O (offers power-on, running, and alarm as a minimum).
+- Monitoring options include: current clamp, tapping into the traffic light signal tower, talking to the [[CNC]] via software protocol (e.g. MTConnect), or digital I/O (offers power-on, running, and alarm as a minimum).
 - Hardware installs (digital I/O, current clamp) take a day for 3 machines; other methods are remote.
 - Cost is per resource monitored, not per user: £2,000 starting point, £1,000 per module as needed, £250 per machine for machine data acquisition, plus cost per day for site visits.
 - No additional sensors currently on offer, though Seiki is looking at power monitoring.

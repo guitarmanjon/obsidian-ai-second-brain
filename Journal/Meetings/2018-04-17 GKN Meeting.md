@@ -9,7 +9,7 @@ tags:
 
 - [[JS]]
 - [[Gavin Hill]] (AMRC)
-- [[Khalid Nor]] (GKN)
+- [[Khalid Nor]] ([[GKN]])
 
 ## Purpose
 
@@ -17,7 +17,7 @@ tags:
 
 ## Key Discussion Points
 
-- October deadline driven by internal reviews at GKN; IMG can probably deliver by end of November.
+- October deadline driven by internal reviews at [[GKN]]; IMG can probably deliver by end of November.
 - Plan to get sensors involved in machining trials happening in June, using WFL and Starrag machines.
 - Parallel Kinematics machining (PKM) sensors: desktop study to make suggestions, to be combined with real data from WFL/Starrag.
 - Likely order of success (highest to lowest): Starrag, WFL, PKM.

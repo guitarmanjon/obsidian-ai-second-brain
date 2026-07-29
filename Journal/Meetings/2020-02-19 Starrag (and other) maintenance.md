@@ -19,7 +19,7 @@ tags:
 
 ## Purpose
 
-- To review maintenance and kinematic faults on Starrag (and other machine tools such as Ecospeed) and agree a machine health / method statement plan (MSP) going forward.
+- To review maintenance and kinematic faults on Starrag (and other machine tools such as Ecospeed) and agree a [[Machine Health Monitoring|machine health]] / method statement plan (MSP) going forward.
 
 ## Key Discussion Points
 
@@ -29,7 +29,7 @@ tags:
 - A method statement for MSP checks is required.
 
 ### 26/02/2020 Follow up
-- [[PK]] summarised the previous meeting, including machine health being covered in gate reviews.
+- [[PK]] summarised the previous meeting, including [[Machine Health Monitoring|machine health]] being covered in gate reviews.
 - MSP update:
   - Training booked in for end of March - needs to be communicated out.
   - [[Gareth Edwards|Gareth]] working on a patch for Ecospeed due to Windows XP (also relevant to other machines).

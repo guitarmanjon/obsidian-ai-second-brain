@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- HVMC call with [[Rab]] and [[Tehseen]]; no further detail was captured on this page.
+- [[HVMC]] call with [[Rab]] and [[Tehseen]]; no further detail was captured on this page.
 
 ## Key Discussion Points
 

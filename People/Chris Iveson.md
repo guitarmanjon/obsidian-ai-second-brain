@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Fourjaw Manufacturing Ltd. Connected with Robin on manufacturing data project work, resulting in the Fourjaw Manufacturing Analytics spin-out.
+- [[Fourjaw]] Manufacturing Ltd. Connected with Robin on manufacturing data project work, resulting in the [[Fourjaw]] Manufacturing Analytics spin-out.
 
 ## Notes
 

@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Technical collaboration: similar approach to Mini-MISSY - show Siemens developers the challenges being faced and get feedback/support. [[John Carroll]] at R-R (a sort of Steve Carter replacement) is looking at Insights Hub integration at R-R and could drop into AMRC occasionally to collaborate and give direction on how R-R will be using IH.
+- Technical collaboration: similar approach to Mini-[[MISSY]] - show [[Siemens]] developers the challenges being faced and get feedback/support. [[John Carroll]] at [[Rolls-Royce|R-R]] (a sort of Steve Carter replacement) is looking at Insights Hub integration at [[Rolls-Royce|R-R]] and could drop into AMRC occasionally to collaborate and give direction on how [[Rolls-Royce|R-R]] will be using IH.
 - [[John Carroll]] (Architect for Shop Floor)
 
 ## Notes

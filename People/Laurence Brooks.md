@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - [[Laurence Brooks]] has an MSc in Information Management from the Information School (iSchool).
-- [[Laurence Brooks]] joined the University of Sheffield (UoS) in September, previously at York, Brunel, and De Montfort.
+- [[Laurence Brooks]] joined the [[University of Sheffield]] ([[University of Sheffield|UoS]]) in September, previously at York, Brunel, and De Montfort.
 
 ## Notes
 

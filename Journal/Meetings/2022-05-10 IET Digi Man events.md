@@ -16,7 +16,7 @@ tags:
 ## Key Discussion Points
 
 - Networking event: what's needed to support it, format, numbers, catering, etc.; [[Gemma Hadley|Gemma]] talking to the marketing team.
-- Webinar series (needs linking with [[Judith Aspley|Judith]]): (1) Introductory - what do we mean by digital manufacturing? (overview - Prof Rab Scott; Produmax - Mandy Ridyard; TBC); (2) Enabling digital manufacturing (Smart Factory - Alex G?; data capture; data storage; opportunities for SMEs - FourJaw?; cybersecurity - Judith/Cyber Factory); (3) What to do with all the data? (AI, avoiding the hype - Prof Akeel Attar; TBC - Turing Fellow?; cross-business data, not just shop floor; NPL - Judith).
+- Webinar series (needs linking with [[Judith Aspley|Judith]]): (1) Introductory - what do we mean by digital manufacturing? (overview - Prof Rab Scott; [[Produmax]] - Mandy Ridyard; TBC); (2) Enabling digital manufacturing (Smart Factory - Alex G?; data capture; data storage; opportunities for SMEs - [[Fourjaw|FourJaw]]?; cybersecurity - Judith/Cyber Factory); (3) What to do with all the data? ([[AI]], avoiding the hype - Prof Akeel Attar; TBC - [[Alan Turing Institute|Turing]] Fellow?; cross-business data, not just shop floor; NPL - Judith).
 
 ## Decisions
 

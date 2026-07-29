@@ -14,16 +14,16 @@ tags:
 
 ## Purpose
 
-- Siemens Data Analysis Session, convened via [[Rob P.]].
+- [[Siemens]] Data Analysis Session, convened via [[Rob P.]].
 
 ## Key Discussion Points
 
-- NMIS - [[Awais]]; AMRC - [[Griza]].
+- [[NMIS]] - [[Awais]]; AMRC - [[Griza]].
 - Insights Hub is much more powerful than [[Nat]] + [[Rob P.]] realised.
-- AI for Everyone on Insights Hub + OEE Hub.
+- [[AI]] for Everyone on Insights Hub + OEE Hub.
 - Anomaly Detection on Industrial Edge.
-- [[Tim Pennington]] - specialist at Siemens.
-- MTC setting up an AI group with industrial members.
+- [[Tim Pennington]] - specialist at [[Siemens]].
+- [[MTC]] setting up an [[AI]] group with industrial members.
 
 ## Decisions
 

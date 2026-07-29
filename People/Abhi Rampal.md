@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- SolidstateAI contact; presented their Physics Enhanced Digital Twin (PeDT) concept, focused on manufacturing sparse datasets.
+- [[SolidstateAI]] contact; presented their Physics Enhanced [[Digital Twin]] (PeDT) concept, focused on manufacturing sparse datasets.
 
 ## Notes
 

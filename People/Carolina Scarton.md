@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- **[[Carolina Scarton]] - LLMs in Language processing tasks (good, bad + ugly)**
+- **[[Carolina Scarton]] - [[LLM|LLMs]] in Language processing tasks (good, bad + ugly)**
 
 ## Notes
 

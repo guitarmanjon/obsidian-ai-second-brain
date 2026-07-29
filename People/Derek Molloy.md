@@ -11,7 +11,7 @@ last updated: 2026-07-28T00:00:00
 ## Overview
 
 - Not explicitly listed - discussion involving [[Phil Ware]], [[RD]], [[Derek Molloy]], and [[Duncan Gibb]] (Edwards).
-- [[Derek Molloy]] noted Edwards are already using Azure and Databricks; security is of more interest to them than the architecture, which they're already familiar with.
+- [[Derek Molloy]] noted Edwards are already using [[Azure]] and [[Databricks]]; security is of more interest to them than the architecture, which they're already familiar with.
 
 ## Notes
 

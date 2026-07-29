@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Dave Dawson]]: proposed preliminary work with a base data set to understand the scale of the challenge; suggested this could be a shorter piece of work - 2 shorter projects, one on Montronix, one on probing.
-- Email from [[Dave Dawson]] preceding the call: BAE want to use real-time Montronix force measurement data to define grip length measurement, and also investigate probing down the hole vector for the same purpose. The telecom's objective was to understand the content of the SoW(s).
+- [[Dave Dawson]]: proposed preliminary work with a base data set to understand the scale of the challenge; suggested this could be a shorter piece of work - 2 shorter projects, one on Montronix, one on [[Probing|probing]].
+- Email from [[Dave Dawson]] preceding the call: [[BAE Systems|BAE]] want to use real-time Montronix force measurement data to define grip length measurement, and also investigate [[Probing|probing]] down the hole vector for the same purpose. The telecom's objective was to understand the content of the SoW(s).
 
 ## Notes
 

@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Monthly catch-up with Razor.
+- Monthly catch-up with [[Razor]].
 
 ## Key Discussion Points
 

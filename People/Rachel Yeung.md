@@ -10,7 +10,7 @@ last updated: 2026-07-27T00:00:00
 
 ## Overview
 
-- Involved in MISSY - flagged stakeholder management challenges (100+ people referenced across the project) and Rolls-Royce scope-creep concerns.
+- Involved in [[MISSY]] - flagged stakeholder management challenges (100+ people referenced across the project) and [[Rolls-Royce]] scope-creep concerns.
 
 ## Notes
 

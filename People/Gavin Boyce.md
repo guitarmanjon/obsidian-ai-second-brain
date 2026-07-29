@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- From the UoS Library and CMI. Interested in literature data extraction and inspired the sandbox-for-finetuning-LLMs idea. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]].
+- From the [[University of Sheffield|UoS]] Library and CMI. Interested in literature data extraction and inspired the sandbox-for-finetuning-[[LLM|LLMs]] idea. See [[2025-09-23 CMI AI Enabled Research]], [[2025-10-01 CMI and RSE]].
 
 ## Notes
 

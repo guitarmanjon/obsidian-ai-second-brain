@@ -11,12 +11,12 @@ tags:
 
 ## Purpose
 
-- Cross-organisation workshop on AI and data sharing practices, with presentations from MTC and NCC.
+- Cross-organisation workshop on [[AI]] and data sharing practices, with presentations from [[MTC]] and NCC.
 
 ## Key Discussion Points
 
 - Attended remotely.
-- MTC presentation: MTC appear to have fairly robust processes for data/AI projects, complemented by dedicated organisational roles (Chief Information Officer, Chief AI Technologist, etc.).
+- [[MTC]] presentation: [[MTC]] appear to have fairly robust processes for data/[[AI]] projects, complemented by dedicated organisational roles (Chief Information Officer, Chief [[AI]] Technologist, etc.).
 - NCC presentation: no further detail captured in notes.
 
 ## Decisions

@@ -10,9 +10,9 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, Rolls-Royce), [[Jonathan Butters]] (Data Scientist, Rolls-Royce), [[Stephen O'Brien]] (Data Scientist, Rolls-Royce), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
-- [[Jonathan Butters]] - lead Data Scientist at R-R who worked on this, has Thingworx experience.
-- R-R (Rolls-Royce): [[Jonathan Butters]], [[Neil Tatman]] (left at 14:30)
+- Round table and session speakers noted for follow-up: [[Richard Douglas]] (Technical Project Manager, [[Rolls-Royce]]), [[Jonathan Butters]] (Data Scientist, [[Rolls-Royce]]), [[Stephen O'Brien]] (Data Scientist, [[Rolls-Royce]]), [[Alex Smith]] (Edwards Vacuum), [[Mircea Oprisan]] (Mars), sponsor reps from PEAK and NetApp ([[Russ Segart]]).
+- [[Jonathan Butters]] - lead Data Scientist at [[Rolls-Royce|R-R]] who worked on this, has Thingworx experience.
+- [[Rolls-Royce|R-R]] ([[Rolls-Royce]]): [[Jonathan Butters]], [[Neil Tatman]] (left at 14:30)
 
 ## Notes
 

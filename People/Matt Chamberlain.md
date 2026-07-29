@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- R-R: [[Alison Gamble]], [[Matt Chamberlain]], [[Geraint Prisk]], [[Jamie McGourlay]], [[Harry Burroughes]] (left at 10:00)
+- [[Rolls-Royce|R-R]]: [[Alison Gamble]], [[Matt Chamberlain]], [[Geraint Prisk]], [[Jamie McGourlay]], [[Harry Burroughes]] (left at 10:00)
 
 ## Notes
 

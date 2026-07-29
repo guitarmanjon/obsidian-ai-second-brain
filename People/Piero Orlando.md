@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Piero Orlando]] - Siemens, works with Alastair, Aerospace and complex manufacturing
+- [[Piero Orlando]] - [[Siemens]], works with Alastair, Aerospace and complex manufacturing
 
 ## Notes
 

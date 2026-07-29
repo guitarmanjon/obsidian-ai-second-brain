@@ -12,7 +12,7 @@ tags:
 
 ## Purpose
 
-- Catch up with [[Chaitanya Krishnakumar|Chaitanya]] on internet access and research areas for the Boeing KTP.
+- Catch up with [[Chaitanya Krishnakumar|Chaitanya]] on internet access and research areas for the [[Boeing]] KTP.
 
 ## Key Discussion Points
 
@@ -23,7 +23,7 @@ tags:
 	- Balluff CMTK into F+.
 	- IO-Link sensors - [[John Carmichael]].
 	- Dassault 3DX / Delmia - [[Thomas]] from Delmia.
-	- Boeing intern - Python script to interact with InfluxDB; OK to visit F2050 as a visitor.
+	- [[Boeing]] intern - Python script to interact with InfluxDB; OK to visit F2050 as a visitor.
 
 ## Decisions
 

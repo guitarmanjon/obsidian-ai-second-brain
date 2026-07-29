@@ -11,7 +11,7 @@ tags:
 
 ## Purpose
 
-- Joint meeting involving Siemens and Rolls-Royce (no further detail recorded).
+- Joint meeting involving [[Siemens]] and [[Rolls-Royce]] (no further detail recorded).
 
 ## Key Discussion Points
 

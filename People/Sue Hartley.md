@@ -9,7 +9,7 @@ last updated: 2026-07-25T00:00:00
 
 ## Overview
 
-- VP for Research at UoS. James was hoping to get her strategic investment support to help scale AI RSE capabilities across the University. See [[2026-01-08 CMI - AI for E&M Fortnightly]].
+- VP for Research at [[University of Sheffield|UoS]]. James was hoping to get her strategic investment support to help scale [[AI]] RSE capabilities across the University. See [[2026-01-08 CMI - AI for E&M Fortnightly]].
 
 ## Notes
 

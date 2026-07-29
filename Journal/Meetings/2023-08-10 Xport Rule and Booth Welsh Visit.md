@@ -27,10 +27,10 @@ tags:
   - Industry 4.0 / digital R&D work over the last 5 years.
     - BW have a number of case studies for digitalisation work.
     - "Environment 4.0" - a term coined by BW for their interoperability sell (word unclear, see note below).
-- AFRC - 73 assets connected, ranging from pillar drills to complex forges.
+- [[AFRC]] - 73 assets connected, ranging from pillar drills to complex forges.
   - Predator used for DAQ (data acquisition).
   - XR (Xport Rule) used for analytics.
-    - [[Anastasia]] (on [[R Ellis]]/[[M Ellis]]'s team, name unclear) leading analytics work at NMIS, but she is leaving in September.
+    - [[Anastasia]] (on [[R Ellis]]/[[M Ellis]]'s team, name unclear) leading analytics work at [[NMIS]], but she is leaving in September.
 - [[AG]] led a factory tour.
 - [[Iain Crosley|IC]] raised a question over software robustness.
   - Our published version is good enough for AMRC but not "battle-ready".

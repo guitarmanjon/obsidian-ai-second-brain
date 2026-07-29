@@ -19,7 +19,7 @@ tags:
 
 - No structural parts (aluminium in particular) can currently be recycled because of certification constraints.
 - Seat parts can be recycled - this is the target product identified by [[AB]] (Andy B).
-- [[Chris Taylor|CT]] not sure about a physical demo due to a £100k cap on TMG contribution; a CAD/CAM demonstrator might be more feasible and a good demo.
+- [[Chris Taylor|CT]] not sure about a physical demo due to a £100k cap on TMG contribution; a CAD/[[CAM]] demonstrator might be more feasible and a good demo.
 - Lime Centre (Brunel) is looking at recycling of metallic materials in aerospace.
 - [[AB]]: additive manufacturing is very un-environmentally friendly and energy expensive.
 - Tool materials and fluids are of interest to [[Chris Taylor|CT]].

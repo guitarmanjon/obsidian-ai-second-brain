@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- [[Tim Mitchell]] (Account Manager for MT OEMs, Renishaw)
+- [[Tim Mitchell]] (Account Manager for MT OEMs, [[Renishaw]])
 - Little content was captured beyond attendee roles: [[Jonathan Archer]] (national sales manager) and [[Tim Mitchell]] (account manager for MT OEMs).
 
 ## Notes

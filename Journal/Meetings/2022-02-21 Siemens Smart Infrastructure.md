@@ -10,11 +10,11 @@ tags:
 - [[Rob Poyner]]
 - [[Raj Kandasamy]]
 - [[JS]]
-- [[Paul Smart]] (NAMRC)
+- [[Paul Smart]] ([[Nuclear AMRC|NAMRC]])
 
 ## Purpose
 
-- Intros and overview of the Siemens Smart Infrastructure business area.
+- Intros and overview of the [[Siemens]] Smart Infrastructure business area.
 
 ## Key Discussion Points
 

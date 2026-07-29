@@ -10,7 +10,7 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Data-centric machining/analytics and machine learning contact (EngD, IDC). Involved across PM&C high-speed data capture, Fives Landis, Sandvik visits, CIRP conference work, DigitalCNC/Boeing demo, and the Autonomous Tool Room.
+- Data-centric machining/analytics and machine learning contact (EngD, IDC). Involved across PM&C high-speed data capture, Fives Landis, Sandvik visits, CIRP conference work, DigitalCNC/[[Boeing]] demo, and the Autonomous Tool Room.
 
 ## Notes
 

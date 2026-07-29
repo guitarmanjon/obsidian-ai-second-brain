@@ -10,7 +10,7 @@ last updated: 2026-07-23T00:00:00
 
 ## Overview
 
-- Rolls-Royce contact, connected via [[Heiko]] at CHESCO ([[2026-03-04 CHESCO Day 1]]).
+- [[Rolls-Royce]] contact, connected via [[Heiko]] at CHESCO ([[2026-03-04 CHESCO Day 1]]).
 
 ## Notes
 

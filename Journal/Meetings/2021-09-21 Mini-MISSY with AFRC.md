@@ -9,16 +9,16 @@ tags:
 
 - [[JS]]
 - [[RC]]
-- [[Andy Hamilton]] (AFRC)
-- [[Paul McHard]] (AFRC)
+- [[Andy Hamilton]] ([[AFRC]])
+- [[Paul McHard]] ([[AFRC]])
 
 ## Purpose
 
-- Discuss WP3 progress and explore further work on the Mini-MISSY project with AFRC.
+- Discuss WP3 progress and explore further work on the Mini-[[MISSY]] project with [[AFRC]].
 
 ## Key Discussion Points
 
-- WP3 discussion covered data sharing over Azure and the need to unify datasets between AMRC and AFRC.
+- WP3 discussion covered data sharing over [[Azure]] and the need to unify datasets between AMRC and [[AFRC]].
 - Dataset format proposed as JSON.
 - Agreed each side should try working with the other's datasets.
 - [[JS]] gave an overview of AMRC's desire/proposal to expand WP3 data analytics work.

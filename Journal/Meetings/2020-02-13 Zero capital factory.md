@@ -8,7 +8,7 @@ tags:
 ## Attendees
 
 - [[JS]]
-- [[Richard Millar]] (AFRC)
+- [[Richard Millar]] ([[AFRC]])
 
 ## Purpose
 

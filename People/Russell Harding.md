@@ -10,8 +10,8 @@ last updated: 2026-07-28T00:00:00
 
 ## Overview
 
-- Mills CNC: [[Kevin Gilbert]] (Managing Director), [[Russell Harding]] (Business Manager - covers S. Yorks, AMRC main contact)
-- [[Matt F]] - (Put Mills CNC / [[Kevin Gilbert]] / [[Russell Harding]] in touch with [[Chris Iveson|Chris]] and [[Robin]])
+- Mills [[CNC]]: [[Kevin Gilbert]] (Managing Director), [[Russell Harding]] (Business Manager - covers S. Yorks, AMRC main contact)
+- [[Matt F]] - (Put Mills [[CNC]] / [[Kevin Gilbert]] / [[Russell Harding]] in touch with [[Chris Iveson|Chris]] and [[Robin]])
 
 ## Notes
 

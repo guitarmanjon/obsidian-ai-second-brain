@@ -13,7 +13,7 @@ tags:
 
 ## Purpose
 
-- Planning session for the DC&AI Away Day.
+- Planning session for the DC&[[AI]] Away Day.
 
 ## Key Discussion Points
 

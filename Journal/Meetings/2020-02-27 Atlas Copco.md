@@ -21,7 +21,7 @@ tags:
   - Smart factory strategies.
   - Developing "citizen data scientists" - possibly working with Combient MIX.
   - Makino MP Max (machine) mentioned.
-  - Inspecting every part on CMM rather than sample inspection.
+  - Inspecting every part on [[CMM]] rather than sample inspection.
   - Open question raised on what Edwards actually want to learn from the data - lots of talk about connecting assets and capturing data, but the "why" wasn't always clear.
   - Serial number capture in assembly is an issue, due to the quantity of parts that need to be captured.
 

@@ -7,11 +7,11 @@ tags:
 
 ## Attendees
 
-- None recorded (personal idea note for potential IET TN events).
+- None recorded (personal idea note for potential [[IET]] TN events).
 
 ## Purpose
 
-- Personal notes on potential future IET Manufacturing TN event topics.
+- Personal notes on potential future [[IET]] Manufacturing TN event topics.
 
 ## Key Discussion Points
 
